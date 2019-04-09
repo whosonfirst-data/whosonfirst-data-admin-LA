@@ -1,0 +1,71 @@
+{
+  "id": 1327312751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.50341,19.6465,103.50341,19.6465",
+    "geom:latitude":19.6465,
+    "geom:longitude":103.50341,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Hok",
+    "gn:country_code":"LA",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664050,
+    "gn:latitude":19.6465,
+    "gn:longitude":103.50341,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban H\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban H\u00f4p",
+        "Ban H\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664050
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d64acfc2c27744d595fbfa3a6cd9b27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1327312751,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1327312751,
+    "wof:lastmodified":1537660623,
+    "wof:name":"Ban Hok",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.50341,
+    19.6465,
+    103.50341,
+    19.6465
+],
+  "geometry": {"coordinates":[103.50341,19.6465],"type":"Point"}
+}

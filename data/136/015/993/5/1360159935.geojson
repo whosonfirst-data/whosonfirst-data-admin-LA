@@ -1,0 +1,70 @@
+{
+  "id": 1360159935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9342,15.67257,105.9342,15.67257",
+    "geom:latitude":15.67257,
+    "geom:longitude":105.9342,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Bangkha",
+    "gn:country_code":"LA",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664939,
+    "gn:latitude":15.67257,
+    "gn:longitude":105.9342,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Bangkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bangkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664939
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"89257586f6c7edf3a2e94aca458979eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029441,
+            "locality_id":1360159935,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1360159935,
+    "wof:lastmodified":1537660676,
+    "wof:name":"Ban Bangkha",
+    "wof:parent_id":1092029441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9342,
+    15.67257,
+    105.9342,
+    15.67257
+],
+  "geometry": {"coordinates":[105.9342,15.67257],"type":"Point"}
+}

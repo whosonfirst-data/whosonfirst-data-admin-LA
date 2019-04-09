@@ -1,0 +1,380 @@
+{
+  "id": 890443897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13503,19.88601,102.13503,19.88601",
+    "geom:latitude":19.88601,
+    "geom:longitude":102.13503,
+    "gn:country":"LA",
+    "gn:fcode":"PPLA",
+    "gn:pop":47378,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u063a \u0628\u0631\u0627\u0628\u0627\u0646\u063a"
+    ],
+    "name:arm_x_preferred":[
+        "\u053c\u0578\u0582\u0561\u0576\u0563\u057a\u056d\u0561\u0562\u0561\u0576\u0563"
+    ],
+    "name:baq_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09af\u09bc\u09be\u0982 \u09aa\u09cd\u09b0\u09be\u09ac\u09be\u0982"
+    ],
+    "name:bre_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u043f\u0440\u0430\u0431\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:chi_x_preferred":[
+        "\u7405\u52c3\u62c9\u90a6"
+    ],
+    "name:chv_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433-\u041f\u0440\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:cze_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:dan_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:deu_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:dut_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:eng_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:eng_x_variant":[
+        "Louangphabang"
+    ],
+    "name:epo_x_preferred":[
+        "Luangprabango"
+    ],
+    "name:est_x_preferred":[
+        "Louangphabang"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0622\u0646\u06af \u067e\u0631\u0627\u0628\u0627\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Louangphabang"
+    ],
+    "name:fra_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:fre_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10e3\u10d0\u10dc\u10d2\u10de\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba \u03a0\u03c1\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac1\u0a86\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0aac\u0abe\u0a82\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05e0\u05d2 \u05e4\u05e8\u05d1\u05d0\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0906\u0902\u0917 \u092a\u094d\u0930\u093e\u092c\u093e\u0902\u0917"
+    ],
+    "name:hrv_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:hun_x_preferred":[
+        "Luangprabang"
+    ],
+    "name:ice_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:ind_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:ita_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30a2\u30f3\u30d1\u30d0\u30fc\u30f3\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cc1\u0cb5\u0cbe\u0c82\u0c97\u0ccd \u0caa\u0ccd\u0cb0\u0cac\u0cbe\u0c82\u0c97\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10d0\u10dc\u10d2\u10de\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc559\ud504\ub77c\ubc29"
+    ],
+    "name:lao_x_preferred":[
+        "\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87"
+    ],
+    "name:lao_x_variant":[
+        "\u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0eab\u0ebc\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87"
+    ],
+    "name:lav_x_preferred":[
+        "Luanpabana"
+    ],
+    "name:lit_x_preferred":[
+        "Luangprabangas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d41\u0d35\u0d3e\u0d19\u0d4d \u0d2a\u0d4d\u0d30\u0d2c\u0d3e\u0d19\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0941\u0906\u0902\u0917 \u092a\u094d\u0930\u092c\u093e\u0902\u0917"
+    ],
+    "name:may_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:mon_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433 \u041f\u0440\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:nld_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:nob_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:oci_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a32\u0a41\u0a06\u0a02\u0a17 \u0a2a\u0a30\u0a3e\u0a2c\u0a3e\u0a02\u0a17"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0648\u0622\u0646\u06af \u067e\u0631\u0627\u0628\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Louangphrabang"
+    ],
+    "name:por_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:rum_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:sco_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc5\u0dd4\u0dc0\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db6\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433 \u041f\u0440\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Louang Prabang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc1\u0b86\u0b99\u0bcd \u0baa\u0bbf\u0bb1\u0baa\u0bbe\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c41\u0c06\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c2d\u0c3e\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e25\u0e27\u0e07\u0e1e\u0e23\u0e30\u0e1a\u0e32\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433-\u041f\u0440\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Luang Prabang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u06af \u067e\u0631\u0627\u0628\u0627\u0646\u06af"
+    ],
+    "name:uzb_x_preferred":[
+        "Luangprabang"
+    ],
+    "name:vie_x_preferred":[
+        "Luangprabang"
+    ],
+    "name:war_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:yue_x_preferred":[
+        "\u9f8d\u5e15\u90a6"
+    ],
+    "name:zho_x_preferred":[
+        "\u7405\u52c3\u62c9\u90a6"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Laos",
+    "ne:ADM0_A3":"LAO",
+    "ne:ADM1NAME":"Louangphrabang",
+    "ne:ADMIN1_COD":17,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":1655559,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Louangphrabang",
+    "ne:GN_POP":47378,
+    "ne:GTOPO30":315.0,
+    "ne:ISO_A2":"LA",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":19.884534,
+    "ne:LONGITUDE":102.14161,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Louangphrabang",
+    "ne:MAX_AREAKM":31.0,
+    "ne:MAX_AREAMI":12.0,
+    "ne:MAX_BBXMAX":102.175,
+    "ne:MAX_BBXMIN":102.091667,
+    "ne:MAX_BBYMAX":19.916667,
+    "ne:MAX_BBYMIN":19.85,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":45.0,
+    "ne:MAX_PERMI":28.0,
+    "ne:MAX_POP10":107142,
+    "ne:MAX_POP20":107142,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":102.132675,
+    "ne:MEAN_BBYC":19.882018,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":31.0,
+    "ne:MIN_AREAMI":12.0,
+    "ne:MIN_BBXMAX":102.175,
+    "ne:MIN_BBXMIN":102.091667,
+    "ne:MIN_BBYMAX":19.916667,
+    "ne:MIN_BBYMIN":19.85,
+    "ne:MIN_PERKM":45.0,
+    "ne:MIN_PERMI":28.0,
+    "ne:NAME":"Louangphrabang",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Louangphrabang",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":107142,
+    "ne:POP_MIN":47378,
+    "ne:POP_OTHER":107142,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Laos",
+    "ne:SOV_A3":"LAO",
+    "ne:TIMEZONE":"Asia/Vientiane",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Louangphabang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:latitude":"19.893055555",
+    "wd:longitude":"102.138055555",
+    "wd:wordcount":2503,
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655559,
+        "gp:id":1140550,
+        "qs:id":1032161,
+        "wd:id":"Q190165",
+        "wk:page":"Luang Prabang"
+    },
+    "wof:country":"LA",
+    "wof:created":1469052442,
+    "wof:geomhash":"4d2e00a50362f449674b6c5f494a0e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":890443897,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":890443897,
+    "wof:lastmodified":1527787070,
+    "wof:name":"Louangphabang",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:population":47378,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13503,
+    19.88601,
+    102.13503,
+    19.88601
+],
+  "geometry": {"coordinates":[102.13503,19.88601],"type":"Point"}
+}

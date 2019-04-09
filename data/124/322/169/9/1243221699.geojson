@@ -1,0 +1,70 @@
+{
+  "id": 1243221699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.74409,17.9219,102.74409,17.9219",
+    "geom:latitude":17.9219,
+    "geom:longitude":102.74409,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Khamchaleun",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233125,
+    "gn:latitude":17.9219,
+    "gn:longitude":102.74409,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Khamchaleun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khamchaleun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092026285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233125
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0a8caf2871182269d6a5734fb8fde1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026285,
+            "locality_id":1243221699,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1243221699,
+    "wof:lastmodified":1537660937,
+    "wof:name":"Ban Khamchaleun",
+    "wof:parent_id":1092026285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.74409,
+    17.9219,
+    102.74409,
+    17.9219
+],
+  "geometry": {"coordinates":[102.74409,17.9219],"type":"Point"}
+}

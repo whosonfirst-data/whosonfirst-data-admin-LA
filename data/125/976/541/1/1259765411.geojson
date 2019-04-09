@@ -1,0 +1,70 @@
+{
+  "id": 1259765411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21918,20.53614,101.21918,20.53614",
+    "geom:latitude":20.53614,
+    "geom:longitude":101.21918,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tanleu",
+    "gn:country_code":"LA",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956304,
+    "gn:latitude":20.53614,
+    "gn:longitude":101.21918,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Tanleu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tanleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956304
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3da4229de8191fc85b13ede9448e1bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1259765411,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1259765411,
+    "wof:lastmodified":1537660817,
+    "wof:name":"Ban Tanleu",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21918,
+    20.53614,
+    101.21918,
+    20.53614
+],
+  "geometry": {"coordinates":[101.21917999999999,20.53614],"type":"Point"}
+}

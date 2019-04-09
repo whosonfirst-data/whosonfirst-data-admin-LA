@@ -1,0 +1,70 @@
+{
+  "id": 1277133703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31193,15.55713,107.31193,15.55713",
+    "geom:latitude":15.55713,
+    "geom:longitude":107.31193,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Puay-O-Kang",
+    "gn:country_code":"LA",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200469,
+    "gn:latitude":15.55713,
+    "gn:longitude":107.31193,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Puay-O-Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Puay-O-Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200469
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"35e6d59feceb74620c34ce70624d505b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1277133703,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1277133703,
+    "wof:lastmodified":1537660859,
+    "wof:name":"Ban Puay-O-Kang",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31193,
+    15.55713,
+    107.31193,
+    15.55713
+],
+  "geometry": {"coordinates":[107.31193,15.55713],"type":"Point"}
+}

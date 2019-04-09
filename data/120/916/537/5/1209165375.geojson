@@ -1,0 +1,65 @@
+{
+  "id": 1209165375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70068,18.92666,103.70068,18.92666",
+    "geom:latitude":18.92666,
+    "geom:longitude":103.70068,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Khonxana",
+    "gn:country_code":"LA",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662912,
+    "gn:latitude":18.92666,
+    "gn:longitude":103.70068,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Khonxana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khone Xa Na",
+        "Ban Khonxana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662912
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cf32a8fab867f9873c53fa5110de46c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209165375
+        }
+    ],
+    "wof:id":1209165375,
+    "wof:lastmodified":1537660549,
+    "wof:name":"Ban Khonxana",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70068,
+    18.92666,
+    103.70068,
+    18.92666
+],
+  "geometry": {"coordinates":[103.70068000000001,18.92666],"type":"Point"}
+}

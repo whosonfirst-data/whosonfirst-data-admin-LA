@@ -1,0 +1,71 @@
+{
+  "id": 1343979319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.99233,20.10682,101.99233,20.10682",
+    "geom:latitude":20.10682,
+    "geom:longitude":101.99233,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Chomhat",
+    "gn:country_code":"LA",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664694,
+    "gn:latitude":20.10682,
+    "gn:longitude":101.99233,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chomhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Tiom Houat",
+        "Ban Chomhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664694
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bc4feae8fdc01f70753e6edd14849bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1343979319,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1343979319,
+    "wof:lastmodified":1537660662,
+    "wof:name":"Ban Chomhat",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.99233,
+    20.10682000000001,
+    101.99233,
+    20.10682000000001
+],
+  "geometry": {"coordinates":[101.99233,20.10682000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209501269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.59113,18.93477,101.59113,18.93477",
+    "geom:latitude":18.93477,
+    "geom:longitude":101.59113,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Namngiao",
+    "gn:country_code":"LA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221766,
+    "gn:latitude":18.93477,
+    "gn:longitude":101.59113,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Namngiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namngiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221766
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a24defe2f1d806efdde818fa846d434b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209501269
+        }
+    ],
+    "wof:id":1209501269,
+    "wof:lastmodified":1537660890,
+    "wof:name":"Ban Namngiao",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.59113,
+    18.93477,
+    101.59113,
+    18.93477
+],
+  "geometry": {"coordinates":[101.59113000000001,18.93477],"type":"Point"}
+}

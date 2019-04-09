@@ -1,0 +1,68 @@
+{
+  "id": 1309880189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.54486,16.27565,106.54486,16.27565",
+    "geom:latitude":16.27565,
+    "geom:longitude":106.54486,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Ala",
+    "gn:country_code":"LA",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236825,
+    "gn:latitude":16.27565,
+    "gn:longitude":106.54486,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236825
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2307aad8658cb69f30c7dd5e4c2eadec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1309880189,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1309880189,
+    "wof:lastmodified":1537660970,
+    "wof:name":"Ban Ala",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.54486,
+    16.27565,
+    106.54486,
+    16.27565
+],
+  "geometry": {"coordinates":[106.54486,16.27565],"type":"Point"}
+}

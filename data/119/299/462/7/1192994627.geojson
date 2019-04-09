@@ -1,0 +1,73 @@
+{
+  "id": 1192994627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.31601,19.61169,102.31601,19.61169",
+    "geom:latitude":19.61169,
+    "geom:longitude":102.31601,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sentouany",
+    "gn:country_code":"LA",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659293,
+    "gn:latitude":19.61169,
+    "gn:longitude":102.31601,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sentouany",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Sentouany"
+    ],
+    "name:und_x_variant":[
+        "Ban S\u00e8n Louang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659293
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e90ee28766c52d3c0e1b5c5b83ef205a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1192994627,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1192994627,
+    "wof:lastmodified":1537660344,
+    "wof:name":"Ban Sentouany",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.31601,
+    19.61169,
+    102.31601,
+    19.61169
+],
+  "geometry": {"coordinates":[102.31601000000001,19.61169],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209724611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43747,14.33082,105.43747,14.33082",
+    "geom:latitude":14.33082,
+    "geom:longitude":105.43747,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Soyut",
+    "gn:country_code":"LA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202504,
+    "gn:latitude":14.33082,
+    "gn:longitude":105.43747,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Soyut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Soyut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202504
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f827429dcc3662bfbf1007bbe956edf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1209724611,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1209724611,
+    "wof:lastmodified":1537660872,
+    "wof:name":"Ban Soyut",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43747,
+    14.33082,
+    105.43747,
+    14.33082
+],
+  "geometry": {"coordinates":[105.43747,14.33082],"type":"Point"}
+}

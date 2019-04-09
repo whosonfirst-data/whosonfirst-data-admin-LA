@@ -1,0 +1,70 @@
+{
+  "id": 1260053245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67071,17.42049,105.67071,17.42049",
+    "geom:latitude":17.42049,
+    "geom:longitude":105.67071,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kang",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663395,
+    "gn:latitude":17.42049,
+    "gn:longitude":105.67071,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663395
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"001860102e5de2d00ecef01e91ced9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1260053245,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1260053245,
+    "wof:lastmodified":1537660577,
+    "wof:name":"Ban Kang",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67071,
+    17.42049,
+    105.67071,
+    17.42049
+],
+  "geometry": {"coordinates":[105.67071,17.42049],"type":"Point"}
+}

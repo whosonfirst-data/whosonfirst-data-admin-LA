@@ -1,0 +1,70 @@
+{
+  "id": 1226016335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.59761,19.47008,102.59761,19.47008",
+    "geom:latitude":19.47008,
+    "geom:longitude":102.59761,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phouviang-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1953182,
+    "gn:latitude":19.47008,
+    "gn:longitude":102.59761,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phouviang-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phouviang-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953182
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8792d8050f5b7122a9ddc865d9a66cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1226016335,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226016335,
+    "wof:lastmodified":1537660734,
+    "wof:name":"Ban Phouviang-Noy",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.59761,
+    19.47008,
+    102.59761,
+    19.47008
+],
+  "geometry": {"coordinates":[102.59761,19.47008],"type":"Point"}
+}

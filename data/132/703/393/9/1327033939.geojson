@@ -1,0 +1,71 @@
+{
+  "id": 1327033939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.07727,15.24515,107.07727,15.24515",
+    "geom:latitude":15.24515,
+    "geom:longitude":107.07727,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Dakpok",
+    "gn:country_code":"LA",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664631,
+    "gn:latitude":15.24515,
+    "gn:longitude":107.07727,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dakpok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pok",
+        "Ban Dakpok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664631
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"05978d7a690f5f48b510b9705b7c0b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1327033939,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1327033939,
+    "wof:lastmodified":1537660658,
+    "wof:name":"Ban Dakpok",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.07727,
+    15.24515,
+    107.07727,
+    15.24515
+],
+  "geometry": {"coordinates":[107.07727,15.24515],"type":"Point"}
+}

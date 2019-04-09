@@ -1,0 +1,70 @@
+{
+  "id": 1327316579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80939,16.99507,104.80939,16.99507",
+    "geom:latitude":16.99507,
+    "geom:longitude":104.80939,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phakphua",
+    "gn:country_code":"LA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660237,
+    "gn:latitude":16.99507,
+    "gn:longitude":104.80939,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phakphua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phakphua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660237
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"048296ed95c870ed6ae1fdf9687f39c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1327316579,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1327316579,
+    "wof:lastmodified":1537660396,
+    "wof:name":"Ban Phakphua",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80939,
+    16.99507,
+    104.80939,
+    16.99507
+],
+  "geometry": {"coordinates":[104.80938999999999,16.99507],"type":"Point"}
+}

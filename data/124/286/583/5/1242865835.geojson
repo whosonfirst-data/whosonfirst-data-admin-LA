@@ -1,0 +1,70 @@
+{
+  "id": 1242865835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88499,21.07621,101.88499,21.07621",
+    "geom:latitude":21.07621,
+    "geom:longitude":101.88499,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Houana",
+    "gn:country_code":"LA",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244067,
+    "gn:latitude":21.07621,
+    "gn:longitude":101.88499,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Houana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092031207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244067
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1a36ca8623c6158cfb7a14401a4da7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031207,
+            "locality_id":1242865835,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1242865835,
+    "wof:lastmodified":1537660979,
+    "wof:name":"Ban Houana",
+    "wof:parent_id":1092031207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88499,
+    21.07621,
+    101.88499,
+    21.07621
+],
+  "geometry": {"coordinates":[101.88499,21.07621],"type":"Point"}
+}

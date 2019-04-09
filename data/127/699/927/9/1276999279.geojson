@@ -1,0 +1,76 @@
+{
+  "id": 1276999279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.13796,15.12057,107.13796,15.12057",
+    "geom:latitude":15.12057,
+    "geom:longitude":107.13796,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Kong-Na-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662778,
+    "gn:latitude":15.12057,
+    "gn:longitude":107.13796,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kong-Na-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noi",
+        "Ban Kong-na Moy",
+        "Ban Cong Na Noi",
+        "Ban Kong-Na Noy",
+        "Ban Cong Na Nhai",
+        "Ban Kong Na",
+        "Ban Kong-Na-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662778
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6b01d61bf98cd8beab80bbc4d3724ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1276999279,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1276999279,
+    "wof:lastmodified":1537660541,
+    "wof:name":"Ban Kong-Na-Gnai",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.13796,
+    15.12057,
+    107.13796,
+    15.12057
+],
+  "geometry": {"coordinates":[107.13796000000001,15.12057],"type":"Point"}
+}

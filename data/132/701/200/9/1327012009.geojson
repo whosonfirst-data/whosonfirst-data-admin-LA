@@ -1,0 +1,74 @@
+{
+  "id": 1327012009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.22957,20.79235,101.22957,20.79235",
+    "geom:latitude":20.79235,
+    "geom:longitude":101.22957,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Namsing-Nay",
+    "gn:country_code":"LA",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661407,
+    "gn:latitude":20.79235,
+    "gn:longitude":101.22957,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Namsing-Nay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Namsing-Nay"
+    ],
+    "name:und_x_variant":[
+        "Ban Nam Sing Noi",
+        "Ban Namsing-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661407
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c93bf69050113c79b41efb4e07365e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1327012009,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1327012009,
+    "wof:lastmodified":1537660466,
+    "wof:name":"Ban Namsing-Nay",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.22957,
+    20.79235,
+    101.22957,
+    20.79235
+],
+  "geometry": {"coordinates":[101.22957,20.79235],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226711783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21482,16.68792,106.21482,16.68792",
+    "geom:latitude":16.68792,
+    "geom:longitude":106.21482,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Sopnam",
+    "gn:country_code":"LA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659094,
+    "gn:latitude":16.68792,
+    "gn:longitude":106.21482,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00f4pnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4pnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659094
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bbe3ac0a40a9740f7619bfd33836ecc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1226711783,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226711783,
+    "wof:lastmodified":1537660333,
+    "wof:name":"Ban Sopnam",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21482,
+    16.68792,
+    106.21482,
+    16.68792
+],
+  "geometry": {"coordinates":[106.21482,16.68792],"type":"Point"}
+}

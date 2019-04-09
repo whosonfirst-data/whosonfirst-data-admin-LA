@@ -1,0 +1,70 @@
+{
+  "id": 1243530289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.33327,21.29171,102.33327,21.29171",
+    "geom:latitude":21.29171,
+    "geom:longitude":102.33327,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Mokgnom",
+    "gn:country_code":"LA",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954941,
+    "gn:latitude":21.29171,
+    "gn:longitude":102.33327,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4kgn\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kgn\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954941
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3372003059016a563436efce2480a350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1243530289,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243530289,
+    "wof:lastmodified":1537660782,
+    "wof:name":"Ban Mokgnom",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33327,
+    21.29171,
+    102.33327,
+    21.29171
+],
+  "geometry": {"coordinates":[102.33327,21.29171],"type":"Point"}
+}

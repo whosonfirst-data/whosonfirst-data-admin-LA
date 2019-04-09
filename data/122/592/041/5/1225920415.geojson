@@ -1,0 +1,70 @@
+{
+  "id": 1225920415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01512,20.3161,103.01512,20.3161",
+    "geom:latitude":20.3161,
+    "geom:longitude":103.01512,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phoukan",
+    "gn:country_code":"LA",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956814,
+    "gn:latitude":20.3161,
+    "gn:longitude":103.01512,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phoukan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoukan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956814
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d6f1622486e4b3182efa691f7504988e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1225920415,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1225920415,
+    "wof:lastmodified":1537660830,
+    "wof:name":"Ban Phoukan",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01512,
+    20.3161,
+    103.01512,
+    20.3161
+],
+  "geometry": {"coordinates":[103.01512,20.3161],"type":"Point"}
+}

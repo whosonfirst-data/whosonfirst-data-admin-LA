@@ -1,0 +1,70 @@
+{
+  "id": 1260048737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3501,20.75729,100.3501,20.75729",
+    "geom:latitude":20.75729,
+    "geom:longitude":100.3501,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Xiang",
+    "gn:country_code":"LA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1906970,
+    "gn:latitude":20.75729,
+    "gn:longitude":100.3501,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Xiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1906970
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c12153b37e4030028a8af174400fb164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1260048737,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1260048737,
+    "wof:lastmodified":1537660689,
+    "wof:name":"Ban Xiang",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3501,
+    20.75729,
+    100.3501,
+    20.75729
+],
+  "geometry": {"coordinates":[100.3501,20.75729],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242988401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.93434,14.8132,106.93434,14.8132",
+    "geom:latitude":14.8132,
+    "geom:longitude":106.93434,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Fangdeng",
+    "gn:country_code":"LA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1664334,
+    "gn:latitude":14.8132,
+    "gn:longitude":106.93434,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Fangd\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phen Deng",
+        "Muang Xais\u00e9ttha",
+        "Ban Fangd\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664334
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4ccfe81cd219e2b2e76496a9556ff63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029865,
+            "locality_id":1242988401,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1242988401,
+    "wof:lastmodified":1537660639,
+    "wof:name":"Ban Fangdeng",
+    "wof:parent_id":1092029865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.93434,
+    14.8132,
+    106.93434,
+    14.8132
+],
+  "geometry": {"coordinates":[106.93434000000001,14.8132],"type":"Point"}
+}

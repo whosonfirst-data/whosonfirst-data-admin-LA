@@ -1,0 +1,70 @@
+{
+  "id": 1259649259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52298,15.88696,106.52298,15.88696",
+    "geom:latitude":15.88696,
+    "geom:longitude":106.52298,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tang-Um-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658879,
+    "gn:latitude":15.88696,
+    "gn:longitude":106.52298,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Tang-Um-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tang-Um-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658879
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c5e20fe8d45cbaa4319a684d244e2e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1259649259,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259649259,
+    "wof:lastmodified":1537660321,
+    "wof:name":"Ban Tang-Um-Noy",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52298,
+    15.88696,
+    106.52298,
+    15.88696
+],
+  "geometry": {"coordinates":[106.52298,15.88696],"type":"Point"}
+}

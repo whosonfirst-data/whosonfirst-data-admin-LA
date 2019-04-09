@@ -1,0 +1,70 @@
+{
+  "id": 1259846165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45659,19.30128,102.45659,19.30128",
+    "geom:latitude":19.30128,
+    "geom:longitude":102.45659,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phangou",
+    "gn:country_code":"LA",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11227602,
+    "gn:latitude":19.30128,
+    "gn:longitude":102.45659,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phangou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227602
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6e4447fe5658259a8ae6999a54f4291a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1259846165,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259846165,
+    "wof:lastmodified":1537660909,
+    "wof:name":"Ban Phangou",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45659,
+    19.30128,
+    102.45659,
+    19.30128
+],
+  "geometry": {"coordinates":[102.45659000000001,19.30128],"type":"Point"}
+}

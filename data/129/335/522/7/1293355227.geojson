@@ -1,0 +1,70 @@
+{
+  "id": 1293355227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67596,16.26938,105.67596,16.26938",
+    "geom:latitude":16.26938,
+    "geom:longitude":105.67596,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kalong-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11222513,
+    "gn:latitude":16.26938,
+    "gn:longitude":105.67596,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kalong-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kalong-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222513
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"de3e8a303310071d7bb5193641893346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1293355227,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293355227,
+    "wof:lastmodified":1537660898,
+    "wof:name":"Ban Kalong-Tai",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67596,
+    16.26938,
+    105.67596,
+    16.26938
+],
+  "geometry": {"coordinates":[105.67596,16.26938],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326703371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95616,17.27529,104.95616,17.27529",
+    "geom:latitude":17.27529,
+    "geom:longitude":104.95616,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Hongthoy",
+    "gn:country_code":"LA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234324,
+    "gn:latitude":17.27529,
+    "gn:longitude":104.95616,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Hongthoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hongthoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234324
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b6c508a32986e6812b7b73920f74546a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1326703371,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1326703371,
+    "wof:lastmodified":1537660946,
+    "wof:name":"Ban Hongthoy",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95616,
+    17.27529,
+    104.95616,
+    17.27529
+],
+  "geometry": {"coordinates":[104.95616,17.27529],"type":"Point"}
+}

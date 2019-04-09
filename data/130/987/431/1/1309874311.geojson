@@ -1,0 +1,70 @@
+{
+  "id": 1309874311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81103,18.35155,103.81103,18.35155",
+    "geom:latitude":18.35155,
+    "geom:longitude":103.81103,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban He",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11232297,
+    "gn:latitude":18.35155,
+    "gn:longitude":103.81103,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban H\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban H\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092028315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232297
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"57a0011825de8b72f5143d989cb00489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028315,
+            "locality_id":1309874311,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1309874311,
+    "wof:lastmodified":1537660926,
+    "wof:name":"Ban He",
+    "wof:parent_id":1092028315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81103,
+    18.35155,
+    103.81103,
+    18.35155
+],
+  "geometry": {"coordinates":[103.81103,18.35155],"type":"Point"}
+}

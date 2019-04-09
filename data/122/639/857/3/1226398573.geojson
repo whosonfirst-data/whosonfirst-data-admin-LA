@@ -1,0 +1,71 @@
+{
+  "id": 1226398573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90963,18.36929,104.90963,18.36929",
+    "geom:latitude":18.36929,
+    "geom:longitude":104.90963,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Soppong",
+    "gn:country_code":"LA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659077,
+    "gn:latitude":18.36929,
+    "gn:longitude":104.90963,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00f4pp\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sop Pung",
+        "Ban S\u00f4pp\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659077
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"04e1e1d3ab535c94422585bd09398cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1226398573,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1226398573,
+    "wof:lastmodified":1537660333,
+    "wof:name":"Ban Soppong",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90963,
+    18.36929,
+    104.90963,
+    18.36929
+],
+  "geometry": {"coordinates":[104.90963000000001,18.36929],"type":"Point"}
+}

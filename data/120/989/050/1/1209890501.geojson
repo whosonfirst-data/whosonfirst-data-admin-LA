@@ -1,0 +1,72 @@
+{
+  "id": 1209890501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.37617,16.3876,105.37617,16.3876",
+    "geom:latitude":16.3876,
+    "geom:longitude":105.37617,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Bungxang",
+    "gn:country_code":"LA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664784,
+    "gn:latitude":16.3876,
+    "gn:longitude":105.37617,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Bungxang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boun Sang",
+        "Bungxang",
+        "Ban Bungxang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664784
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"34afaa8c3ffc6e0eaf4991798b55075c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1209890501,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1209890501,
+    "wof:lastmodified":1537660667,
+    "wof:name":"Ban Bungxang",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.37617,
+    16.3876,
+    105.37617,
+    16.3876
+],
+  "geometry": {"coordinates":[105.37617,16.3876],"type":"Point"}
+}

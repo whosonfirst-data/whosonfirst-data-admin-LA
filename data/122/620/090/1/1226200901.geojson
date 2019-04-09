@@ -1,0 +1,70 @@
+{
+  "id": 1226200901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.07158,20.16758,101.07158,20.16758",
+    "geom:latitude":20.16758,
+    "geom:longitude":101.07158,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Chomleng",
+    "gn:country_code":"LA",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953089,
+    "gn:latitude":20.16758,
+    "gn:longitude":101.07158,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Choml\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Choml\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092028549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953089
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9114071dc3b688b508b4056d950b7516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028549,
+            "locality_id":1226200901,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1226200901,
+    "wof:lastmodified":1537660730,
+    "wof:name":"Ban Chomleng",
+    "wof:parent_id":1092028549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.07158,
+    20.16758,
+    101.07158,
+    20.16758
+],
+  "geometry": {"coordinates":[101.07158,20.16758],"type":"Point"}
+}

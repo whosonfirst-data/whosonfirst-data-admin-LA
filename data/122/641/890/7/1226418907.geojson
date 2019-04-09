@@ -1,0 +1,70 @@
+{
+  "id": 1226418907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20709,17.94494,101.20709,17.94494",
+    "geom:latitude":17.94494,
+    "geom:longitude":101.20709,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Vangpa",
+    "gn:country_code":"LA",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941394,
+    "gn:latitude":17.94494,
+    "gn:longitude":101.20709,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Vangpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941394
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"443d1e7d33a4708e70cf3c671ad0e126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1226418907,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226418907,
+    "wof:lastmodified":1537660694,
+    "wof:name":"Ban Vangpa",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20709,
+    17.94494,
+    101.20709,
+    17.94494
+],
+  "geometry": {"coordinates":[101.20708999999999,17.94494],"type":"Point"}
+}

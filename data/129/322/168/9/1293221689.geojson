@@ -1,0 +1,70 @@
+{
+  "id": 1293221689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02263,20.881,102.02263,20.881",
+    "geom:latitude":20.881,
+    "geom:longitude":102.02263,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Tangngeuy",
+    "gn:country_code":"LA",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954661,
+    "gn:latitude":20.881,
+    "gn:longitude":102.02263,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tangngeuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tangngeuy (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954661
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"810aa6812578b166582fd87b318b8779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1293221689,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293221689,
+    "wof:lastmodified":1537660772,
+    "wof:name":"Ban Tangngeuy",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02263,
+    20.881,
+    102.02263,
+    20.881
+],
+  "geometry": {"coordinates":[102.02263000000001,20.881],"type":"Point"}
+}

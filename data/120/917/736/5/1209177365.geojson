@@ -1,0 +1,61 @@
+{
+  "id": 1209177365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.46667,21.11667,102.46667,21.11667",
+    "geom:latitude":21.11667,
+    "geom:longitude":102.46667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Rua Yong",
+    "gn:country_code":"LA",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659566,
+    "gn:latitude":21.11667,
+    "gn:longitude":102.46667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Rua Yong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659566
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dd40e562c89c88b5426d51e04e52f1d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209177365
+        }
+    ],
+    "wof:id":1209177365,
+    "wof:lastmodified":1536295376,
+    "wof:name":"Ban Rua Yong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.46667,
+    21.116670000000006,
+    102.46667,
+    21.116670000000006
+],
+  "geometry": {"coordinates":[102.46666999999999,21.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259854647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08406,15.44772,106.08406,15.44772",
+    "geom:latitude":15.44772,
+    "geom:longitude":106.08406,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nongkoung",
+    "gn:country_code":"LA",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660769,
+    "gn:latitude":15.44772,
+    "gn:longitude":106.08406,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongkoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongkoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660769
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"66391c874835edf91397255ddf7c9034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1259854647,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1259854647,
+    "wof:lastmodified":1537660428,
+    "wof:name":"Ban Nongkoung",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08406,
+    15.44772,
+    106.08406,
+    15.44772
+],
+  "geometry": {"coordinates":[106.08405999999999,15.44772],"type":"Point"}
+}

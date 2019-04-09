@@ -1,0 +1,67 @@
+{
+  "id": 1209598859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22706,19.64141,103.22706,19.64141",
+    "geom:latitude":19.64141,
+    "geom:longitude":103.22706,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Monkham",
+    "gn:country_code":"LA",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662248,
+    "gn:latitude":19.64141,
+    "gn:longitude":103.22706,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Monkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Monkham"
+    ],
+    "name:und_x_variant":[
+        "Ban Mon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662248
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"24f6f4ae74b820cbf66749c6d5fa3a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209598859
+        }
+    ],
+    "wof:id":1209598859,
+    "wof:lastmodified":1537660512,
+    "wof:name":"Ban Monkham",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22706,
+    19.64141,
+    103.22706,
+    19.64141
+],
+  "geometry": {"coordinates":[103.22705999999999,19.64141],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276405973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5869,21.34763,102.5869,21.34763",
+    "geom:latitude":21.34763,
+    "geom:longitude":102.5869,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Koksom",
+    "gn:country_code":"LA",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954748,
+    "gn:latitude":21.34763,
+    "gn:longitude":102.5869,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban K\u00f4ks\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00f4ks\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954748
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c5c312ac5f2e6f9d35a7aca4ec77a566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1276405973,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276405973,
+    "wof:lastmodified":1537660775,
+    "wof:name":"Ban Koksom",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5869,
+    21.34763,
+    102.5869,
+    21.34763
+],
+  "geometry": {"coordinates":[102.5869,21.34763],"type":"Point"}
+}

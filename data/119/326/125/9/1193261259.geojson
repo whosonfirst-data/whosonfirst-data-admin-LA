@@ -1,0 +1,71 @@
+{
+  "id": 1193261259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.60185,17.58371,105.60185,17.58371",
+    "geom:latitude":17.58371,
+    "geom:longitude":105.60185,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nathin",
+    "gn:country_code":"LA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661082,
+    "gn:latitude":17.58371,
+    "gn:longitude":105.60185,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nathin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Thinh",
+        "Ban Nathin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661082
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7a7ae6a8f4fe5763d02cb402f16b6eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":1193261259,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1193261259,
+    "wof:lastmodified":1537660448,
+    "wof:name":"Ban Nathin",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.60185,
+    17.58371,
+    105.60185,
+    17.58371
+],
+  "geometry": {"coordinates":[105.60185,17.58371],"type":"Point"}
+}

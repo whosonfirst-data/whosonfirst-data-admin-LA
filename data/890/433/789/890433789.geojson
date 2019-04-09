@@ -1,0 +1,228 @@
+{
+  "id": 890433789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.41302,20.27652,100.41302,20.27652",
+    "geom:latitude":20.27652,
+    "geom:longitude":100.41302,
+    "gn:country":"LA",
+    "gn:fcode":"PPLA",
+    "gn:pop":12500,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "name:chi_x_preferred":[
+        "\u6703\u6652"
+    ],
+    "name:cze_x_preferred":[
+        "Huay Xai"
+    ],
+    "name:dut_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:epo_x_preferred":[
+        "Ban Huajsai"
+    ],
+    "name:fra_x_preferred":[
+        "Houei Sai"
+    ],
+    "name:fre_x_preferred":[
+        "Houei Sai"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10e3\u10d0\u10d8\u10e1\u10d0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:ita_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30a4\u30b5\u30fc\u30a4\u90e1"
+    ],
+    "name:lao_x_preferred":[
+        "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0646 \u0647\u0648\u0627\u06cc\u0634\u0627\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u0439\u0441\u0430\u0439"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "name:unk_x_variant":[
+        "Van Houei Sai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646 \u06c1\u0648\u0648\u0627\u06d2 \u0633\u0627\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Huoixai"
+    ],
+    "name:war_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Laos",
+    "ne:ADM0_A3":"LAO",
+    "ne:ADM1NAME":"Bokeo",
+    "ne:ADMIN1_COD":22,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital round B. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":1663526,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Ban Houayxay",
+    "ne:GN_POP":0,
+    "ne:GTOPO30":345.0,
+    "ne:ISO_A2":"LA",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":20.2775,
+    "ne:LONGITUDE":100.412778,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Ban Houayxay",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Ban Houayxay",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":6347,
+    "ne:POP_MIN":6347,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Laos",
+    "ne:SOV_A3":"LAO",
+    "ne:TIMEZONE":"Asia/Vientiane",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Ban Houayxay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:latitude":"20.283333333",
+    "wd:longitude":"100.416666666",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663526,
+        "gp:id":1134065,
+        "qs:id":133887,
+        "qs_pg:id":1195603,
+        "wd:id":"Q717371",
+        "wk:page":"Ban Houayxay"
+    },
+    "wof:country":"LA",
+    "wof:created":1469051995,
+    "wof:geomhash":"3729b1332f56e88c3660858ce09bcc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":890433789,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":890433789,
+    "wof:lastmodified":1527792958,
+    "wof:name":"Ban Houayxay",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:population":12500,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.41302,
+    20.27652,
+    100.41302,
+    20.27652
+],
+  "geometry": {"coordinates":[100.41302,20.27652],"type":"Point"}
+}

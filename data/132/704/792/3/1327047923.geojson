@@ -1,0 +1,71 @@
+{
+  "id": 1327047923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6181,14.71986,106.6181,14.71986",
+    "geom:latitude":14.71986,
+    "geom:longitude":106.6181,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Cheuk",
+    "gn:country_code":"LA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664715,
+    "gn:latitude":14.71986,
+    "gn:longitude":106.6181,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Cheuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Chenk",
+        "Ban Cheuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092028807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664715
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8263813713ef19fec733450187c4c184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028807,
+            "locality_id":1327047923,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1327047923,
+    "wof:lastmodified":1537660664,
+    "wof:name":"Ban Cheuk",
+    "wof:parent_id":1092028807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6181,
+    14.71986,
+    106.6181,
+    14.71986
+],
+  "geometry": {"coordinates":[106.6181,14.71986],"type":"Point"}
+}

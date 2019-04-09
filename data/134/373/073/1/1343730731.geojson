@@ -1,0 +1,70 @@
+{
+  "id": 1343730731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.07449,18.28912,105.07449,18.28912",
+    "geom:latitude":18.28912,
+    "geom:longitude":105.07449,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nong-O",
+    "gn:country_code":"LA",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660735,
+    "gn:latitude":18.28912,
+    "gn:longitude":105.07449,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nong-O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nong-O"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660735
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"332c723bb421d6df8c2462e255a9fcb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1343730731,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1343730731,
+    "wof:lastmodified":1537660426,
+    "wof:name":"Ban Nong-O",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.07449,
+    18.28912,
+    105.07449,
+    18.28912
+],
+  "geometry": {"coordinates":[105.07449,18.28912],"type":"Point"}
+}

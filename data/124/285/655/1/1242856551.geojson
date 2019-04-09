@@ -1,0 +1,70 @@
+{
+  "id": 1242856551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18518,20.51766,101.18518,20.51766",
+    "geom:latitude":20.51766,
+    "geom:longitude":101.18518,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Khonthou",
+    "gn:country_code":"LA",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956318,
+    "gn:latitude":20.51766,
+    "gn:longitude":101.18518,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Khonthou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khonthou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956318
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c80990e3ef6dc83ef9637770672434c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1242856551,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1242856551,
+    "wof:lastmodified":1537660817,
+    "wof:name":"Ban Khonthou",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18518,
+    20.51766,
+    101.18518,
+    20.51766
+],
+  "geometry": {"coordinates":[101.18518,20.51766],"type":"Point"}
+}

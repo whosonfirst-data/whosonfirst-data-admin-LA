@@ -1,0 +1,70 @@
+{
+  "id": 1310266619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40969,16.34508,105.40969,16.34508",
+    "geom:latitude":16.34508,
+    "geom:longitude":105.40969,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Saat",
+    "gn:country_code":"LA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659562,
+    "gn:latitude":16.34508,
+    "gn:longitude":105.40969,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Saat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Saat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659562
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"15c889842e8f897db14d5dce8b97d2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1310266619,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310266619,
+    "wof:lastmodified":1537660359,
+    "wof:name":"Ban Saat",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40969,
+    16.34508,
+    105.40969,
+    16.34508
+],
+  "geometry": {"coordinates":[105.40969,16.34508],"type":"Point"}
+}

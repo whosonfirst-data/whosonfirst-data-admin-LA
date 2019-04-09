@@ -1,0 +1,70 @@
+{
+  "id": 1327481229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.14174,18.75862,102.14174,18.75862",
+    "geom:latitude":18.75862,
+    "geom:longitude":102.14174,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Pakmoua",
+    "gn:country_code":"LA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229568,
+    "gn:latitude":18.75862,
+    "gn:longitude":102.14174,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pakmoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pakmoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229568
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"320263103394e4843bb515b5442ab13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1327481229,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1327481229,
+    "wof:lastmodified":1537660914,
+    "wof:name":"Ban Pakmoua",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.14174,
+    18.75862,
+    102.14174,
+    18.75862
+],
+  "geometry": {"coordinates":[102.14174,18.75862],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1210025395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08689,14.73151,106.08689,14.73151",
+    "geom:latitude":14.73151,
+    "geom:longitude":106.08689,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Phapho",
+    "gn:country_code":"LA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660167,
+    "gn:latitude":14.73151,
+    "gn:longitude":106.08689,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phaph\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phaph\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660167
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"17cb4517ab095939887c1f0a7fb73a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1210025395,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1210025395,
+    "wof:lastmodified":1537660392,
+    "wof:name":"Ban Phapho",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08689,
+    14.73151,
+    106.08689,
+    14.73151
+],
+  "geometry": {"coordinates":[106.08689,14.73151],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344211465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92209,18.21438,101.92209,18.21438",
+    "geom:latitude":18.21438,
+    "geom:longitude":101.92209,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Naleng-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661667,
+    "gn:latitude":18.21438,
+    "gn:longitude":101.92209,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nal\u00e8ng-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nal\u00e8ng-Nua"
+    ],
+    "name:und_x_variant":[
+        "Ban Na-Ang",
+        "Ban Na Leng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661667
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ddd569ba1f06e26d78e0b4903274003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027485,
+            "locality_id":1344211465,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1344211465,
+    "wof:lastmodified":1537660480,
+    "wof:name":"Ban Naleng-Nua",
+    "wof:parent_id":1092027485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92209,
+    18.21438,
+    101.92209,
+    18.21438
+],
+  "geometry": {"coordinates":[101.92209,18.21438],"type":"Point"}
+}

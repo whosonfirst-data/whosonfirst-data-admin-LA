@@ -1,0 +1,71 @@
+{
+  "id": 1243519249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.19692,16.67126,106.19692,16.67126",
+    "geom:latitude":16.67126,
+    "geom:longitude":106.19692,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kenghouapa",
+    "gn:country_code":"LA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663271,
+    "gn:latitude":16.67126,
+    "gn:longitude":106.19692,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8nghouapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Keng Hoapa",
+        "Ban K\u00e8nghouapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663271
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"73c37430dc76fd2b559a0fd021ff84de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1243519249,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243519249,
+    "wof:lastmodified":1537660570,
+    "wof:name":"Ban Kenghouapa",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.19692,
+    16.67126,
+    106.19692,
+    16.67126
+],
+  "geometry": {"coordinates":[106.19692000000001,16.67126],"type":"Point"}
+}

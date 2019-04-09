@@ -1,0 +1,72 @@
+{
+  "id": 1327408381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.37967,16.63183,106.37967,16.63183",
+    "geom:latitude":16.63183,
+    "geom:longitude":106.37967,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Hangxeung",
+    "gn:country_code":"LA",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664202,
+    "gn:latitude":16.63183,
+    "gn:longitude":106.37967,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hangxeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Keng Luong",
+        "Ban Hang Seung",
+        "Ban Hangxeung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664202
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7a500650f5dadfac411b71a69e97920e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1327408381,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1327408381,
+    "wof:lastmodified":1537660632,
+    "wof:name":"Ban Hangxeung",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.37967,
+    16.63182999999999,
+    106.37967,
+    16.63182999999999
+],
+  "geometry": {"coordinates":[106.37967,16.63182999999999],"type":"Point"}
+}

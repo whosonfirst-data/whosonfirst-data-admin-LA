@@ -1,0 +1,66 @@
+{
+  "id": 1209422417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.03333,20.35,104.03333,20.35",
+    "geom:latitude":20.35,
+    "geom:longitude":104.03333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houei Nhak",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663506,
+    "gn:latitude":20.35,
+    "gn:longitude":104.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Houei Nhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei Nhok",
+        "Ban Houei Nhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663506
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c6dc0134af6f4efbef93f2c3b5443a53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209422417
+        }
+    ],
+    "wof:id":1209422417,
+    "wof:lastmodified":1537660583,
+    "wof:name":"Ban Houei Nhak",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.03333,
+    20.35,
+    104.03333,
+    20.35
+],
+  "geometry": {"coordinates":[104.03333000000001,20.35],"type":"Point"}
+}

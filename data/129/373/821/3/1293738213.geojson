@@ -1,0 +1,73 @@
+{
+  "id": 1293738213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.4587,19.20863,102.4587,19.20863",
+    "geom:latitude":19.20863,
+    "geom:longitude":102.4587,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Thamlek",
+    "gn:country_code":"LA",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658677,
+    "gn:latitude":19.20863,
+    "gn:longitude":102.4587,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thaml\u00e9k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thaml\u00e9k"
+    ],
+    "name:und_x_variant":[
+        "Ban Tham Leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658677
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c64ab6482e1eb5632f0b419d126e2f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1293738213,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293738213,
+    "wof:lastmodified":1537660309,
+    "wof:name":"Ban Thamlek",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.4587,
+    19.20863,
+    102.4587,
+    19.20863
+],
+  "geometry": {"coordinates":[102.45869999999999,19.20863],"type":"Point"}
+}

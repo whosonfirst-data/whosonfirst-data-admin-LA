@@ -1,0 +1,70 @@
+{
+  "id": 1276630255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6482,15.83852,105.6482,15.83852",
+    "geom:latitude":15.83852,
+    "geom:longitude":105.6482,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nondinxay",
+    "gn:country_code":"LA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101220,
+    "gn:latitude":15.83852,
+    "gn:longitude":105.6482,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Ban N\u00f4ndinxay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban N\u00f4ndinxay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101220
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fd98d566882735e28f7b116e3ee3b99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029135,
+            "locality_id":1276630255,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1276630255,
+    "wof:lastmodified":1537660844,
+    "wof:name":"Ban Nondinxay",
+    "wof:parent_id":1092029135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6482,
+    15.83852,
+    105.6482,
+    15.83852
+],
+  "geometry": {"coordinates":[105.6482,15.83852],"type":"Point"}
+}

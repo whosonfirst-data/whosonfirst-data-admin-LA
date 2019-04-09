@@ -1,0 +1,70 @@
+{
+  "id": 1243327137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34264,19.63411,102.34264,19.63411",
+    "geom:latitude":19.63411,
+    "geom:longitude":102.34264,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phakhok-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952448,
+    "gn:latitude":19.63411,
+    "gn:longitude":102.34264,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phakh\u00f4k-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phakh\u00f4k-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952448
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d18d57c475ca7362c5e2ec78c54d7445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1243327137,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1243327137,
+    "wof:lastmodified":1537660718,
+    "wof:name":"Ban Phakhok-Gnai",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34264,
+    19.63411,
+    102.34264,
+    19.63411
+],
+  "geometry": {"coordinates":[102.34264,19.63411],"type":"Point"}
+}

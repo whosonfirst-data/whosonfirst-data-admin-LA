@@ -1,0 +1,70 @@
+{
+  "id": 1293304375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84773,20.04522,103.84773,20.04522",
+    "geom:latitude":20.04522,
+    "geom:longitude":103.84773,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phakouang",
+    "gn:country_code":"LA",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660240,
+    "gn:latitude":20.04522,
+    "gn:longitude":103.84773,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phakouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phakouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660240
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9da96f0cd2bc087fcdb96866e2e86a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1293304375,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293304375,
+    "wof:lastmodified":1537660396,
+    "wof:name":"Ban Phakouang",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84773,
+    20.04522,
+    103.84773,
+    20.04522
+],
+  "geometry": {"coordinates":[103.84773,20.04522],"type":"Point"}
+}

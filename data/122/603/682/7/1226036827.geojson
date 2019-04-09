@@ -1,0 +1,67 @@
+{
+  "id": 1226036827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38333,20.14056,101.38333,20.14056",
+    "geom:latitude":20.14056,
+    "geom:longitude":101.38333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokpalai",
+    "gn:country_code":"LA",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951889,
+    "gn:latitude":20.14056,
+    "gn:longitude":101.38333,
+    "gn:modification_date":"2001-05-03",
+    "gn:name":"Ban M\u00f4kpalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951889
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3107577aa4d480f5589ea7cc888477a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1226036827,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1226036827,
+    "wof:lastmodified":1536737981,
+    "wof:name":"Ban Mokpalai",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38333,
+    20.14056,
+    101.38333,
+    20.14056
+],
+  "geometry": {"coordinates":[101.38333,20.14056],"type":"Point"}
+}

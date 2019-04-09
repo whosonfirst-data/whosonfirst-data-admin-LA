@@ -1,0 +1,64 @@
+{
+  "id": 1209197209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.82076,17.15432,104.82076,17.15432",
+    "geom:latitude":17.15432,
+    "geom:longitude":104.82076,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Songmuang-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659137,
+    "gn:latitude":17.15432,
+    "gn:longitude":104.82076,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Songmuang-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Songmuang-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659137
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bc4253eb8651e1253d55bd037fc9f3f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209197209
+        }
+    ],
+    "wof:id":1209197209,
+    "wof:lastmodified":1537660336,
+    "wof:name":"Ban Songmuang-Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.82076,
+    17.15432,
+    104.82076,
+    17.15432
+],
+  "geometry": {"coordinates":[104.82076000000001,17.15432],"type":"Point"}
+}

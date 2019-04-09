@@ -1,0 +1,70 @@
+{
+  "id": 1225836611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.44661,20.14648,101.44661,20.14648",
+    "geom:latitude":20.14648,
+    "geom:longitude":101.44661,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Nokmoua",
+    "gn:country_code":"LA",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951747,
+    "gn:latitude":20.14648,
+    "gn:longitude":101.44661,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Nokmoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nokmoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951747
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"345c757da4475811ef30777526321cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1225836611,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1225836611,
+    "wof:lastmodified":1537660707,
+    "wof:name":"Ban Nokmoua",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.44661,
+    20.14648,
+    101.44661,
+    20.14648
+],
+  "geometry": {"coordinates":[101.44661000000001,20.14648],"type":"Point"}
+}

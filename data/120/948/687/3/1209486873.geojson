@@ -1,0 +1,67 @@
+{
+  "id": 1209486873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.77887,21.00793,102.77887,21.00793",
+    "geom:latitude":21.00793,
+    "geom:longitude":102.77887,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Chomchiang-Kang",
+    "gn:country_code":"LA",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652436,
+    "gn:latitude":21.00793,
+    "gn:longitude":102.77887,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chomchiang-Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chomchiang-Kang"
+    ],
+    "name:und_x_variant":[
+        "Tiom Tieng Khang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652436
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"933207d2ca65bd376eb182a28bdd70d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209486873
+        }
+    ],
+    "wof:id":1209486873,
+    "wof:lastmodified":1537660195,
+    "wof:name":"Ban Chomchiang-Kang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.77887,
+    21.00793,
+    102.77887,
+    21.00793
+],
+  "geometry": {"coordinates":[102.77887,21.00793],"type":"Point"}
+}

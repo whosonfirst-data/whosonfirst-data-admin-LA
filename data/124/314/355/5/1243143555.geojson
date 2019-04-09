@@ -1,0 +1,72 @@
+{
+  "id": 1243143555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.82822,20.28232,102.82822,20.28232",
+    "geom:latitude":20.28232,
+    "geom:longitude":102.82822,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houaylonmat",
+    "gn:country_code":"LA",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663772,
+    "gn:latitude":20.28232,
+    "gn:longitude":102.82822,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houaylonmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houay Lone Mat",
+        "Ban Houei Lone Mut",
+        "Ban Houaylonmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663772
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"910f59e21da5ea1d78a0fcb8107fa60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1243143555,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1243143555,
+    "wof:lastmodified":1537660603,
+    "wof:name":"Ban Houaylonmat",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.82822,
+    20.28232,
+    102.82822,
+    20.28232
+],
+  "geometry": {"coordinates":[102.82822,20.28232],"type":"Point"}
+}

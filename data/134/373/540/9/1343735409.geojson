@@ -1,0 +1,71 @@
+{
+  "id": 1343735409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2809,17.26486,105.2809,17.26486",
+    "geom:latitude":17.26486,
+    "geom:longitude":105.2809,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Don",
+    "gn:country_code":"LA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664569,
+    "gn:latitude":17.26486,
+    "gn:longitude":105.2809,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Don",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Done",
+        "Ban Don"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664569
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ab66d9ce4ea7ffd23e2891351905e4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1343735409,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343735409,
+    "wof:lastmodified":1537660655,
+    "wof:name":"Ban Don",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2809,
+    17.26486,
+    105.2809,
+    17.26486
+],
+  "geometry": {"coordinates":[105.2809,17.26486],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259349059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90302,21.60131,101.90302,21.60131",
+    "geom:latitude":21.60131,
+    "geom:longitude":101.90302,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Bahin",
+    "gn:country_code":"LA",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664959,
+    "gn:latitude":21.60131,
+    "gn:longitude":101.90302,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Bahin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Bahin"
+    ],
+    "name:und_x_variant":[
+        "Ban Ba Hine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664959
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e7d43a973e6dda7faf0ffc8d8566b246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1259349059,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1259349059,
+    "wof:lastmodified":1537660676,
+    "wof:name":"Ban Bahin",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90302,
+    21.60131,
+    101.90302,
+    21.60131
+],
+  "geometry": {"coordinates":[101.90302,21.60131],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277143611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90654,18.6506,101.90654,18.6506",
+    "geom:latitude":18.6506,
+    "geom:longitude":101.90654,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Muangmun",
+    "gn:country_code":"LA",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222369,
+    "gn:latitude":18.6506,
+    "gn:longitude":101.90654,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Muangmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Muangmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222369
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"725e7f326b022de3a5b3ef31f1629dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027449,
+            "locality_id":1277143611,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1277143611,
+    "wof:lastmodified":1537660896,
+    "wof:name":"Ban Muangmun",
+    "wof:parent_id":1092027449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90654,
+    18.6506,
+    101.90654,
+    18.6506
+],
+  "geometry": {"coordinates":[101.90654000000001,18.6506],"type":"Point"}
+}

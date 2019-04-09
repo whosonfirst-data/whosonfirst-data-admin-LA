@@ -1,0 +1,71 @@
+{
+  "id": 1242836859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.77884,16.03521,106.77884,16.03521",
+    "geom:latitude":16.03521,
+    "geom:longitude":106.77884,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tayong",
+    "gn:country_code":"LA",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658777,
+    "gn:latitude":16.03521,
+    "gn:longitude":106.77884,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tay\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Te Yong",
+        "Ban Tay\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658777
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2f620fa0169f4b55c1c674d89ccb5d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1242836859,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242836859,
+    "wof:lastmodified":1537660315,
+    "wof:name":"Ban Tayong",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.77884,
+    16.03521,
+    106.77884,
+    16.03521
+],
+  "geometry": {"coordinates":[106.77884,16.03521],"type":"Point"}
+}

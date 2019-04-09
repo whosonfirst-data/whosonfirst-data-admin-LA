@@ -1,0 +1,70 @@
+{
+  "id": 1277138645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2128,16.358,106.2128,16.358",
+    "geom:latitude":16.358,
+    "geom:longitude":106.2128,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Lagnon",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956691,
+    "gn:latitude":16.358,
+    "gn:longitude":106.2128,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Lagnon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lagnon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956691
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d50055d0ad23c180aceb9e1a213e9f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1277138645,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1277138645,
+    "wof:lastmodified":1537660827,
+    "wof:name":"Ban Lagnon",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2128,
+    16.358,
+    106.2128,
+    16.358
+],
+  "geometry": {"coordinates":[106.2128,16.358],"type":"Point"}
+}

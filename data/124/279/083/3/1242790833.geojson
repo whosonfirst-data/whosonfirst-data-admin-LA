@@ -1,0 +1,71 @@
+{
+  "id": 1242790833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5827,15.40024,105.5827,15.40024",
+    "geom:latitude":15.40024,
+    "geom:longitude":105.5827,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Koum Noy",
+    "gn:country_code":"LA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662742,
+    "gn:latitude":15.40024,
+    "gn:longitude":105.5827,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Koum Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Koum Noi",
+        "Ban Koum Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662742
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"61475d0107f9760721a8302135ceae5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1242790833,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242790833,
+    "wof:lastmodified":1537660539,
+    "wof:name":"Ban Koum Noy",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5827,
+    15.40024,
+    105.5827,
+    15.40024
+],
+  "geometry": {"coordinates":[105.5827,15.40024],"type":"Point"}
+}

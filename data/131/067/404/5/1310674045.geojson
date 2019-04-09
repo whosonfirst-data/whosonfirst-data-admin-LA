@@ -1,0 +1,71 @@
+{
+  "id": 1310674045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59901,17.23468,105.59901,17.23468",
+    "geom:latitude":17.23468,
+    "geom:longitude":105.59901,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Poung-Ilang",
+    "gn:country_code":"LA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659627,
+    "gn:latitude":17.23468,
+    "gn:longitude":105.59901,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ban Poung-Ilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Phoung Lang",
+        "Ban Poung-Ilang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659627
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1d16f445e0573154bde56a5cc025f301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1310674045,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310674045,
+    "wof:lastmodified":1537660363,
+    "wof:name":"Ban Poung-Ilang",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59901,
+    17.23467999999999,
+    105.59901,
+    17.23467999999999
+],
+  "geometry": {"coordinates":[105.59901000000001,17.23467999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226415659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.12726,17.15485,106.12726,17.15485",
+    "geom:latitude":17.15485,
+    "geom:longitude":106.12726,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Tiye",
+    "gn:country_code":"LA",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658410,
+    "gn:latitude":17.15485,
+    "gn:longitude":106.12726,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658410
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fa0497b239858d01433b39d9d56e805b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1226415659,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226415659,
+    "wof:lastmodified":1537660294,
+    "wof:name":"Ban Tiye",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.12726,
+    17.15485,
+    106.12726,
+    17.15485
+],
+  "geometry": {"coordinates":[106.12726000000001,17.15485],"type":"Point"}
+}

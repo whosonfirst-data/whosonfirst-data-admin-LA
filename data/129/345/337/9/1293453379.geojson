@@ -1,0 +1,71 @@
+{
+  "id": 1293453379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63333,19.45,102.63333,19.45",
+    "geom:latitude":19.45,
+    "geom:longitude":102.63333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houay Say",
+    "gn:country_code":"LA",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663603,
+    "gn:latitude":19.45,
+    "gn:longitude":102.63333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Houay Say",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei Say",
+        "Ban Houay Say"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663603
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"af0e6d400b858ec8107656fe1600a955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1293453379,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293453379,
+    "wof:lastmodified":1537660590,
+    "wof:name":"Ban Houay Say",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63333,
+    19.45,
+    102.63333,
+    19.45
+],
+  "geometry": {"coordinates":[102.63333,19.45],"type":"Point"}
+}

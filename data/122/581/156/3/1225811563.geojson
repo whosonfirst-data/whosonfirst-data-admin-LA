@@ -1,0 +1,74 @@
+{
+  "id": 1225811563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55127,20.94423,102.55127,20.94423",
+    "geom:latitude":20.94423,
+    "geom:longitude":102.55127,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Viangxai",
+    "gn:country_code":"LA",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652802,
+    "gn:latitude":20.94423,
+    "gn:longitude":102.55127,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Viangxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Viangxai"
+    ],
+    "name:und_x_variant":[
+        "Tao Sai",
+        "Houay Min"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652802
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"55dcb37f2c7a47dd7e223434e4b23cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1225811563,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1225811563,
+    "wof:lastmodified":1537660198,
+    "wof:name":"Ban Viangxai",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55127,
+    20.94423,
+    102.55127,
+    20.94423
+],
+  "geometry": {"coordinates":[102.55127,20.94423],"type":"Point"}
+}

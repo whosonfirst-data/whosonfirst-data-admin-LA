@@ -1,0 +1,67 @@
+{
+  "id": 1243339391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25525,21.10232,102.25525,21.10232",
+    "geom:latitude":21.10232,
+    "geom:longitude":102.25525,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Pak Nam Noy",
+    "gn:country_code":"LA",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649246,
+    "gn:latitude":21.10232,
+    "gn:longitude":102.25525,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Pak Nam Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649246
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0bfa46d63eaf575cee7cc7b97a96b53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1243339391,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243339391,
+    "wof:lastmodified":1536959932,
+    "wof:name":"Pak Nam Noy",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25525,
+    21.10232,
+    102.25525,
+    21.10232
+],
+  "geometry": {"coordinates":[102.25525,21.10232],"type":"Point"}
+}

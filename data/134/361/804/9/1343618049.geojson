@@ -1,0 +1,73 @@
+{
+  "id": 1343618049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.69051,20.28852,100.69051,20.28852",
+    "geom:latitude":20.28852,
+    "geom:longitude":100.69051,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Daylom",
+    "gn:country_code":"LA",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664598,
+    "gn:latitude":20.28852,
+    "gn:longitude":100.69051,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Dayl\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Dayelom",
+        "Ban Daye Lom",
+        "Doi Lom",
+        "Ban Dayl\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092028549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664598
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9d5f64ba2cdbdaa83a1af89879bcdab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028549,
+            "locality_id":1343618049,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1343618049,
+    "wof:lastmodified":1537660656,
+    "wof:name":"Ban Daylom",
+    "wof:parent_id":1092028549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.69051,
+    20.28852,
+    100.69051,
+    20.28852
+],
+  "geometry": {"coordinates":[100.69051,20.28852],"type":"Point"}
+}

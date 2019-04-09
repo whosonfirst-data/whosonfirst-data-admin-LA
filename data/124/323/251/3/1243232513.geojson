@@ -1,0 +1,74 @@
+{
+  "id": 1243232513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54162,20.65527,100.54162,20.65527",
+    "geom:latitude":20.65527,
+    "geom:longitude":100.54162,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Halitia",
+    "gn:country_code":"LA",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664229,
+    "gn:latitude":20.65527,
+    "gn:longitude":100.54162,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Halitia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Halitia"
+    ],
+    "name:und_x_variant":[
+        "Ban Ha Li Tiai",
+        "Ban Ha Li Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664229
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d493e3c46a7a0a8f5688aaeac35bea85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1243232513,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1243232513,
+    "wof:lastmodified":1537660633,
+    "wof:name":"Ban Halitia",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54162,
+    20.65527,
+    100.54162,
+    20.65527
+],
+  "geometry": {"coordinates":[100.54161999999999,20.65527],"type":"Point"}
+}

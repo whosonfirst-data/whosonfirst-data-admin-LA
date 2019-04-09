@@ -1,0 +1,70 @@
+{
+  "id": 1310380559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45286,16.10442,106.45286,16.10442",
+    "geom:latitude":16.10442,
+    "geom:longitude":106.45286,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Pana",
+    "gn:country_code":"LA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660401,
+    "gn:latitude":16.10442,
+    "gn:longitude":106.45286,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Pana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660401
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b45e702d3a5771be312d360eb50c358b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1310380559,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1310380559,
+    "wof:lastmodified":1537660405,
+    "wof:name":"Ban Pana",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45286000000002,
+    16.10442,
+    106.45286000000002,
+    16.10442
+],
+  "geometry": {"coordinates":[106.45286000000002,16.10442],"type":"Point"}
+}

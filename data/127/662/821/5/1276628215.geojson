@@ -1,0 +1,74 @@
+{
+  "id": 1276628215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33584,17.07215,105.33584,17.07215",
+    "geom:latitude":17.07215,
+    "geom:longitude":105.33584,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Khamkhiao-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663116,
+    "gn:latitude":17.07215,
+    "gn:longitude":105.33584,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Khamkhiao-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khamkhiao-Nua"
+    ],
+    "name:und_x_variant":[
+        "Ban Kham Houei Neua",
+        "Ban Kham Kieo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663116
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"007ffc01e10ecba97f3ecd6752fd6559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1276628215,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1276628215,
+    "wof:lastmodified":1537660561,
+    "wof:name":"Ban Khamkhiao-Nua",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33584,
+    17.07215,
+    105.33584,
+    17.07215
+],
+  "geometry": {"coordinates":[105.33584,17.07215],"type":"Point"}
+}

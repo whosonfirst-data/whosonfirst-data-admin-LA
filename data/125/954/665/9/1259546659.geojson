@@ -1,0 +1,71 @@
+{
+  "id": 1259546659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0612,21.68956,102.0612,21.68956",
+    "geom:latitude":21.68956,
+    "geom:longitude":102.0612,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Tapat",
+    "gn:country_code":"LA",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652790,
+    "gn:latitude":21.68956,
+    "gn:longitude":102.0612,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Tapat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Pat",
+        "Ban Tapat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652790
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a3d056fba62f0a2bcdaf5523174262f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1259546659,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1259546659,
+    "wof:lastmodified":1537660198,
+    "wof:name":"Ban Tapat",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0612,
+    21.68956,
+    102.0612,
+    21.68956
+],
+  "geometry": {"coordinates":[102.0612,21.68956],"type":"Point"}
+}

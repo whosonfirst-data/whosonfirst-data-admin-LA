@@ -1,0 +1,70 @@
+{
+  "id": 1193100239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83002,21.53719,101.83002,21.53719",
+    "geom:latitude":21.53719,
+    "geom:longitude":101.83002,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Xienqpi",
+    "gn:country_code":"LA",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237459,
+    "gn:latitude":21.53719,
+    "gn:longitude":101.83002,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Xienqpi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xienqpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237459
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5e413fb4b197dcdc27125c3152cd2130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1193100239,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1193100239,
+    "wof:lastmodified":1537660975,
+    "wof:name":"Ban Xienqpi",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83002,
+    21.53719,
+    101.83002,
+    21.53719
+],
+  "geometry": {"coordinates":[101.83002,21.53719],"type":"Point"}
+}

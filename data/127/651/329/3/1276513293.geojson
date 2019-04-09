@@ -1,0 +1,70 @@
+{
+  "id": 1276513293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65001,21.09469,102.65001,21.09469",
+    "geom:latitude":21.09469,
+    "geom:longitude":102.65001,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sen-In",
+    "gn:country_code":"LA",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955245,
+    "gn:latitude":21.09469,
+    "gn:longitude":102.65001,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00e8n-In",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8n-In"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955245
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b10d07b4174a402c13bf1c84fc1ba845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1276513293,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276513293,
+    "wof:lastmodified":1537660792,
+    "wof:name":"Ban Sen-In",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65001,
+    21.09469,
+    102.65001,
+    21.09469
+],
+  "geometry": {"coordinates":[102.65000999999999,21.09469],"type":"Point"}
+}

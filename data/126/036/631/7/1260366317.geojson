@@ -1,0 +1,74 @@
+{
+  "id": 1260366317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.89674,20.87769,102.89674,20.87769",
+    "geom:latitude":20.87769,
+    "geom:longitude":102.89674,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phougni",
+    "gn:country_code":"LA",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653872,
+    "gn:latitude":20.87769,
+    "gn:longitude":102.89674,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phougni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phougni"
+    ],
+    "name:und_x_variant":[
+        "Phou Gi",
+        "Ban Phougni (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653872
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c984a9a5d7cb900cedf155bbf852c971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1260366317,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260366317,
+    "wof:lastmodified":1537660213,
+    "wof:name":"Ban Phougni",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.89674,
+    20.87769,
+    102.89674,
+    20.87769
+],
+  "geometry": {"coordinates":[102.89673999999999,20.87769],"type":"Point"}
+}

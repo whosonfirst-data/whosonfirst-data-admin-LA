@@ -1,0 +1,70 @@
+{
+  "id": 1226019415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17051,16.37998,106.17051,16.37998",
+    "geom:latitude":16.37998,
+    "geom:longitude":106.17051,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Plong-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956667,
+    "gn:latitude":16.37998,
+    "gn:longitude":106.17051,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Pl\u00f4ng-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pl\u00f4ng-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956667
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0462a74ba8566c4cafb0feec1d5dd53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1226019415,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226019415,
+    "wof:lastmodified":1537660827,
+    "wof:name":"Ban Plong-Tai",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17051,
+    16.37998,
+    106.17051,
+    16.37998
+],
+  "geometry": {"coordinates":[106.17050999999999,16.37998],"type":"Point"}
+}

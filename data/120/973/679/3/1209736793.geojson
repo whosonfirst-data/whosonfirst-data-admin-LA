@@ -1,0 +1,70 @@
+{
+  "id": 1209736793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.33186,20.25936,101.33186,20.25936",
+    "geom:latitude":20.25936,
+    "geom:longitude":101.33186,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokkachok",
+    "gn:country_code":"LA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951864,
+    "gn:latitude":20.25936,
+    "gn:longitude":101.33186,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4kkachok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kkachok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951864
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"82c5b10e836723d39e1e093f679ab53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1209736793,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1209736793,
+    "wof:lastmodified":1537660708,
+    "wof:name":"Ban Mokkachok",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.33186,
+    20.25936,
+    101.33186,
+    20.25936
+],
+  "geometry": {"coordinates":[101.33186000000001,20.25936],"type":"Point"}
+}

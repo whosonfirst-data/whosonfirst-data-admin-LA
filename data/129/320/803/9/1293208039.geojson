@@ -1,0 +1,67 @@
+{
+  "id": 1293208039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73624,20.08005,103.73624,20.08005",
+    "geom:latitude":20.08005,
+    "geom:longitude":103.73624,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phoulao",
+    "gn:country_code":"LA",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659789,
+    "gn:latitude":20.08005,
+    "gn:longitude":103.73624,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phoulao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659789
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cbf0e8b980815721aa2dc08f68817104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1293208039,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293208039,
+    "wof:lastmodified":1536693069,
+    "wof:name":"Ban Phoulao",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73624,
+    20.08005,
+    103.73624,
+    20.08005
+],
+  "geometry": {"coordinates":[103.73624,20.08005],"type":"Point"}
+}

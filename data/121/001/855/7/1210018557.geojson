@@ -1,0 +1,75 @@
+{
+  "id": 1210018557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.6347,19.99,104.6347,19.99",
+    "geom:latitude":19.99,
+    "geom:longitude":104.6347,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Xamtai",
+    "gn:country_code":"LA",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652200,
+    "gn:latitude":19.99,
+    "gn:longitude":104.6347,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xamtai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xamtai",
+        "Sam Teu",
+        "Muang Xamteu",
+        "Sam Tao",
+        "Ban Xamti",
+        "Ban Xamtai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652200
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"49b01759a05cb8e82bafecefcb17609b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1210018557,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1210018557,
+    "wof:lastmodified":1537660193,
+    "wof:name":"Ban Xamtai",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.6347,
+    19.99,
+    104.6347,
+    19.99
+],
+  "geometry": {"coordinates":[104.6347,19.99],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343427589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28951,18.68546,102.28951,18.68546",
+    "geom:latitude":18.68546,
+    "geom:longitude":102.28951,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nakoum",
+    "gn:country_code":"LA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229594,
+    "gn:latitude":18.68546,
+    "gn:longitude":102.28951,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nakoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229594
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9bfe67db8ef4d381f7de4972ef4fc350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027061,
+            "locality_id":1343427589,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1343427589,
+    "wof:lastmodified":1537660914,
+    "wof:name":"Ban Nakoum",
+    "wof:parent_id":1092027061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28951,
+    18.68546,
+    102.28951,
+    18.68546
+],
+  "geometry": {"coordinates":[102.28951000000001,18.68546],"type":"Point"}
+}

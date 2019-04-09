@@ -1,0 +1,64 @@
+{
+  "id": 1209073449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21534,15.57883,107.21534,15.57883",
+    "geom:latitude":15.57883,
+    "geom:longitude":107.21534,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Lak",
+    "gn:country_code":"LA",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200441,
+    "gn:latitude":15.57883,
+    "gn:longitude":107.21534,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200441
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f1bf0c606874a52ecf7d99c56aac662b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209073449
+        }
+    ],
+    "wof:id":1209073449,
+    "wof:lastmodified":1537660858,
+    "wof:name":"Ban Lak",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21534,
+    15.57883,
+    107.21534,
+    15.57883
+],
+  "geometry": {"coordinates":[107.21534,15.57883],"type":"Point"}
+}

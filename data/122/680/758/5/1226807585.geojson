@@ -1,0 +1,70 @@
+{
+  "id": 1226807585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46339,20.33974,100.46339,20.33974",
+    "geom:latitude":20.33974,
+    "geom:longitude":100.46339,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Namle-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904417,
+    "gn:latitude":20.33974,
+    "gn:longitude":100.46339,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Naml\u00e8-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naml\u00e8-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904417
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a184344df198699852b846a48109b0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1226807585,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1226807585,
+    "wof:lastmodified":1537660686,
+    "wof:name":"Ban Namle-Tai",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46339,
+    20.33974,
+    100.46339,
+    20.33974
+],
+  "geometry": {"coordinates":[100.46339,20.33974],"type":"Point"}
+}

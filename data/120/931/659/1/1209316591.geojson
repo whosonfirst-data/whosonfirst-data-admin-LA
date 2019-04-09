@@ -1,0 +1,66 @@
+{
+  "id": 1209316591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75,20.13333,103.75,20.13333",
+    "geom:latitude":20.13333,
+    "geom:longitude":103.75,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Muang O",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655148,
+    "gn:latitude":20.13333,
+    "gn:longitude":103.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muang O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong O",
+        "Muang O"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655148
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f46cac977d3045380fdd8c44a4a26d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209316591
+        }
+    ],
+    "wof:id":1209316591,
+    "wof:lastmodified":1537660234,
+    "wof:name":"Muang O",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75,
+    20.13333,
+    103.75,
+    20.13333
+],
+  "geometry": {"coordinates":[103.75,20.13333],"type":"Point"}
+}

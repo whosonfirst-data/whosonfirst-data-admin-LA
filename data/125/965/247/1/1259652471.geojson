@@ -1,0 +1,70 @@
+{
+  "id": 1259652471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44585,20.25244,100.44585,20.25244",
+    "geom:latitude":20.25244,
+    "geom:longitude":100.44585,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Pak-Hao-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904438,
+    "gn:latitude":20.25244,
+    "gn:longitude":100.44585,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Pak-Hao-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pak-Hao-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904438
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"012725817584538ecef907311079c0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1259652471,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1259652471,
+    "wof:lastmodified":1537660687,
+    "wof:name":"Ban Pak-Hao-Nua",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44585,
+    20.25244,
+    100.44585,
+    20.25244
+],
+  "geometry": {"coordinates":[100.44584999999999,20.25244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293462923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23765,17.29799,105.23765,17.29799",
+    "geom:latitude":17.29799,
+    "geom:longitude":105.23765,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nasalak",
+    "gn:country_code":"LA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661187,
+    "gn:latitude":17.29799,
+    "gn:longitude":105.23765,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nasalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Na Tharak",
+        "Ban Nasalak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661187
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"14028ee9f376eda03e2b6762335cdcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1293462923,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293462923,
+    "wof:lastmodified":1537660453,
+    "wof:name":"Ban Nasalak",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23765,
+    17.29799,
+    105.23765,
+    17.29799
+],
+  "geometry": {"coordinates":[105.23765,17.29799],"type":"Point"}
+}

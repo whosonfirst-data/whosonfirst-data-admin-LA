@@ -1,0 +1,70 @@
+{
+  "id": 1243081367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.04428,14.92294,107.04428,14.92294",
+    "geom:latitude":14.92294,
+    "geom:longitude":107.04428,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Paam",
+    "gn:country_code":"LA",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201972,
+    "gn:latitude":14.92294,
+    "gn:longitude":107.04428,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Paam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Paam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201972
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"31282c9040b9a377549f2b78b0173369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1243081367,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1243081367,
+    "wof:lastmodified":1537660869,
+    "wof:name":"Ban Paam",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.04428,
+    14.92294,
+    107.04428,
+    14.92294
+],
+  "geometry": {"coordinates":[107.04428,14.92294],"type":"Point"}
+}

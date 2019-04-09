@@ -1,0 +1,74 @@
+{
+  "id": 1260044779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79806,17.05253,105.79806,17.05253",
+    "geom:latitude":17.05253,
+    "geom:longitude":105.79806,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nalai",
+    "gn:country_code":"LA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661132,
+    "gn:latitude":17.05253,
+    "gn:longitude":105.79806,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nalai"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Teu",
+        "Ban Na Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661132
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e29bd8716173ffdf8c889decd0430faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1260044779,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1260044779,
+    "wof:lastmodified":1537660450,
+    "wof:name":"Ban Nalai",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79806,
+    17.05252999999999,
+    105.79806,
+    17.05252999999999
+],
+  "geometry": {"coordinates":[105.79806000000001,17.05252999999999],"type":"Point"}
+}

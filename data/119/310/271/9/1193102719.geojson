@@ -1,0 +1,70 @@
+{
+  "id": 1193102719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41969,15.9544,105.41969,15.9544",
+    "geom:latitude":15.9544,
+    "geom:longitude":105.41969,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nongsano",
+    "gn:country_code":"LA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11184055,
+    "gn:latitude":15.9544,
+    "gn:longitude":105.41969,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ban Nongsan\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongsan\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11184055
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3f4e121be1767f78e7fb038578d0c22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029135,
+            "locality_id":1193102719,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1193102719,
+    "wof:lastmodified":1537660845,
+    "wof:name":"Ban Nongsano",
+    "wof:parent_id":1092029135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41969,
+    15.9544,
+    105.41969,
+    15.9544
+],
+  "geometry": {"coordinates":[105.41969,15.9544],"type":"Point"}
+}

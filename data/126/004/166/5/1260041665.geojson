@@ -1,0 +1,71 @@
+{
+  "id": 1260041665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04373,17.07316,105.04373,17.07316",
+    "geom:latitude":17.07316,
+    "geom:longitude":105.04373,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kengmun",
+    "gn:country_code":"LA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663224,
+    "gn:latitude":17.07316,
+    "gn:longitude":105.04373,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8ngmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Keung Mun",
+        "Ban K\u00e8ngmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663224
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aec41433704af5a63792ac673122ee40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1260041665,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1260041665,
+    "wof:lastmodified":1537660567,
+    "wof:name":"Ban Kengmun",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04373,
+    17.07316,
+    105.04373,
+    17.07316
+],
+  "geometry": {"coordinates":[105.04373,17.07316],"type":"Point"}
+}

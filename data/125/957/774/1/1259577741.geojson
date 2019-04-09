@@ -1,0 +1,70 @@
+{
+  "id": 1259577741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.71567,20.31434,101.71567,20.31434",
+    "geom:latitude":20.31434,
+    "geom:longitude":101.71567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Nampen",
+    "gn:country_code":"LA",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953503,
+    "gn:latitude":20.31434,
+    "gn:longitude":101.71567,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namp\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namp\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953503
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"173acc03bbd282625d83b59090eb64f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1259577741,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1259577741,
+    "wof:lastmodified":1537660742,
+    "wof:name":"Ban Nampen",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.71567,
+    20.31434,
+    101.71567,
+    20.31434
+],
+  "geometry": {"coordinates":[101.71567,20.31434],"type":"Point"}
+}

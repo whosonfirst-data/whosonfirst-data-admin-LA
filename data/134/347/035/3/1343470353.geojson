@@ -1,0 +1,70 @@
+{
+  "id": 1343470353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23693,20.92524,104.23693,20.92524",
+    "geom:latitude":20.92524,
+    "geom:longitude":104.23693,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Chotlot",
+    "gn:country_code":"LA",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664679,
+    "gn:latitude":20.92524,
+    "gn:longitude":104.23693,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chotlot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Chotlot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664679
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0494322906d2f5be14d92f13b34d7864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1343470353,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1343470353,
+    "wof:lastmodified":1537660661,
+    "wof:name":"Ban Chotlot",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23693,
+    20.92524,
+    104.23693,
+    20.92524
+],
+  "geometry": {"coordinates":[104.23693,20.92524],"type":"Point"}
+}

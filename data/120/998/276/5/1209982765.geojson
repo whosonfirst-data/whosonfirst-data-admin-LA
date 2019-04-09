@@ -1,0 +1,74 @@
+{
+  "id": 1209982765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.87822,21.3319,101.87822,21.3319",
+    "geom:latitude":21.3319,
+    "geom:longitude":101.87822,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Naten",
+    "gn:country_code":"LA",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654773,
+    "gn:latitude":21.3319,
+    "gn:longitude":101.87822,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Naten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naten"
+    ],
+    "name:und_x_variant":[
+        "Na Then",
+        "Na Ten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654773
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"95b5e6d49993df89665e41bfda5388e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1209982765,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209982765,
+    "wof:lastmodified":1537660221,
+    "wof:name":"Ban Naten",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.87822,
+    21.3319,
+    101.87822,
+    21.3319
+],
+  "geometry": {"coordinates":[101.87822,21.3319],"type":"Point"}
+}

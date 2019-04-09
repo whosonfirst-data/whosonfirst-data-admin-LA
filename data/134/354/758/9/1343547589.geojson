@@ -1,0 +1,76 @@
+{
+  "id": 1343547589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.40581,18.20985,101.40581,18.20985",
+    "geom:latitude":18.20985,
+    "geom:longitude":101.40581,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Paklay",
+    "gn:country_code":"LA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655142,
+    "gn:latitude":18.20985,
+    "gn:longitude":101.40581,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Paklay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Muang Paklay"
+    ],
+    "name:und_x_variant":[
+        "Ban Pak Lai",
+        "Pak Lei",
+        "Paklay",
+        "Pak Lai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092028273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655142
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b6be5c59ccd0ea220ccddf9cef6df82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028273,
+            "locality_id":1343547589,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1343547589,
+    "wof:lastmodified":1537660233,
+    "wof:name":"Paklay",
+    "wof:parent_id":1092028273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.40581,
+    18.20985,
+    101.40581,
+    18.20985
+],
+  "geometry": {"coordinates":[101.40581,18.20985],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243230889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52908,15.43599,106.52908,15.43599",
+    "geom:latitude":15.43599,
+    "geom:longitude":106.52908,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kub",
+    "gn:country_code":"LA",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200378,
+    "gn:latitude":15.43599,
+    "gn:longitude":106.52908,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Kub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200378
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"83d6788f8bd8fc13bea9d9f40e31a2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1243230889,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1243230889,
+    "wof:lastmodified":1537660856,
+    "wof:name":"Ban Kub",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52908,
+    15.43599,
+    106.52908,
+    15.43599
+],
+  "geometry": {"coordinates":[106.52907999999999,15.43599],"type":"Point"}
+}

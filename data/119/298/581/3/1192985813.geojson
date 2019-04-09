@@ -1,0 +1,70 @@
+{
+  "id": 1192985813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.93008,15.46999,106.93008,15.46999",
+    "geom:latitude":15.46999,
+    "geom:longitude":106.93008,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tapok",
+    "gn:country_code":"LA",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658824,
+    "gn:latitude":15.46999,
+    "gn:longitude":106.93008,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Tapok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tapok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092028877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658824
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3afd1753b2cbdb6cffef75a283d07e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028877,
+            "locality_id":1192985813,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1192985813,
+    "wof:lastmodified":1537660318,
+    "wof:name":"Ban Tapok",
+    "wof:parent_id":1092028877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.93008,
+    15.46999,
+    106.93008,
+    15.46999
+],
+  "geometry": {"coordinates":[106.93008,15.46999],"type":"Point"}
+}

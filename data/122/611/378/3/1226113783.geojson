@@ -1,0 +1,73 @@
+{
+  "id": 1226113783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36674,20.7877,102.36674,20.7877",
+    "geom:latitude":20.7877,
+    "geom:longitude":102.36674,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houn-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663491,
+    "gn:latitude":20.7877,
+    "gn:longitude":102.36674,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houn-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Houn-Tai"
+    ],
+    "name:und_x_variant":[
+        "Ban Houn Taeu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663491
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2d818024b21cadfe02fafe65ab66c86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1226113783,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226113783,
+    "wof:lastmodified":1537660582,
+    "wof:name":"Ban Houn-Tai",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36674,
+    20.7877,
+    102.36674,
+    20.7877
+],
+  "geometry": {"coordinates":[102.36673999999999,20.7877],"type":"Point"}
+}

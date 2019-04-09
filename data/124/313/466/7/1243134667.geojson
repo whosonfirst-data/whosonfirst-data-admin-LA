@@ -1,0 +1,70 @@
+{
+  "id": 1243134667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.64677,15.91324,106.64677,15.91324",
+    "geom:latitude":15.91324,
+    "geom:longitude":106.64677,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sanchayon-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199754,
+    "gn:latitude":15.91324,
+    "gn:longitude":106.64677,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Sanchayon-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sanchayon-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199754
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c9afd75dc42ba9c5f130cddebcd6bc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1243134667,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243134667,
+    "wof:lastmodified":1537660848,
+    "wof:name":"Ban Sanchayon-Nua",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.64677,
+    15.91324,
+    106.64677,
+    15.91324
+],
+  "geometry": {"coordinates":[106.64677,15.91324],"type":"Point"}
+}

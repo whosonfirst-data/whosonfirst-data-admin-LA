@@ -1,0 +1,70 @@
+{
+  "id": 1209801707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5311,19.68579,100.5311,19.68579",
+    "geom:latitude":19.68579,
+    "geom:longitude":100.5311,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khoung",
+    "gn:country_code":"LA",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662889,
+    "gn:latitude":19.68579,
+    "gn:longitude":100.5311,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662889
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d198afc118b52d29ce2b7ae9e41ff95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026391,
+            "locality_id":1209801707,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1209801707,
+    "wof:lastmodified":1537660547,
+    "wof:name":"Ban Khoung",
+    "wof:parent_id":1092026391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5311,
+    19.68579,
+    100.5311,
+    19.68579
+],
+  "geometry": {"coordinates":[100.5311,19.68579],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209398353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37009,19.34228,103.37009,19.34228",
+    "geom:latitude":19.34228,
+    "geom:longitude":103.37009,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Naxai",
+    "gn:country_code":"LA",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952269,
+    "gn:latitude":19.34228,
+    "gn:longitude":103.37009,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Naxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952269
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"75c929a4bdc504612a9b15007859e6e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209398353
+        }
+    ],
+    "wof:id":1209398353,
+    "wof:lastmodified":1537660714,
+    "wof:name":"Ban Naxai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37009,
+    19.34228,
+    103.37009,
+    19.34228
+],
+  "geometry": {"coordinates":[103.37009,19.34228],"type":"Point"}
+}

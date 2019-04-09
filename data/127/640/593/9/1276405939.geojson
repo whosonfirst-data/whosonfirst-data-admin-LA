@@ -1,0 +1,70 @@
+{
+  "id": 1276405939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.79345,21.47042,101.79345,21.47042",
+    "geom:latitude":21.47042,
+    "geom:longitude":101.79345,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Vongkhou",
+    "gn:country_code":"LA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237462,
+    "gn:latitude":21.47042,
+    "gn:longitude":101.79345,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Vongkhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vongkhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237462
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e222fe8d43b572b4439e6e5f560a70c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1276405939,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276405939,
+    "wof:lastmodified":1537660975,
+    "wof:name":"Ban Vongkhou",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.79345,
+    21.47042,
+    101.79345,
+    21.47042
+],
+  "geometry": {"coordinates":[101.79345000000001,21.47042],"type":"Point"}
+}

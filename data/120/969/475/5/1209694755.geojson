@@ -1,0 +1,64 @@
+{
+  "id": 1209694755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.58825,19.59283,103.58825,19.59283",
+    "geom:latitude":19.59283,
+    "geom:longitude":103.58825,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Viangkham",
+    "gn:country_code":"LA",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953153,
+    "gn:latitude":19.59283,
+    "gn:longitude":103.58825,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Viangkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Viangkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953153
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9f764a9f7dc7a1a8712916da8f91e36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209694755
+        }
+    ],
+    "wof:id":1209694755,
+    "wof:lastmodified":1537660733,
+    "wof:name":"Ban Viangkham",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.58825,
+    19.59283,
+    103.58825,
+    19.59283
+],
+  "geometry": {"coordinates":[103.58825,19.59283],"type":"Point"}
+}

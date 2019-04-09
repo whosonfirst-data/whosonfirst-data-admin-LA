@@ -1,0 +1,70 @@
+{
+  "id": 1276493353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35851,19.17817,102.35851,19.17817",
+    "geom:latitude":19.17817,
+    "geom:longitude":102.35851,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phatongching",
+    "gn:country_code":"LA",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660140,
+    "gn:latitude":19.17817,
+    "gn:longitude":102.35851,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phatongching",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phatongching"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660140
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"041b5b51d6d39d66da5f9dfd84f63f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":1276493353,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1276493353,
+    "wof:lastmodified":1537660390,
+    "wof:name":"Ban Phatongching",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35851,
+    19.17817,
+    102.35851,
+    19.17817
+],
+  "geometry": {"coordinates":[102.35851,19.17817],"type":"Point"}
+}

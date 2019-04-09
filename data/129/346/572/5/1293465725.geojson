@@ -1,0 +1,73 @@
+{
+  "id": 1293465725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65465,21.08554,102.65465,21.08554",
+    "geom:latitude":21.08554,
+    "geom:longitude":102.65465,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sengluk",
+    "gn:country_code":"LA",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1653256,
+    "gn:latitude":21.08554,
+    "gn:longitude":102.65465,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8ngluk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Seng Luk",
+        "Sen Luk",
+        "Ban S\u00e8ngluk",
+        "Kung Luk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653256
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"86ac5dd2ff7bd0d17d037e2e9c995f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1293465725,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293465725,
+    "wof:lastmodified":1537660206,
+    "wof:name":"Ban Sengluk",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65465,
+    21.08554,
+    102.65465,
+    21.08554
+],
+  "geometry": {"coordinates":[102.65465,21.08554],"type":"Point"}
+}

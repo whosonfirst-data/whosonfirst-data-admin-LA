@@ -1,0 +1,74 @@
+{
+  "id": 1310609893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86853,14.67531,105.86853,14.67531",
+    "geom:latitude":14.67531,
+    "geom:longitude":105.86853,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongboua-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660864,
+    "gn:latitude":14.67531,
+    "gn:longitude":105.86853,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongboua-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongboua-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Boua Nhia",
+        "Ban Nong Boua Nhiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660864
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"496352c6a9a1b95389ac5d205c2b2e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":1310609893,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310609893,
+    "wof:lastmodified":1537660434,
+    "wof:name":"Ban Nongboua-Gnai",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86853,
+    14.67531,
+    105.86853,
+    14.67531
+],
+  "geometry": {"coordinates":[105.86853000000001,14.67531],"type":"Point"}
+}

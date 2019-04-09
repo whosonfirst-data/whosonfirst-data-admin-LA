@@ -1,0 +1,70 @@
+{
+  "id": 1343944263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52015,18.65893,101.52015,18.65893",
+    "geom:latitude":18.65893,
+    "geom:longitude":101.52015,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nampoun",
+    "gn:country_code":"LA",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222097,
+    "gn:latitude":18.65893,
+    "gn:longitude":101.52015,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nampoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nampoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092031375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222097
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fd7e0761cdd52a52802046a9261bc605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031375,
+            "locality_id":1343944263,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1343944263,
+    "wof:lastmodified":1537660891,
+    "wof:name":"Ban Nampoun",
+    "wof:parent_id":1092031375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52015,
+    18.65893,
+    101.52015,
+    18.65893
+],
+  "geometry": {"coordinates":[101.52015,18.65893],"type":"Point"}
+}

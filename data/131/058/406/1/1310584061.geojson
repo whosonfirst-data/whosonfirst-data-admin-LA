@@ -1,0 +1,70 @@
+{
+  "id": 1310584061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96228,17.26398,104.96228,17.26398",
+    "geom:latitude":17.26398,
+    "geom:longitude":104.96228,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Dongmaktai",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234326,
+    "gn:latitude":17.26398,
+    "gn:longitude":104.96228,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban D\u00f4ngmaktai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00f4ngmaktai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234326
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f198b222d72939c3ca69f55dc9ae36ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1310584061,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310584061,
+    "wof:lastmodified":1537660946,
+    "wof:name":"Ban Dongmaktai",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96228,
+    17.26398,
+    104.96228,
+    17.26398
+],
+  "geometry": {"coordinates":[104.96228000000001,17.26398],"type":"Point"}
+}

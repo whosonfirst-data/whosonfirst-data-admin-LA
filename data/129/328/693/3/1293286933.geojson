@@ -1,0 +1,70 @@
+{
+  "id": 1293286933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08792,20.752,102.08792,20.752",
+    "geom:latitude":20.752,
+    "geom:longitude":102.08792,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Kat",
+    "gn:country_code":"LA",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663343,
+    "gn:latitude":20.752,
+    "gn:longitude":102.08792,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663343
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a5531c033a2801665c0f3c4aa55c3f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1293286933,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293286933,
+    "wof:lastmodified":1537660574,
+    "wof:name":"Ban Kat",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08792,
+    20.752,
+    102.08792,
+    20.752
+],
+  "geometry": {"coordinates":[102.08792,20.752],"type":"Point"}
+}

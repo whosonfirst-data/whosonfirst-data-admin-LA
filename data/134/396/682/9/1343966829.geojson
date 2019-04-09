@@ -1,0 +1,70 @@
+{
+  "id": 1343966829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92528,14.21175,105.92528,14.21175",
+    "geom:latitude":14.21175,
+    "geom:longitude":105.92528,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Naxuak",
+    "gn:country_code":"LA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11202648,
+    "gn:latitude":14.21175,
+    "gn:longitude":105.92528,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Naxuak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Naxuak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202648
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5a6a2342b88b34647a7fc5b6fcded300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1343966829,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1343966829,
+    "wof:lastmodified":1537660873,
+    "wof:name":"Ban Naxuak",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92528,
+    14.21175,
+    105.92528,
+    14.21175
+],
+  "geometry": {"coordinates":[105.92528,14.21175],"type":"Point"}
+}

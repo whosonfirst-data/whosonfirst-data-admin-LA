@@ -1,0 +1,70 @@
+{
+  "id": 1343318867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.31367,15.4827,107.31367,15.4827",
+    "geom:latitude":15.4827,
+    "geom:longitude":107.31367,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakmouan",
+    "gn:country_code":"LA",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200434,
+    "gn:latitude":15.4827,
+    "gn:longitude":107.31367,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Dakmouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dakmouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200434
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"127da8ad0accdd06032d5c49cddfc0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1343318867,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1343318867,
+    "wof:lastmodified":1537660858,
+    "wof:name":"Ban Dakmouan",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.31367,
+    15.4827,
+    107.31367,
+    15.4827
+],
+  "geometry": {"coordinates":[107.31367,15.4827],"type":"Point"}
+}

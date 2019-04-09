@@ -1,0 +1,73 @@
+{
+  "id": 1226409547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.64134,15.30758,107.64134,15.30758",
+    "geom:latitude":15.30758,
+    "geom:longitude":107.64134,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Daklao",
+    "gn:country_code":"LA",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657635,
+    "gn:latitude":15.30758,
+    "gn:longitude":107.64134,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Daklao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Daklao"
+    ],
+    "name:und_x_variant":[
+        "Dak R\u2019lao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657635
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3457690ee8561ee6d0a46cd8aff33821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1226409547,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1226409547,
+    "wof:lastmodified":1537660259,
+    "wof:name":"Ban Daklao",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.64134,
+    15.30758,
+    107.64134,
+    15.30758
+],
+  "geometry": {"coordinates":[107.64134,15.30758],"type":"Point"}
+}

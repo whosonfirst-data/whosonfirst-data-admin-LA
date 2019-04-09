@@ -1,0 +1,71 @@
+{
+  "id": 1277083247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93881,15.22075,105.93881,15.22075",
+    "geom:latitude":15.22075,
+    "geom:longitude":105.93881,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houaytong",
+    "gn:country_code":"LA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663548,
+    "gn:latitude":15.22075,
+    "gn:longitude":105.93881,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Houaytong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei Tong",
+        "Ban Houaytong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663548
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"897fe17e3640a8d3030612143b9545ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1277083247,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1277083247,
+    "wof:lastmodified":1537660586,
+    "wof:name":"Ban Houaytong",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93881,
+    15.22075,
+    105.93881,
+    15.22075
+],
+  "geometry": {"coordinates":[105.93881,15.22075],"type":"Point"}
+}

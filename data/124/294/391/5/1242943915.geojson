@@ -1,0 +1,70 @@
+{
+  "id": 1242943915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.22107,19.24197,103.22107,19.24197",
+    "geom:latitude":19.24197,
+    "geom:longitude":103.22107,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Natiang-Soung",
+    "gn:country_code":"LA",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11228370,
+    "gn:latitude":19.24197,
+    "gn:longitude":103.22107,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Natiang-Soung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Natiang-Soung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228370
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8fddd8ab03d41c5e93ea6d9d212ec798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031349,
+            "locality_id":1242943915,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1242943915,
+    "wof:lastmodified":1537660910,
+    "wof:name":"Ban Natiang-Soung",
+    "wof:parent_id":1092031349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.22107,
+    19.24197,
+    103.22107,
+    19.24197
+],
+  "geometry": {"coordinates":[103.22107,19.24197],"type":"Point"}
+}

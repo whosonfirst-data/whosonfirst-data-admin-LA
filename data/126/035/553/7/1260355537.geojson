@@ -1,0 +1,74 @@
+{
+  "id": 1260355537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.86586,21.221,101.86586,21.221",
+    "geom:latitude":21.221,
+    "geom:longitude":101.86586,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Houayhok",
+    "gn:country_code":"LA",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663883,
+    "gn:latitude":21.221,
+    "gn:longitude":101.86586,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Houayh\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayh\u00f4k"
+    ],
+    "name:und_x_variant":[
+        "Ban Houe\u00ef Hoc",
+        "Ban Houay Hoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663883
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c197e67fdb76671ab72cab2c8b8f39f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1260355537,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1260355537,
+    "wof:lastmodified":1537660612,
+    "wof:name":"Ban Houayhok",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.86586,
+    21.221,
+    101.86586,
+    21.221
+],
+  "geometry": {"coordinates":[101.86586,21.221],"type":"Point"}
+}

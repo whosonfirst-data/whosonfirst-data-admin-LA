@@ -1,0 +1,70 @@
+{
+  "id": 1310313921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79948,15.22462,105.79948,15.22462",
+    "geom:latitude":15.22462,
+    "geom:longitude":105.79948,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Kengkeo",
+    "gn:country_code":"LA",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663263,
+    "gn:latitude":15.22462,
+    "gn:longitude":105.79948,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban K\u00e8ngk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8ngk\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663263
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"46a6006770b74870e3a1183bb0801a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1310313921,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310313921,
+    "wof:lastmodified":1537660570,
+    "wof:name":"Ban Kengkeo",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79948,
+    15.22462,
+    105.79948,
+    15.22462
+],
+  "geometry": {"coordinates":[105.79948,15.22462],"type":"Point"}
+}

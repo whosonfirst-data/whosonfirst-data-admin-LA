@@ -1,0 +1,70 @@
+{
+  "id": 1209871061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.49451,15.43161,106.49451,15.43161",
+    "geom:latitude":15.43161,
+    "geom:longitude":106.49451,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Chakamlit",
+    "gn:country_code":"LA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200291,
+    "gn:latitude":15.43161,
+    "gn:longitude":106.49451,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Chakamlit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chakamlit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200291
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d0b75dc7fc40c8140f1c57841742a68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1209871061,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1209871061,
+    "wof:lastmodified":1537660855,
+    "wof:name":"Ban Chakamlit",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.49451,
+    15.43161,
+    106.49451,
+    15.43161
+],
+  "geometry": {"coordinates":[106.49451000000001,15.43161],"type":"Point"}
+}

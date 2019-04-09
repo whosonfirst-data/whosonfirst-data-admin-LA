@@ -1,0 +1,64 @@
+{
+  "id": 1209270719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.99897,18.0764,104.99897,18.0764",
+    "geom:latitude":18.0764,
+    "geom:longitude":104.99897,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nakang",
+    "gn:country_code":"LA",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661885,
+    "gn:latitude":18.0764,
+    "gn:longitude":104.99897,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nakang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661885
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d290250297d023f390e9b95ef4d2b0e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209270719
+        }
+    ],
+    "wof:id":1209270719,
+    "wof:lastmodified":1537660492,
+    "wof:name":"Ban Nakang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.99897,
+    18.0764,
+    104.99897,
+    18.0764
+],
+  "geometry": {"coordinates":[104.99897,18.0764],"type":"Point"}
+}

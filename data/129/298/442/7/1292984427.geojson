@@ -1,0 +1,67 @@
+{
+  "id": 1292984427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76168,19.21464,103.76168,19.21464",
+    "geom:latitude":19.21464,
+    "geom:longitude":103.76168,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Namkamang",
+    "gn:country_code":"LA",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661564,
+    "gn:latitude":19.21464,
+    "gn:longitude":103.76168,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ban Namkamang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661564
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"69d5b8b8894b71ade1690c39f6f5c776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027549,
+            "locality_id":1292984427,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1292984427,
+    "wof:lastmodified":1537014528,
+    "wof:name":"Ban Namkamang",
+    "wof:parent_id":1092027549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76168,
+    19.21464,
+    103.76168,
+    19.21464
+],
+  "geometry": {"coordinates":[103.76168,19.21464],"type":"Point"}
+}

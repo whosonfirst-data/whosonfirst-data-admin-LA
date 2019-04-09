@@ -1,0 +1,71 @@
+{
+  "id": 1343822771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22481,17.00954,106.22481,17.00954",
+    "geom:latitude":17.00954,
+    "geom:longitude":106.22481,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Klay",
+    "gn:country_code":"LA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662861,
+    "gn:latitude":17.00954,
+    "gn:longitude":106.22481,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Klay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Klai",
+        "Ban Klay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662861
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e8c57945bd196e269be55b134ebeb03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1343822771,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343822771,
+    "wof:lastmodified":1537660545,
+    "wof:name":"Ban Klay",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22481,
+    17.00954,
+    106.22481,
+    17.00954
+],
+  "geometry": {"coordinates":[106.22481000000001,17.00954],"type":"Point"}
+}

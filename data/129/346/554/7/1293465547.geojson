@@ -1,0 +1,70 @@
+{
+  "id": 1293465547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90437,21.27333,101.90437,21.27333",
+    "geom:latitude":21.27333,
+    "geom:longitude":101.90437,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Chalouang-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244055,
+    "gn:latitude":21.27333,
+    "gn:longitude":101.90437,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Chalouang-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chalouang-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244055
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c1ada56b3e6a5d264c6120126c37f9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1293465547,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293465547,
+    "wof:lastmodified":1537660979,
+    "wof:name":"Ban Chalouang-Mai",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90437,
+    21.27333,
+    101.90437,
+    21.27333
+],
+  "geometry": {"coordinates":[101.90437,21.27333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276946187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.93174,18.23183,104.93174,18.23183",
+    "geom:latitude":18.23183,
+    "geom:longitude":104.93174,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Thonggnai",
+    "gn:country_code":"LA",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658503,
+    "gn:latitude":18.23183,
+    "gn:longitude":104.93174,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Th\u00f4nggnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Thong Nhay",
+        "Ban Th\u00f4nggnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658503
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c7543dd7bd9b62c5bda41820165068e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1276946187,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1276946187,
+    "wof:lastmodified":1537660300,
+    "wof:name":"Ban Thonggnai",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.93174,
+    18.23183,
+    104.93174,
+    18.23183
+],
+  "geometry": {"coordinates":[104.93174,18.23183],"type":"Point"}
+}

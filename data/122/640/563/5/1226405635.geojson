@@ -1,0 +1,73 @@
+{
+  "id": 1226405635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8208,21.24649,102.8208,21.24649",
+    "geom:latitude":21.24649,
+    "geom:longitude":102.8208,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Bouamphan-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660402,
+    "gn:latitude":21.24649,
+    "gn:longitude":102.8208,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Bouamphan-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bouamphan-Kao"
+    ],
+    "name:und_x_variant":[
+        "Ban Pan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660402
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"afd5c5528a0a8ce686be55d7754dc6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1226405635,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226405635,
+    "wof:lastmodified":1537660405,
+    "wof:name":"Ban Bouamphan-Kao",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8208,
+    21.24649,
+    102.8208,
+    21.24649
+],
+  "geometry": {"coordinates":[102.82080000000001,21.24649],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242836885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79998,15.57118,105.79998,15.57118",
+    "geom:latitude":15.57118,
+    "geom:longitude":105.79998,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Khong-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662926,
+    "gn:latitude":15.57118,
+    "gn:longitude":105.79998,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kh\u00f4ng-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4ng-Noy"
+    ],
+    "name:und_x_variant":[
+        "Ban Khong Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662926
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2f81be2d5623bb01cc5616c07ba0fea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1242836885,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242836885,
+    "wof:lastmodified":1537660550,
+    "wof:name":"Ban Khong-Noy",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79998,
+    15.57118,
+    105.79998,
+    15.57118
+],
+  "geometry": {"coordinates":[105.79998000000001,15.57118],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326451541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.04082,20.90769,102.04082,20.90769",
+    "geom:latitude":20.90769,
+    "geom:longitude":102.04082,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mok-Hong",
+    "gn:country_code":"LA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954657,
+    "gn:latitude":20.90769,
+    "gn:longitude":102.04082,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4k-H\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4k-H\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954657
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"810b43764f13ff2f125621cd6f6652fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1326451541,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1326451541,
+    "wof:lastmodified":1537660772,
+    "wof:name":"Ban Mok-Hong",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.04082,
+    20.90769,
+    102.04082,
+    20.90769
+],
+  "geometry": {"coordinates":[102.04082,20.90769],"type":"Point"}
+}

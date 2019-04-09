@@ -1,0 +1,67 @@
+{
+  "id": 1209987905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.73333,20.48333,102.73333,20.48333",
+    "geom:latitude":20.48333,
+    "geom:longitude":102.73333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Khoueng Khoua",
+    "gn:country_code":"LA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662894,
+    "gn:latitude":20.48333,
+    "gn:longitude":102.73333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Khoueng Khoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662894
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f1c3d7b469b0341b3d26bf62f5388f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1209987905,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1209987905,
+    "wof:lastmodified":1536387758,
+    "wof:name":"Ban Khoueng Khoua",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.73333,
+    20.48333,
+    102.73333,
+    20.48333
+],
+  "geometry": {"coordinates":[102.73333,20.48333],"type":"Point"}
+}

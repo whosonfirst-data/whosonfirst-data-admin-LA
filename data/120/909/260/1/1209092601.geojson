@@ -1,0 +1,67 @@
+{
+  "id": 1209092601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52837,19.58259,100.52837,19.58259",
+    "geom:latitude":19.58259,
+    "geom:longitude":100.52837,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Pakouay",
+    "gn:country_code":"LA",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658484,
+    "gn:latitude":19.58259,
+    "gn:longitude":100.52837,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Pakouay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Th\u00f4ngkouay",
+        "Ban Thuoung Kuoy",
+        "Ban Thoung Kuoy",
+        "Ban Pakouay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658484
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f4a119a9a8f8ddbaca4def81ae3b3b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209092601
+        }
+    ],
+    "wof:id":1209092601,
+    "wof:lastmodified":1537660299,
+    "wof:name":"Ban Pakouay",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52837,
+    19.58259,
+    100.52837,
+    19.58259
+],
+  "geometry": {"coordinates":[100.52837,19.58259],"type":"Point"}
+}

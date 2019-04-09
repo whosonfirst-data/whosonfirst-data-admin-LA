@@ -1,0 +1,70 @@
+{
+  "id": 1242653875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.04252,19.83805,101.04252,19.83805",
+    "geom:latitude":19.83805,
+    "geom:longitude":101.04252,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Houayngeun",
+    "gn:country_code":"LA",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953162,
+    "gn:latitude":19.83805,
+    "gn:longitude":101.04252,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Houayngeun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayngeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953162
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"db950114d2dfa473c2ff146eff491934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1242653875,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1242653875,
+    "wof:lastmodified":1537660733,
+    "wof:name":"Ban Houayngeun",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.04252,
+    19.83805,
+    101.04252,
+    19.83805
+],
+  "geometry": {"coordinates":[101.04252,19.83805],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360289687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.92833,14.80892,106.92833,14.80892",
+    "geom:latitude":14.80892,
+    "geom:longitude":106.92833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Khanmakong",
+    "gn:country_code":"LA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201542,
+    "gn:latitude":14.80892,
+    "gn:longitude":106.92833,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Khanmakong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khanmakong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201542
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cff87fe378dd867af1ae05471fb8dec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029865,
+            "locality_id":1360289687,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1360289687,
+    "wof:lastmodified":1537660869,
+    "wof:name":"Ban Khanmakong",
+    "wof:parent_id":1092029865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.92833,
+    14.80892,
+    106.92833,
+    14.80892
+],
+  "geometry": {"coordinates":[106.92833,14.80892],"type":"Point"}
+}

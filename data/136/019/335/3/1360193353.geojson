@@ -1,0 +1,70 @@
+{
+  "id": 1360193353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92362,13.96674,105.92362,13.96674",
+    "geom:latitude":13.96674,
+    "geom:longitude":105.92362,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houadondet",
+    "gn:country_code":"LA",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202854,
+    "gn:latitude":13.96674,
+    "gn:longitude":105.92362,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Houadond\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houadond\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202854
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"887a52c6fa79861887d8610630856f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1360193353,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1360193353,
+    "wof:lastmodified":1537660874,
+    "wof:name":"Ban Houadondet",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92362,
+    13.96674,
+    105.92362,
+    13.96674
+],
+  "geometry": {"coordinates":[105.92362,13.96674],"type":"Point"}
+}

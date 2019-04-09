@@ -1,0 +1,71 @@
+{
+  "id": 1225958271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.10625,15.09557,107.10625,15.09557",
+    "geom:latitude":15.09557,
+    "geom:longitude":107.10625,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Thak-Liangmuang",
+    "gn:country_code":"LA",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658706,
+    "gn:latitude":15.09557,
+    "gn:longitude":107.10625,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Thak-Liangmuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Lieng",
+        "Ban Thak-Liangmuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658706
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"13b39e786d317c9a40d9ba40cf8c9097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1225958271,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1225958271,
+    "wof:lastmodified":1537660311,
+    "wof:name":"Ban Thak-Liangmuang",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.10625,
+    15.09557,
+    107.10625,
+    15.09557
+],
+  "geometry": {"coordinates":[107.10625,15.09557],"type":"Point"}
+}

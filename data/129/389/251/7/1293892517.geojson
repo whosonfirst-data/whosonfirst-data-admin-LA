@@ -1,0 +1,73 @@
+{
+  "id": 1293892517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97664,14.94284,105.97664,14.94284",
+    "geom:latitude":14.94284,
+    "geom:longitude":105.97664,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Saladin-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659525,
+    "gn:latitude":14.94284,
+    "gn:longitude":105.97664,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Saladin-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Saladin-Noy"
+    ],
+    "name:und_x_variant":[
+        "Ban Saladine No\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659525
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"27830e28ab3188cfa4a7528c365c4406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1293892517,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293892517,
+    "wof:lastmodified":1537660357,
+    "wof:name":"Ban Saladin-Noy",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97664,
+    14.94284,
+    105.97664,
+    14.94284
+],
+  "geometry": {"coordinates":[105.97664,14.94284],"type":"Point"}
+}

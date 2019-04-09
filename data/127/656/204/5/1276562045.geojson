@@ -1,0 +1,75 @@
+{
+  "id": 1276562045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06754,14.50006,107.06754,14.50006",
+    "geom:latitude":14.50006,
+    "geom:longitude":107.06754,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Phomoung-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659993,
+    "gn:latitude":14.50006,
+    "gn:longitude":107.06754,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phomoung-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phomoung-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Pha Moung Nhay",
+        "Ban Phomoun Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659993,
+        "wk:page":"Ban_Phomoun_Gnai"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ac71e0686144f03d0fee19d3b6f4d750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1276562045,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1276562045,
+    "wof:lastmodified":1537660383,
+    "wof:name":"Ban Phomoung-Gnai",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06754,
+    14.50006,
+    107.06754,
+    14.50006
+],
+  "geometry": {"coordinates":[107.06753999999999,14.50006],"type":"Point"}
+}

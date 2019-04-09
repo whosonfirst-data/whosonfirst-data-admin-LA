@@ -1,0 +1,70 @@
+{
+  "id": 1310191489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.35039,17.86057,101.35039,17.86057",
+    "geom:latitude":17.86057,
+    "geom:longitude":101.35039,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Houaypet",
+    "gn:country_code":"LA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941368,
+    "gn:latitude":17.86057,
+    "gn:longitude":101.35039,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Houayp\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayp\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941368
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"96cdade71cb82506f69d352352f20a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1310191489,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1310191489,
+    "wof:lastmodified":1537660694,
+    "wof:name":"Ban Houaypet",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.35039,
+    17.86057000000001,
+    101.35039,
+    17.86057000000001
+],
+  "geometry": {"coordinates":[101.35039,17.86057000000001],"type":"Point"}
+}

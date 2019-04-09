@@ -1,0 +1,72 @@
+{
+  "id": 1293079893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.00392,19.521,103.00392,19.521",
+    "geom:latitude":19.521,
+    "geom:longitude":103.00392,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Xay",
+    "gn:country_code":"LA",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658140,
+    "gn:latitude":19.521,
+    "gn:longitude":103.00392,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sai",
+        "Ban Xai",
+        "Ban Xay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658140
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"46fd3d2c5e1f89f4adceae5f0464bba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1293079893,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293079893,
+    "wof:lastmodified":1537660277,
+    "wof:name":"Ban Xay",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.00392,
+    19.521,
+    103.00392,
+    19.521
+],
+  "geometry": {"coordinates":[103.00391999999999,19.521],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293461283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25095,20.55187,102.25095,20.55187",
+    "geom:latitude":20.55187,
+    "geom:longitude":102.25095,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sen-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954815,
+    "gn:latitude":20.55187,
+    "gn:longitude":102.25095,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00e8n-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8n-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954815
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"db2d5e8fc4616ebc02df7c83e388d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1293461283,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293461283,
+    "wof:lastmodified":1537660778,
+    "wof:name":"Ban Sen-Nua",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25095,
+    20.55187,
+    102.25095,
+    20.55187
+],
+  "geometry": {"coordinates":[102.25095,20.55187],"type":"Point"}
+}

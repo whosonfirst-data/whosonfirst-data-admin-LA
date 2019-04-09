@@ -1,0 +1,70 @@
+{
+  "id": 1276942139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26215,16.59893,105.26215,16.59893",
+    "geom:latitude":16.59893,
+    "geom:longitude":105.26215,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Soklom",
+    "gn:country_code":"LA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221642,
+    "gn:latitude":16.59893,
+    "gn:longitude":105.26215,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Sokl\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sokl\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221642
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4a21fdf037528674e99ef29d1e8d0600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028085,
+            "locality_id":1276942139,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276942139,
+    "wof:lastmodified":1537660888,
+    "wof:name":"Ban Soklom",
+    "wof:parent_id":1092028085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26215,
+    16.59893,
+    105.26215,
+    16.59893
+],
+  "geometry": {"coordinates":[105.26215000000001,16.59893],"type":"Point"}
+}

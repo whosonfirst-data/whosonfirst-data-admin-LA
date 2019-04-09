@@ -1,0 +1,70 @@
+{
+  "id": 1226524549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.17408,20.49953,101.17408,20.49953",
+    "geom:latitude":20.49953,
+    "geom:longitude":101.17408,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Hakkuang",
+    "gn:country_code":"LA",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11244896,
+    "gn:latitude":20.49953,
+    "gn:longitude":101.17408,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Hakkuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Hakkuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244896
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"997640a4973943bf1db0c49017f2e907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1226524549,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1226524549,
+    "wof:lastmodified":1537660982,
+    "wof:name":"Ban Hakkuang",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.17408,
+    20.49953,
+    101.17408,
+    20.49953
+],
+  "geometry": {"coordinates":[101.17408,20.49953],"type":"Point"}
+}

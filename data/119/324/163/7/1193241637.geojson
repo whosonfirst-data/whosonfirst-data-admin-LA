@@ -1,0 +1,73 @@
+{
+  "id": 1193241637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.73565,21.17502,102.73565,21.17502",
+    "geom:latitude":21.17502,
+    "geom:longitude":102.73565,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Houaychik-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657086,
+    "gn:latitude":21.17502,
+    "gn:longitude":102.73565,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houaychik-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaychik-Nua"
+    ],
+    "name:und_x_variant":[
+        "Houay Chik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657086
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fe81899b983ee8e84dc53aed75c9b2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1193241637,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1193241637,
+    "wof:lastmodified":1537660256,
+    "wof:name":"Ban Houaychik-Nua",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.73565,
+    21.17502,
+    102.73565,
+    21.17502
+],
+  "geometry": {"coordinates":[102.73565000000001,21.17502],"type":"Point"}
+}

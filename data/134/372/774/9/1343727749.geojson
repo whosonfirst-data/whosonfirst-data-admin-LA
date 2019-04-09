@@ -1,0 +1,71 @@
+{
+  "id": 1343727749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,15.53333,105.88333,15.53333",
+    "geom:latitude":15.53333,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nalancha",
+    "gn:country_code":"LA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661684,
+    "gn:latitude":15.53333,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Nalancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nalane Cha",
+        "Ban Nalancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661684
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"358417ed6496de2d80aa9f82e50b34a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1343727749,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1343727749,
+    "wof:lastmodified":1537660481,
+    "wof:name":"Ban Nalancha",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    15.53333,
+    105.88333,
+    15.53333
+],
+  "geometry": {"coordinates":[105.88333,15.53333],"type":"Point"}
+}

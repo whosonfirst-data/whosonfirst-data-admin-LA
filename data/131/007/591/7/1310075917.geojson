@@ -1,0 +1,74 @@
+{
+  "id": 1310075917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52462,17.35019,105.52462,17.35019",
+    "geom:latitude":17.35019,
+    "geom:longitude":105.52462,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Vangkhok",
+    "gn:country_code":"LA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658280,
+    "gn:latitude":17.35019,
+    "gn:longitude":105.52462,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangkh\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ph\u00f4nmung"
+    ],
+    "name:und_x_variant":[
+        "Ph\u00f4nmuang",
+        "Ban Vangkh\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658280
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ae6790eee8963ac2df30879b5f672d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1310075917,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310075917,
+    "wof:lastmodified":1537660286,
+    "wof:name":"Ban Vangkhok",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52462,
+    17.35019,
+    105.52462,
+    17.35019
+],
+  "geometry": {"coordinates":[105.52462,17.35019],"type":"Point"}
+}

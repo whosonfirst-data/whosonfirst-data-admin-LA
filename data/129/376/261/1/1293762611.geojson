@@ -1,0 +1,72 @@
+{
+  "id": 1293762611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10582,19.41262,103.10582,19.41262",
+    "geom:latitude":19.41262,
+    "geom:longitude":103.10582,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Mi",
+    "gn:country_code":"LA",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662284,
+    "gn:latitude":19.41262,
+    "gn:longitude":103.10582,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Mi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi Village",
+        "Ban My",
+        "Ban Mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092028523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662284
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"75a75f3ba9722d619e8464b355cb181c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028523,
+            "locality_id":1293762611,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293762611,
+    "wof:lastmodified":1537660514,
+    "wof:name":"Ban Mi",
+    "wof:parent_id":1092028523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10582,
+    19.41262,
+    103.10582,
+    19.41262
+],
+  "geometry": {"coordinates":[103.10581999999999,19.41262],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344068519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.00255,20.79553,104.00255,20.79553",
+    "geom:latitude":20.79553,
+    "geom:longitude":104.00255,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Bouampho",
+    "gn:country_code":"LA",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955545,
+    "gn:latitude":20.79553,
+    "gn:longitude":104.00255,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Bouamph\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bouamph\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955545
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b094ad09dcc974821ea3bf07b500a1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031091,
+            "locality_id":1344068519,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1344068519,
+    "wof:lastmodified":1537660796,
+    "wof:name":"Ban Bouampho",
+    "wof:parent_id":1092031091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.00255,
+    20.79553,
+    104.00255,
+    20.79553
+],
+  "geometry": {"coordinates":[104.00255,20.79553],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209718689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65416,15.10116,105.65416,15.10116",
+    "geom:latitude":15.10116,
+    "geom:longitude":105.65416,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Phonthong",
+    "gn:country_code":"LA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1655122,
+    "gn:latitude":15.10116,
+    "gn:longitude":105.65416,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ph\u00f4nthong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phon Thuong",
+        "Phon Thong",
+        "Phoune Thong",
+        "Muang Ph\u00f4nthong",
+        "Ph\u00f4nthong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655122
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0a43088e915dfe264908d39607b803d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028663,
+            "locality_id":1209718689,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1209718689,
+    "wof:lastmodified":1537660231,
+    "wof:name":"Phonthong",
+    "wof:parent_id":1092028663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65416,
+    15.10116,
+    105.65416,
+    15.10116
+],
+  "geometry": {"coordinates":[105.65416,15.10116],"type":"Point"}
+}

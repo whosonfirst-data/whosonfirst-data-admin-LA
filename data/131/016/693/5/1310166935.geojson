@@ -1,0 +1,73 @@
+{
+  "id": 1310166935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11418,18.93705,103.11418,18.93705",
+    "geom:latitude":18.93705,
+    "geom:longitude":103.11418,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Phahao",
+    "gn:country_code":"LA",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660300,
+    "gn:latitude":18.93705,
+    "gn:longitude":103.11418,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Phahao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Phahao"
+    ],
+    "name:und_x_variant":[
+        "Ban Pha Hoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660300
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"063d211ddd3a84c313a7de8f1806108f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1310166935,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1310166935,
+    "wof:lastmodified":1537660399,
+    "wof:name":"Phahao",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11418,
+    18.93705,
+    103.11418,
+    18.93705
+],
+  "geometry": {"coordinates":[103.11418,18.93705],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209423849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70471,15.02783,105.70471,15.02783",
+    "geom:latitude":15.02783,
+    "geom:longitude":105.70471,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Vang-Ikit",
+    "gn:country_code":"LA",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658293,
+    "gn:latitude":15.02783,
+    "gn:longitude":105.70471,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ban Vang-Ikit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Van Kit",
+        "Ban Vang-Ikit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658293
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8786de4d6efdc8b408c5d8dc807d9136",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209423849
+        }
+    ],
+    "wof:id":1209423849,
+    "wof:lastmodified":1537660287,
+    "wof:name":"Ban Vang-Ikit",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70471,
+    15.02783,
+    105.70471,
+    15.02783
+],
+  "geometry": {"coordinates":[105.70471000000001,15.02783],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327390453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.15877,20.49098,100.15877,20.49098",
+    "geom:latitude":20.49098,
+    "geom:longitude":100.15877,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Aymi",
+    "gn:country_code":"LA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904363,
+    "gn:latitude":20.49098,
+    "gn:longitude":100.15877,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Aymi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Aymi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092026785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904363
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"29946e9a16c551b57e5db8f2c3c9401f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026785,
+            "locality_id":1327390453,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1327390453,
+    "wof:lastmodified":1537660684,
+    "wof:name":"Ban Aymi",
+    "wof:parent_id":1092026785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.15877,
+    20.49098,
+    100.15877,
+    20.49098
+],
+  "geometry": {"coordinates":[100.15877,20.49098],"type":"Point"}
+}

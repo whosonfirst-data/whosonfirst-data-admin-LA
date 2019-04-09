@@ -1,0 +1,67 @@
+{
+  "id": 1209617155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25356,20.46252,104.25356,20.46252",
+    "geom:latitude":20.46252,
+    "geom:longitude":104.25356,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pouak",
+    "gn:country_code":"LA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659690,
+    "gn:latitude":20.46252,
+    "gn:longitude":104.25356,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Pouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pouak"
+    ],
+    "name:und_x_variant":[
+        "Ban Poc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659690
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c9be999cd0fd62b9ba13f9472ee1b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209617155
+        }
+    ],
+    "wof:id":1209617155,
+    "wof:lastmodified":1537660366,
+    "wof:name":"Ban Pouak",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25356,
+    20.46252,
+    104.25356,
+    20.46252
+],
+  "geometry": {"coordinates":[104.25355999999999,20.46252],"type":"Point"}
+}

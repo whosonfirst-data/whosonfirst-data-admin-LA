@@ -1,0 +1,72 @@
+{
+  "id": 1360159179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09883,17.07304,105.09883,17.07304",
+    "geom:latitude":17.07304,
+    "geom:longitude":105.09883,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Xiangkhai",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658048,
+    "gn:latitude":17.07304,
+    "gn:longitude":105.09883,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xiangkhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Xieng Khai",
+        "Ban Xieng Kai",
+        "Ban Xiangkhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658048
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9c0feb8e0a7b755068a43ddfec1cd492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1360159179,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1360159179,
+    "wof:lastmodified":1537660270,
+    "wof:name":"Ban Xiangkhai",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09883,
+    17.07304,
+    105.09883,
+    17.07304
+],
+  "geometry": {"coordinates":[105.09883000000001,17.07304],"type":"Point"}
+}

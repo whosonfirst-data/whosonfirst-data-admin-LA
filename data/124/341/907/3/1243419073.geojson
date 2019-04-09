@@ -1,0 +1,74 @@
+{
+  "id": 1243419073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8532,16.36722,105.8532,16.36722",
+    "geom:latitude":16.36722,
+    "geom:longitude":105.8532,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tapong-Alang",
+    "gn:country_code":"LA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665004,
+    "gn:latitude":16.36722,
+    "gn:longitude":105.8532,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tapong-Alang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tapong-Alang"
+    ],
+    "name:und_x_variant":[
+        "Ban Alang Noye",
+        "Ban Alang Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665004
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"53985e87e0e7ba326b3b67b01ded47e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1243419073,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243419073,
+    "wof:lastmodified":1537660679,
+    "wof:name":"Ban Tapong-Alang",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8532,
+    16.36722,
+    105.8532,
+    16.36722
+],
+  "geometry": {"coordinates":[105.8532,16.36722],"type":"Point"}
+}

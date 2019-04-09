@@ -1,0 +1,70 @@
+{
+  "id": 1360256613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25867,20.50687,102.25867,20.50687",
+    "geom:latitude":20.50687,
+    "geom:longitude":102.25867,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Longchok-Soung",
+    "gn:country_code":"LA",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954833,
+    "gn:latitude":20.50687,
+    "gn:longitude":102.25867,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Longch\u00f4k-Soung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Longch\u00f4k-Soung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954833
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3609e2deb8a1bc8ea80a1f12d5ab52b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1360256613,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1360256613,
+    "wof:lastmodified":1537660778,
+    "wof:name":"Ban Longchok-Soung",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25867,
+    20.50687000000001,
+    102.25867,
+    20.50687000000001
+],
+  "geometry": {"coordinates":[102.25867,20.50687000000001],"type":"Point"}
+}

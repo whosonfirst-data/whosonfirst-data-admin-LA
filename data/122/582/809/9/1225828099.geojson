@@ -1,0 +1,70 @@
+{
+  "id": 1225828099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86564,17.41499,104.86564,17.41499",
+    "geom:latitude":17.41499,
+    "geom:longitude":104.86564,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Laongoua",
+    "gn:country_code":"LA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662588,
+    "gn:latitude":17.41499,
+    "gn:longitude":104.86564,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Laongoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laongoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662588
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51c3b802d035e5f52adf6ede928a02eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1225828099,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1225828099,
+    "wof:lastmodified":1537660530,
+    "wof:name":"Ban Laongoua",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86563999999998,
+    17.41499,
+    104.86563999999998,
+    17.41499
+],
+  "geometry": {"coordinates":[104.86563999999998,17.41499],"type":"Point"}
+}

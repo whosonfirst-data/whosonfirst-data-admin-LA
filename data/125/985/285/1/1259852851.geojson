@@ -1,0 +1,72 @@
+{
+  "id": 1259852851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19894,17.6138,105.19894,17.6138",
+    "geom:latitude":17.6138,
+    "geom:longitude":105.19894,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Muangsek",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662161,
+    "gn:latitude":17.6138,
+    "gn:longitude":105.19894,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Muangs\u00e8k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Moung Siek",
+        "Ban Muong S\u00e8k",
+        "Ban Muangs\u00e8k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662161
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3169bb6d93ca8784bd2e92dfec640fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":1259852851,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1259852851,
+    "wof:lastmodified":1537660507,
+    "wof:name":"Ban Muangsek",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19894,
+    17.6138,
+    105.19894,
+    17.6138
+],
+  "geometry": {"coordinates":[105.19893999999999,17.6138],"type":"Point"}
+}

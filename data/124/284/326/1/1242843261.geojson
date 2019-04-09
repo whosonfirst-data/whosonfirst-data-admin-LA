@@ -1,0 +1,70 @@
+{
+  "id": 1242843261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.58776,19.85983,100.58776,19.85983",
+    "geom:latitude":19.85983,
+    "geom:longitude":100.58776,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Hatsak",
+    "gn:country_code":"LA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664123,
+    "gn:latitude":19.85983,
+    "gn:longitude":100.58776,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Hatsak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatsak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664123
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"29bb9bd83d1eaea3d430a16928f21896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030459,
+            "locality_id":1242843261,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1242843261,
+    "wof:lastmodified":1537660627,
+    "wof:name":"Ban Hatsak",
+    "wof:parent_id":1092030459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.58776,
+    19.85983,
+    100.58776,
+    19.85983
+],
+  "geometry": {"coordinates":[100.58776,19.85983],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310269715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04007,16.62991,106.04007,16.62991",
+    "geom:latitude":16.62991,
+    "geom:longitude":106.04007,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Maloua",
+    "gn:country_code":"LA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662330,
+    "gn:latitude":16.62991,
+    "gn:longitude":106.04007,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Maloua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Malua",
+        "Ban Maloua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662330
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7bf9b8d88acf6adc2d0462581783d333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1310269715,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310269715,
+    "wof:lastmodified":1537660516,
+    "wof:name":"Ban Maloua",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04007,
+    16.62991,
+    106.04007,
+    16.62991
+],
+  "geometry": {"coordinates":[106.04007,16.62991],"type":"Point"}
+}

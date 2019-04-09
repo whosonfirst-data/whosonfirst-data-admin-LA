@@ -1,0 +1,70 @@
+{
+  "id": 1276947305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.99226,21.07845,100.99226,21.07845",
+    "geom:latitude":21.07845,
+    "geom:longitude":100.99226,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Yao",
+    "gn:country_code":"LA",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657971,
+    "gn:latitude":21.07845,
+    "gn:longitude":100.99226,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Yao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Yao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657971
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"69698dd4b73f15417b9e92e46839de93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1276947305,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276947305,
+    "wof:lastmodified":1537660265,
+    "wof:name":"Ban Yao",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.99226,
+    21.07845,
+    100.99226,
+    21.07845
+],
+  "geometry": {"coordinates":[100.99226,21.07845],"type":"Point"}
+}

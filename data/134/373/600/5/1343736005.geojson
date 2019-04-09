@@ -1,0 +1,74 @@
+{
+  "id": 1343736005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0669,19.48375,104.0669,19.48375",
+    "geom:latitude":19.48375,
+    "geom:longitude":104.0669,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Dindam-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664581,
+    "gn:latitude":19.48375,
+    "gn:longitude":104.0669,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Dindam-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dindam-Kao"
+    ],
+    "name:und_x_variant":[
+        "Ban Dine Dam",
+        "Ban Dindam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664581
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a699ca9558477e19ae17d6e62e32e564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1343736005,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343736005,
+    "wof:lastmodified":1537660655,
+    "wof:name":"Ban Dindam-Kao",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0669,
+    19.48375,
+    104.0669,
+    19.48375
+],
+  "geometry": {"coordinates":[104.0669,19.48375],"type":"Point"}
+}

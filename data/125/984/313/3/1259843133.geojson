@@ -1,0 +1,71 @@
+{
+  "id": 1259843133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.16899,20.3534,102.16899,20.3534",
+    "geom:latitude":20.3534,
+    "geom:longitude":102.16899,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Laolao",
+    "gn:country_code":"LA",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662594,
+    "gn:latitude":20.3534,
+    "gn:longitude":102.16899,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Laolao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Laolo",
+        "Ban Laolao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662594
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"05383b169646b50727c888a400882676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1259843133,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259843133,
+    "wof:lastmodified":1537660531,
+    "wof:name":"Ban Laolao",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.16899,
+    20.3534,
+    102.16899,
+    20.3534
+],
+  "geometry": {"coordinates":[102.16898999999999,20.3534],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360048675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8441,21.51713,101.8441,21.51713",
+    "geom:latitude":21.51713,
+    "geom:longitude":101.8441,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Bomang",
+    "gn:country_code":"LA",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662324,
+    "gn:latitude":21.51713,
+    "gn:longitude":101.8441,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Bomang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bomang"
+    ],
+    "name:und_x_variant":[
+        "Ban Mang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662324
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"186405bb4c20c642333b91dcd2149d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1360048675,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1360048675,
+    "wof:lastmodified":1537660516,
+    "wof:name":"Ban Bomang",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8441,
+    21.51713,
+    101.8441,
+    21.51713
+],
+  "geometry": {"coordinates":[101.8441,21.51713],"type":"Point"}
+}

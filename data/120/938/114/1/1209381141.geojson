@@ -1,0 +1,64 @@
+{
+  "id": 1209381141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76821,21.4469,101.76821,21.4469",
+    "geom:latitude":21.4469,
+    "geom:longitude":101.76821,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pakha",
+    "gn:country_code":"LA",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237464,
+    "gn:latitude":21.4469,
+    "gn:longitude":101.76821,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237464
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6755cb9a3c0b680ec33656dee7799d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209381141
+        }
+    ],
+    "wof:id":1209381141,
+    "wof:lastmodified":1537660975,
+    "wof:name":"Ban Pakha",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76821,
+    21.4469,
+    101.76821,
+    21.4469
+],
+  "geometry": {"coordinates":[101.76821,21.4469],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225917473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7313,17.49723,104.7313,17.49723",
+    "geom:latitude":17.49723,
+    "geom:longitude":104.7313,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Veun-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233832,
+    "gn:latitude":17.49723,
+    "gn:longitude":104.7313,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Veun-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Veun-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233832
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aa6ec876e0e03327787e13acc12f2835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1225917473,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1225917473,
+    "wof:lastmodified":1537660941,
+    "wof:name":"Ban Veun-Tai",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7313,
+    17.49723,
+    104.7313,
+    17.49723
+],
+  "geometry": {"coordinates":[104.7313,17.49723],"type":"Point"}
+}

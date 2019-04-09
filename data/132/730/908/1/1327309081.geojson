@@ -1,0 +1,76 @@
+{
+  "id": 1327309081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90853,15.56162,105.90853,15.56162",
+    "geom:latitude":15.56162,
+    "geom:longitude":105.90853,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Natan-Dong",
+    "gn:country_code":"LA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661122,
+    "gn:latitude":15.56162,
+    "gn:longitude":105.90853,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Natan-D\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Natan-D\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Nalanedong",
+        "Ban Natanedong",
+        "Ban Natangd\u00f4ng",
+        "Ban Nathandong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661122
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4d7449002ac561abb2cae1b9aef83a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1327309081,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1327309081,
+    "wof:lastmodified":1537660450,
+    "wof:name":"Ban Natan-Dong",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90853,
+    15.56162,
+    105.90853,
+    15.56162
+],
+  "geometry": {"coordinates":[105.90853,15.56162],"type":"Point"}
+}

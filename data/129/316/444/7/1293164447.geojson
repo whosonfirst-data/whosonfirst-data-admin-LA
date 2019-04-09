@@ -1,0 +1,70 @@
+{
+  "id": 1293164447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00435,19.73666,102.00435,19.73666",
+    "geom:latitude":19.73666,
+    "geom:longitude":102.00435,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Namokhou",
+    "gn:country_code":"LA",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223767,
+    "gn:latitude":19.73666,
+    "gn:longitude":102.00435,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Namokhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namokhou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223767
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b665da2989a32063b6d857e7689feeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":1293164447,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293164447,
+    "wof:lastmodified":1537660901,
+    "wof:name":"Ban Namokhou",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00435,
+    19.73666,
+    102.00435,
+    19.73666
+],
+  "geometry": {"coordinates":[102.00435,19.73666],"type":"Point"}
+}

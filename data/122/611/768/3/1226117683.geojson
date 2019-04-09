@@ -1,0 +1,70 @@
+{
+  "id": 1226117683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69551,16.14524,106.69551,16.14524",
+    "geom:latitude":16.14524,
+    "geom:longitude":106.69551,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Dup-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236781,
+    "gn:latitude":16.14524,
+    "gn:longitude":106.69551,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Dup-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dup-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236781
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"18c7d7d7156eba3c304a9a134aac681d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1226117683,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226117683,
+    "wof:lastmodified":1537660968,
+    "wof:name":"Ban Dup-Gnai",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69551,
+    16.14524,
+    106.69551,
+    16.14524
+],
+  "geometry": {"coordinates":[106.69551,16.14524],"type":"Point"}
+}

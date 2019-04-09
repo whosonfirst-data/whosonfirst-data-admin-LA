@@ -1,0 +1,70 @@
+{
+  "id": 1309862217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25252,20.39696,100.25252,20.39696",
+    "geom:latitude":20.39696,
+    "geom:longitude":100.25252,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Xiangchai",
+    "gn:country_code":"LA",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904411,
+    "gn:latitude":20.39696,
+    "gn:longitude":100.25252,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Xiangchai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xiangchai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092026785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904411
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"64014229d992fd332547272605195e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026785,
+            "locality_id":1309862217,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1309862217,
+    "wof:lastmodified":1537660686,
+    "wof:name":"Ban Xiangchai",
+    "wof:parent_id":1092026785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25252,
+    20.39696,
+    100.25252,
+    20.39696
+],
+  "geometry": {"coordinates":[100.25252,20.39696],"type":"Point"}
+}

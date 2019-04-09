@@ -1,0 +1,71 @@
+{
+  "id": 1310226245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69831,20.84472,101.69831,20.84472",
+    "geom:latitude":20.84472,
+    "geom:longitude":101.69831,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Phoukhua",
+    "gn:country_code":"LA",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659794,
+    "gn:latitude":20.84472,
+    "gn:longitude":101.69831,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Phoukhua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Phoukhoa",
+        "Ban Phoukhua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092031207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659794
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"90b5168f5c3199c29ba432e193e31468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031207,
+            "locality_id":1310226245,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1310226245,
+    "wof:lastmodified":1537660371,
+    "wof:name":"Ban Phoukhua",
+    "wof:parent_id":1092031207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69831,
+    20.84472,
+    101.69831,
+    20.84472
+],
+  "geometry": {"coordinates":[101.69831000000001,20.84472],"type":"Point"}
+}

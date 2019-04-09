@@ -1,0 +1,70 @@
+{
+  "id": 1327104959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.12927,17.12296,106.12927,17.12296",
+    "geom:latitude":17.12296,
+    "geom:longitude":106.12927,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Vat",
+    "gn:country_code":"LA",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957268,
+    "gn:latitude":17.12296,
+    "gn:longitude":106.12927,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Vat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957268
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eb1086f7041a0d0cbeac6ba889b9a451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1327104959,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327104959,
+    "wof:lastmodified":1537660843,
+    "wof:name":"Ban Vat",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.12927,
+    17.12296,
+    106.12927,
+    17.12296
+],
+  "geometry": {"coordinates":[106.12927000000001,17.12296],"type":"Point"}
+}

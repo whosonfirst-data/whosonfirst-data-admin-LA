@@ -1,0 +1,73 @@
+{
+  "id": 1343859959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36164,20.27565,104.36164,20.27565",
+    "geom:latitude":20.27565,
+    "geom:longitude":104.36164,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Ye",
+    "gn:country_code":"LA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657954,
+    "gn:latitude":20.27565,
+    "gn:longitude":104.36164,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Y\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Y\u00e8"
+    ],
+    "name:und_x_variant":[
+        "Ban Z\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657954
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8f4c92a6de26c52ef71470eda3a5636d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1343859959,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1343859959,
+    "wof:lastmodified":1537660263,
+    "wof:name":"Ban Ye",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36164,
+    20.27565,
+    104.36164,
+    20.27565
+],
+  "geometry": {"coordinates":[104.36163999999999,20.27565],"type":"Point"}
+}

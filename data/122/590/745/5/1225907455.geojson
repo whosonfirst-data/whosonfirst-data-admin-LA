@@ -1,0 +1,72 @@
+{
+  "id": 1225907455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58644,21.00694,102.58644,21.00694",
+    "geom:latitude":21.00694,
+    "geom:longitude":102.58644,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Omkok",
+    "gn:country_code":"LA",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654517,
+    "gn:latitude":21.00694,
+    "gn:longitude":102.58644,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban \u00d4mk\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Om Kok",
+        "Ban \u00d4mk\u00f4k",
+        "Ham Kok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654517
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5bbe53908f8aa695fb851ce9ebe2b0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1225907455,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1225907455,
+    "wof:lastmodified":1537660219,
+    "wof:name":"Ban Omkok",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58644,
+    21.00694,
+    102.58644,
+    21.00694
+],
+  "geometry": {"coordinates":[102.58644,21.00694],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260066533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83668,19.42917,101.83668,19.42917",
+    "geom:latitude":19.42917,
+    "geom:longitude":101.83668,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Thadua",
+    "gn:country_code":"LA",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655096,
+    "gn:latitude":19.42917,
+    "gn:longitude":101.83668,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Thadua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tha Deua",
+        "Muong Thadeua",
+        "Muang Thadua",
+        "Muang Thadeua",
+        "Ban Thadua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655096
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8caf3c03bea4e82c0e80a18c25354984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1260066533,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1260066533,
+    "wof:lastmodified":1537660228,
+    "wof:name":"Ban Thadua",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83668,
+    19.42917000000001,
+    101.83668,
+    19.42917000000001
+],
+  "geometry": {"coordinates":[101.83668,19.42917000000001],"type":"Point"}
+}

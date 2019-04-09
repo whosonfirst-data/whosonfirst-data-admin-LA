@@ -1,0 +1,71 @@
+{
+  "id": 1209982021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.03612,16.0882,107.03612,16.0882",
+    "geom:latitude":16.0882,
+    "geom:longitude":107.03612,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Aloy",
+    "gn:country_code":"LA",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664992,
+    "gn:latitude":16.0882,
+    "gn:longitude":107.03612,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Aloy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A. Roi",
+        "Ban Aloy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664992
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fd5f6d1a1e1552c06f65c606fbdce98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1209982021,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1209982021,
+    "wof:lastmodified":1537660678,
+    "wof:name":"Ban Aloy",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.03612,
+    16.0882,
+    107.03612,
+    16.0882
+],
+  "geometry": {"coordinates":[107.03612,16.0882],"type":"Point"}
+}

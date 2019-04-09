@@ -1,0 +1,70 @@
+{
+  "id": 1209773935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1805,18.12262,104.1805,18.12262",
+    "geom:latitude":18.12262,
+    "geom:longitude":104.1805,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Kengmouphung",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232862,
+    "gn:latitude":18.12262,
+    "gn:longitude":104.1805,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban K\u00e8ngmouphung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8ngmouphung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232862
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"36bc03fcc27da12771afc6c2ea2dbfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030835,
+            "locality_id":1209773935,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1209773935,
+    "wof:lastmodified":1537660933,
+    "wof:name":"Ban Kengmouphung",
+    "wof:parent_id":1092030835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1805,
+    18.12262,
+    104.1805,
+    18.12262
+],
+  "geometry": {"coordinates":[104.18049999999999,18.12262],"type":"Point"}
+}

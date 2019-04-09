@@ -1,0 +1,70 @@
+{
+  "id": 1193251615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.09975,17.07135,106.09975,17.07135",
+    "geom:latitude":17.07135,
+    "geom:longitude":106.09975,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nachaling",
+    "gn:country_code":"LA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662090,
+    "gn:latitude":17.07135,
+    "gn:longitude":106.09975,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nachaling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nachaling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662090
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"55adc0c46630655be04318731c1d242f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1193251615,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1193251615,
+    "wof:lastmodified":1537660503,
+    "wof:name":"Ban Nachaling",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.09975,
+    17.07135,
+    106.09975,
+    17.07135
+],
+  "geometry": {"coordinates":[106.09975,17.07135],"type":"Point"}
+}

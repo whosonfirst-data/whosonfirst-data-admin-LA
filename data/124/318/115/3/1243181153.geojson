@@ -1,0 +1,71 @@
+{
+  "id": 1243181153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95628,14.05279,105.95628,14.05279",
+    "geom:latitude":14.05279,
+    "geom:longitude":105.95628,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Setnam-Om",
+    "gn:country_code":"LA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659239,
+    "gn:latitude":14.05279,
+    "gn:longitude":105.95628,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban S\u00e9tnam-Om",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Set Name Ome",
+        "Ban S\u00e9tnam-Om"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659239
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e68f309292ff69564e687be848854e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1243181153,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1243181153,
+    "wof:lastmodified":1537660342,
+    "wof:name":"Ban Setnam-Om",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95628,
+    14.05279,
+    105.95628,
+    14.05279
+],
+  "geometry": {"coordinates":[105.95628000000001,14.05279],"type":"Point"}
+}

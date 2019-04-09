@@ -1,0 +1,70 @@
+{
+  "id": 1343344081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81769,17.25806,104.81769,17.25806",
+    "geom:latitude":17.25806,
+    "geom:longitude":104.81769,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Thahe",
+    "gn:country_code":"LA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658737,
+    "gn:latitude":17.25806,
+    "gn:longitude":104.81769,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thah\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thah\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658737
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d1427773782252f4264abe79e2937ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1343344081,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343344081,
+    "wof:lastmodified":1537660313,
+    "wof:name":"Ban Thahe",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81769,
+    17.25806,
+    104.81769,
+    17.25806
+],
+  "geometry": {"coordinates":[104.81769,17.25806],"type":"Point"}
+}

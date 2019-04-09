@@ -1,0 +1,73 @@
+{
+  "id": 1277143139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11032,21.70988,102.11032,21.70988",
+    "geom:latitude":21.70988,
+    "geom:longitude":102.11032,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khounsouk-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1656254,
+    "gn:latitude":21.70988,
+    "gn:longitude":102.11032,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Khounsouk-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khounsouk-Noy"
+    ],
+    "name:und_x_variant":[
+        "Khun Suc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656254
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2fb3f08056101ef7bb91a213586a4248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1277143139,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1277143139,
+    "wof:lastmodified":1537660250,
+    "wof:name":"Ban Khounsouk-Noy",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11032,
+    21.70988,
+    102.11032,
+    21.70988
+],
+  "geometry": {"coordinates":[102.11032,21.70988],"type":"Point"}
+}

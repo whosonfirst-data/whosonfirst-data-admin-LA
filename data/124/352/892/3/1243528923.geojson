@@ -1,0 +1,72 @@
+{
+  "id": 1243528923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04595,17.00231,106.04595,17.00231",
+    "geom:latitude":17.00231,
+    "geom:longitude":106.04595,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Vangthakhoay",
+    "gn:country_code":"LA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658224,
+    "gn:latitude":17.00231,
+    "gn:longitude":106.04595,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangthakhoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phum Vang Tha Khouai",
+        "Ban Vang Tha Kouai",
+        "Ban Vangthakhoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658224
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"447f70b9cb4f5e73bc2649c763b6ba38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1243528923,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243528923,
+    "wof:lastmodified":1537660283,
+    "wof:name":"Ban Vangthakhoay",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04595,
+    17.00231,
+    106.04595,
+    17.00231
+],
+  "geometry": {"coordinates":[106.04595,17.00231],"type":"Point"}
+}

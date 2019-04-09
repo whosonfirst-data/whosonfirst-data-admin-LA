@@ -1,0 +1,71 @@
+{
+  "id": 1260354687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.25574,15.49991,106.25574,15.49991",
+    "geom:latitude":15.49991,
+    "geom:longitude":106.25574,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Xanumnok",
+    "gn:country_code":"LA",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658108,
+    "gn:latitude":15.49991,
+    "gn:longitude":106.25574,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Xanumn\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sanum Nok",
+        "Ban Xanumn\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658108
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ad2b53f3c260685bad88f6fca580edc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1260354687,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1260354687,
+    "wof:lastmodified":1537660275,
+    "wof:name":"Ban Xanumnok",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.25574,
+    15.49991,
+    106.25574,
+    15.49991
+],
+  "geometry": {"coordinates":[106.25574,15.49991],"type":"Point"}
+}

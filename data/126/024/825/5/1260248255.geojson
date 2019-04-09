@@ -1,0 +1,70 @@
+{
+  "id": 1260248255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39171,21.40499,102.39171,21.40499",
+    "geom:latitude":21.40499,
+    "geom:longitude":102.39171,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Gnang-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952750,
+    "gn:latitude":21.40499,
+    "gn:longitude":102.39171,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Gnang-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Gnang-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952750
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"73cca0976b41812f2b25dffe2fb777e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1260248255,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1260248255,
+    "wof:lastmodified":1537660724,
+    "wof:name":"Ban Gnang-Nua",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39171,
+    21.40499,
+    102.39171,
+    21.40499
+],
+  "geometry": {"coordinates":[102.39171,21.40499],"type":"Point"}
+}

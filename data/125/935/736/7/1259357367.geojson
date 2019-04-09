@@ -1,0 +1,70 @@
+{
+  "id": 1259357367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81339,16.57041,104.81339,16.57041",
+    "geom:latitude":16.57041,
+    "geom:longitude":104.81339,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Bungva",
+    "gn:country_code":"LA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664786,
+    "gn:latitude":16.57041,
+    "gn:longitude":104.81339,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Bungva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bungva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664786
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ae7f4a586e92689675bef4cdc14513fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026527,
+            "locality_id":1259357367,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259357367,
+    "wof:lastmodified":1537660667,
+    "wof:name":"Ban Bungva",
+    "wof:parent_id":1092026527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81339,
+    16.57041,
+    104.81339,
+    16.57041
+],
+  "geometry": {"coordinates":[104.81339,16.57041],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259744993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45181,16.73418,106.45181,16.73418",
+    "geom:latitude":16.73418,
+    "geom:longitude":106.45181,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Takok",
+    "gn:country_code":"LA",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658979,
+    "gn:latitude":16.73418,
+    "gn:longitude":106.45181,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tak\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lang Ta Coc",
+        "Ban Tak\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658979
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a00542fa37ad7af7035773ce7e1f5923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1259744993,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259744993,
+    "wof:lastmodified":1537660327,
+    "wof:name":"Ban Takok",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45181,
+    16.73418,
+    106.45181,
+    16.73418
+],
+  "geometry": {"coordinates":[106.45180999999999,16.73418],"type":"Point"}
+}

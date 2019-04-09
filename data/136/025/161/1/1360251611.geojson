@@ -1,0 +1,70 @@
+{
+  "id": 1360251611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40112,18.54655,102.40112,18.54655",
+    "geom:latitude":18.54655,
+    "geom:longitude":102.40112,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phonbok",
+    "gn:country_code":"LA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231906,
+    "gn:latitude":18.54655,
+    "gn:longitude":102.40112,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nb\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nb\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092028631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231906
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"696fbcfdb682a17736084aaf2da4ec82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028631,
+            "locality_id":1360251611,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1360251611,
+    "wof:lastmodified":1537660922,
+    "wof:name":"Ban Phonbok",
+    "wof:parent_id":1092028631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40112,
+    18.54655,
+    102.40112,
+    18.54655
+],
+  "geometry": {"coordinates":[102.40112000000001,18.54655],"type":"Point"}
+}

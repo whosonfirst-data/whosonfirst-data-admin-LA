@@ -1,0 +1,71 @@
+{
+  "id": 1243417895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6487,20.60791,102.6487,20.60791",
+    "geom:latitude":20.60791,
+    "geom:longitude":102.6487,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sopvan",
+    "gn:country_code":"LA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659054,
+    "gn:latitude":20.60791,
+    "gn:longitude":102.6487,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00f4pvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sop Van",
+        "Ban S\u00f4pvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659054
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a9acd24062c7fe1580e5c995aedebc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1243417895,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1243417895,
+    "wof:lastmodified":1537660331,
+    "wof:name":"Ban Sopvan",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6487,
+    20.60791,
+    102.6487,
+    20.60791
+],
+  "geometry": {"coordinates":[102.64870000000001,20.60791],"type":"Point"}
+}

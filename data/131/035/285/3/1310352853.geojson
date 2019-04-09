@@ -1,0 +1,73 @@
+{
+  "id": 1310352853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.12582,18.68511,102.12582,18.68511",
+    "geom:latitude":18.68511,
+    "geom:longitude":102.12582,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nathoua",
+    "gn:country_code":"LA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661061,
+    "gn:latitude":18.68511,
+    "gn:longitude":102.12582,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nathoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nathoua"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Toua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661061
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"200eae4eef750dacc2c1b98cf30ab2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1310352853,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1310352853,
+    "wof:lastmodified":1537660446,
+    "wof:name":"Ban Nathoua",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.12582,
+    18.68511,
+    102.12582,
+    18.68511
+],
+  "geometry": {"coordinates":[102.12582,18.68511],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260366239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.01896,20.63848,103.01896,20.63848",
+    "geom:latitude":20.63848,
+    "geom:longitude":103.01896,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Seng-Oun",
+    "gn:country_code":"LA",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954908,
+    "gn:latitude":20.63848,
+    "gn:longitude":103.01896,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00e8ng-Oun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8ng-Oun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954908
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5217afbfbeeb137a7e975dffb6f519e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1260366239,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260366239,
+    "wof:lastmodified":1537660781,
+    "wof:name":"Ban Seng-Oun",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.01896,
+    20.63848,
+    103.01896,
+    20.63848
+],
+  "geometry": {"coordinates":[103.01896000000001,20.63848],"type":"Point"}
+}

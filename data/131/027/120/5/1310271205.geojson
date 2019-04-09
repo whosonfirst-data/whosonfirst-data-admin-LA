@@ -1,0 +1,73 @@
+{
+  "id": 1310271205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.56951,21.27168,102.56951,21.27168",
+    "geom:latitude":21.27168,
+    "geom:longitude":102.56951,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Chiamuay",
+    "gn:country_code":"LA",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652485,
+    "gn:latitude":21.27168,
+    "gn:longitude":102.56951,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chiamuay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chiamuay"
+    ],
+    "name:und_x_variant":[
+        "Tia Mevei Neva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652485
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"78aa8484589e145c21b8f9c90569c057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1310271205,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310271205,
+    "wof:lastmodified":1537660195,
+    "wof:name":"Ban Chiamuay",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.56951,
+    21.27168,
+    102.56951,
+    21.27168
+],
+  "geometry": {"coordinates":[102.56950999999999,21.27168],"type":"Point"}
+}

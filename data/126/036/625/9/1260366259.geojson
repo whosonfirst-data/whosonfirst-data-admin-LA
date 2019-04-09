@@ -1,0 +1,70 @@
+{
+  "id": 1260366259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.98216,20.78939,102.98216,20.78939",
+    "geom:latitude":20.78939,
+    "geom:longitude":102.98216,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phiaxang",
+    "gn:country_code":"LA",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954587,
+    "gn:latitude":20.78939,
+    "gn:longitude":102.98216,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phiaxang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phiaxang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954587
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"38886483ab8afa62dc27c59e93171958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1260366259,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260366259,
+    "wof:lastmodified":1537660770,
+    "wof:name":"Ban Phiaxang",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.98216,
+    20.78939,
+    102.98216,
+    20.78939
+],
+  "geometry": {"coordinates":[102.98215999999999,20.78939],"type":"Point"}
+}

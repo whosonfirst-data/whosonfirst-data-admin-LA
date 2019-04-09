@@ -1,0 +1,64 @@
+{
+  "id": 1209686813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.12301,19.78477,104.12301,19.78477",
+    "geom:latitude":19.78477,
+    "geom:longitude":104.12301,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Namtian",
+    "gn:country_code":"LA",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952899,
+    "gn:latitude":19.78477,
+    "gn:longitude":104.12301,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Namtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namtian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952899
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aa99e4c8ee2fc1f195e2d3a287f1c67e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209686813
+        }
+    ],
+    "wof:id":1209686813,
+    "wof:lastmodified":1537660726,
+    "wof:name":"Ban Namtian",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.12301,
+    19.78477,
+    104.12301,
+    19.78477
+],
+  "geometry": {"coordinates":[104.12300999999999,19.78477],"type":"Point"}
+}

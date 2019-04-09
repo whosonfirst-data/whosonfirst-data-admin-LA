@@ -1,0 +1,70 @@
+{
+  "id": 1309762357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0453,18.32055,105.0453,18.32055",
+    "geom:latitude":18.32055,
+    "geom:longitude":105.0453,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Hang-Na",
+    "gn:country_code":"LA",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233016,
+    "gn:latitude":18.32055,
+    "gn:longitude":105.0453,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Hang-Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hang-Na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233016
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"27ff783c35f6dce44086315ba5e63ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1309762357,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1309762357,
+    "wof:lastmodified":1537660934,
+    "wof:name":"Ban Hang-Na",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0453,
+    18.32055,
+    105.0453,
+    18.32055
+],
+  "geometry": {"coordinates":[105.0453,18.32055],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344219497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76289,15.47141,105.76289,15.47141",
+    "geom:latitude":15.47141,
+    "geom:longitude":105.76289,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Hatdou",
+    "gn:country_code":"LA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200036,
+    "gn:latitude":15.47141,
+    "gn:longitude":105.76289,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Hatdou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatdou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200036
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6ef301dc6168c5f91e949a1a4eb06415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1344219497,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1344219497,
+    "wof:lastmodified":1537660852,
+    "wof:name":"Ban Hatdou",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76288999999998,
+    15.47141,
+    105.76288999999998,
+    15.47141
+],
+  "geometry": {"coordinates":[105.76288999999998,15.47141],"type":"Point"}
+}

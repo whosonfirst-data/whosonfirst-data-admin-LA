@@ -1,0 +1,70 @@
+{
+  "id": 1193149981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98464,15.34406,105.98464,15.34406",
+    "geom:latitude":15.34406,
+    "geom:longitude":105.98464,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thongsala",
+    "gn:country_code":"LA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200137,
+    "gn:latitude":15.34406,
+    "gn:longitude":105.98464,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Th\u00f4ngsala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngsala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200137
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"391660b873e1d668b3588c818770c04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1193149981,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1193149981,
+    "wof:lastmodified":1537660853,
+    "wof:name":"Ban Thongsala",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98463999999998,
+    15.34406,
+    105.98463999999998,
+    15.34406
+],
+  "geometry": {"coordinates":[105.98463999999998,15.34406],"type":"Point"}
+}

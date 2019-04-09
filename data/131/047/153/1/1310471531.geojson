@@ -1,0 +1,70 @@
+{
+  "id": 1310471531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20054,20.5672,101.20054,20.5672",
+    "geom:latitude":20.5672,
+    "geom:longitude":101.20054,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phouthan",
+    "gn:country_code":"LA",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956288,
+    "gn:latitude":20.5672,
+    "gn:longitude":101.20054,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Phouthan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phouthan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956288
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f513663a780e8b5d48785195f6975eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1310471531,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1310471531,
+    "wof:lastmodified":1537660816,
+    "wof:name":"Ban Phouthan",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20054,
+    20.5672,
+    101.20054,
+    20.5672
+],
+  "geometry": {"coordinates":[101.20054,20.5672],"type":"Point"}
+}

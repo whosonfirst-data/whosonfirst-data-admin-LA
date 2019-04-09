@@ -1,0 +1,70 @@
+{
+  "id": 1226108909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85253,18.52059,101.85253,18.52059",
+    "geom:latitude":18.52059,
+    "geom:longitude":101.85253,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Pakhang",
+    "gn:country_code":"LA",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222374,
+    "gn:latitude":18.52059,
+    "gn:longitude":101.85253,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pakhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pakhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222374
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e1400c0ac9ce3402835fd7c658185300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027449,
+            "locality_id":1226108909,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1226108909,
+    "wof:lastmodified":1537660896,
+    "wof:name":"Ban Pakhang",
+    "wof:parent_id":1092027449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85253,
+    18.52059,
+    101.85253,
+    18.52059
+],
+  "geometry": {"coordinates":[101.85253,18.52059],"type":"Point"}
+}

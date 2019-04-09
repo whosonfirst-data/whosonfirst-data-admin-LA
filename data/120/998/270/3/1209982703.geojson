@@ -1,0 +1,72 @@
+{
+  "id": 1209982703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05164,21.5842,102.05164,21.5842",
+    "geom:latitude":21.5842,
+    "geom:longitude":102.05164,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Makalouang",
+    "gn:country_code":"LA",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655504,
+    "gn:latitude":21.5842,
+    "gn:longitude":102.05164,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Makalouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma Ca Long",
+        "Ma Ca Loug",
+        "Ban Makalouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655504
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"473e4a56d803bfb24d5c99718748020c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1209982703,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209982703,
+    "wof:lastmodified":1537660243,
+    "wof:name":"Ban Makalouang",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05164,
+    21.5842,
+    102.05164,
+    21.5842
+],
+  "geometry": {"coordinates":[102.05164000000001,21.5842],"type":"Point"}
+}

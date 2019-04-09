@@ -1,0 +1,71 @@
+{
+  "id": 1276845467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8075,15.6878,105.8075,15.6878",
+    "geom:latitude":15.6878,
+    "geom:longitude":105.8075,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Donkhang",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664414,
+    "gn:latitude":15.6878,
+    "gn:longitude":105.8075,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Donkhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Done Khang",
+        "Ban Donkhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664414
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c45ae53e26a4d4b93bf5fc2263f6d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029135,
+            "locality_id":1276845467,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1276845467,
+    "wof:lastmodified":1537660645,
+    "wof:name":"Ban Donkhang",
+    "wof:parent_id":1092029135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8075,
+    15.6878,
+    105.8075,
+    15.6878
+],
+  "geometry": {"coordinates":[105.8075,15.6878],"type":"Point"}
+}

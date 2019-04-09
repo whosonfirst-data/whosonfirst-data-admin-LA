@@ -1,0 +1,78 @@
+{
+  "id": 1310318225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92674,13.98459,105.92674,13.98459",
+    "geom:latitude":13.98459,
+    "geom:longitude":105.92674,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"1610.0",
+    "gn:asciiname":"Ban Don-En",
+    "gn:country_code":"LA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664548,
+    "gn:latitude":13.98459,
+    "gn:longitude":105.92674,
+    "gn:modification_date":"2017-06-03",
+    "gn:name":"Ban Don-En",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Don-En"
+    ],
+    "name:und_x_variant":[
+        "Don Det",
+        "Ban Done De",
+        "Ban Done Det",
+        "Ban Det",
+        "Ban Dond\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664548
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d4302616759e88ba885a40e9f2804c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1310318225,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310318225,
+    "wof:lastmodified":1537660653,
+    "wof:name":"Ban Don-En",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92674,
+    13.98459,
+    105.92674,
+    13.98459
+],
+  "geometry": {"coordinates":[105.92674,13.98459],"type":"Point"}
+}

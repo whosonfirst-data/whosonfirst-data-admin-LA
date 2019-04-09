@@ -1,0 +1,71 @@
+{
+  "id": 1344166679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88424,14.79279,106.88424,14.79279",
+    "geom:latitude":14.79279,
+    "geom:longitude":106.88424,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Xaisi",
+    "gn:country_code":"LA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658138,
+    "gn:latitude":14.79279,
+    "gn:longitude":106.88424,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Xaisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pak Pouk",
+        "Ban Xaisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658138
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8cb782c7d1f103fb9cbdf50fd299a2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029865,
+            "locality_id":1344166679,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1344166679,
+    "wof:lastmodified":1537660277,
+    "wof:name":"Ban Xaisi",
+    "wof:parent_id":1092029865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88424,
+    14.79279,
+    106.88424,
+    14.79279
+],
+  "geometry": {"coordinates":[106.88424000000001,14.79279],"type":"Point"}
+}

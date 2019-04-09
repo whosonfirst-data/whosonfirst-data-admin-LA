@@ -1,0 +1,72 @@
+{
+  "id": 1293655909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44692,19.2892,102.44692,19.2892",
+    "geom:latitude":19.2892,
+    "geom:longitude":102.44692,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Thaiheun",
+    "gn:country_code":"LA",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658730,
+    "gn:latitude":19.2892,
+    "gn:longitude":102.44692,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thaiheun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Phu Thay Heun",
+        "Ban Phu Thay Haun",
+        "Ban Thaiheun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658730
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"66530ee83d4b94694c8052aba6306c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1293655909,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293655909,
+    "wof:lastmodified":1537660312,
+    "wof:name":"Ban Thaiheun",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44692,
+    19.2892,
+    102.44692,
+    19.2892
+],
+  "geometry": {"coordinates":[102.44692000000001,19.2892],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276637837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.44374,20.40784,101.44374,20.40784",
+    "geom:latitude":20.40784,
+    "geom:longitude":101.44374,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Mokkout",
+    "gn:country_code":"LA",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956361,
+    "gn:latitude":20.40784,
+    "gn:longitude":101.44374,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4kkout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kkout"
+    ],
+    "name:und_x_variant":[
+        "B. M\u00f4kkout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956361
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c12b6873fac079da415c78deed10c53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1276637837,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276637837,
+    "wof:lastmodified":1537660819,
+    "wof:name":"Ban Mokkout",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.44374,
+    20.40784,
+    101.44374,
+    20.40784
+],
+  "geometry": {"coordinates":[101.44374000000001,20.40784],"type":"Point"}
+}

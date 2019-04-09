@@ -1,0 +1,70 @@
+{
+  "id": 1276617707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85224,19.2824,101.85224,19.2824",
+    "geom:latitude":19.2824,
+    "geom:longitude":101.85224,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senxai",
+    "gn:country_code":"LA",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221384,
+    "gn:latitude":19.2824,
+    "gn:longitude":101.85224,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban S\u00e8nxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221384
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"de95f194235844ec0138cefd89430515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1276617707,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276617707,
+    "wof:lastmodified":1537660884,
+    "wof:name":"Ban Senxai",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85224,
+    19.2824,
+    101.85224,
+    19.2824
+],
+  "geometry": {"coordinates":[101.85223999999999,19.2824],"type":"Point"}
+}

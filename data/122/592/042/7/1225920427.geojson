@@ -1,0 +1,70 @@
+{
+  "id": 1225920427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7474,20.71866,102.7474,20.71866",
+    "geom:latitude":20.71866,
+    "geom:longitude":102.7474,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Kengfa",
+    "gn:country_code":"LA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954472,
+    "gn:latitude":20.71866,
+    "gn:longitude":102.7474,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban K\u00e8ngfa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8ngfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954472
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"89d29bb2edeca23877818902559164c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1225920427,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1225920427,
+    "wof:lastmodified":1537660766,
+    "wof:name":"Ban Kengfa",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7474,
+    20.71866,
+    102.7474,
+    20.71866
+],
+  "geometry": {"coordinates":[102.7474,20.71866],"type":"Point"}
+}

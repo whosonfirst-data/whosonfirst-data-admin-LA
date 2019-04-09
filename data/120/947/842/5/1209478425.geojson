@@ -1,0 +1,67 @@
+{
+  "id": 1209478425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9223,21.40526,101.9223,21.40526",
+    "geom:latitude":21.40526,
+    "geom:longitude":101.9223,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Taodouang",
+    "gn:country_code":"LA",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1652815,
+    "gn:latitude":21.40526,
+    "gn:longitude":101.9223,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Taodouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Taodouang"
+    ],
+    "name:und_x_variant":[
+        "Tao Douong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652815
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"33139e072bbe5839577fbf4d848028da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209478425
+        }
+    ],
+    "wof:id":1209478425,
+    "wof:lastmodified":1537660199,
+    "wof:name":"Ban Taodouang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9223,
+    21.40526,
+    101.9223,
+    21.40526
+],
+  "geometry": {"coordinates":[101.92230000000001,21.40526],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276669563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.29357,19.94383,104.29357,19.94383",
+    "geom:latitude":19.94383,
+    "geom:longitude":104.29357,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nong Kamo",
+    "gn:country_code":"LA",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440838,
+    "gn:latitude":19.94383,
+    "gn:longitude":104.29357,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Ban Nong Kamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440838
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"faba562c17cc21cda3ac2f2abacf39fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1276669563,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1276669563,
+    "wof:lastmodified":1536824276,
+    "wof:name":"Ban Nong Kamo",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.29357,
+    19.94383,
+    104.29357,
+    19.94383
+],
+  "geometry": {"coordinates":[104.29357,19.94383],"type":"Point"}
+}

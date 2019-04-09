@@ -1,0 +1,70 @@
+{
+  "id": 1360247475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.27545,15.37335,106.27545,15.37335",
+    "geom:latitude":15.37335,
+    "geom:longitude":106.27545,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Phokhem",
+    "gn:country_code":"LA",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660013,
+    "gn:latitude":15.37335,
+    "gn:longitude":106.27545,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Ph\u00f4kh\u00e9m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4kh\u00e9m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660013
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"589b50a448dfb1e22923f040e4dc1536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1360247475,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1360247475,
+    "wof:lastmodified":1537660384,
+    "wof:name":"Ban Phokhem",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.27545,
+    15.37335,
+    106.27545,
+    15.37335
+],
+  "geometry": {"coordinates":[106.27545000000001,15.37335],"type":"Point"}
+}

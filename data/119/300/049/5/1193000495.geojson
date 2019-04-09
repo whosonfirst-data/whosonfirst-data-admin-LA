@@ -1,0 +1,70 @@
+{
+  "id": 1193000495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.22266,20.39955,101.22266,20.39955",
+    "geom:latitude":20.39955,
+    "geom:longitude":101.22266,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Saluang",
+    "gn:country_code":"LA",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956367,
+    "gn:latitude":20.39955,
+    "gn:longitude":101.22266,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Saluang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Saluang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956367
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"525eeffdc44a7573c1294bc9f549c599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1193000495,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1193000495,
+    "wof:lastmodified":1537660819,
+    "wof:name":"Ban Saluang",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.22266,
+    20.39955,
+    101.22266,
+    20.39955
+],
+  "geometry": {"coordinates":[101.22266,20.39955],"type":"Point"}
+}

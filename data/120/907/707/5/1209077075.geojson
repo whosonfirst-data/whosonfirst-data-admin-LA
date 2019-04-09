@@ -1,0 +1,62 @@
+{
+  "id": 1209077075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56777,19.63256,103.56777,19.63256",
+    "geom:latitude":19.63256,
+    "geom:longitude":103.56777,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muang Kham",
+    "gn:country_code":"LA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8948689,
+    "gn:latitude":19.63256,
+    "gn:longitude":103.56777,
+    "gn:modification_date":"2014-04-12",
+    "gn:name":"Muang Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8948689,
+        "wk:page":"Muang_Kham%2C_Laos"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"56710aeafe2a4a541c52dde519e9e6bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209077075
+        }
+    ],
+    "wof:id":1209077075,
+    "wof:lastmodified":1537567902,
+    "wof:name":"Muang Kham",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56777,
+    19.63256,
+    103.56777,
+    19.63256
+],
+  "geometry": {"coordinates":[103.56777,19.63256],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209873001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.00627,15.75189,107.00627,15.75189",
+    "geom:latitude":15.75189,
+    "geom:longitude":107.00627,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kandon",
+    "gn:country_code":"LA",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663406,
+    "gn:latitude":15.75189,
+    "gn:longitude":107.00627,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kand\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kand\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663406
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7878740dd0f3731b2ab93eaa16686d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1209873001,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1209873001,
+    "wof:lastmodified":1537660577,
+    "wof:name":"Ban Kandon",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.00627,
+    15.75189,
+    107.00627,
+    15.75189
+],
+  "geometry": {"coordinates":[107.00627,15.75189],"type":"Point"}
+}

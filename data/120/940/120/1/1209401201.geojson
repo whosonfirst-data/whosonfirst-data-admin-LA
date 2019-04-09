@@ -1,0 +1,67 @@
+{
+  "id": 1209401201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.77419,19.56271,100.77419,19.56271",
+    "geom:latitude":19.56271,
+    "geom:longitude":100.77419,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Siphom",
+    "gn:country_code":"LA",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941916,
+    "gn:latitude":19.56271,
+    "gn:longitude":100.77419,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Siph\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sipn\u00f4m"
+    ],
+    "name:lao_x_variant":[
+        "Ban Siph\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941916
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3832c355ffa926f4f58e336fcfa4901d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209401201
+        }
+    ],
+    "wof:id":1209401201,
+    "wof:lastmodified":1537660702,
+    "wof:name":"Ban Siphom",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.77419,
+    19.56271,
+    100.77419,
+    19.56271
+],
+  "geometry": {"coordinates":[100.77419,19.56271],"type":"Point"}
+}

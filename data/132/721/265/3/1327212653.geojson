@@ -1,0 +1,70 @@
+{
+  "id": 1327212653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70519,19.67363,103.70519,19.67363",
+    "geom:latitude":19.67363,
+    "geom:longitude":103.70519,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phonxai",
+    "gn:country_code":"LA",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952364,
+    "gn:latitude":19.67363,
+    "gn:longitude":103.70519,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Ph\u00f4nxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952364
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"424587d062c625d435d405d6023144fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1327212653,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1327212653,
+    "wof:lastmodified":1537660715,
+    "wof:name":"Ban Phonxai",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70519,
+    19.67363,
+    103.70519,
+    19.67363
+],
+  "geometry": {"coordinates":[103.70519,19.67363],"type":"Point"}
+}

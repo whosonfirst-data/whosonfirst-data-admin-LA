@@ -1,0 +1,70 @@
+{
+  "id": 1309992277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.50113,19.80843,101.50113,19.80843",
+    "geom:latitude":19.80843,
+    "geom:longitude":101.50113,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Houaylai-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953800,
+    "gn:latitude":19.80843,
+    "gn:longitude":101.50113,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Houaylai-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaylai-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092027837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953800
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b78a0e97d2e0280dc3e789097b0092f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027837,
+            "locality_id":1309992277,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1309992277,
+    "wof:lastmodified":1537660751,
+    "wof:name":"Ban Houaylai-Gnai",
+    "wof:parent_id":1092027837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.50113,
+    19.80843,
+    101.50113,
+    19.80843
+],
+  "geometry": {"coordinates":[101.50113,19.80843],"type":"Point"}
+}

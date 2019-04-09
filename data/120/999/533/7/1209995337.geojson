@@ -1,0 +1,67 @@
+{
+  "id": 1209995337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18333,19.65,103.18333,19.65",
+    "geom:latitude":19.65,
+    "geom:longitude":103.18333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Khong",
+    "gn:country_code":"LA",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662929,
+    "gn:latitude":19.65,
+    "gn:longitude":103.18333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Khong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662929
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"28480537455cb59b33009a88ce45b3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1209995337,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1209995337,
+    "wof:lastmodified":1536384406,
+    "wof:name":"Ban Khong",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18333,
+    19.65,
+    103.18333,
+    19.65
+],
+  "geometry": {"coordinates":[103.18333,19.65],"type":"Point"}
+}

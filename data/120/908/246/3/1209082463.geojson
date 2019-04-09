@@ -1,0 +1,64 @@
+{
+  "id": 1209082463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.12653,19.90883,102.12653,19.90883",
+    "geom:latitude":19.90883,
+    "geom:longitude":102.12653,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Naleu",
+    "gn:country_code":"LA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957136,
+    "gn:latitude":19.90883,
+    "gn:longitude":102.12653,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Naleu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957136
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d6c6018405302d27e2fe899052898f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209082463
+        }
+    ],
+    "wof:id":1209082463,
+    "wof:lastmodified":1537660839,
+    "wof:name":"Ban Naleu",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.12653,
+    19.90883,
+    102.12653,
+    19.90883
+],
+  "geometry": {"coordinates":[102.12653,19.90883],"type":"Point"}
+}

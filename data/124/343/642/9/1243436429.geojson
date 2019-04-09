@@ -1,0 +1,74 @@
+{
+  "id": 1243436429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08463,21.41757,101.08463,21.41757",
+    "geom:latitude":21.41757,
+    "geom:longitude":101.08463,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Bouak-Het",
+    "gn:country_code":"LA",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664880,
+    "gn:latitude":21.41757,
+    "gn:longitude":101.08463,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Bouak-H\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bouak-H\u00e8t"
+    ],
+    "name:und_x_variant":[
+        "Ban Bong Het",
+        "Ban Bonghet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664880
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"71b4b22c53356d6cb2b26ec67aaff2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1243436429,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1243436429,
+    "wof:lastmodified":1537660673,
+    "wof:name":"Ban Bouak-Het",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08463,
+    21.41757,
+    101.08463,
+    21.41757
+],
+  "geometry": {"coordinates":[101.08463,21.41757],"type":"Point"}
+}

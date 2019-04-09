@@ -1,0 +1,71 @@
+{
+  "id": 1276572655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05,20.86667,102.05,20.86667",
+    "geom:latitude":20.86667,
+    "geom:longitude":102.05,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Longchong",
+    "gn:country_code":"LA",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655625,
+    "gn:latitude":20.86667,
+    "gn:longitude":102.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Longchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung Chong",
+        "Longchong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655625
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"59a991ae3f1b7a45bb5a7a31a6e73698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1276572655,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1276572655,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Longchong",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05,
+    20.86667000000001,
+    102.05,
+    20.86667000000001
+],
+  "geometry": {"coordinates":[102.05,20.86667000000001],"type":"Point"}
+}

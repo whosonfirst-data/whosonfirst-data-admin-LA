@@ -1,0 +1,70 @@
+{
+  "id": 1242642875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13602,16.12578,106.13602,16.12578",
+    "geom:latitude":16.12578,
+    "geom:longitude":106.13602,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Lanong",
+    "gn:country_code":"LA",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236645,
+    "gn:latitude":16.12578,
+    "gn:longitude":106.13602,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Lanong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lanong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236645
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"559b20265cb0c956601b5fab16324bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1242642875,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242642875,
+    "wof:lastmodified":1537660963,
+    "wof:name":"Ban Lanong",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13602,
+    16.12578,
+    106.13602,
+    16.12578
+],
+  "geometry": {"coordinates":[106.13602,16.12578],"type":"Point"}
+}

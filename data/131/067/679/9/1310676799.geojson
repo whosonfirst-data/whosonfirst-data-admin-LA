@@ -1,0 +1,70 @@
+{
+  "id": 1310676799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96554,21.40503,101.96554,21.40503",
+    "geom:latitude":21.40503,
+    "geom:longitude":101.96554,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Boun-Gnang",
+    "gn:country_code":"LA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237488,
+    "gn:latitude":21.40503,
+    "gn:longitude":101.96554,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Boun-Gnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Boun-Gnang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237488
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b97a648ae0b5dd424e0c6d346d591c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1310676799,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310676799,
+    "wof:lastmodified":1537660976,
+    "wof:name":"Ban Boun-Gnang",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96554,
+    21.40503,
+    101.96554,
+    21.40503
+],
+  "geometry": {"coordinates":[101.96554,21.40503],"type":"Point"}
+}

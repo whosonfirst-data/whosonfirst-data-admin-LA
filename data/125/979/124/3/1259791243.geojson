@@ -1,0 +1,70 @@
+{
+  "id": 1259791243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86209,20.11102,103.86209,20.11102",
+    "geom:latitude":20.11102,
+    "geom:longitude":103.86209,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phalak",
+    "gn:country_code":"LA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660234,
+    "gn:latitude":20.11102,
+    "gn:longitude":103.86209,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phalak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660234
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b1fd30f17023937f41a36df2885e0a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1259791243,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1259791243,
+    "wof:lastmodified":1537660396,
+    "wof:name":"Ban Phalak",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86209,
+    20.11102,
+    103.86209,
+    20.11102
+],
+  "geometry": {"coordinates":[103.86208999999999,20.11102],"type":"Point"}
+}

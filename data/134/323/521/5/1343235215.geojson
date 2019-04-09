@@ -1,0 +1,71 @@
+{
+  "id": 1343235215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.20605,17.0972,106.20605,17.0972",
+    "geom:latitude":17.0972,
+    "geom:longitude":106.20605,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kangtaloung",
+    "gn:country_code":"LA",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663377,
+    "gn:latitude":17.0972,
+    "gn:longitude":106.20605,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kangtaloung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Quan Ta Loung",
+        "Ban Kangtaloung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663377
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f082cd2e3c6a6c4217611bf208ad52b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1343235215,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343235215,
+    "wof:lastmodified":1537660576,
+    "wof:name":"Ban Kangtaloung",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.20605,
+    17.0972,
+    106.20605,
+    17.0972
+],
+  "geometry": {"coordinates":[106.20605,17.0972],"type":"Point"}
+}

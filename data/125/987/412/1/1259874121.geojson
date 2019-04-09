@@ -1,0 +1,72 @@
+{
+  "id": 1259874121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.19759,20.15928,102.19759,20.15928",
+    "geom:latitude":20.15928,
+    "geom:longitude":102.19759,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Phounongkhoay",
+    "gn:country_code":"LA",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660780,
+    "gn:latitude":20.15928,
+    "gn:longitude":102.19759,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phounongkhoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nhong Khouai",
+        "Ban Nongkhoay",
+        "Ban Phounongkhoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660780
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1c2440e20567f8a9c096ad0cd3dc0499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1259874121,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1259874121,
+    "wof:lastmodified":1537660429,
+    "wof:name":"Ban Phounongkhoay",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.19759,
+    20.15928,
+    102.19759,
+    20.15928
+],
+  "geometry": {"coordinates":[102.19759000000001,20.15928],"type":"Point"}
+}

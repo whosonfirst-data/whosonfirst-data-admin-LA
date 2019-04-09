@@ -1,0 +1,70 @@
+{
+  "id": 1242895007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18928,20.56027,102.18928,20.56027",
+    "geom:latitude":20.56027,
+    "geom:longitude":102.18928,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Laokou",
+    "gn:country_code":"LA",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954802,
+    "gn:latitude":20.56027,
+    "gn:longitude":102.18928,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Laokou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laokou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954802
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"22b69485d9863474c0aec60c0df16188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1242895007,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1242895007,
+    "wof:lastmodified":1537660777,
+    "wof:name":"Ban Laokou",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18928,
+    20.56027000000001,
+    102.18928,
+    20.56027000000001
+],
+  "geometry": {"coordinates":[102.18928,20.56027000000001],"type":"Point"}
+}

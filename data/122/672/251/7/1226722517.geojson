@@ -1,0 +1,70 @@
+{
+  "id": 1226722517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.09771,21.30131,101.09771,21.30131",
+    "geom:latitude":21.30131,
+    "geom:longitude":101.09771,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Imlakhili",
+    "gn:country_code":"LA",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955630,
+    "gn:latitude":21.30131,
+    "gn:longitude":101.09771,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Imlakhili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Imlakhili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955630
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cba047fadb8252a6fe53973bb4ed3eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1226722517,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1226722517,
+    "wof:lastmodified":1537660798,
+    "wof:name":"Ban Imlakhili",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.09771,
+    21.30131,
+    101.09771,
+    21.30131
+],
+  "geometry": {"coordinates":[101.09771000000001,21.30131],"type":"Point"}
+}

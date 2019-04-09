@@ -1,0 +1,74 @@
+{
+  "id": 1293168081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.26238,15.45005,107.26238,15.45005",
+    "geom:latitude":15.45005,
+    "geom:longitude":107.26238,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakbong",
+    "gn:country_code":"LA",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664652,
+    "gn:latitude":15.45005,
+    "gn:longitude":107.26238,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dakbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dakbong"
+    ],
+    "name:und_x_variant":[
+        "Bong",
+        "Ban Dakbong Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664652
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b208a97d77685ddcafaf352245019e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1293168081,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1293168081,
+    "wof:lastmodified":1537660660,
+    "wof:name":"Ban Dakbong",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.26238,
+    15.45005,
+    107.26238,
+    15.45005
+],
+  "geometry": {"coordinates":[107.26237999999999,15.45005],"type":"Point"}
+}

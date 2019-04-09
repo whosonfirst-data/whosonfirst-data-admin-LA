@@ -1,0 +1,70 @@
+{
+  "id": 1260299117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.39537,15.03179,107.39537,15.03179",
+    "geom:latitude":15.03179,
+    "geom:longitude":107.39537,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Vangtat",
+    "gn:country_code":"LA",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955963,
+    "gn:latitude":15.03179,
+    "gn:longitude":107.39537,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Vangtat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangtat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955963
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"65b1078c5c2acf1d0249f60e88dc4979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1260299117,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1260299117,
+    "wof:lastmodified":1537660808,
+    "wof:name":"Ban Vangtat",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.39537,
+    15.03179,
+    107.39537,
+    15.03179
+],
+  "geometry": {"coordinates":[107.39537,15.03179],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260045487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.70735,16.26665,106.70735,16.26665",
+    "geom:latitude":16.26665,
+    "geom:longitude":106.70735,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Pachoudon",
+    "gn:country_code":"LA",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653679,
+    "gn:latitude":16.26665,
+    "gn:longitude":106.70735,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pachoudon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pachoudon"
+    ],
+    "name:und_x_variant":[
+        "Pou Tiou (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653679
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9fe9ce339c106b1f1fce0a506c111e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1260045487,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1260045487,
+    "wof:lastmodified":1537660210,
+    "wof:name":"Ban Pachoudon",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.70735,
+    16.26665,
+    106.70735,
+    16.26665
+],
+  "geometry": {"coordinates":[106.70735000000001,16.26665],"type":"Point"}
+}

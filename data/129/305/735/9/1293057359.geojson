@@ -1,0 +1,70 @@
+{
+  "id": 1293057359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04587,18.28091,105.04587,18.28091",
+    "geom:latitude":18.28091,
+    "geom:longitude":105.04587,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Namliang",
+    "gn:country_code":"LA",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233017,
+    "gn:latitude":18.28091,
+    "gn:longitude":105.04587,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Namliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namliang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233017
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"63a345c0dd78e9502a0a103e639b4d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1293057359,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1293057359,
+    "wof:lastmodified":1537660934,
+    "wof:name":"Ban Namliang",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04587,
+    18.28091,
+    105.04587,
+    18.28091
+],
+  "geometry": {"coordinates":[105.04586999999999,18.28091],"type":"Point"}
+}

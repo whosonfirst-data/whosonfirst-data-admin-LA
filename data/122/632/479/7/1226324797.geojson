@@ -1,0 +1,70 @@
+{
+  "id": 1226324797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.28928,20.45613,101.28928,20.45613",
+    "geom:latitude":20.45613,
+    "geom:longitude":101.28928,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phoukhang",
+    "gn:country_code":"LA",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956342,
+    "gn:latitude":20.45613,
+    "gn:longitude":101.28928,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phoukhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoukhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956342
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8908fca02c4595aece345ab928f41055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1226324797,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1226324797,
+    "wof:lastmodified":1537660818,
+    "wof:name":"Ban Phoukhang",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.28928,
+    20.45613,
+    101.28928,
+    20.45613
+],
+  "geometry": {"coordinates":[101.28928000000001,20.45613],"type":"Point"}
+}

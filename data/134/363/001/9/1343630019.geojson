@@ -1,0 +1,71 @@
+{
+  "id": 1343630019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19477,18.1352,104.19477,18.1352",
+    "geom:latitude":18.1352,
+    "geom:longitude":104.19477,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nongboua",
+    "gn:country_code":"LA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660870,
+    "gn:latitude":18.1352,
+    "gn:longitude":104.19477,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongboua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Bua",
+        "Ban Nongboua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660870
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c4a9982ff4eb808246969385650ee26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030835,
+            "locality_id":1343630019,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1343630019,
+    "wof:lastmodified":1537660435,
+    "wof:name":"Ban Nongboua",
+    "wof:parent_id":1092030835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19477,
+    18.1352,
+    104.19477,
+    18.1352
+],
+  "geometry": {"coordinates":[104.19477000000001,18.1352],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293756907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91094,17.78183,104.91094,17.78183",
+    "geom:latitude":17.78183,
+    "geom:longitude":104.91094,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Vanghin",
+    "gn:country_code":"LA",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233360,
+    "gn:latitude":17.78183,
+    "gn:longitude":104.91094,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Vanghin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vanghin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233360
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b4e2184e55857ec03212f7dfd44f8e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1293756907,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293756907,
+    "wof:lastmodified":1537660940,
+    "wof:name":"Ban Vanghin",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91094,
+    17.78183,
+    104.91094,
+    17.78183
+],
+  "geometry": {"coordinates":[104.91094,17.78183],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243044209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.81667,20.28333,102.81667,20.28333",
+    "geom:latitude":20.28333,
+    "geom:longitude":102.81667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Mot Va",
+    "gn:country_code":"LA",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662240,
+    "gn:latitude":20.28333,
+    "gn:longitude":102.81667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Mot Va",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662240
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4f3a9a4d721964a3ae972807f4f91c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1243044209,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1243044209,
+    "wof:lastmodified":1536888024,
+    "wof:name":"Ban Mot Va",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.81667,
+    20.28333,
+    102.81667,
+    20.28333
+],
+  "geometry": {"coordinates":[102.81667,20.28333],"type":"Point"}
+}

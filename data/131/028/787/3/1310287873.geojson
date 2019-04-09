@@ -1,0 +1,73 @@
+{
+  "id": 1310287873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38822,17.92998,105.38822,17.92998",
+    "geom:latitude":17.92998,
+    "geom:longitude":105.38822,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Xoklek",
+    "gn:country_code":"LA",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658004,
+    "gn:latitude":17.92998,
+    "gn:longitude":105.38822,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xokl\u00e8k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xokl\u00e8k"
+    ],
+    "name:und_x_variant":[
+        "Ban Sok L\u00e8k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658004
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"74055a39863212ad64240a6c38e31f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1310287873,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310287873,
+    "wof:lastmodified":1537660267,
+    "wof:name":"Ban Xoklek",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38822,
+    17.92998,
+    105.38822,
+    17.92998
+],
+  "geometry": {"coordinates":[105.38822,17.92998],"type":"Point"}
+}

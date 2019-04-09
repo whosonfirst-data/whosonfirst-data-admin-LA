@@ -1,0 +1,74 @@
+{
+  "id": 1293257829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.83995,16.39139,106.83995,16.39139",
+    "geom:latitude":16.39139,
+    "geom:longitude":106.83995,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Toup",
+    "gn:country_code":"LA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665049,
+    "gn:latitude":16.39139,
+    "gn:longitude":106.83995,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Toup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Toup"
+    ],
+    "name:und_x_variant":[
+        "A Trup (3)",
+        "A Trup (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665049
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f04116343a8c24b2dec42d09abf63d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1293257829,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293257829,
+    "wof:lastmodified":1537660681,
+    "wof:name":"Ban Toup",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.83995,
+    16.39139,
+    106.83995,
+    16.39139
+],
+  "geometry": {"coordinates":[106.83995,16.39139],"type":"Point"}
+}

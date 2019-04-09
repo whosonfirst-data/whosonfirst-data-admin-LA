@@ -1,0 +1,64 @@
+{
+  "id": 1209193277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3061,19.80984,103.3061,19.80984",
+    "geom:latitude":19.80984,
+    "geom:longitude":103.3061,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Pen",
+    "gn:country_code":"LA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660334,
+    "gn:latitude":19.80984,
+    "gn:longitude":103.3061,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban P\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban P\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660334
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e21112b39960773ac33b686512152ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209193277
+        }
+    ],
+    "wof:id":1209193277,
+    "wof:lastmodified":1537660401,
+    "wof:name":"Ban Pen",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3061,
+    19.80984,
+    103.3061,
+    19.80984
+],
+  "geometry": {"coordinates":[103.3061,19.80984],"type":"Point"}
+}

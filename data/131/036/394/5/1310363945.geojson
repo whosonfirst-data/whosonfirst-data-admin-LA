@@ -1,0 +1,70 @@
+{
+  "id": 1310363945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48221,20.27854,100.48221,20.27854",
+    "geom:latitude":20.27854,
+    "geom:longitude":100.48221,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Xiangngam",
+    "gn:country_code":"LA",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904428,
+    "gn:latitude":20.27854,
+    "gn:longitude":100.48221,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Xiangngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xiangngam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904428
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3fd749eb8a7ddde61e4c9aa48ac8ba49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1310363945,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1310363945,
+    "wof:lastmodified":1537660686,
+    "wof:name":"Ban Xiangngam",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48221,
+    20.27854,
+    100.48221,
+    20.27854
+],
+  "geometry": {"coordinates":[100.48220999999999,20.27854],"type":"Point"}
+}

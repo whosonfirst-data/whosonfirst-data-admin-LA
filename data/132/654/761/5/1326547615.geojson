@@ -1,0 +1,72 @@
+{
+  "id": 1326547615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75603,15.22559,106.75603,15.22559",
+    "geom:latitude":15.22559,
+    "geom:longitude":106.75603,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Mun-Houamuang",
+    "gn:country_code":"LA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662156,
+    "gn:latitude":15.22559,
+    "gn:longitude":106.75603,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Mun-Houamuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Mun Lan",
+        "Ban Mun Lane",
+        "Ban Mun-Houamuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092028773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662156
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a3d4a523d75db869e95510d8db0c63be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028773,
+            "locality_id":1326547615,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1326547615,
+    "wof:lastmodified":1537660506,
+    "wof:name":"Ban Mun-Houamuang",
+    "wof:parent_id":1092028773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75603,
+    15.22559,
+    106.75603,
+    15.22559
+],
+  "geometry": {"coordinates":[106.75603,15.22559],"type":"Point"}
+}

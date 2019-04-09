@@ -1,0 +1,65 @@
+{
+  "id": 1209623899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8574,14.99434,105.8574,14.99434",
+    "geom:latitude":14.99434,
+    "geom:longitude":105.8574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khonliao",
+    "gn:country_code":"LA",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662917,
+    "gn:latitude":14.99434,
+    "gn:longitude":105.8574,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khonliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Kh\u00f4ne Li\u00e8o",
+        "Ban Khonliao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662917
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7318be08f2f30553aadf049026315c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209623899
+        }
+    ],
+    "wof:id":1209623899,
+    "wof:lastmodified":1537660549,
+    "wof:name":"Ban Khonliao",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8574,
+    14.99434,
+    105.8574,
+    14.99434
+],
+  "geometry": {"coordinates":[105.8574,14.99434],"type":"Point"}
+}

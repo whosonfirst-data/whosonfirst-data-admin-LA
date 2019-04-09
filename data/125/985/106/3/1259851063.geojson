@@ -1,0 +1,70 @@
+{
+  "id": 1259851063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.87617,20.49394,102.87617,20.49394",
+    "geom:latitude":20.49394,
+    "geom:longitude":102.87617,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Donkhoun",
+    "gn:country_code":"LA",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954410,
+    "gn:latitude":20.49394,
+    "gn:longitude":102.87617,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Donkhoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Donkhoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954410
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ef6e4b23797caa54671c4604a7747658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1259851063,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259851063,
+    "wof:lastmodified":1537660765,
+    "wof:name":"Ban Donkhoun",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.87617,
+    20.49394,
+    102.87617,
+    20.49394
+],
+  "geometry": {"coordinates":[102.87617,20.49394],"type":"Point"}
+}

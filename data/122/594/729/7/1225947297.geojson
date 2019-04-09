@@ -1,0 +1,70 @@
+{
+  "id": 1225947297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.87252,14.85466,105.87252,14.85466",
+    "geom:latitude":14.85466,
+    "geom:longitude":105.87252,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Vatlouang-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201336,
+    "gn:latitude":14.85466,
+    "gn:longitude":105.87252,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Vatlouang-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vatlouang-Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201336
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3aa1ce369ec343e1eaf0ab039f52263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":1225947297,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1225947297,
+    "wof:lastmodified":1537660866,
+    "wof:name":"Ban Vatlouang-Kao",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.87252,
+    14.85466,
+    105.87252,
+    14.85466
+],
+  "geometry": {"coordinates":[105.87251999999999,14.85466],"type":"Point"}
+}

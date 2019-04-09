@@ -1,0 +1,70 @@
+{
+  "id": 1243236205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53333,21.03329,101.53333,21.03329",
+    "geom:latitude":21.03329,
+    "geom:longitude":101.53333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Namthoung",
+    "gn:country_code":"LA",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661392,
+    "gn:latitude":21.03329,
+    "gn:longitude":101.53333,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Namthoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Namthoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661392
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6c7bc086128f86e53c8b2902f15ba2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1243236205,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1243236205,
+    "wof:lastmodified":1537660465,
+    "wof:name":"Ban Namthoung",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53333,
+    21.03329,
+    101.53333,
+    21.03329
+],
+  "geometry": {"coordinates":[101.53333000000001,21.03329],"type":"Point"}
+}

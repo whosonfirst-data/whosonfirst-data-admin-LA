@@ -1,0 +1,70 @@
+{
+  "id": 1243155003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0487,17.45556,105.0487,17.45556",
+    "geom:latitude":17.45556,
+    "geom:longitude":105.0487,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phonnadi",
+    "gn:country_code":"LA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233995,
+    "gn:latitude":17.45556,
+    "gn:longitude":105.0487,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nnadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nnadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233995
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ba5c3c9ec35ef1239315d6509e2b8558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1243155003,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1243155003,
+    "wof:lastmodified":1537660944,
+    "wof:name":"Ban Phonnadi",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0487,
+    17.45556,
+    105.0487,
+    17.45556
+],
+  "geometry": {"coordinates":[105.0487,17.45556],"type":"Point"}
+}

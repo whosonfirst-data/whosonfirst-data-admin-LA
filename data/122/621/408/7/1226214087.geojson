@@ -1,0 +1,70 @@
+{
+  "id": 1226214087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.99504,19.551,101.99504,19.551",
+    "geom:latitude":19.551,
+    "geom:longitude":101.99504,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hom",
+    "gn:country_code":"LA",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954331,
+    "gn:latitude":19.551,
+    "gn:longitude":101.99504,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Hom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954331
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"76ba792cab3720c166db93b5121a00d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1226214087,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226214087,
+    "wof:lastmodified":1537660762,
+    "wof:name":"Ban Hom",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.99504,
+    19.551,
+    101.99504,
+    19.551
+],
+  "geometry": {"coordinates":[101.99504,19.551],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225817817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.42937,20.99017,101.42937,20.99017",
+    "geom:latitude":20.99017,
+    "geom:longitude":101.42937,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Thongdi-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957230,
+    "gn:latitude":20.99017,
+    "gn:longitude":101.42937,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Th\u00f4ngdi-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngdi-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957230
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d04d1bbc1477f1ef82e77ea9fdd72db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1225817817,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1225817817,
+    "wof:lastmodified":1537660841,
+    "wof:name":"Ban Thongdi-Mai",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.42937,
+    20.99017000000001,
+    101.42937,
+    20.99017000000001
+],
+  "geometry": {"coordinates":[101.42937000000001,20.99017000000001],"type":"Point"}
+}

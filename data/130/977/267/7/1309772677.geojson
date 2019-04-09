@@ -1,0 +1,70 @@
+{
+  "id": 1309772677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03296,18.63356,102.03296,18.63356",
+    "geom:latitude":18.63356,
+    "geom:longitude":102.03296,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phongneng",
+    "gn:country_code":"LA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231805,
+    "gn:latitude":18.63356,
+    "gn:longitude":102.03296,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4ngn\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4ngn\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231805
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c17955dc92c78e6f290fa7d0f2aaad93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1309772677,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1309772677,
+    "wof:lastmodified":1537660918,
+    "wof:name":"Ban Phongneng",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03296,
+    18.63356,
+    102.03296,
+    18.63356
+],
+  "geometry": {"coordinates":[102.03296,18.63356],"type":"Point"}
+}

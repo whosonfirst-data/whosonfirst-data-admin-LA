@@ -1,0 +1,72 @@
+{
+  "id": 1259441377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.32319,20.40315,100.32319,20.40315",
+    "geom:latitude":20.40315,
+    "geom:longitude":100.32319,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Namgnon-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661581,
+    "gn:latitude":20.40315,
+    "gn:longitude":100.32319,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Namgnon-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nam Nhion",
+        "Ban Namgnon",
+        "Ban Namgnon-Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661581
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a407d2795c2964a8320dd448fddc67e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1259441377,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1259441377,
+    "wof:lastmodified":1537660476,
+    "wof:name":"Ban Namgnon-Kao",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.32319,
+    20.40315,
+    100.32319,
+    20.40315
+],
+  "geometry": {"coordinates":[100.32319,20.40315],"type":"Point"}
+}

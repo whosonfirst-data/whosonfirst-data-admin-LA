@@ -1,0 +1,70 @@
+{
+  "id": 1259737437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48494,18.59146,102.48494,18.59146",
+    "geom:latitude":18.59146,
+    "geom:longitude":102.48494,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Soun Ophomkankha",
+    "gn:country_code":"LA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231927,
+    "gn:latitude":18.59146,
+    "gn:longitude":102.48494,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Soun Oph\u00f4mkankha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Soun Oph\u00f4mkankha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231927
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fb8dbf179de6acc0f730d696c90800b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":1259737437,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259737437,
+    "wof:lastmodified":1537660922,
+    "wof:name":"Soun Ophomkankha",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48494,
+    18.59146,
+    102.48494,
+    18.59146
+],
+  "geometry": {"coordinates":[102.48493999999999,18.59146],"type":"Point"}
+}

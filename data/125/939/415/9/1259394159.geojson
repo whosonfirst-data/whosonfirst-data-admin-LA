@@ -1,0 +1,70 @@
+{
+  "id": 1259394159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.48901,20.6081,103.48901,20.6081",
+    "geom:latitude":20.6081,
+    "geom:longitude":103.48901,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phamon-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11251764,
+    "gn:latitude":20.6081,
+    "gn:longitude":103.48901,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Phamon-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phamon-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11251764
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"25d61e2881df417ff341a3dad566098d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1259394159,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1259394159,
+    "wof:lastmodified":1537660983,
+    "wof:name":"Ban Phamon-Tai",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.48901,
+    20.6081,
+    103.48901,
+    20.6081
+],
+  "geometry": {"coordinates":[103.48900999999999,20.6081],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209509411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94473,21.11532,101.94473,21.11532",
+    "geom:latitude":21.11532,
+    "geom:longitude":101.94473,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Namkeng",
+    "gn:country_code":"LA",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244070,
+    "gn:latitude":21.11532,
+    "gn:longitude":101.94473,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Namk\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namk\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244070
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dc62b4058500376008653efc625d3763",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209509411
+        }
+    ],
+    "wof:id":1209509411,
+    "wof:lastmodified":1537660979,
+    "wof:name":"Ban Namkeng",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94473,
+    21.11532,
+    101.94473,
+    21.11532
+],
+  "geometry": {"coordinates":[101.94473000000001,21.11532],"type":"Point"}
+}

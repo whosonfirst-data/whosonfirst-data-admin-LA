@@ -1,0 +1,70 @@
+{
+  "id": 1193110337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75172,17.55026,105.75172,17.55026",
+    "geom:latitude":17.55026,
+    "geom:longitude":105.75172,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Natong",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661050,
+    "gn:latitude":17.55026,
+    "gn:longitude":105.75172,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nat\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nat\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661050
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b9cbb4a15438c0b94c1a0f0d3459e086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1193110337,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1193110337,
+    "wof:lastmodified":1537660445,
+    "wof:name":"Ban Natong",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75172,
+    17.55026,
+    105.75172,
+    17.55026
+],
+  "geometry": {"coordinates":[105.75172000000001,17.55026],"type":"Point"}
+}

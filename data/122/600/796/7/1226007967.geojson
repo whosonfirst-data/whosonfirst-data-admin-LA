@@ -1,0 +1,70 @@
+{
+  "id": 1226007967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66201,20.99027,102.66201,20.99027",
+    "geom:latitude":20.99027,
+    "geom:longitude":102.66201,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Kading",
+    "gn:country_code":"LA",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954443,
+    "gn:latitude":20.99027,
+    "gn:longitude":102.66201,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Kading",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kading"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954443
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b68ab87457d8c41801df6f6ae28eac57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1226007967,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226007967,
+    "wof:lastmodified":1537660765,
+    "wof:name":"Ban Kading",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66201,
+    20.99027,
+    102.66201,
+    20.99027
+],
+  "geometry": {"coordinates":[102.66201,20.99027],"type":"Point"}
+}

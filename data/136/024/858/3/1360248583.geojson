@@ -1,0 +1,70 @@
+{
+  "id": 1360248583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3558,19.60017,102.3558,19.60017",
+    "geom:latitude":19.60017,
+    "geom:longitude":102.3558,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phialuang",
+    "gn:country_code":"LA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660095,
+    "gn:latitude":19.60017,
+    "gn:longitude":102.3558,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phialuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Phia Luong (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660095
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"95f199a7076dcb74f8cb4679c6037fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1360248583,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1360248583,
+    "wof:lastmodified":1537660388,
+    "wof:name":"Ban Phialuang",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3558,
+    19.60017,
+    102.3558,
+    19.60017
+],
+  "geometry": {"coordinates":[102.3558,19.60017],"type":"Point"}
+}

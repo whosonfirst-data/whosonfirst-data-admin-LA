@@ -1,0 +1,67 @@
+{
+  "id": 1209682999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.13788,15.53517,107.13788,15.53517",
+    "geom:latitude":15.53517,
+    "geom:longitude":107.13788,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Aleun",
+    "gn:country_code":"LA",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1665070,
+    "gn:latitude":15.53517,
+    "gn:longitude":107.13788,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Aleun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Aleun"
+    ],
+    "name:und_x_variant":[
+        "Areung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665070
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5251f1b3b9aba17b2ac4ca5a69d65d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209682999
+        }
+    ],
+    "wof:id":1209682999,
+    "wof:lastmodified":1537660681,
+    "wof:name":"Ban Aleun",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.13788,
+    15.53517,
+    107.13788,
+    15.53517
+],
+  "geometry": {"coordinates":[107.13788,15.53517],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259345319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71969,16.17139,106.71969,16.17139",
+    "geom:latitude":16.17139,
+    "geom:longitude":106.71969,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Xicheng-Phoken",
+    "gn:country_code":"LA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658021,
+    "gn:latitude":16.17139,
+    "gn:longitude":106.71969,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xich\u00e8ng-Phok\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xich\u00e8ng-Phok\u00e8n"
+    ],
+    "name:und_x_variant":[
+        "Xicheng Phoca",
+        "Ban Xich\u00e8ng-Phokayoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658021
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cda8b154c4daab87455bdc3b3fad5474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1259345319,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259345319,
+    "wof:lastmodified":1537660268,
+    "wof:name":"Ban Xicheng-Phoken",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71969,
+    16.17139,
+    106.71969,
+    16.17139
+],
+  "geometry": {"coordinates":[106.71969,16.17139],"type":"Point"}
+}

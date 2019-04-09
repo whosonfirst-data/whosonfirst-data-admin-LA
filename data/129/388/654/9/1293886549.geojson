@@ -1,0 +1,72 @@
+{
+  "id": 1293886549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78333,14.65,105.78333,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":105.78333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Talou",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658946,
+    "gn:latitude":14.65,
+    "gn:longitude":105.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Talou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tal\u00f3",
+        "Ban Talou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658946
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8ddb96fecb06223bfb576da4cc5c07c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1293886549,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293886549,
+    "wof:lastmodified":1537660325,
+    "wof:name":"Ban Talou",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78333,
+    14.65,
+    105.78333,
+    14.65
+],
+  "geometry": {"coordinates":[105.78333000000001,14.65],"type":"Point"}
+}

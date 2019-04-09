@@ -1,0 +1,73 @@
+{
+  "id": 1226756501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80798,15.24699,105.80798,15.24699",
+    "geom:latitude":15.24699,
+    "geom:longitude":105.80798,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Phouthong-loum",
+    "gn:country_code":"LA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659732,
+    "gn:latitude":15.24699,
+    "gn:longitude":105.80798,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phouthong-loum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phouthong-loum"
+    ],
+    "name:und_x_variant":[
+        "Ban Phoutoungloung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659732
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7f187f5703ac7f5aa0400ea5492a4f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1226756501,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226756501,
+    "wof:lastmodified":1537660368,
+    "wof:name":"Ban Phouthong-loum",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80798,
+    15.24699,
+    105.80798,
+    15.24699
+],
+  "geometry": {"coordinates":[105.80798,15.24699],"type":"Point"}
+}

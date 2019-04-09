@@ -1,0 +1,64 @@
+{
+  "id": 1209015953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19622,20.23068,104.19622,20.23068",
+    "geom:latitude":20.23068,
+    "geom:longitude":104.19622,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Khoun",
+    "gn:country_code":"LA",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956886,
+    "gn:latitude":20.23068,
+    "gn:longitude":104.19622,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Khoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956886
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"13f348bd04db06cbe2ca012a2f80dddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209015953
+        }
+    ],
+    "wof:id":1209015953,
+    "wof:lastmodified":1537660833,
+    "wof:name":"Ban Khoun",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19622,
+    20.23068,
+    104.19622,
+    20.23068
+],
+  "geometry": {"coordinates":[104.19622,20.23068],"type":"Point"}
+}

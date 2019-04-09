@@ -1,0 +1,70 @@
+{
+  "id": 1193251511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.47323,17.66165,104.47323,17.66165",
+    "geom:latitude":17.66165,
+    "geom:longitude":104.47323,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Houaydua",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663485,
+    "gn:latitude":17.66165,
+    "gn:longitude":104.47323,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houaydua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Huai Dua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663485
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c2aa90e56129c4c416d493d548a572fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1193251511,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1193251511,
+    "wof:lastmodified":1537660582,
+    "wof:name":"Ban Houaydua",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.47323,
+    17.66165,
+    104.47323,
+    17.66165
+],
+  "geometry": {"coordinates":[104.47323,17.66165],"type":"Point"}
+}

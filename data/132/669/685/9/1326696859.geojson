@@ -1,0 +1,70 @@
+{
+  "id": 1326696859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55406,18.25246,102.55406,18.25246",
+    "geom:latitude":18.25246,
+    "geom:longitude":102.55406,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Choum",
+    "gn:country_code":"LA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664678,
+    "gn:latitude":18.25246,
+    "gn:longitude":102.55406,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Choum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Choum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664678
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f5d12f61f4e83368a81ad64b1a844196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1326696859,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1326696859,
+    "wof:lastmodified":1537660661,
+    "wof:name":"Ban Choum",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55406,
+    18.25246,
+    102.55406,
+    18.25246
+],
+  "geometry": {"coordinates":[102.55406000000001,18.25246],"type":"Point"}
+}

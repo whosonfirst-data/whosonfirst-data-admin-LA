@@ -1,0 +1,70 @@
+{
+  "id": 1309772209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3326,21.39667,102.3326,21.39667",
+    "geom:latitude":21.39667,
+    "geom:longitude":102.3326,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Lasamungti",
+    "gn:country_code":"LA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662550,
+    "gn:latitude":21.39667,
+    "gn:longitude":102.3326,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Lasamungti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Lasamungti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662550
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"50a19c29b1a9da7aaf74dfee756960cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1309772209,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1309772209,
+    "wof:lastmodified":1537660528,
+    "wof:name":"Ban Lasamungti",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3326,
+    21.39667,
+    102.3326,
+    21.39667
+],
+  "geometry": {"coordinates":[102.3326,21.39667],"type":"Point"}
+}

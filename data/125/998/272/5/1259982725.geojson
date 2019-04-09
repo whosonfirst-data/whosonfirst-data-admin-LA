@@ -1,0 +1,73 @@
+{
+  "id": 1259982725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81786,15.26667,105.81786,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":105.81786,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Campi",
+    "gn:country_code":"LA",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664749,
+    "gn:latitude":15.26667,
+    "gn:longitude":105.81786,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Campi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Campi"
+    ],
+    "name:und_x_variant":[
+        "Ban Champi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664749
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c33c3652bd886f346f9967b860e67888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1259982725,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1259982725,
+    "wof:lastmodified":1537660665,
+    "wof:name":"Ban Campi",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81786,
+    15.26667,
+    105.81786,
+    15.26667
+],
+  "geometry": {"coordinates":[105.81786,15.26667],"type":"Point"}
+}

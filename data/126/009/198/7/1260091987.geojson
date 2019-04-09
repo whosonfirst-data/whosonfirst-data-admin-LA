@@ -1,0 +1,72 @@
+{
+  "id": 1260091987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.56727,20.13975,103.56727,20.13975",
+    "geom:latitude":20.13975,
+    "geom:longitude":103.56727,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Muanglap",
+    "gn:country_code":"LA",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655182,
+    "gn:latitude":20.13975,
+    "gn:longitude":103.56727,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Muanglap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong Lap",
+        "Muang Lap",
+        "Ban Muanglap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655182
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"275d39ec2bac489df525d6636b4cffcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1260091987,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1260091987,
+    "wof:lastmodified":1537660237,
+    "wof:name":"Ban Muanglap",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.56727,
+    20.13975,
+    103.56727,
+    20.13975
+],
+  "geometry": {"coordinates":[103.56726999999999,20.13975],"type":"Point"}
+}

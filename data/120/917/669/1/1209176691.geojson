@@ -1,0 +1,65 @@
+{
+  "id": 1209176691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79498,15.47518,105.79498,15.47518",
+    "geom:latitude":15.47518,
+    "geom:longitude":105.79498,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Pakthouang",
+    "gn:country_code":"LA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660445,
+    "gn:latitude":15.47518,
+    "gn:longitude":105.79498,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Pakthouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pak Touang",
+        "Ban Pakthouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660445
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"518f9b19dec2028b07159aee8dd8dcd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209176691
+        }
+    ],
+    "wof:id":1209176691,
+    "wof:lastmodified":1537660408,
+    "wof:name":"Ban Pakthouang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79498,
+    15.47518,
+    105.79498,
+    15.47518
+],
+  "geometry": {"coordinates":[105.79498,15.47518],"type":"Point"}
+}

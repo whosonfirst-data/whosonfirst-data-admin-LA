@@ -1,0 +1,67 @@
+{
+  "id": 1310017369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08333,20.68333,104.08333,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":104.08333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Sanone",
+    "gn:country_code":"LA",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659416,
+    "gn:latitude":20.68333,
+    "gn:longitude":104.08333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Sanone",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659416
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b521fa1ce20c349b84d1f1f061506e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1310017369,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1310017369,
+    "wof:lastmodified":1536624173,
+    "wof:name":"Ban Sanone",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08333,
+    20.68333,
+    104.08333,
+    20.68333
+],
+  "geometry": {"coordinates":[104.08333,20.68333],"type":"Point"}
+}

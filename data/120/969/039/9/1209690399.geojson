@@ -1,0 +1,66 @@
+{
+  "id": 1209690399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45108,16.66297,106.45108,16.66297",
+    "geom:latitude":16.66297,
+    "geom:longitude":106.45108,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Laplit",
+    "gn:country_code":"LA",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662560,
+    "gn:latitude":16.66297,
+    "gn:longitude":106.45108,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Laplit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lang Prit",
+        "Ban Laprit",
+        "Ban Laplit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662560
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a4a81fa8f6ac5e5bea4045d31fa704d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209690399
+        }
+    ],
+    "wof:id":1209690399,
+    "wof:lastmodified":1537660529,
+    "wof:name":"Ban Laplit",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45108,
+    16.66297,
+    106.45108,
+    16.66297
+],
+  "geometry": {"coordinates":[106.45108,16.66297],"type":"Point"}
+}

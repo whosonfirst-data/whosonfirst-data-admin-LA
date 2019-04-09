@@ -1,0 +1,70 @@
+{
+  "id": 1260076943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81114,20.58597,101.81114,20.58597",
+    "geom:latitude":20.58597,
+    "geom:longitude":101.81114,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokchak-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953712,
+    "gn:latitude":20.58597,
+    "gn:longitude":101.81114,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4kchak-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kchak-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953712
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"841bab6bddc2e8e341e66c2e54a2e03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1260076943,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1260076943,
+    "wof:lastmodified":1537660749,
+    "wof:name":"Ban Mokchak-Tai",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81114,
+    20.58597,
+    101.81114,
+    20.58597
+],
+  "geometry": {"coordinates":[101.81113999999999,20.58597],"type":"Point"}
+}

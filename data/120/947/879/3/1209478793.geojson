@@ -1,0 +1,64 @@
+{
+  "id": 1209478793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.56524,19.87796,102.56524,19.87796",
+    "geom:latitude":19.87796,
+    "geom:longitude":102.56524,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houaydoy",
+    "gn:country_code":"LA",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957009,
+    "gn:latitude":19.87796,
+    "gn:longitude":102.56524,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Houayd\u00f4y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayd\u00f4y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957009
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e0eb92f32ae32ca00f45d16bfcaf3aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209478793
+        }
+    ],
+    "wof:id":1209478793,
+    "wof:lastmodified":1537660835,
+    "wof:name":"Ban Houaydoy",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.56524,
+    19.87796,
+    102.56524,
+    19.87796
+],
+  "geometry": {"coordinates":[102.56524,19.87796],"type":"Point"}
+}

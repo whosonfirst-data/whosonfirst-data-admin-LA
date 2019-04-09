@@ -1,0 +1,70 @@
+{
+  "id": 1276295273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08454,19.59975,102.08454,19.59975",
+    "geom:latitude":19.59975,
+    "geom:longitude":102.08454,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Nalin",
+    "gn:country_code":"LA",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952456,
+    "gn:latitude":19.59975,
+    "gn:longitude":102.08454,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Nalin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nalin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952456
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a9ec29355a2fbaf7f9edf2b6e412342e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1276295273,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276295273,
+    "wof:lastmodified":1537660719,
+    "wof:name":"Ban Nalin",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08454,
+    19.59975,
+    102.08454,
+    19.59975
+],
+  "geometry": {"coordinates":[102.08454,19.59975],"type":"Point"}
+}

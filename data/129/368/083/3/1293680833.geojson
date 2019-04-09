@@ -1,0 +1,70 @@
+{
+  "id": 1293680833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39811,20.12383,101.39811,20.12383",
+    "geom:latitude":20.12383,
+    "geom:longitude":101.39811,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokkalai",
+    "gn:country_code":"LA",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11246741,
+    "gn:latitude":20.12383,
+    "gn:longitude":101.39811,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban M\u00f4kkalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kkalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11246741
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"03f9d72c007ad8c2082ce44624de211e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1293680833,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293680833,
+    "wof:lastmodified":1537660982,
+    "wof:name":"Ban Mokkalai",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39811,
+    20.12383,
+    101.39811,
+    20.12383
+],
+  "geometry": {"coordinates":[101.39811,20.12383],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243175045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98259,13.97618,105.98259,13.97618",
+    "geom:latitude":13.97618,
+    "geom:longitude":105.98259,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thakho",
+    "gn:country_code":"LA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202867,
+    "gn:latitude":13.97618,
+    "gn:longitude":105.98259,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Thakho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thakho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202867
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"babb55bd12e9765742844b498c61bcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1243175045,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1243175045,
+    "wof:lastmodified":1537660874,
+    "wof:name":"Ban Thakho",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98259,
+    13.97618,
+    105.98259,
+    13.97618
+],
+  "geometry": {"coordinates":[105.98259,13.97618],"type":"Point"}
+}

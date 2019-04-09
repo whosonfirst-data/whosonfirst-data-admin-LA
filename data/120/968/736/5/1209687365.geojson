@@ -1,0 +1,64 @@
+{
+  "id": 1209687365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.19427,19.80209,102.19427,19.80209",
+    "geom:latitude":19.80209,
+    "geom:longitude":102.19427,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Simoungkhoun",
+    "gn:country_code":"LA",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223810,
+    "gn:latitude":19.80209,
+    "gn:longitude":102.19427,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Simoungkhoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Simoungkhoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223810
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5298ededc4c50185408a5316da38b15c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209687365
+        }
+    ],
+    "wof:id":1209687365,
+    "wof:lastmodified":1537660902,
+    "wof:name":"Ban Simoungkhoun",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.19427,
+    19.80209,
+    102.19427,
+    19.80209
+],
+  "geometry": {"coordinates":[102.19427,19.80209],"type":"Point"}
+}

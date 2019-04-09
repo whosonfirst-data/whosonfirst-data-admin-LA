@@ -1,0 +1,70 @@
+{
+  "id": 1293386779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.36411,20.25518,101.36411,20.25518",
+    "geom:latitude":20.25518,
+    "geom:longitude":101.36411,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Dongbang",
+    "gn:country_code":"LA",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951861,
+    "gn:latitude":20.25518,
+    "gn:longitude":101.36411,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban D\u00f4ngbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00f4ngbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951861
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1cfd933784917d8fef13c71acbba0238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1293386779,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293386779,
+    "wof:lastmodified":1537660708,
+    "wof:name":"Ban Dongbang",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.36411,
+    20.25518,
+    101.36411,
+    20.25518
+],
+  "geometry": {"coordinates":[101.36411,20.25518],"type":"Point"}
+}

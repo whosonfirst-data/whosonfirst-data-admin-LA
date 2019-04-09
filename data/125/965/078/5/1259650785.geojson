@@ -1,0 +1,70 @@
+{
+  "id": 1259650785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.10081,15.43472,107.10081,15.43472",
+    "geom:latitude":15.43472,
+    "geom:longitude":107.10081,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Pasao-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200451,
+    "gn:latitude":15.43472,
+    "gn:longitude":107.10081,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Pasao-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pasao-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200451
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bfa924337989c50b761b04f627d22391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1259650785,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1259650785,
+    "wof:lastmodified":1537660859,
+    "wof:name":"Ban Pasao-Tai",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.10081,
+    15.43472,
+    107.10081,
+    15.43472
+],
+  "geometry": {"coordinates":[107.10081,15.43472],"type":"Point"}
+}

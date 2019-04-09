@@ -1,0 +1,70 @@
+{
+  "id": 1276510567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48649,19.37398,102.48649,19.37398",
+    "geom:latitude":19.37398,
+    "geom:longitude":102.48649,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phokhamkeut",
+    "gn:country_code":"LA",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660016,
+    "gn:latitude":19.37398,
+    "gn:longitude":102.48649,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phokhamkeut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phokhamkeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660016
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bc43c1462107dba5646d9e5590438d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1276510567,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276510567,
+    "wof:lastmodified":1537660384,
+    "wof:name":"Ban Phokhamkeut",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48649,
+    19.37398,
+    102.48649,
+    19.37398
+],
+  "geometry": {"coordinates":[102.48649,19.37398],"type":"Point"}
+}

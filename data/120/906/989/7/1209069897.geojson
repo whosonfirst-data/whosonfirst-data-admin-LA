@@ -1,0 +1,66 @@
+{
+  "id": 1209069897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66022,20.65228,102.66022,20.65228",
+    "geom:latitude":20.65228,
+    "geom:longitude":102.66022,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sopkong",
+    "gn:country_code":"LA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653058,
+    "gn:latitude":20.65228,
+    "gn:longitude":102.66022,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00f4pkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sop Keng",
+        "Sop Kong",
+        "Ban S\u00f4pkong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653058
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"542afa3566223b699f72cf9b803a0d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209069897
+        }
+    ],
+    "wof:id":1209069897,
+    "wof:lastmodified":1537660202,
+    "wof:name":"Ban Sopkong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66022,
+    20.65228,
+    102.66022,
+    20.65228
+],
+  "geometry": {"coordinates":[102.66022,20.65228],"type":"Point"}
+}

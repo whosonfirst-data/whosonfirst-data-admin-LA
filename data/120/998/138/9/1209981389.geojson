@@ -1,0 +1,70 @@
+{
+  "id": 1209981389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55572,16.60178,106.55572,16.60178",
+    "geom:latitude":16.60178,
+    "geom:longitude":106.55572,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kokkou",
+    "gn:country_code":"LA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236505,
+    "gn:latitude":16.60178,
+    "gn:longitude":106.55572,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban K\u00f4kkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00f4kkou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236505
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4bc78a26498a714a3fa7fe058c47370c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1209981389,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1209981389,
+    "wof:lastmodified":1537660958,
+    "wof:name":"Ban Kokkou",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55572,
+    16.60178,
+    106.55572,
+    16.60178
+],
+  "geometry": {"coordinates":[106.55571999999999,16.60178],"type":"Point"}
+}

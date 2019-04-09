@@ -1,0 +1,70 @@
+{
+  "id": 1309753703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.27411,19.24383,102.27411,19.24383",
+    "geom:latitude":19.24383,
+    "geom:longitude":102.27411,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Menmang",
+    "gn:country_code":"LA",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227521,
+    "gn:latitude":19.24383,
+    "gn:longitude":102.27411,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban M\u00e8nmang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00e8nmang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227521
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7ff128919b71be1c9bff7852c3c8bcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1309753703,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1309753703,
+    "wof:lastmodified":1537660908,
+    "wof:name":"Ban Menmang",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27411,
+    19.24383,
+    102.27411,
+    19.24383
+],
+  "geometry": {"coordinates":[102.27410999999999,19.24383],"type":"Point"}
+}

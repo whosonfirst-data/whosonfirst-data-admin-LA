@@ -1,0 +1,74 @@
+{
+  "id": 1310397277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21024,20.94863,102.21024,20.94863",
+    "geom:latitude":20.94863,
+    "geom:longitude":102.21024,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Sopchay",
+    "gn:country_code":"LA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657068,
+    "gn:latitude":20.94863,
+    "gn:longitude":102.21024,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00f4pchay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4pchay"
+    ],
+    "name:und_x_variant":[
+        "Houei Kay",
+        "Houay Khai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657068
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9ebe367f53c9f9f38632ca8b8f322dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1310397277,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1310397277,
+    "wof:lastmodified":1537660256,
+    "wof:name":"Ban Sopchay",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21024,
+    20.94863,
+    102.21024,
+    20.94863
+],
+  "geometry": {"coordinates":[102.21024,20.94863],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209081369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06667,16.3,107.06667,16.3",
+    "geom:latitude":16.3,
+    "geom:longitude":107.06667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lang Ha",
+    "gn:country_code":"LA",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655912,
+    "gn:latitude":16.3,
+    "gn:longitude":107.06667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"L\u00e0ng Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655912
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"611fdc0e99837010a404841ba238e0d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209081369
+        }
+    ],
+    "wof:id":1209081369,
+    "wof:lastmodified":1536298326,
+    "wof:name":"Lang Ha",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06667,
+    16.3,
+    107.06667,
+    16.3
+],
+  "geometry": {"coordinates":[107.06667,16.3],"type":"Point"}
+}

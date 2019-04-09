@@ -1,0 +1,78 @@
+{
+  "id": 1276946167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21349,18.27937,103.21349,18.27937",
+    "geom:latitude":18.27937,
+    "geom:longitude":103.21349,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Thoay-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658519,
+    "gn:latitude":18.27937,
+    "gn:longitude":103.21349,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thoay-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thoay-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Thoue",
+        "Ban Thouei",
+        "Ban Toay",
+        "Ban Thouay-gnai",
+        "Ban Thon",
+        "Ban Thoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092031501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658519
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a8736c6b24870be0e47c010d5a7dcd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031501,
+            "locality_id":1276946167,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1276946167,
+    "wof:lastmodified":1537660301,
+    "wof:name":"Ban Thoay-Gnai",
+    "wof:parent_id":1092031501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21349,
+    18.27937,
+    103.21349,
+    18.27937
+],
+  "geometry": {"coordinates":[103.21348999999999,18.27937],"type":"Point"}
+}

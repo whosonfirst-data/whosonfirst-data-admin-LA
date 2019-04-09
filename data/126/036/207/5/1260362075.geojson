@@ -1,0 +1,70 @@
+{
+  "id": 1260362075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3628,20.4711,101.3628,20.4711",
+    "geom:latitude":20.4711,
+    "geom:longitude":101.3628,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Moktou",
+    "gn:country_code":"LA",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956332,
+    "gn:latitude":20.4711,
+    "gn:longitude":101.3628,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4ktou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4ktou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956332
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0b58f624edcd7c96f79ec44efbc43e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1260362075,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1260362075,
+    "wof:lastmodified":1537660818,
+    "wof:name":"Ban Moktou",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3628,
+    20.4711,
+    101.3628,
+    20.4711
+],
+  "geometry": {"coordinates":[101.36279999999999,20.4711],"type":"Point"}
+}

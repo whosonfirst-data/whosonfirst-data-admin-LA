@@ -1,0 +1,67 @@
+{
+  "id": 1309675603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.80444,19.60472,101.80444,19.60472",
+    "geom:latitude":19.60472,
+    "geom:longitude":101.80444,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Khole",
+    "gn:country_code":"LA",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662940,
+    "gn:latitude":19.60472,
+    "gn:longitude":101.80444,
+    "gn:modification_date":"2001-06-04",
+    "gn:name":"Ban Khol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662940
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3144e8b92a51f926a02ad91c62c43079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1309675603,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309675603,
+    "wof:lastmodified":1536619853,
+    "wof:name":"Ban Khole",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.80444,
+    19.60472,
+    101.80444,
+    19.60472
+],
+  "geometry": {"coordinates":[101.80444,19.60472],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242746609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88375,18.39904,104.88375,18.39904",
+    "geom:latitude":18.39904,
+    "geom:longitude":104.88375,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Phonthat",
+    "gn:country_code":"LA",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232474,
+    "gn:latitude":18.39904,
+    "gn:longitude":104.88375,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nthat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nthat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232474
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5505741366ac8cdba8ec131a2d88fb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1242746609,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1242746609,
+    "wof:lastmodified":1537660929,
+    "wof:name":"Ban Phonthat",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88375,
+    18.39904,
+    104.88375,
+    18.39904
+],
+  "geometry": {"coordinates":[104.88375000000001,18.39904],"type":"Point"}
+}

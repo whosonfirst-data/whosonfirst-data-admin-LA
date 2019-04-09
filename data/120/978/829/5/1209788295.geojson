@@ -1,0 +1,70 @@
+{
+  "id": 1209788295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38023,20.43379,101.38023,20.43379",
+    "geom:latitude":20.43379,
+    "geom:longitude":101.38023,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Non",
+    "gn:country_code":"LA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660899,
+    "gn:latitude":20.43379,
+    "gn:longitude":101.38023,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Non",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Non"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660899
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"85e90eef58c6a7b99b04ae1928ab75d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1209788295,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1209788295,
+    "wof:lastmodified":1537660436,
+    "wof:name":"Ban Non",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38023,
+    20.43379,
+    101.38023,
+    20.43379
+],
+  "geometry": {"coordinates":[101.38023,20.43379],"type":"Point"}
+}

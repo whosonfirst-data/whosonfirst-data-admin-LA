@@ -1,0 +1,71 @@
+{
+  "id": 1259366363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75067,19.89291,103.75067,19.89291",
+    "geom:latitude":19.89291,
+    "geom:longitude":103.75067,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Hintat",
+    "gn:country_code":"LA",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664058,
+    "gn:latitude":19.89291,
+    "gn:longitude":103.75067,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hintat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Hine Tat",
+        "Ban Hintat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664058
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"31385f5bcf5fd7a0e38ea02128a848fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1259366363,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1259366363,
+    "wof:lastmodified":1537660624,
+    "wof:name":"Ban Hintat",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75067,
+    19.89291,
+    103.75067,
+    19.89291
+],
+  "geometry": {"coordinates":[103.75067,19.89291],"type":"Point"}
+}

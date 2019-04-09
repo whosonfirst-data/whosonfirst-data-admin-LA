@@ -1,0 +1,64 @@
+{
+  "id": 1209235849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.57089,20.74046,101.57089,20.74046",
+    "geom:latitude":20.74046,
+    "geom:longitude":101.57089,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Pangkhoay",
+    "gn:country_code":"LA",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956192,
+    "gn:latitude":20.74046,
+    "gn:longitude":101.57089,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Pangkhoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pangkhoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956192
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5daae8178c7a17874b4addb8cddeba7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209235849
+        }
+    ],
+    "wof:id":1209235849,
+    "wof:lastmodified":1537660813,
+    "wof:name":"Ban Pangkhoay",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.57089,
+    20.74046,
+    101.57089,
+    20.74046
+],
+  "geometry": {"coordinates":[101.57089000000001,20.74046],"type":"Point"}
+}

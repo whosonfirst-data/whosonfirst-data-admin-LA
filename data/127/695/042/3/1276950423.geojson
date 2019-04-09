@@ -1,0 +1,70 @@
+{
+  "id": 1276950423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25374,21.1638,101.25374,21.1638",
+    "geom:latitude":21.1638,
+    "geom:longitude":101.25374,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Namdekloung",
+    "gn:country_code":"LA",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955689,
+    "gn:latitude":21.1638,
+    "gn:longitude":101.25374,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Namd\u00e9kloung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namd\u00e9kloung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955689
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8fe3dd7c1326ba905a4c8e067701deda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1276950423,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276950423,
+    "wof:lastmodified":1537660800,
+    "wof:name":"Ban Namdekloung",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25374,
+    21.1638,
+    101.25374,
+    21.1638
+],
+  "geometry": {"coordinates":[101.25373999999999,21.1638],"type":"Point"}
+}

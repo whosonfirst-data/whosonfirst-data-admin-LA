@@ -1,0 +1,67 @@
+{
+  "id": 1276880597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,20.16667,103.8,20.16667",
+    "geom:latitude":20.16667,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Meo Khang Khao",
+    "gn:country_code":"LA",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662299,
+    "gn:latitude":20.16667,
+    "gn:longitude":103.8,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban M\u00eao Khang Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662299
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a36a4382df366a801a5b3fc6f08f7c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1276880597,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1276880597,
+    "wof:lastmodified":1537038451,
+    "wof:name":"Ban Meo Khang Khao",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    20.16667,
+    103.8,
+    20.16667
+],
+  "geometry": {"coordinates":[103.8,20.16667],"type":"Point"}
+}

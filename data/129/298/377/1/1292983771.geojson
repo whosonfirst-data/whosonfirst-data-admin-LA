@@ -1,0 +1,74 @@
+{
+  "id": 1292983771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.97447,17.63777,104.97447,17.63777",
+    "geom:latitude":17.63777,
+    "geom:longitude":104.97447,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Pomkhoun-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659684,
+    "gn:latitude":17.63777,
+    "gn:longitude":104.97447,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pomkhoun-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pomkhoun-Mai"
+    ],
+    "name:und_x_variant":[
+        "Ban Pom Khun",
+        "Ban Pomkhoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659684
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d91ba4e071ecfcf33f93093ddc04ca1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":1292983771,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1292983771,
+    "wof:lastmodified":1537660366,
+    "wof:name":"Ban Pomkhoun-Mai",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.97447,
+    17.63777,
+    104.97447,
+    17.63777
+],
+  "geometry": {"coordinates":[104.97447,17.63777],"type":"Point"}
+}

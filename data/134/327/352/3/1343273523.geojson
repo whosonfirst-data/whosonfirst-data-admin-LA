@@ -1,0 +1,73 @@
+{
+  "id": 1343273523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.66518,19.97116,104.66518,19.97116",
+    "geom:latitude":19.97116,
+    "geom:longitude":104.66518,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Muangphat",
+    "gn:country_code":"LA",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655129,
+    "gn:latitude":19.97116,
+    "gn:longitude":104.66518,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Muangphat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Phat",
+        "Muong Phat",
+        "Mo Phat",
+        "Ban Muangphat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655129
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"11c6f04d1ced41f05a3608411afd2838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1343273523,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1343273523,
+    "wof:lastmodified":1537660231,
+    "wof:name":"Ban Muangphat",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.66518,
+    19.97116,
+    104.66518,
+    19.97116
+],
+  "geometry": {"coordinates":[104.66518000000001,19.97116],"type":"Point"}
+}

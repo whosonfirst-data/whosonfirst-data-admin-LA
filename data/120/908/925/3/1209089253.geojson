@@ -1,0 +1,64 @@
+{
+  "id": 1209089253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43926,17.97156,104.43926,17.97156",
+    "geom:latitude":17.97156,
+    "geom:longitude":104.43926,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phahang Nua",
+    "gn:country_code":"LA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233251,
+    "gn:latitude":17.97156,
+    "gn:longitude":104.43926,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phahang Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phahang Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233251
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d29d539dc58bfa98a214d96352ec9a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209089253
+        }
+    ],
+    "wof:id":1209089253,
+    "wof:lastmodified":1537660938,
+    "wof:name":"Ban Phahang Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43926,
+    17.97156,
+    104.43926,
+    17.97156
+],
+  "geometry": {"coordinates":[104.43926,17.97156],"type":"Point"}
+}

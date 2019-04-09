@@ -1,0 +1,70 @@
+{
+  "id": 1276348481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.15453,15.28371,106.15453,15.28371",
+    "geom:latitude":15.28371,
+    "geom:longitude":106.15453,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Phoudin",
+    "gn:country_code":"LA",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200582,
+    "gn:latitude":15.28371,
+    "gn:longitude":106.15453,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Phoudin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoudin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200582
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c8891f8b32fad75ddfb4dcf0e95ce2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028479,
+            "locality_id":1276348481,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1276348481,
+    "wof:lastmodified":1537660860,
+    "wof:name":"Ban Phoudin",
+    "wof:parent_id":1092028479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.15453,
+    15.28371,
+    106.15453,
+    15.28371
+],
+  "geometry": {"coordinates":[106.15452999999999,15.28371],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226821533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53621,20.51381,101.53621,20.51381",
+    "geom:latitude":20.51381,
+    "geom:longitude":101.53621,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Nalok",
+    "gn:country_code":"LA",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953771,
+    "gn:latitude":20.51381,
+    "gn:longitude":101.53621,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Nalok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nalok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953771
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"45fea681549f9ca04fa9491b66bbd065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1226821533,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1226821533,
+    "wof:lastmodified":1537660751,
+    "wof:name":"Ban Nalok",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53621,
+    20.51381,
+    101.53621,
+    20.51381
+],
+  "geometry": {"coordinates":[101.53621,20.51381],"type":"Point"}
+}

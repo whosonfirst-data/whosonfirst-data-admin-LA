@@ -1,0 +1,70 @@
+{
+  "id": 1360155039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.79864,17.64182,104.79864,17.64182",
+    "geom:latitude":17.64182,
+    "geom:longitude":104.79864,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nakhu",
+    "gn:country_code":"LA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661739,
+    "gn:latitude":17.64182,
+    "gn:longitude":104.79864,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nakhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakhu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661739
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ec89fc725bf9d07e4b62460290385d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1360155039,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1360155039,
+    "wof:lastmodified":1537660484,
+    "wof:name":"Ban Nakhu",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.79864,
+    17.64182000000001,
+    104.79864,
+    17.64182000000001
+],
+  "geometry": {"coordinates":[104.79864000000001,17.64182000000001],"type":"Point"}
+}

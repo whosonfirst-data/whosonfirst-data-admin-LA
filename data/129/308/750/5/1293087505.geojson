@@ -1,0 +1,70 @@
+{
+  "id": 1293087505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05002,19.8236,101.05002,19.8236",
+    "geom:latitude":19.8236,
+    "geom:longitude":101.05002,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Phougnaykha",
+    "gn:country_code":"LA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953198,
+    "gn:latitude":19.8236,
+    "gn:longitude":101.05002,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Phougnaykha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phougnaykha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953198
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5c566116fafc889956483048f263285a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1293087505,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1293087505,
+    "wof:lastmodified":1537660734,
+    "wof:name":"Ban Phougnaykha",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05002,
+    19.8236,
+    101.05002,
+    19.8236
+],
+  "geometry": {"coordinates":[101.05002,19.8236],"type":"Point"}
+}

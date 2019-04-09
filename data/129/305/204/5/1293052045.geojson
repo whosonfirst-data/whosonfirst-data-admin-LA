@@ -1,0 +1,71 @@
+{
+  "id": 1293052045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.08228,18.6753,103.08228,18.6753",
+    "geom:latitude":18.6753,
+    "geom:longitude":103.08228,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Xiangmi",
+    "gn:country_code":"LA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658038,
+    "gn:latitude":18.6753,
+    "gn:longitude":103.08228,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Xiangmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Xieng Mi",
+        "Ban Xiangmi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658038
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c2a9629e738b9593cab1c35ffeae7fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027153,
+            "locality_id":1293052045,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293052045,
+    "wof:lastmodified":1537660270,
+    "wof:name":"Ban Xiangmi",
+    "wof:parent_id":1092027153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.08228,
+    18.6753,
+    103.08228,
+    18.6753
+],
+  "geometry": {"coordinates":[103.08228,18.6753],"type":"Point"}
+}

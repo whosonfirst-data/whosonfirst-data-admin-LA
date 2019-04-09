@@ -1,0 +1,71 @@
+{
+  "id": 1343532255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.65378,19.36516,103.65378,19.36516",
+    "geom:latitude":19.36516,
+    "geom:longitude":103.65378,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nongkia",
+    "gn:country_code":"LA",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660777,
+    "gn:latitude":19.36516,
+    "gn:longitude":103.65378,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongkia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Non Kia",
+        "Ban Nongkia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660777
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bfe603a32caa9ebd03871fed03b13f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1343532255,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343532255,
+    "wof:lastmodified":1537660428,
+    "wof:name":"Ban Nongkia",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.65378,
+    19.36516,
+    103.65378,
+    19.36516
+],
+  "geometry": {"coordinates":[103.65378,19.36516],"type":"Point"}
+}

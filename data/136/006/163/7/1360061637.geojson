@@ -1,0 +1,72 @@
+{
+  "id": 1360061637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48333,20.08333,102.48333,20.08333",
+    "geom:latitude":20.08333,
+    "geom:longitude":102.48333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Lassa",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662544,
+    "gn:latitude":20.08333,
+    "gn:longitude":102.48333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Lassa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Lasso",
+        "Ban Lassa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662544
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ff12655da4398ee8f5e1f7d2a855b85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1360061637,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1360061637,
+    "wof:lastmodified":1537660528,
+    "wof:name":"Ban Lassa",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48333,
+    20.08333,
+    102.48333,
+    20.08333
+],
+  "geometry": {"coordinates":[102.48333,20.08333],"type":"Point"}
+}

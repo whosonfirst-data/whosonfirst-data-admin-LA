@@ -1,0 +1,73 @@
+{
+  "id": 1226619373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23574,17.96148,105.23574,17.96148",
+    "geom:latitude":17.96148,
+    "geom:longitude":105.23574,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Navang",
+    "gn:country_code":"LA",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661017,
+    "gn:latitude":17.96148,
+    "gn:longitude":105.23574,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Navang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Navang"
+    ],
+    "name:und_x_variant":[
+        "Ban Navang Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661017
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"23a8ec0ad9b6f1e9774067307eab0805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1226619373,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226619373,
+    "wof:lastmodified":1537660444,
+    "wof:name":"Ban Navang",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23574,
+    17.96147999999999,
+    105.23574,
+    17.96147999999999
+],
+  "geometry": {"coordinates":[105.23574000000001,17.96147999999999],"type":"Point"}
+}

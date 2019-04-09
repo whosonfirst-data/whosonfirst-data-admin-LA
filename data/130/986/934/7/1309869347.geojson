@@ -1,0 +1,71 @@
+{
+  "id": 1309869347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.75724,20.56261,102.75724,20.56261",
+    "geom:latitude":20.56261,
+    "geom:longitude":102.75724,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Vanghouakeng",
+    "gn:country_code":"LA",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658203,
+    "gn:latitude":20.56261,
+    "gn:longitude":102.75724,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Vanghouak\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Vanghouak\u00e8ng",
+        "Ban Van Houa Keng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658203
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"45481878f3bcb7951e8748e0f3b6a45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1309869347,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309869347,
+    "wof:lastmodified":1537660281,
+    "wof:name":"Ban Vanghouakeng",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.75724,
+    20.56261,
+    102.75724,
+    20.56261
+],
+  "geometry": {"coordinates":[102.75724,20.56261],"type":"Point"}
+}

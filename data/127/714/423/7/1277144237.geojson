@@ -1,0 +1,71 @@
+{
+  "id": 1277144237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.40538,15.43463,106.40538,15.43463",
+    "geom:latitude":15.43463,
+    "geom:longitude":106.40538,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Houaxe",
+    "gn:country_code":"LA",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663969,
+    "gn:latitude":15.43463,
+    "gn:longitude":106.40538,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Houax\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houa Se",
+        "Ban Houax\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663969
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8c6e4cc2c49e63771e51254bbb94a283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1277144237,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1277144237,
+    "wof:lastmodified":1537660619,
+    "wof:name":"Ban Houaxe",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.40538,
+    15.43463,
+    106.40538,
+    15.43463
+],
+  "geometry": {"coordinates":[106.40537999999999,15.43463],"type":"Point"}
+}

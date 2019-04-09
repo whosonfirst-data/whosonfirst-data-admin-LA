@@ -1,0 +1,64 @@
+{
+  "id": 102542635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.067,20.4183,104.067,20.4183",
+    "geom:latitude":20.4183,
+    "geom:longitude":104.067,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"3281",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424872,
+        "planet_id":1,
+        "state_id":2346001
+    },
+    "wof:belongsto":[
+        85632241,
+        85673447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514555,
+        "iata:code":"NEU",
+        "icao:code":"VLSN",
+        "oa:id":"26587",
+        "wd:id":"Q11824718"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"79545acd7a7413f0f124d8d842ba2afb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102542635,
+            "country_id":85632241,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":102542635,
+    "wof:lastmodified":1543846096,
+    "wof:name":"Sam Neua Airport",
+    "wof:parent_id":85673447,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    104.067,
+    20.4183,
+    104.067,
+    20.4183
+],
+  "geometry": {"coordinates":[104.06699999999999,20.4183],"type":"Point"}
+}

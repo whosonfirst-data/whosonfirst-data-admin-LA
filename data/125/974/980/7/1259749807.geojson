@@ -1,0 +1,70 @@
+{
+  "id": 1259749807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.07728,19.30434,102.07728,19.30434",
+    "geom:latitude":19.30434,
+    "geom:longitude":102.07728,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phalamphan",
+    "gn:country_code":"LA",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660233,
+    "gn:latitude":19.30434,
+    "gn:longitude":102.07728,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phalamphan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pha Lam Phen (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660233
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8979e50f5e4c7bfa6180e9752eec472a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1259749807,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259749807,
+    "wof:lastmodified":1537660396,
+    "wof:name":"Ban Phalamphan",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.07728,
+    19.30434,
+    102.07728,
+    19.30434
+],
+  "geometry": {"coordinates":[102.07728,19.30434],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344068477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27707,19.75453,104.27707,19.75453",
+    "geom:latitude":19.75453,
+    "geom:longitude":104.27707,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phiangmon",
+    "gn:country_code":"LA",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952922,
+    "gn:latitude":19.75453,
+    "gn:longitude":104.27707,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phiangmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phiangmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952922
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3d0e2889fbe73cb56da28a8db2e95670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1344068477,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1344068477,
+    "wof:lastmodified":1537660727,
+    "wof:name":"Ban Phiangmon",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27707,
+    19.75453,
+    104.27707,
+    19.75453
+],
+  "geometry": {"coordinates":[104.27706999999999,19.75453],"type":"Point"}
+}

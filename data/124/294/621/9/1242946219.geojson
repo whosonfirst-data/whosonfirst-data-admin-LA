@@ -1,0 +1,70 @@
+{
+  "id": 1242946219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59879,17.31729,105.59879,17.31729",
+    "geom:latitude":17.31729,
+    "geom:longitude":105.59879,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Mai-Nasao",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214108,
+    "gn:latitude":17.31729,
+    "gn:longitude":105.59879,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Mai-Nasao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Mai-Nasao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214108
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5847441065eeafa40f623a04fd61f316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1242946219,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1242946219,
+    "wof:lastmodified":1537660881,
+    "wof:name":"Ban Mai-Nasao",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59879,
+    17.31729,
+    105.59879,
+    17.31729
+],
+  "geometry": {"coordinates":[105.59878999999999,17.31729],"type":"Point"}
+}

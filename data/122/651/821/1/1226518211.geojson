@@ -1,0 +1,72 @@
+{
+  "id": 1226518211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66304,21.0577,102.66304,21.0577",
+    "geom:latitude":21.0577,
+    "geom:longitude":102.66304,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Noua",
+    "gn:country_code":"LA",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661490,
+    "gn:latitude":21.0577,
+    "gn:longitude":102.66304,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Noua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nam Noua",
+        "Ban Noua",
+        "Pak Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661490
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1694fcba0144c8b464f254faaa5d4078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1226518211,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226518211,
+    "wof:lastmodified":1537660470,
+    "wof:name":"Ban Noua",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66304,
+    21.0577,
+    102.66304,
+    21.0577
+],
+  "geometry": {"coordinates":[102.66304,21.0577],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293175309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5062,16.73036,106.5062,16.73036",
+    "geom:latitude":16.73036,
+    "geom:longitude":106.5062,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Saloun",
+    "gn:country_code":"LA",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11226483,
+    "gn:latitude":16.73036,
+    "gn:longitude":106.5062,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Saloun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Saloun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11226483
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"85a55acaffc12d3d784bf0c7b6f60489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293175309,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293175309,
+    "wof:lastmodified":1537660906,
+    "wof:name":"Ban Saloun",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5062,
+    16.73036,
+    106.5062,
+    16.73036
+],
+  "geometry": {"coordinates":[106.50620000000001,16.73036],"type":"Point"}
+}

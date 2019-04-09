@@ -1,0 +1,70 @@
+{
+  "id": 1292948575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97859,18.81457,101.97859,18.81457",
+    "geom:latitude":18.81457,
+    "geom:longitude":101.97859,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Houay-Youak",
+    "gn:country_code":"LA",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221754,
+    "gn:latitude":18.81457,
+    "gn:longitude":101.97859,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Houay-Youak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houay-Youak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221754
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"24f16fd8c0dc507b9bbcd3dee885ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027449,
+            "locality_id":1292948575,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1292948575,
+    "wof:lastmodified":1537660890,
+    "wof:name":"Ban Houay-Youak",
+    "wof:parent_id":1092027449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97859,
+    18.81457,
+    101.97859,
+    18.81457
+],
+  "geometry": {"coordinates":[101.97859,18.81457],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242952481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06306,19.81252,101.06306,19.81252",
+    "geom:latitude":19.81252,
+    "geom:longitude":101.06306,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Lavua",
+    "gn:country_code":"LA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953200,
+    "gn:latitude":19.81252,
+    "gn:longitude":101.06306,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Lavua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lavua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953200
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7ad48c7cc6f56ce3a74d1844b357092d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1242952481,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1242952481,
+    "wof:lastmodified":1537660734,
+    "wof:name":"Ban Lavua",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06306,
+    19.81252000000001,
+    101.06306,
+    19.81252000000001
+],
+  "geometry": {"coordinates":[101.06305999999999,19.81252000000001],"type":"Point"}
+}

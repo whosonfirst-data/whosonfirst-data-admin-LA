@@ -1,0 +1,70 @@
+{
+  "id": 1276309169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.38551,19.37799,101.38551,19.37799",
+    "geom:latitude":19.37799,
+    "geom:longitude":101.38551,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Samet-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941724,
+    "gn:latitude":19.37799,
+    "gn:longitude":101.38551,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Sam\u00e8t-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sam\u00e8t-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941724
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bf2f14592963692ce3ac581ca5b5030b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1276309169,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1276309169,
+    "wof:lastmodified":1537660698,
+    "wof:name":"Ban Samet-Gnai",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.38551,
+    19.37799,
+    101.38551,
+    19.37799
+],
+  "geometry": {"coordinates":[101.38551,19.37799],"type":"Point"}
+}

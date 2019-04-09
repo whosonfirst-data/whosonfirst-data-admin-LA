@@ -1,0 +1,74 @@
+{
+  "id": 1259600719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11023,14.56974,107.11023,14.56974",
+    "geom:latitude":14.56974,
+    "geom:longitude":107.11023,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Namavong-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661609,
+    "gn:latitude":14.56974,
+    "gn:longitude":107.11023,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Namav\u00f4ng-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Namav\u00f4ng-Noy"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Ma Vong Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661609,
+        "wk:page":"Ban_Namavong_Noy"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"955d92e3ac75f42c5c5481949c56d037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1259600719,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1259600719,
+    "wof:lastmodified":1537660477,
+    "wof:name":"Ban Namavong-Noy",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11023,
+    14.56974,
+    107.11023,
+    14.56974
+],
+  "geometry": {"coordinates":[107.11023,14.56974],"type":"Point"}
+}

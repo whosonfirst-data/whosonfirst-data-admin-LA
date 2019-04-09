@@ -1,0 +1,70 @@
+{
+  "id": 1309981999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.07115,21.89217,102.07115,21.89217",
+    "geom:latitude":21.89217,
+    "geom:longitude":102.07115,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sinchai-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954045,
+    "gn:latitude":21.89217,
+    "gn:longitude":102.07115,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Sinchai-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sinchai-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954045
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"569c89d60b7277324d5a5ea0278737d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1309981999,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1309981999,
+    "wof:lastmodified":1537660756,
+    "wof:name":"Ban Sinchai-Tai",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.07115,
+    21.89217,
+    102.07115,
+    21.89217
+],
+  "geometry": {"coordinates":[102.07115,21.89217],"type":"Point"}
+}

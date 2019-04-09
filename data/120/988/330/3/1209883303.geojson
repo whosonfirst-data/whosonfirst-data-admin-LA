@@ -1,0 +1,70 @@
+{
+  "id": 1209883303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02984,16.04152,107.02984,16.04152",
+    "geom:latitude":16.04152,
+    "geom:longitude":107.02984,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Amoy-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237332,
+    "gn:latitude":16.04152,
+    "gn:longitude":107.02984,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Amoy-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Amoy-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237332
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d6779c6244b458983603cc7fda3aa43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1209883303,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1209883303,
+    "wof:lastmodified":1537660970,
+    "wof:name":"Ban Amoy-Nua",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02984,
+    16.04152,
+    107.02984,
+    16.04152
+],
+  "geometry": {"coordinates":[107.02983999999999,16.04152],"type":"Point"}
+}

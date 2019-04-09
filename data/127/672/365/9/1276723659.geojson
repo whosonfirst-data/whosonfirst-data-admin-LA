@@ -1,0 +1,70 @@
+{
+  "id": 1276723659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80972,15.98419,105.80972,15.98419",
+    "geom:latitude":15.98419,
+    "geom:longitude":105.80972,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nahindan",
+    "gn:country_code":"LA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101315,
+    "gn:latitude":15.98419,
+    "gn:longitude":105.80972,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Ban Nahindan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nahindan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101315
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"46aba3b4476581189b960848e18a7edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1276723659,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276723659,
+    "wof:lastmodified":1537660845,
+    "wof:name":"Ban Nahindan",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80972,
+    15.98419,
+    105.80972,
+    15.98419
+],
+  "geometry": {"coordinates":[105.80972,15.98419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277145745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.48333,20.63333,100.48333,20.63333",
+    "geom:latitude":20.63333,
+    "geom:longitude":100.48333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Nong Kha",
+    "gn:country_code":"LA",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660795,
+    "gn:latitude":20.63333,
+    "gn:longitude":100.48333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Nong Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naungka",
+        "Ban Nong Kha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660795
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"04a07f06de0cbd6602ba40dab6c300d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1277145745,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1277145745,
+    "wof:lastmodified":1537660430,
+    "wof:name":"Ban Nong Kha",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.48333,
+    20.63333,
+    100.48333,
+    20.63333
+],
+  "geometry": {"coordinates":[100.48333,20.63333],"type":"Point"}
+}

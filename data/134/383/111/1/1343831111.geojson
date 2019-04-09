@@ -1,0 +1,70 @@
+{
+  "id": 1343831111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.2156,17.29201,105.2156,17.29201",
+    "geom:latitude":17.29201,
+    "geom:longitude":105.2156,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Houay Khamphedong",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234998,
+    "gn:latitude":17.29201,
+    "gn:longitude":105.2156,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Houay Khamph\u00e8d\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Houay Khamph\u00e8d\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234998
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4b33b3d576187b5f0514adbf031cf528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1343831111,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343831111,
+    "wof:lastmodified":1537660947,
+    "wof:name":"Houay Khamphedong",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.2156,
+    17.29201,
+    105.2156,
+    17.29201
+],
+  "geometry": {"coordinates":[105.21559999999999,17.29201],"type":"Point"}
+}

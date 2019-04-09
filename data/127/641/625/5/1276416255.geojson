@@ -1,0 +1,74 @@
+{
+  "id": 1276416255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.91936,21.42506,101.91936,21.42506",
+    "geom:latitude":21.42506,
+    "geom:longitude":101.91936,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nafay-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655027,
+    "gn:latitude":21.42506,
+    "gn:longitude":101.91936,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Nafay-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nafay-Noy"
+    ],
+    "name:und_x_variant":[
+        "Na Fai",
+        "Na Fai Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655027
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0674972c69473cdb7a8c2b7cc4c0736e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1276416255,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276416255,
+    "wof:lastmodified":1537660224,
+    "wof:name":"Ban Nafay-Noy",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.91936,
+    21.42506,
+    101.91936,
+    21.42506
+],
+  "geometry": {"coordinates":[101.91936,21.42506],"type":"Point"}
+}

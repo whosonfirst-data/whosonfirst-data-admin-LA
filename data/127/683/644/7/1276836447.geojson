@@ -1,0 +1,67 @@
+{
+  "id": 1276836447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.42972,18.88694,102.42972,18.88694",
+    "geom:latitude":18.88694,
+    "geom:longitude":102.42972,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Naken",
+    "gn:country_code":"LA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661846,
+    "gn:latitude":18.88694,
+    "gn:longitude":102.42972,
+    "gn:modification_date":"1999-12-06",
+    "gn:name":"Ban Nak\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661846
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"037ef2c85694a5dd3f0163b0d10b9dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":1276836447,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1276836447,
+    "wof:lastmodified":1537096071,
+    "wof:name":"Ban Naken",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.42972,
+    18.88694,
+    102.42972,
+    18.88694
+],
+  "geometry": {"coordinates":[102.42972,18.88694],"type":"Point"}
+}

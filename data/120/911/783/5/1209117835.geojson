@@ -1,0 +1,65 @@
+{
+  "id": 1209117835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1887,20.2014,104.1887,20.2014",
+    "geom:latitude":20.2014,
+    "geom:longitude":104.1887,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nahouay",
+    "gn:country_code":"LA",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661985,
+    "gn:latitude":20.2014,
+    "gn:longitude":104.1887,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Nahouay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Hai",
+        "Ban Nahouay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661985
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"015dee247198f159984ef31ba1a89194",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209117835
+        }
+    ],
+    "wof:id":1209117835,
+    "wof:lastmodified":1537660497,
+    "wof:name":"Ban Nahouay",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1887,
+    20.2014,
+    104.1887,
+    20.2014
+],
+  "geometry": {"coordinates":[104.1887,20.2014],"type":"Point"}
+}

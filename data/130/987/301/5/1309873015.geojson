@@ -1,0 +1,70 @@
+{
+  "id": 1309873015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86998,15.81439,106.86998,15.81439",
+    "geom:latitude":15.81439,
+    "geom:longitude":106.86998,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nalay",
+    "gn:country_code":"LA",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199818,
+    "gn:latitude":15.81439,
+    "gn:longitude":106.86998,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Nalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199818
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d244e1f47cd043f9564315898da4715c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1309873015,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1309873015,
+    "wof:lastmodified":1537660850,
+    "wof:name":"Ban Nalay",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86998,
+    15.81439,
+    106.86998,
+    15.81439
+],
+  "geometry": {"coordinates":[106.86998,15.81439],"type":"Point"}
+}

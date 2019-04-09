@@ -1,0 +1,71 @@
+{
+  "id": 1309907899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93471,19.87205,103.93471,19.87205",
+    "geom:latitude":19.87205,
+    "geom:longitude":103.93471,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Khua",
+    "gn:country_code":"LA",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662881,
+    "gn:latitude":19.87205,
+    "gn:longitude":103.93471,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Khua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Deoa",
+        "Ban Khua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662881
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"19d67b66d2b32b2bae5eea5cfb13bf19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1309907899,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1309907899,
+    "wof:lastmodified":1537660547,
+    "wof:name":"Ban Khua",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93471,
+    19.87205,
+    103.93471,
+    19.87205
+],
+  "geometry": {"coordinates":[103.93471,19.87205],"type":"Point"}
+}

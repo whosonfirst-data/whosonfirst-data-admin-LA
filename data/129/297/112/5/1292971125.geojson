@@ -1,0 +1,70 @@
+{
+  "id": 1292971125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.91528,17.47976,104.91528,17.47976",
+    "geom:latitude":17.47976,
+    "geom:longitude":104.91528,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Thok",
+    "gn:country_code":"LA",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658517,
+    "gn:latitude":17.47976,
+    "gn:longitude":104.91528,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658517
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"01ecdbc0ddb492e3ea2b208d859d11f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1292971125,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1292971125,
+    "wof:lastmodified":1537660300,
+    "wof:name":"Ban Thok",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.91528,
+    17.47976,
+    104.91528,
+    17.47976
+],
+  "geometry": {"coordinates":[104.91528,17.47976],"type":"Point"}
+}

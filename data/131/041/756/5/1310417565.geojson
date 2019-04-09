@@ -1,0 +1,71 @@
+{
+  "id": 1310417565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78109,20.33093,103.78109,20.33093",
+    "geom:latitude":20.33093,
+    "geom:longitude":103.78109,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Keophoukong",
+    "gn:country_code":"LA",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663171,
+    "gn:latitude":20.33093,
+    "gn:longitude":103.78109,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban K\u00e8ophoukong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban K\u00e8ophoukong",
+        "Ban K\u00e9o Phou K\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663171
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"73aec537681b4167a5b37d0e6e85b08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1310417565,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1310417565,
+    "wof:lastmodified":1537660564,
+    "wof:name":"Ban Keophoukong",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78109,
+    20.33093,
+    103.78109,
+    20.33093
+],
+  "geometry": {"coordinates":[103.78109000000001,20.33093],"type":"Point"}
+}

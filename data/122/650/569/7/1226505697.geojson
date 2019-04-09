@@ -1,0 +1,73 @@
+{
+  "id": 1226505697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34859,21.62805,102.34859,21.62805",
+    "geom:latitude":21.62805,
+    "geom:longitude":102.34859,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Senchom",
+    "gn:country_code":"LA",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1653267,
+    "gn:latitude":21.62805,
+    "gn:longitude":102.34859,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e9nchom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00e9nchom"
+    ],
+    "name:und_x_variant":[
+        "Sen Chom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653267
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c3151c5fdf01d15c2c24d765d128a39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1226505697,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226505697,
+    "wof:lastmodified":1537660207,
+    "wof:name":"Ban Senchom",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34859,
+    21.62805,
+    102.34859,
+    21.62805
+],
+  "geometry": {"coordinates":[102.34859,21.62805],"type":"Point"}
+}

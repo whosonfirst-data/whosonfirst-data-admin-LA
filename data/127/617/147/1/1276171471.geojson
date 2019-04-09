@@ -1,0 +1,70 @@
+{
+  "id": 1276171471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.58427,18.57155,102.58427,18.57155",
+    "geom:latitude":18.57155,
+    "geom:longitude":102.58427,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Donnang",
+    "gn:country_code":"LA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231952,
+    "gn:latitude":18.57155,
+    "gn:longitude":102.58427,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Donnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Donnang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231952
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8d2119e9e71f80e065d0d420d58de7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":1276171471,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1276171471,
+    "wof:lastmodified":1537660923,
+    "wof:name":"Ban Donnang",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.58427,
+    18.57155,
+    102.58427,
+    18.57155
+],
+  "geometry": {"coordinates":[102.58427,18.57155],"type":"Point"}
+}

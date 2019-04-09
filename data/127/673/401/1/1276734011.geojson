@@ -1,0 +1,70 @@
+{
+  "id": 1276734011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.62478,20.67121,102.62478,20.67121",
+    "geom:latitude":20.67121,
+    "geom:longitude":102.62478,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phonsiang",
+    "gn:country_code":"LA",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954452,
+    "gn:latitude":20.67121,
+    "gn:longitude":102.62478,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Ph\u00f4nsiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nsiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954452
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2c9fdcd67046ec2f4b5df86e021c8402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1276734011,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276734011,
+    "wof:lastmodified":1537660766,
+    "wof:name":"Ban Phonsiang",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.62478,
+    20.67121,
+    102.62478,
+    20.67121
+],
+  "geometry": {"coordinates":[102.62478,20.67121],"type":"Point"}
+}

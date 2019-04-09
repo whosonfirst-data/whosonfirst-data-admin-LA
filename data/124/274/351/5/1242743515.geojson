@@ -1,0 +1,70 @@
+{
+  "id": 1242743515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43926,15.58602,106.43926,15.58602",
+    "geom:latitude":15.58602,
+    "geom:longitude":106.43926,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Namagni",
+    "gn:country_code":"LA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200309,
+    "gn:latitude":15.58602,
+    "gn:longitude":106.43926,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Namagni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namagni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200309
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"105582e3ca9d32022faa32453cd41ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028911,
+            "locality_id":1242743515,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242743515,
+    "wof:lastmodified":1537660856,
+    "wof:name":"Ban Namagni",
+    "wof:parent_id":1092028911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43926,
+    15.58602,
+    106.43926,
+    15.58602
+],
+  "geometry": {"coordinates":[106.43926,15.58602],"type":"Point"}
+}

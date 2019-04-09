@@ -1,0 +1,70 @@
+{
+  "id": 1310684023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05004,17.14684,106.05004,17.14684",
+    "geom:latitude":17.14684,
+    "geom:longitude":106.05004,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Vangpet",
+    "gn:country_code":"LA",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658241,
+    "gn:latitude":17.14684,
+    "gn:longitude":106.05004,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangp\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Vangp\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658241
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"18ba047dd0b8bb97f75f54ad9ab31d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1310684023,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310684023,
+    "wof:lastmodified":1537660283,
+    "wof:name":"Ban Vangpet",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05004,
+    17.14684,
+    106.05004,
+    17.14684
+],
+  "geometry": {"coordinates":[106.05004,17.14684],"type":"Point"}
+}

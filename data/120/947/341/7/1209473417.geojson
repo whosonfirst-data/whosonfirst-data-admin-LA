@@ -1,0 +1,64 @@
+{
+  "id": 1209473417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.46115,20.2718,100.46115,20.2718",
+    "geom:latitude":20.2718,
+    "geom:longitude":100.46115,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Namho-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904434,
+    "gn:latitude":20.2718,
+    "gn:longitude":100.46115,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Namho-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namho-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904434
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c62db8280c0e30787d5d2349aebd7a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209473417
+        }
+    ],
+    "wof:id":1209473417,
+    "wof:lastmodified":1537660687,
+    "wof:name":"Ban Namho-Tai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.46115,
+    20.2718,
+    100.46115,
+    20.2718
+],
+  "geometry": {"coordinates":[100.46115,20.2718],"type":"Point"}
+}

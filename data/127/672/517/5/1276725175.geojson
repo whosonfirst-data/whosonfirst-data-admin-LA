@@ -1,0 +1,76 @@
+{
+  "id": 1276725175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.93232,21.23823,101.93232,21.23823",
+    "geom:latitude":21.23823,
+    "geom:longitude":101.93232,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Long-Naythai",
+    "gn:country_code":"LA",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655615,
+    "gn:latitude":21.23823,
+    "gn:longitude":101.93232,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Long-Naythai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Long-Naythai"
+    ],
+    "name:und_x_variant":[
+        "Ban Long Nay",
+        "Ban Long Nai",
+        "Ban Long Gnai",
+        "Long Nai Thai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655615
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b53978ff705a356bdd046c7386542fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1276725175,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276725175,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Long-Naythai",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.93232,
+    21.23823,
+    101.93232,
+    21.23823
+],
+  "geometry": {"coordinates":[101.93232,21.23823],"type":"Point"}
+}

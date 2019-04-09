@@ -1,0 +1,70 @@
+{
+  "id": 1327204911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.77127,19.96539,103.77127,19.96539",
+    "geom:latitude":19.96539,
+    "geom:longitude":103.77127,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nampang",
+    "gn:country_code":"LA",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661449,
+    "gn:latitude":19.96539,
+    "gn:longitude":103.77127,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nampang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661449
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0c5e6f34994af122ee97fde02fc1e008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1327204911,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1327204911,
+    "wof:lastmodified":1537660468,
+    "wof:name":"Ban Nampang",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.77127,
+    19.96539,
+    103.77127,
+    19.96539
+],
+  "geometry": {"coordinates":[103.77127,19.96539],"type":"Point"}
+}

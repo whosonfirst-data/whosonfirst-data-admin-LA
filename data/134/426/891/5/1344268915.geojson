@@ -1,0 +1,74 @@
+{
+  "id": 1344268915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.43098,20.70528,104.43098,20.70528",
+    "geom:latitude":20.70528,
+    "geom:longitude":104.43098,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Longtong",
+    "gn:country_code":"LA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655605,
+    "gn:latitude":20.70528,
+    "gn:longitude":104.43098,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Longtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Longtong"
+    ],
+    "name:und_x_variant":[
+        "Long Tong",
+        "Tong Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655605
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b206d047b9a12786f62b6e1d03a1c4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":1344268915,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1344268915,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Longtong",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.43098,
+    20.70528,
+    104.43098,
+    20.70528
+],
+  "geometry": {"coordinates":[104.43098000000001,20.70528],"type":"Point"}
+}

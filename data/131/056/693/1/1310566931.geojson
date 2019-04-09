@@ -1,0 +1,74 @@
+{
+  "id": 1310566931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05058,16.26662,107.05058,16.26662",
+    "geom:latitude":16.26662,
+    "geom:longitude":107.05058,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Kava",
+    "gn:country_code":"LA",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1656685,
+    "gn:latitude":16.26662,
+    "gn:longitude":107.05058,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kava",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kava"
+    ],
+    "name:und_x_variant":[
+        "Ka Va Troi",
+        "Ka Va (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656685
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"01efdc664530cb691099ac0908d06477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1310566931,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1310566931,
+    "wof:lastmodified":1537660252,
+    "wof:name":"Ban Kava",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05058,
+    16.26662,
+    107.05058,
+    16.26662
+],
+  "geometry": {"coordinates":[107.05058,16.26662],"type":"Point"}
+}

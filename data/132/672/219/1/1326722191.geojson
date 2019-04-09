@@ -1,0 +1,70 @@
+{
+  "id": 1326722191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.66353,20.67915,101.66353,20.67915",
+    "geom:latitude":20.67915,
+    "geom:longitude":101.66353,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Sakhan",
+    "gn:country_code":"LA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956249,
+    "gn:latitude":20.67915,
+    "gn:longitude":101.66353,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Sakhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sakhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956249
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d98ef09b14e40ad49f7ca83ef4641b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1326722191,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1326722191,
+    "wof:lastmodified":1537660815,
+    "wof:name":"Ban Sakhan",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66353,
+    20.67915,
+    101.66353,
+    20.67915
+],
+  "geometry": {"coordinates":[101.66352999999999,20.67915],"type":"Point"}
+}

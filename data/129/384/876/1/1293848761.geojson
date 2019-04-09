@@ -1,0 +1,70 @@
+{
+  "id": 1293848761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59045,16.57731,106.59045,16.57731",
+    "geom:latitude":16.57731,
+    "geom:longitude":106.59045,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Thou",
+    "gn:country_code":"LA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236510,
+    "gn:latitude":16.57731,
+    "gn:longitude":106.59045,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Thou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236510
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5be9a85e86159f09b5fe7d5586cd4832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293848761,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293848761,
+    "wof:lastmodified":1537660959,
+    "wof:name":"Ban Thou",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59045,
+    16.57731,
+    106.59045,
+    16.57731
+],
+  "geometry": {"coordinates":[106.59045,16.57731],"type":"Point"}
+}

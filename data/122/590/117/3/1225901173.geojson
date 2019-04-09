@@ -1,0 +1,70 @@
+{
+  "id": 1225901173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.08583,15.60963,107.08583,15.60963",
+    "geom:latitude":15.60963,
+    "geom:longitude":107.08583,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Emon",
+    "gn:country_code":"LA",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200446,
+    "gn:latitude":15.60963,
+    "gn:longitude":107.08583,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Emon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Emon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200446
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b60c4fbeadac1eebc4f60b100534df16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1225901173,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1225901173,
+    "wof:lastmodified":1537660859,
+    "wof:name":"Ban Emon",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.08583,
+    15.60963,
+    107.08583,
+    15.60963
+],
+  "geometry": {"coordinates":[107.08583,15.60963],"type":"Point"}
+}

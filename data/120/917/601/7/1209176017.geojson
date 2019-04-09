@@ -1,0 +1,73 @@
+{
+  "id": 1209176017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28548,16.78962,106.28548,16.78962",
+    "geom:latitude":16.78962,
+    "geom:longitude":106.28548,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Vanghai",
+    "gn:country_code":"LA",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661072,
+    "gn:latitude":16.78962,
+    "gn:longitude":106.28548,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vanghai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vanghai"
+    ],
+    "name:und_x_variant":[
+        "Nathon",
+        "Ban Ka Dap Ta Thon",
+        "Ban Ca Dap",
+        "Ca Dap",
+        "Ban Ka Dap Na Thon",
+        "Ban Ka Dop Na Than",
+        "Ban Nath\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661072
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"86b72efbacaa994a226cc4d83edc6709",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209176017
+        }
+    ],
+    "wof:id":1209176017,
+    "wof:lastmodified":1537660447,
+    "wof:name":"Ban Vanghai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28548,
+    16.78962000000001,
+    106.28548,
+    16.78962000000001
+],
+  "geometry": {"coordinates":[106.28548000000001,16.78962000000001],"type":"Point"}
+}

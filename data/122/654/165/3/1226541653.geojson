@@ -1,0 +1,70 @@
+{
+  "id": 1226541653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.1075,20.2752,104.1075,20.2752",
+    "geom:latitude":20.2752,
+    "geom:longitude":104.1075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Tabong",
+    "gn:country_code":"LA",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956880,
+    "gn:latitude":20.2752,
+    "gn:longitude":104.1075,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tab\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tab\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956880
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"01335f8664e4e91b58e406eec370b3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1226541653,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226541653,
+    "wof:lastmodified":1537660833,
+    "wof:name":"Ban Tabong",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.1075,
+    20.2752,
+    104.1075,
+    20.2752
+],
+  "geometry": {"coordinates":[104.1075,20.2752],"type":"Point"}
+}

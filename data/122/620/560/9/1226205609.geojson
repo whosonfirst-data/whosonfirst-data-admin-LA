@@ -1,0 +1,70 @@
+{
+  "id": 1226205609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76031,22.26359,101.76031,22.26359",
+    "geom:latitude":22.26359,
+    "geom:longitude":101.76031,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Ping",
+    "gn:country_code":"LA",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659703,
+    "gn:latitude":22.26359,
+    "gn:longitude":101.76031,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Ping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659703
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"04e2aa0cf738b7b32f201882aa8ee626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1226205609,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226205609,
+    "wof:lastmodified":1537660367,
+    "wof:name":"Ban Ping",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76031,
+    22.26359,
+    101.76031,
+    22.26359
+],
+  "geometry": {"coordinates":[101.76031,22.26359],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343431221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42356,17.17459,105.42356,17.17459",
+    "geom:latitude":17.17459,
+    "geom:longitude":105.42356,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phalombong",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660222,
+    "gn:latitude":17.17459,
+    "gn:longitude":105.42356,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phal\u00f4mbong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Pha Long Bon",
+        "Ban Phal\u00f4mbong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660222
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f37064b1a1060400bb38c4db31746c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1343431221,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343431221,
+    "wof:lastmodified":1537660395,
+    "wof:name":"Ban Phalombong",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42356,
+    17.17459,
+    105.42356,
+    17.17459
+],
+  "geometry": {"coordinates":[105.42355999999999,17.17459],"type":"Point"}
+}

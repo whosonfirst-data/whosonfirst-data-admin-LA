@@ -1,0 +1,73 @@
+{
+  "id": 1292955595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.32601,15.4051,107.32601,15.4051",
+    "geom:latitude":15.4051,
+    "geom:longitude":107.32601,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Daklouat",
+    "gn:country_code":"LA",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664638,
+    "gn:latitude":15.4051,
+    "gn:longitude":107.32601,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Daklouat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Daklouat"
+    ],
+    "name:und_x_variant":[
+        "Ban Daklouats"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664638
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d7e0fb9162fc3c7e5811ba767544a28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1292955595,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1292955595,
+    "wof:lastmodified":1537660659,
+    "wof:name":"Ban Daklouat",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.32601,
+    15.4051,
+    107.32601,
+    15.4051
+],
+  "geometry": {"coordinates":[107.32601,15.4051],"type":"Point"}
+}

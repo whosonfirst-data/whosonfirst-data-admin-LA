@@ -1,0 +1,68 @@
+{
+  "id": 1293858339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.66125,16.56141,106.66125,16.56141",
+    "geom:latitude":16.56141,
+    "geom:longitude":106.66125,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tangkon",
+    "gn:country_code":"LA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11236516,
+    "gn:latitude":16.56141,
+    "gn:longitude":106.66125,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tangkon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tangkon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236516
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"252f4ea7c4ec3adf6391a6be33e05605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1293858339,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293858339,
+    "wof:lastmodified":1537660959,
+    "wof:name":"Ban Tangkon",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.66125,
+    16.56141,
+    106.66125,
+    16.56141
+],
+  "geometry": {"coordinates":[106.66125,16.56141],"type":"Point"}
+}

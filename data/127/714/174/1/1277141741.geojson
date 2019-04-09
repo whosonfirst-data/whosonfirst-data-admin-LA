@@ -1,0 +1,70 @@
+{
+  "id": 1277141741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06778,16.37385,105.06778,16.37385",
+    "geom:latitude":16.37385,
+    "geom:longitude":105.06778,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Donpho",
+    "gn:country_code":"LA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664387,
+    "gn:latitude":16.37385,
+    "gn:longitude":105.06778,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Donph\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Donph\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664387
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dd270a1268129f9e5d73d9b223c5f0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030959,
+            "locality_id":1277141741,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1277141741,
+    "wof:lastmodified":1537660643,
+    "wof:name":"Ban Donpho",
+    "wof:parent_id":1092030959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06778,
+    16.37385,
+    105.06778,
+    16.37385
+],
+  "geometry": {"coordinates":[105.06778,16.37385],"type":"Point"}
+}

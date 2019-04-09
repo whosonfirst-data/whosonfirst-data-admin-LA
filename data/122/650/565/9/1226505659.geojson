@@ -1,0 +1,72 @@
+{
+  "id": 1226505659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81667,21.8,101.81667,21.8",
+    "geom:latitude":21.8,
+    "geom:longitude":101.81667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Xieng Py",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652050,
+    "gn:latitude":21.8,
+    "gn:longitude":101.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Xieng Py",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiangpikhotao",
+        "Xieng Py"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652050
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d549a3471a730ac787d2b17500280dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1226505659,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226505659,
+    "wof:lastmodified":1537660191,
+    "wof:name":"Xieng Py",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81667,
+    21.8,
+    101.81667,
+    21.8
+],
+  "geometry": {"coordinates":[101.81667,21.8],"type":"Point"}
+}

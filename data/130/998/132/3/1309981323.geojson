@@ -1,0 +1,70 @@
+{
+  "id": 1309981323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.69833,15.56077,105.69833,15.56077",
+    "geom:latitude":15.56077,
+    "geom:longitude":105.69833,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Kham-I",
+    "gn:country_code":"LA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200020,
+    "gn:latitude":15.56077,
+    "gn:longitude":105.69833,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Kham-I",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kham-I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200020
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51b5f57755ed1d099a2e706928c4ea9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1309981323,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1309981323,
+    "wof:lastmodified":1537660851,
+    "wof:name":"Ban Kham-I",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.69833,
+    15.56077,
+    105.69833,
+    15.56077
+],
+  "geometry": {"coordinates":[105.69833,15.56077],"type":"Point"}
+}

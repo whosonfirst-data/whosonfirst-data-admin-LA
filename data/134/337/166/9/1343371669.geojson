@@ -1,0 +1,71 @@
+{
+  "id": 1343371669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99801,15.44305,105.99801,15.44305",
+    "geom:latitude":15.44305,
+    "geom:longitude":105.99801,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Hinsoung",
+    "gn:country_code":"LA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664064,
+    "gn:latitude":15.44305,
+    "gn:longitude":105.99801,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Hinsoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hine Soung",
+        "Ban Hinsoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664064
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d5944f0557c048fa9b9299574315a261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1343371669,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1343371669,
+    "wof:lastmodified":1537660624,
+    "wof:name":"Ban Hinsoung",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99801,
+    15.44305,
+    105.99801,
+    15.44305
+],
+  "geometry": {"coordinates":[105.99800999999999,15.44305],"type":"Point"}
+}

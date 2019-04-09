@@ -1,0 +1,70 @@
+{
+  "id": 1193139165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.17974,20.768,104.17974,20.768",
+    "geom:latitude":20.768,
+    "geom:longitude":104.17974,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Taon-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955663,
+    "gn:latitude":20.768,
+    "gn:longitude":104.17974,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Taon-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Taon-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955663
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"79cbe1d18d3be8c018b7f14b644a37f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1193139165,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1193139165,
+    "wof:lastmodified":1537660799,
+    "wof:name":"Ban Taon-Tai",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.17974,
+    20.768,
+    104.17974,
+    20.768
+],
+  "geometry": {"coordinates":[104.17974,20.768],"type":"Point"}
+}

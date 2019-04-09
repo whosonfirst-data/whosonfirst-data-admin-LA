@@ -1,0 +1,71 @@
+{
+  "id": 1243229335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93033,15.66484,105.93033,15.66484",
+    "geom:latitude":15.66484,
+    "geom:longitude":105.93033,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Hindan",
+    "gn:country_code":"LA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664085,
+    "gn:latitude":15.66484,
+    "gn:longitude":105.93033,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Hindan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hin Dane",
+        "Ban Hindan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664085
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8cf1084848e4a3a8066595f476f145f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029441,
+            "locality_id":1243229335,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243229335,
+    "wof:lastmodified":1537660625,
+    "wof:name":"Ban Hindan",
+    "wof:parent_id":1092029441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93033,
+    15.66484,
+    105.93033,
+    15.66484
+],
+  "geometry": {"coordinates":[105.93033,15.66484],"type":"Point"}
+}

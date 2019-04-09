@@ -1,0 +1,67 @@
+{
+  "id": 1360140637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61861,17.97056,102.61861,17.97056",
+    "geom:latitude":17.97056,
+    "geom:longitude":102.61861,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Viengxai",
+    "gn:country_code":"LA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740899,
+    "gn:latitude":17.97056,
+    "gn:longitude":102.61861,
+    "gn:modification_date":"2014-04-02",
+    "gn:name":"Viengxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092027747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740899
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5b2282d1d433d34db2c8325cf947a094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027747,
+            "locality_id":1360140637,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1360140637,
+    "wof:lastmodified":1536864302,
+    "wof:name":"Viengxai",
+    "wof:parent_id":1092027747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61861,
+    17.97056,
+    102.61861,
+    17.97056
+],
+  "geometry": {"coordinates":[102.61861,17.97056],"type":"Point"}
+}

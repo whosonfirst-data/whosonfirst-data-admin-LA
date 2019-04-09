@@ -1,0 +1,65 @@
+{
+  "id": 1226317197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56667,16.51667,106.56667,16.51667",
+    "geom:latitude":16.51667,
+    "geom:longitude":106.56667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ha Shin Co (2)",
+    "gn:country_code":"LA",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1657343,
+    "gn:latitude":16.51667,
+    "gn:longitude":106.56667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ha Shin Co (2)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657343
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0e8a1fe8b327f581a3dda274c173b244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1226317197,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226317197,
+    "wof:lastmodified":1536829759,
+    "wof:name":"Ha Shin Co (2)",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56667,
+    16.51667,
+    106.56667,
+    16.51667
+],
+  "geometry": {"coordinates":[106.56667,16.51667],"type":"Point"}
+}

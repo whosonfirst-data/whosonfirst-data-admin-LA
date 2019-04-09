@@ -1,0 +1,70 @@
+{
+  "id": 1276510633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.80964,19.62112,101.80964,19.62112",
+    "geom:latitude":19.62112,
+    "geom:longitude":101.80964,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Satheng",
+    "gn:country_code":"LA",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659389,
+    "gn:latitude":19.62112,
+    "gn:longitude":101.80964,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Satheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Satheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659389
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e41bcc4bc2a5c5ca61e666bb3dc4b470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1276510633,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276510633,
+    "wof:lastmodified":1537660349,
+    "wof:name":"Ban Satheng",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.80964,
+    19.62112,
+    101.80964,
+    19.62112
+],
+  "geometry": {"coordinates":[101.80964,19.62112],"type":"Point"}
+}

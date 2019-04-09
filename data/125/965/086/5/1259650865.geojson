@@ -1,0 +1,71 @@
+{
+  "id": 1259650865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3756,15.48253,106.3756,15.48253",
+    "geom:latitude":15.48253,
+    "geom:longitude":106.3756,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Takiao",
+    "gn:country_code":"LA",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658985,
+    "gn:latitude":15.48253,
+    "gn:longitude":106.3756,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Takiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Taki\u00e8o",
+        "Ban Takiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658985
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1e7a1945972b9645ce23925f97672b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1259650865,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1259650865,
+    "wof:lastmodified":1537660327,
+    "wof:name":"Ban Takiao",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3756,
+    15.48253,
+    106.3756,
+    15.48253
+],
+  "geometry": {"coordinates":[106.37560000000001,15.48253],"type":"Point"}
+}

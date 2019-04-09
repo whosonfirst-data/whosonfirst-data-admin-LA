@@ -1,0 +1,65 @@
+{
+  "id": 1209423865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74112,14.09766,105.74112,14.09766",
+    "geom:latitude":14.09766,
+    "geom:longitude":105.74112,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pakxe",
+    "gn:country_code":"LA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660438,
+    "gn:latitude":14.09766,
+    "gn:longitude":105.74112,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Pakx\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pachse",
+        "Ban Pakx\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660438
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3aea99d34f275402ac22362d20e38afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209423865
+        }
+    ],
+    "wof:id":1209423865,
+    "wof:lastmodified":1537660407,
+    "wof:name":"Ban Pakxe",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74112,
+    14.09766,
+    105.74112,
+    14.09766
+],
+  "geometry": {"coordinates":[105.74112,14.09766],"type":"Point"}
+}

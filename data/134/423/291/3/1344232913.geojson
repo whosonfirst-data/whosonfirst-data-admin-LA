@@ -1,0 +1,70 @@
+{
+  "id": 1344232913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23109,21.83596,102.23109,21.83596",
+    "geom:latitude":21.83596,
+    "geom:longitude":102.23109,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Oa-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660598,
+    "gn:latitude":21.83596,
+    "gn:longitude":102.23109,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Oa-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Oa-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660598
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9e72643edd6b48cfdaeb5f48a5dfe577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1344232913,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1344232913,
+    "wof:lastmodified":1537660417,
+    "wof:name":"Ban Oa-Tai",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23109,
+    21.83596,
+    102.23109,
+    21.83596
+],
+  "geometry": {"coordinates":[102.23108999999999,21.83596],"type":"Point"}
+}

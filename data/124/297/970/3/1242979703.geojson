@@ -1,0 +1,67 @@
+{
+  "id": 1242979703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70557,14.5449,105.70557,14.5449",
+    "geom:latitude":14.5449,
+    "geom:longitude":105.70557,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nadi",
+    "gn:country_code":"LA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662046,
+    "gn:latitude":14.5449,
+    "gn:longitude":105.70557,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Ban Nadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662046
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"422a3613ebb6e3a88373145ada4fbf19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1242979703,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242979703,
+    "wof:lastmodified":1536980701,
+    "wof:name":"Ban Nadi",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70557,
+    14.5449,
+    105.70557,
+    14.5449
+],
+  "geometry": {"coordinates":[105.70556999999999,14.5449],"type":"Point"}
+}

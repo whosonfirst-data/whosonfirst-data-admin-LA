@@ -1,0 +1,70 @@
+{
+  "id": 1276960969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.85548,20.89671,100.85548,20.89671",
+    "geom:latitude":20.89671,
+    "geom:longitude":100.85548,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Chaso",
+    "gn:country_code":"LA",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244202,
+    "gn:latitude":20.89671,
+    "gn:longitude":100.85548,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Chaso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chaso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244202
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"af3448227f9e9033f6558380654a37c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1276960969,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276960969,
+    "wof:lastmodified":1537660981,
+    "wof:name":"Ban Chaso",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.85548,
+    20.89671,
+    100.85548,
+    20.89671
+],
+  "geometry": {"coordinates":[100.85548,20.89671],"type":"Point"}
+}

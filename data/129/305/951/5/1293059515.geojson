@@ -1,0 +1,70 @@
+{
+  "id": 1293059515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93943,18.34699,103.93943,18.34699",
+    "geom:latitude":18.34699,
+    "geom:longitude":103.93943,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Paksa",
+    "gn:country_code":"LA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660458,
+    "gn:latitude":18.34699,
+    "gn:longitude":103.93943,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Paksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Paksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660458
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6203239387839bf5337d846a63d4cec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030835,
+            "locality_id":1293059515,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1293059515,
+    "wof:lastmodified":1537660409,
+    "wof:name":"Ban Paksa",
+    "wof:parent_id":1092030835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93943,
+    18.34699,
+    103.93943,
+    18.34699
+],
+  "geometry": {"coordinates":[103.93943,18.34699],"type":"Point"}
+}

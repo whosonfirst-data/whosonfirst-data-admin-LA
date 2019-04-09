@@ -1,0 +1,67 @@
+{
+  "id": 1293364055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93333,19.11667,103.93333,19.11667",
+    "geom:latitude":19.11667,
+    "geom:longitude":103.93333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Hang",
+    "gn:country_code":"LA",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664222,
+    "gn:latitude":19.11667,
+    "gn:longitude":103.93333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Hang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664222
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a7489852605b4f031e7526de392ab482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027549,
+            "locality_id":1293364055,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293364055,
+    "wof:lastmodified":1536964863,
+    "wof:name":"Ban Hang",
+    "wof:parent_id":1092027549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93333,
+    19.11667000000001,
+    103.93333,
+    19.11667000000001
+],
+  "geometry": {"coordinates":[103.93333,19.11667000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259344199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.88333,19.2,102.88333,19.2",
+    "geom:latitude":19.2,
+    "geom:longitude":102.88333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban San Tong",
+    "gn:country_code":"LA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659408,
+    "gn:latitude":19.2,
+    "gn:longitude":102.88333,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban San Tong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sam Thong",
+        "Ban San Tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659408
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"33117042b0ccd275bdd200a01e4d816f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1259344199,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259344199,
+    "wof:lastmodified":1537660350,
+    "wof:name":"Ban San Tong",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.88333,
+    19.2,
+    102.88333,
+    19.2
+],
+  "geometry": {"coordinates":[102.88333,19.2],"type":"Point"}
+}

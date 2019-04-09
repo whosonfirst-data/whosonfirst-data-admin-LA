@@ -1,0 +1,70 @@
+{
+  "id": 1226290255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.20955,19.22835,102.20955,19.22835",
+    "geom:latitude":19.22835,
+    "geom:longitude":102.20955,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Naxaykhao",
+    "gn:country_code":"LA",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227482,
+    "gn:latitude":19.22835,
+    "gn:longitude":102.20955,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Naxaykhao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naxaykhao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227482
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b8377912eb48d77cf0a426770ad9a46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1226290255,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1226290255,
+    "wof:lastmodified":1537660908,
+    "wof:name":"Ban Naxaykhao",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.20955,
+    19.22835,
+    102.20955,
+    19.22835
+],
+  "geometry": {"coordinates":[102.20954999999999,19.22835],"type":"Point"}
+}

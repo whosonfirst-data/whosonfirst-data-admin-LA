@@ -1,0 +1,76 @@
+{
+  "id": 1293391875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81679,20.1567,103.81679,20.1567",
+    "geom:latitude":20.1567,
+    "geom:longitude":103.81679,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houayna",
+    "gn:country_code":"LA",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663728,
+    "gn:latitude":20.1567,
+    "gn:longitude":103.81679,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houayna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Na-Ngou"
+    ],
+    "name:lao_x_variant":[
+        "Ban Houayna"
+    ],
+    "name:und_x_variant":[
+        "Ban Houe\u00ef Na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663728
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dae1c438739458a3b6e5973aac7e5b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1293391875,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293391875,
+    "wof:lastmodified":1537660600,
+    "wof:name":"Ban Houayna",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81679,
+    20.1567,
+    103.81679,
+    20.1567
+],
+  "geometry": {"coordinates":[103.81679,20.1567],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225827451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.13363,20.39197,101.13363,20.39197",
+    "geom:latitude":20.39197,
+    "geom:longitude":101.13363,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Kaygne",
+    "gn:country_code":"LA",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956371,
+    "gn:latitude":20.39197,
+    "gn:longitude":101.13363,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Kaygn\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kaygn\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956371
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"675320e50a4f64207d7b464017c37870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1225827451,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1225827451,
+    "wof:lastmodified":1537660819,
+    "wof:name":"Ban Kaygne",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.13363,
+    20.39197,
+    101.13363,
+    20.39197
+],
+  "geometry": {"coordinates":[101.13363,20.39197],"type":"Point"}
+}

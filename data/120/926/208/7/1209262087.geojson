@@ -1,0 +1,64 @@
+{
+  "id": 1209262087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92769,18.85429,101.92769,18.85429",
+    "geom:latitude":18.85429,
+    "geom:longitude":101.92769,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Namhouang",
+    "gn:country_code":"LA",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221758,
+    "gn:latitude":18.85429,
+    "gn:longitude":101.92769,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Namhouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namhouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221758
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cb17cd82ef7c097c2eebf7ba141e9082",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209262087
+        }
+    ],
+    "wof:id":1209262087,
+    "wof:lastmodified":1537660890,
+    "wof:name":"Ban Namhouang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92769,
+    18.85429,
+    101.92769,
+    18.85429
+],
+  "geometry": {"coordinates":[101.92769,18.85429],"type":"Point"}
+}

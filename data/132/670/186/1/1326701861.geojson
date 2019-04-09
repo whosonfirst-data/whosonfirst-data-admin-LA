@@ -1,0 +1,71 @@
+{
+  "id": 1326701861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.68922,20.08438,102.68922,20.08438",
+    "geom:latitude":20.08438,
+    "geom:longitude":102.68922,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sennamai",
+    "gn:country_code":"LA",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659279,
+    "gn:latitude":20.08438,
+    "gn:longitude":102.68922,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nnamai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban S\u00e8nnammai",
+        "Ban S\u00e8nnamai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659279
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"408a3f2f96573f2ebdae02e87b288566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1326701861,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1326701861,
+    "wof:lastmodified":1537660344,
+    "wof:name":"Ban Sennamai",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.68922,
+    20.08438,
+    102.68922,
+    20.08438
+],
+  "geometry": {"coordinates":[102.68922000000001,20.08438],"type":"Point"}
+}

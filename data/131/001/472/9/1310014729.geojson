@@ -1,0 +1,73 @@
+{
+  "id": 1310014729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.98528,14.88067,105.98528,14.88067",
+    "geom:latitude":14.88067,
+    "geom:longitude":105.98528,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Houay Thongkhoum",
+    "gn:country_code":"LA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658490,
+    "gn:latitude":14.88067,
+    "gn:longitude":105.98528,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Houay Th\u00f4ngkhoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Houay Th\u00f4ngkhoum"
+    ],
+    "name:und_x_variant":[
+        "Ban Th\u00f4ngkhoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658490
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"27efa9229eaa4cd701600c1ecab9dde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1310014729,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310014729,
+    "wof:lastmodified":1537660299,
+    "wof:name":"Houay Thongkhoum",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.98528,
+    14.88067,
+    105.98528,
+    14.88067
+],
+  "geometry": {"coordinates":[105.98528,14.88067],"type":"Point"}
+}

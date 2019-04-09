@@ -1,0 +1,133 @@
+{
+  "id": 1125939803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45401,20.2467,100.45401,20.2467",
+    "geom:latitude":20.2467,
+    "geom:longitude":100.45401,
+    "gn:gn_country":"LA",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15500,
+    "gn:population":15500,
+    "iso:country":"LA",
+    "lbl:latitude":20.2467,
+    "lbl:longitude":100.45401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u6703\u6652"
+    ],
+    "name:cze_x_preferred":[
+        "Huay Xai"
+    ],
+    "name:dut_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:eng_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:epo_x_preferred":[
+        "Ban Huajsai"
+    ],
+    "name:fre_x_preferred":[
+        "Houei Sai"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10e3\u10d0\u10d8\u10e1\u10d0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:ita_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30a4\u30b5\u30fc\u30a4\u90e1"
+    ],
+    "name:lao_x_preferred":[
+        "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0646 \u0647\u0648\u0627\u06cc\u0634\u0627\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d  \u0425\u043e\u0439\u044f\u043a\u0441\u044f\u0443"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0646 \u06c1\u0648\u0648\u0627\u06d2 \u0633\u0627\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Huoixai"
+    ],
+    "name:war_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "qs_pg:aaroncc":"LA",
+    "qs_pg:gn_country":"LA",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1904391,
+    "qs_pg:gn_pop":15500,
+    "qs_pg:name":"Ban Houakhoua",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":137259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904391,
+        "qs_pg:id":137259,
+        "wd:id":"Q717371"
+    },
+    "wof:country":"LA",
+    "wof:created":1497297079,
+    "wof:geomhash":"13768f270963797392c9df95668d7f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1125939803,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1125939803,
+    "wof:lastmodified":1514470029,
+    "wof:name":"Ban Houakhoua",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:population":15500,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45401,
+    20.2467,
+    100.45401,
+    20.2467
+],
+  "geometry": {"coordinates":[100.45401,20.2467],"type":"Point"}
+}

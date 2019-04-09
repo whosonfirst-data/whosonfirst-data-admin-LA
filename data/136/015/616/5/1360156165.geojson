@@ -1,0 +1,73 @@
+{
+  "id": 1360156165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45,19.7,102.45,19.7",
+    "geom:latitude":19.7,
+    "geom:longitude":102.45,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sen Keo",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659340,
+    "gn:latitude":19.7,
+    "gn:longitude":102.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban S\u00e8n Keo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houay Lok",
+        "Houei Lok",
+        "Ban S\u00e8n Keo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659340
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5e37ea24dac912698491a95b42445ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1360156165,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1360156165,
+    "wof:lastmodified":1537660347,
+    "wof:name":"Ban Sen Keo",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45,
+    19.7,
+    102.45,
+    19.7
+],
+  "geometry": {"coordinates":[102.45,19.7],"type":"Point"}
+}

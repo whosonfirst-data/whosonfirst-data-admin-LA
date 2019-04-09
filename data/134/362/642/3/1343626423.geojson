@@ -1,0 +1,70 @@
+{
+  "id": 1343626423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.19827,16.95951,106.19827,16.95951",
+    "geom:latitude":16.95951,
+    "geom:longitude":106.19827,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kok",
+    "gn:country_code":"LA",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662830,
+    "gn:latitude":16.95951,
+    "gn:longitude":106.19827,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban K\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662830
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d363f5d9fcab3a0d5860e2e31442383d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1343626423,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343626423,
+    "wof:lastmodified":1537660544,
+    "wof:name":"Ban Kok",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.19827,
+    16.95951,
+    106.19827,
+    16.95951
+],
+  "geometry": {"coordinates":[106.19826999999999,16.95951],"type":"Point"}
+}

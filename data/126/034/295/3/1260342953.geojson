@@ -1,0 +1,72 @@
+{
+  "id": 1260342953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63333,18.36667,102.63333,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":102.63333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nagnang",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662012,
+    "gn:latitude":18.36667,
+    "gn:longitude":102.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Nagnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Nhang",
+        "Ban Nagnang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662012
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"471a015c1f3f88c6a184ec6a8576dbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1260342953,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1260342953,
+    "wof:lastmodified":1537660499,
+    "wof:name":"Ban Nagnang",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63333,
+    18.36667000000001,
+    102.63333,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[102.63333,18.36667000000001],"type":"Point"}
+}

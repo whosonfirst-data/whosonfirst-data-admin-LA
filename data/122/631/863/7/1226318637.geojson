@@ -1,0 +1,70 @@
+{
+  "id": 1226318637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23726,21.30812,102.23726,21.30812",
+    "geom:latitude":21.30812,
+    "geom:longitude":102.23726,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sengsakioucho",
+    "gn:country_code":"LA",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954936,
+    "gn:latitude":21.30812,
+    "gn:longitude":102.23726,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00e8ngsakiouch\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8ngsakiouch\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954936
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"164c3632fea1c6ee621bda60f36cf856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1226318637,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226318637,
+    "wof:lastmodified":1537660782,
+    "wof:name":"Ban Sengsakioucho",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23726,
+    21.30812,
+    102.23726,
+    21.30812
+],
+  "geometry": {"coordinates":[102.23726000000001,21.30812],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293258855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03456,19.07191,102.03456,19.07191",
+    "geom:latitude":19.07191,
+    "geom:longitude":102.03456,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phanda",
+    "gn:country_code":"LA",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227324,
+    "gn:latitude":19.07191,
+    "gn:longitude":102.03456,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227324
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ee96ad15ea106c53298971f37d92d881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1293258855,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293258855,
+    "wof:lastmodified":1537660906,
+    "wof:name":"Ban Phanda",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03456,
+    19.07191,
+    102.03456,
+    19.07191
+],
+  "geometry": {"coordinates":[102.03456,19.07191],"type":"Point"}
+}

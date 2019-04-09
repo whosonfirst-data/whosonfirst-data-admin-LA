@@ -1,0 +1,67 @@
+{
+  "id": 1209699347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23333,19.71667,103.23333,19.71667",
+    "geom:latitude":19.71667,
+    "geom:longitude":103.23333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nam Sone",
+    "gn:country_code":"LA",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661405,
+    "gn:latitude":19.71667,
+    "gn:longitude":103.23333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Nam Sone",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661405
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f033aa1e790eec282ec68dca3072ef56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1209699347,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1209699347,
+    "wof:lastmodified":1536395684,
+    "wof:name":"Ban Nam Sone",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23333,
+    19.71667,
+    103.23333,
+    19.71667
+],
+  "geometry": {"coordinates":[103.23333,19.71667],"type":"Point"}
+}

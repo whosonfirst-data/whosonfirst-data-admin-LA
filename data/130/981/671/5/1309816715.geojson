@@ -1,0 +1,74 @@
+{
+  "id": 1309816715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76789,14.17128,105.76789,14.17128",
+    "geom:latitude":14.17128,
+    "geom:longitude":105.76789,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Don Hi Veun",
+    "gn:country_code":"LA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658189,
+    "gn:latitude":14.17128,
+    "gn:longitude":105.76789,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Don Hi Veun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Don Hi Veun"
+    ],
+    "name:und_x_variant":[
+        "Ban Veune",
+        "Ban Veun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658189
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7a78f27ed0d18edfcab75e0b72b62c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1309816715,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1309816715,
+    "wof:lastmodified":1537660281,
+    "wof:name":"Ban Don Hi Veun",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76789,
+    14.17128,
+    105.76789,
+    14.17128
+],
+  "geometry": {"coordinates":[105.76788999999999,14.17128],"type":"Point"}
+}

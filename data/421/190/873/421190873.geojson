@@ -1,0 +1,82 @@
+{
+  "id": 421190873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90325,21.63556,101.90325,21.63556",
+    "geom:latitude":21.63556,
+    "geom:longitude":101.90325,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:lao_x_preferred":[
+        "Ban Boun-Nua"
+    ],
+    "name:unk_x_variant":[
+        "Bun Nua"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1657871,
+    "qs:gn_pop":0,
+    "qs:name":"Boun Neua",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Phongsali",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":58649,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1140545,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657871,
+        "gp:id":1140545,
+        "qs:id":58649
+    },
+    "wof:country":"LA",
+    "wof:created":1459009672,
+    "wof:geomhash":"9ddde0c0112a7443faf8acf14e2205c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":421190873,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":421190873,
+    "wof:lastmodified":1501221413,
+    "wof:name":"Boun Neua",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90325,
+    21.63556,
+    101.90325,
+    21.63556
+],
+  "geometry": {"coordinates":[101.90325,21.63556],"type":"Point"}
+}

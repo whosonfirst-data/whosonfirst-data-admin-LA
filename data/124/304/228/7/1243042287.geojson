@@ -1,0 +1,71 @@
+{
+  "id": 1243042287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96517,16.44263,104.96517,16.44263",
+    "geom:latitude":16.44263,
+    "geom:longitude":104.96517,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Khamheng",
+    "gn:country_code":"LA",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663119,
+    "gn:latitude":16.44263,
+    "gn:longitude":104.96517,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Khamh\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kham Hang",
+        "Ban Khamh\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663119
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"365d9c7bc0f69807c32eb76a86214c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030959,
+            "locality_id":1243042287,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243042287,
+    "wof:lastmodified":1537660561,
+    "wof:name":"Ban Khamheng",
+    "wof:parent_id":1092030959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96517,
+    16.44263,
+    104.96517,
+    16.44263
+],
+  "geometry": {"coordinates":[104.96517,16.44263],"type":"Point"}
+}

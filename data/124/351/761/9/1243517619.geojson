@@ -1,0 +1,67 @@
+{
+  "id": 1243517619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23333,21.7,102.23333,21.7",
+    "geom:latitude":21.7,
+    "geom:longitude":102.23333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Pong La",
+    "gn:country_code":"LA",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653735,
+    "gn:latitude":21.7,
+    "gn:longitude":102.23333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Pong La",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653735
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6ca5e8838840da6f7d4920e594227524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1243517619,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243517619,
+    "wof:lastmodified":1536703290,
+    "wof:name":"Pong La",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23333,
+    21.7,
+    102.23333,
+    21.7
+],
+  "geometry": {"coordinates":[102.23333,21.7],"type":"Point"}
+}

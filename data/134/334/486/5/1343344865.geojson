@@ -1,0 +1,72 @@
+{
+  "id": 1343344865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6,19.28333,103.6,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":103.6,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Xam Khen",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658127,
+    "gn:latitude":19.28333,
+    "gn:longitude":103.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Xam Kh\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sam K\u00e8ne",
+        "Ban Xam Kh\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658127
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"98063f153d4d74daf2edd9105aa8a405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1343344865,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343344865,
+    "wof:lastmodified":1537660276,
+    "wof:name":"Ban Xam Khen",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6,
+    19.28333,
+    103.6,
+    19.28333
+],
+  "geometry": {"coordinates":[103.59999999999999,19.28333],"type":"Point"}
+}

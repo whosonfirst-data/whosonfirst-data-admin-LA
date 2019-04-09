@@ -1,0 +1,64 @@
+{
+  "id": 1209688345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52499,20.49496,101.52499,20.49496",
+    "geom:latitude":20.49496,
+    "geom:longitude":101.52499,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Pheung",
+    "gn:country_code":"LA",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953804,
+    "gn:latitude":20.49496,
+    "gn:longitude":101.52499,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Pheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953804
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"84734f5cf9bb382f002ed8159bc30775",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209688345
+        }
+    ],
+    "wof:id":1209688345,
+    "wof:lastmodified":1537660751,
+    "wof:name":"Ban Pheung",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52499,
+    20.49496,
+    101.52499,
+    20.49496
+],
+  "geometry": {"coordinates":[101.52499,20.49496],"type":"Point"}
+}

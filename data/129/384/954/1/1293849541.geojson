@@ -1,0 +1,73 @@
+{
+  "id": 1293849541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43856,16.04768,106.43856,16.04768",
+    "geom:latitude":16.04768,
+    "geom:longitude":106.43856,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Loy",
+    "gn:country_code":"LA",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655677,
+    "gn:latitude":16.04768,
+    "gn:longitude":106.43856,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban L\u00f4y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban L\u00f4y"
+    ],
+    "name:und_x_variant":[
+        "Loi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655677
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9ca32e144c08466976c58e9bc9c48d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1293849541,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293849541,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Loy",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43856,
+    16.04768,
+    106.43856,
+    16.04768
+],
+  "geometry": {"coordinates":[106.43856,16.04768],"type":"Point"}
+}

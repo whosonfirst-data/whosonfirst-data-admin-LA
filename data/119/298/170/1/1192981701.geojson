@@ -1,0 +1,73 @@
+{
+  "id": 1192981701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36975,21.69275,102.36975,21.69275",
+    "geom:latitude":21.69275,
+    "geom:longitude":102.36975,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phagnasi",
+    "gn:country_code":"LA",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654316,
+    "gn:latitude":21.69275,
+    "gn:longitude":102.36975,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phagnasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phagnasi"
+    ],
+    "name:und_x_variant":[
+        "Pan Ha Si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654316
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b9654fdb5bd2ec31d1b203c897749c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1192981701,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1192981701,
+    "wof:lastmodified":1537660216,
+    "wof:name":"Ban Phagnasi",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36975,
+    21.69275,
+    102.36975,
+    21.69275
+],
+  "geometry": {"coordinates":[102.36975,21.69275],"type":"Point"}
+}

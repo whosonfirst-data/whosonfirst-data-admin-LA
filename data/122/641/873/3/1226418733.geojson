@@ -1,0 +1,70 @@
+{
+  "id": 1226418733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.05212,20.7192,103.05212,20.7192",
+    "geom:latitude":20.7192,
+    "geom:longitude":103.05212,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Bachem",
+    "gn:country_code":"LA",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955091,
+    "gn:latitude":20.7192,
+    "gn:longitude":103.05212,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Bach\u00e8m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bach\u00e8m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955091
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"144f71bd1095aab0acb1e54a85fc7b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1226418733,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226418733,
+    "wof:lastmodified":1537660787,
+    "wof:name":"Ban Bachem",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.05212,
+    20.7192,
+    103.05212,
+    20.7192
+],
+  "geometry": {"coordinates":[103.05212,20.7192],"type":"Point"}
+}

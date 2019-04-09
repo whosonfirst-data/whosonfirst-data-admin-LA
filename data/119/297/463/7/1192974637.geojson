@@ -1,0 +1,70 @@
+{
+  "id": 1192974637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.06173,18.16696,105.06173,18.16696",
+    "geom:latitude":18.16696,
+    "geom:longitude":105.06173,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Namthi",
+    "gn:country_code":"LA",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661395,
+    "gn:latitude":18.16696,
+    "gn:longitude":105.06173,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Namthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Namthi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661395
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"745dc3a746ddcce9b060f7fd9f72bbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1192974637,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1192974637,
+    "wof:lastmodified":1537660465,
+    "wof:name":"Namthi",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.06173,
+    18.16696,
+    105.06173,
+    18.16696
+],
+  "geometry": {"coordinates":[105.06173,18.16696],"type":"Point"}
+}

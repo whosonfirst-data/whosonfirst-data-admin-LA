@@ -1,0 +1,70 @@
+{
+  "id": 1193264591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20537,18.40801,101.20537,18.40801",
+    "geom:latitude":18.40801,
+    "geom:longitude":101.20537,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Napuay",
+    "gn:country_code":"LA",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941607,
+    "gn:latitude":18.40801,
+    "gn:longitude":101.20537,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Napuay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Napuay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941607
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"37d66c2b6c0c55b5663489b70db30cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030537,
+            "locality_id":1193264591,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1193264591,
+    "wof:lastmodified":1537660696,
+    "wof:name":"Ban Napuay",
+    "wof:parent_id":1092030537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20537,
+    18.40801,
+    101.20537,
+    18.40801
+],
+  "geometry": {"coordinates":[101.20537,18.40801],"type":"Point"}
+}

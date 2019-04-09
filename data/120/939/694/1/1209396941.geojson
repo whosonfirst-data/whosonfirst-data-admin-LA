@@ -1,0 +1,64 @@
+{
+  "id": 1209396941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.82557,21.05346,100.82557,21.05346",
+    "geom:latitude":21.05346,
+    "geom:longitude":100.82557,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phochan",
+    "gn:country_code":"LA",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237430,
+    "gn:latitude":21.05346,
+    "gn:longitude":100.82557,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phochan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phochan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237430
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"004747bf487c224e6cdb5c6f1cca2a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209396941
+        }
+    ],
+    "wof:id":1209396941,
+    "wof:lastmodified":1537660973,
+    "wof:name":"Ban Phochan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.82557,
+    21.05346,
+    100.82557,
+    21.05346
+],
+  "geometry": {"coordinates":[100.82557,21.05346],"type":"Point"}
+}

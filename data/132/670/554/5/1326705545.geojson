@@ -1,0 +1,75 @@
+{
+  "id": 1326705545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8069,15.57601,105.8069,15.57601",
+    "geom:latitude":15.57601,
+    "geom:longitude":105.8069,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Muang Khongxedon",
+    "gn:country_code":"LA",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655191,
+    "gn:latitude":15.57601,
+    "gn:longitude":105.8069,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Muang Kh\u00f4ngx\u00e9d\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khong Sedon",
+        "Sedone",
+        "Khong S\u00e9done",
+        "Muong Khong",
+        "Kh\u00f4ngx\u00e9d\u00f4n",
+        "Muang Kh\u00f4ngx\u00e9d\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655191
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5bba6e162bf3b546a199ed07459a343b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1326705545,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1326705545,
+    "wof:lastmodified":1537660238,
+    "wof:name":"Muang Khongxedon",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8069,
+    15.57601,
+    105.8069,
+    15.57601
+],
+  "geometry": {"coordinates":[105.8069,15.57601],"type":"Point"}
+}

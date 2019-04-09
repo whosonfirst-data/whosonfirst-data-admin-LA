@@ -1,0 +1,71 @@
+{
+  "id": 1293848759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.40068,16.86346,106.40068,16.86346",
+    "geom:latitude":16.86346,
+    "geom:longitude":106.40068,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tapia",
+    "gn:country_code":"LA",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658827,
+    "gn:latitude":16.86346,
+    "gn:longitude":106.40068,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tapia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tapi",
+        "Ban Tapia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658827
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"29ac5c096f06d0e012b23ba4b056365d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293848759,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293848759,
+    "wof:lastmodified":1537660318,
+    "wof:name":"Ban Tapia",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.40068,
+    16.86346,
+    106.40068,
+    16.86346
+],
+  "geometry": {"coordinates":[106.40067999999999,16.86346],"type":"Point"}
+}

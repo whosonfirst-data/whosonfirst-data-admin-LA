@@ -1,0 +1,64 @@
+{
+  "id": 1209284781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96479,17.05257,105.96479,17.05257",
+    "geom:latitude":17.05257,
+    "geom:longitude":105.96479,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Loukpoum",
+    "gn:country_code":"LA",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662394,
+    "gn:latitude":17.05257,
+    "gn:longitude":105.96479,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Loukpoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Loumpoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662394
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4007b2ca1ea0acaa8b8b434e6bdc8f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209284781
+        }
+    ],
+    "wof:id":1209284781,
+    "wof:lastmodified":1537660520,
+    "wof:name":"Ban Loukpoum",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96479,
+    17.05257000000001,
+    105.96479,
+    17.05257000000001
+],
+  "geometry": {"coordinates":[105.96478999999999,17.05257000000001],"type":"Point"}
+}

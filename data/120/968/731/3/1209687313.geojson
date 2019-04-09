@@ -1,0 +1,64 @@
+{
+  "id": 1209687313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.82385,19.76721,101.82385,19.76721",
+    "geom:latitude":19.76721,
+    "geom:longitude":101.82385,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Kaykon-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953746,
+    "gn:latitude":19.76721,
+    "gn:longitude":101.82385,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Kaykon-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kaykon-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953746
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a07f2546c46f0638b7a8fb778d68d392",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209687313
+        }
+    ],
+    "wof:id":1209687313,
+    "wof:lastmodified":1537660750,
+    "wof:name":"Ban Kaykon-Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.82385,
+    19.76721,
+    101.82385,
+    19.76721
+],
+  "geometry": {"coordinates":[101.82384999999999,19.76721],"type":"Point"}
+}

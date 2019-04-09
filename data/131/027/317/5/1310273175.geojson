@@ -1,0 +1,70 @@
+{
+  "id": 1310273175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.69063,17.9162,102.69063,17.9162",
+    "geom:latitude":17.9162,
+    "geom:longitude":102.69063,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Khoumhin",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233126,
+    "gn:latitude":17.9162,
+    "gn:longitude":102.69063,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Khoumhin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khoumhin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092026285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233126
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5f213d17dc04b7cee5f415903f76570d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026285,
+            "locality_id":1310273175,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1310273175,
+    "wof:lastmodified":1537660937,
+    "wof:name":"Ban Khoumhin",
+    "wof:parent_id":1092026285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.69063,
+    17.9162,
+    102.69063,
+    17.9162
+],
+  "geometry": {"coordinates":[102.69063,17.9162],"type":"Point"}
+}

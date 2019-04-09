@@ -1,0 +1,70 @@
+{
+  "id": 1260030791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.92398,18.53742,102.92398,18.53742",
+    "geom:latitude":18.53742,
+    "geom:longitude":102.92398,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Thamdin",
+    "gn:country_code":"LA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401331,
+    "gn:latitude":18.53742,
+    "gn:longitude":102.92398,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ban Thamdin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thamdin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401331
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4925207d74e4ebebd480cd531e30133e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027153,
+            "locality_id":1260030791,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1260030791,
+    "wof:lastmodified":1537660988,
+    "wof:name":"Ban Thamdin",
+    "wof:parent_id":1092027153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.92398,
+    18.53742,
+    102.92398,
+    18.53742
+],
+  "geometry": {"coordinates":[102.92398,18.53742],"type":"Point"}
+}

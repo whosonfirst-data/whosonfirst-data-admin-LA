@@ -1,0 +1,72 @@
+{
+  "id": 1226658867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81937,14.59157,105.81937,14.59157",
+    "geom:latitude":14.59157,
+    "geom:longitude":105.81937,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mai-Vangmakxeo",
+    "gn:country_code":"LA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662355,
+    "gn:latitude":14.59157,
+    "gn:longitude":105.81937,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Mai-Vangmakx\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Vangmakx\u00e8o",
+        "Ban Mai Vang Mak Seo",
+        "Ban Mai-Vangmakx\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662355
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"23af7b793cbe409fc46afc1d3f328b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1226658867,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226658867,
+    "wof:lastmodified":1537660518,
+    "wof:name":"Ban Mai-Vangmakxeo",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81937,
+    14.59157,
+    105.81937,
+    14.59157
+],
+  "geometry": {"coordinates":[105.81937000000001,14.59157],"type":"Point"}
+}

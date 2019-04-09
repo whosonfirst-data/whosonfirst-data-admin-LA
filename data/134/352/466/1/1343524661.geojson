@@ -1,0 +1,70 @@
+{
+  "id": 1343524661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.99432,21.16124,101.99432,21.16124",
+    "geom:latitude":21.16124,
+    "geom:longitude":101.99432,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Agna-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244079,
+    "gn:latitude":21.16124,
+    "gn:longitude":101.99432,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Agna-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Agna-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244079
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bf307810cc90ac097d956cae897bf020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1343524661,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1343524661,
+    "wof:lastmodified":1537660980,
+    "wof:name":"Ban Agna-Mai",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.99432,
+    21.16124,
+    101.99432,
+    21.16124
+],
+  "geometry": {"coordinates":[101.99432,21.16124],"type":"Point"}
+}

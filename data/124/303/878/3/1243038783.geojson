@@ -1,0 +1,72 @@
+{
+  "id": 1243038783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.26667,19.63333,103.26667,19.63333",
+    "geom:latitude":19.63333,
+    "geom:longitude":103.26667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Naxay (2)",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660983,
+    "gn:latitude":19.63333,
+    "gn:longitude":103.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Naxay (2)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Sai",
+        "Ban Naxay (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092028523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660983
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"de78884b2b67786c23a9d9ba07a3f588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028523,
+            "locality_id":1243038783,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1243038783,
+    "wof:lastmodified":1537660441,
+    "wof:name":"Ban Naxay (2)",
+    "wof:parent_id":1092028523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.26667,
+    19.63333,
+    103.26667,
+    19.63333
+],
+  "geometry": {"coordinates":[103.26667,19.63333],"type":"Point"}
+}

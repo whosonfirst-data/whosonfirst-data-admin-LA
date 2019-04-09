@@ -1,0 +1,70 @@
+{
+  "id": 1276208599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.31825,20.45714,101.31825,20.45714",
+    "geom:latitude":20.45714,
+    "geom:longitude":101.31825,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phouhong",
+    "gn:country_code":"LA",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956343,
+    "gn:latitude":20.45714,
+    "gn:longitude":101.31825,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phouhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phouhong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956343
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e3ff8783f1a08fd143db9f4fd22d272f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1276208599,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276208599,
+    "wof:lastmodified":1537660818,
+    "wof:name":"Ban Phouhong",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.31825,
+    20.45714,
+    101.31825,
+    20.45714
+],
+  "geometry": {"coordinates":[101.31825000000001,20.45714],"type":"Point"}
+}

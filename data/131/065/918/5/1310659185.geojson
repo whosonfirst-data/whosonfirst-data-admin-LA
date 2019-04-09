@@ -1,0 +1,70 @@
+{
+  "id": 1310659185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66323,20.6888,100.66323,20.6888",
+    "geom:latitude":20.6888,
+    "geom:longitude":100.66323,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Chakha",
+    "gn:country_code":"LA",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244182,
+    "gn:latitude":20.6888,
+    "gn:longitude":100.66323,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Chakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244182
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c6ef636f7d1cf87b0778b210d874914c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1310659185,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1310659185,
+    "wof:lastmodified":1537660980,
+    "wof:name":"Ban Chakha",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66323,
+    20.6888,
+    100.66323,
+    20.6888
+],
+  "geometry": {"coordinates":[100.66323,20.6888],"type":"Point"}
+}

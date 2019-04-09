@@ -1,0 +1,72 @@
+{
+  "id": 1226121943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.00954,17.56199,101.00954,17.56199",
+    "geom:latitude":17.56199,
+    "geom:longitude":101.00954,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Bonoy",
+    "gn:country_code":"LA",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662098,
+    "gn:latitude":17.56199,
+    "gn:longitude":101.00954,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Bonoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Bo Muong Noi",
+        "Ban Nabonoy",
+        "Ban Bonoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662098
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"efb645d348a758aaaf86dc8d0cc6cd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026237,
+            "locality_id":1226121943,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226121943,
+    "wof:lastmodified":1537660504,
+    "wof:name":"Ban Bonoy",
+    "wof:parent_id":1092026237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.00954,
+    17.56199,
+    101.00954,
+    17.56199
+],
+  "geometry": {"coordinates":[101.00954,17.56199],"type":"Point"}
+}

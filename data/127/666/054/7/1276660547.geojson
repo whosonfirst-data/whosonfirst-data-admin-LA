@@ -1,0 +1,70 @@
+{
+  "id": 1276660547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79447,14.70797,105.79447,14.70797",
+    "geom:latitude":14.70797,
+    "geom:longitude":105.79447,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Bak",
+    "gn:country_code":"LA",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201256,
+    "gn:latitude":14.70797,
+    "gn:longitude":105.79447,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201256
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"17e108d9a47985dc2812d7558f791412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1276660547,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1276660547,
+    "wof:lastmodified":1537660864,
+    "wof:name":"Ban Bak",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79447,
+    14.70797,
+    105.79447,
+    14.70797
+],
+  "geometry": {"coordinates":[105.79447,14.70797],"type":"Point"}
+}

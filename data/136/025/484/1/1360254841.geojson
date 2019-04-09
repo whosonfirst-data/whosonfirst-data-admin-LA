@@ -1,0 +1,70 @@
+{
+  "id": 1360254841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98408,20.68776,100.98408,20.68776",
+    "geom:latitude":20.68776,
+    "geom:longitude":100.98408,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Kouy",
+    "gn:country_code":"LA",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907050,
+    "gn:latitude":20.68776,
+    "gn:longitude":100.98408,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Kouy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kouy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907050
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1b4bb5b3d29477f0287c9ef79688cb69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1360254841,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1360254841,
+    "wof:lastmodified":1537660692,
+    "wof:name":"Ban Kouy",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98408,
+    20.68776,
+    100.98408,
+    20.68776
+],
+  "geometry": {"coordinates":[100.98408000000001,20.68776],"type":"Point"}
+}

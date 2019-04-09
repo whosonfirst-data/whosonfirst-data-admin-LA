@@ -1,0 +1,67 @@
+{
+  "id": 1309769787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.85,20.75,102.85,20.75",
+    "geom:latitude":20.75,
+    "geom:longitude":102.85,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tao Than",
+    "gn:country_code":"LA",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652799,
+    "gn:latitude":20.75,
+    "gn:longitude":102.85,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Tao Than",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652799
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"46ac076f63fd9d4b8dafb206782e987a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1309769787,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309769787,
+    "wof:lastmodified":1536982423,
+    "wof:name":"Tao Than",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.85,
+    20.75,
+    102.85,
+    20.75
+],
+  "geometry": {"coordinates":[102.84999999999999,20.75],"type":"Point"}
+}

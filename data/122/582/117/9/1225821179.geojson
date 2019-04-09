@@ -1,0 +1,71 @@
+{
+  "id": 1225821179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.54951,21.01572,102.54951,21.01572",
+    "geom:latitude":21.01572,
+    "geom:longitude":102.54951,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Omphia",
+    "gn:country_code":"LA",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654512,
+    "gn:latitude":21.01572,
+    "gn:longitude":102.54951,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban \u00d4mphia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Om Pia",
+        "Ban \u00d4mphia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654512
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8da5ba23266c1312e0d501697e160757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1225821179,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1225821179,
+    "wof:lastmodified":1537660218,
+    "wof:name":"Ban Omphia",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.54951,
+    21.01572,
+    102.54951,
+    21.01572
+],
+  "geometry": {"coordinates":[102.54951,21.01572],"type":"Point"}
+}

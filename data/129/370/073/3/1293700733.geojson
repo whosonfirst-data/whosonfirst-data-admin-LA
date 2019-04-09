@@ -1,0 +1,72 @@
+{
+  "id": 1293700733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95226,14.52139,106.95226,14.52139",
+    "geom:latitude":14.52139,
+    "geom:longitude":106.95226,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Phiakhamkak",
+    "gn:country_code":"LA",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660106,
+    "gn:latitude":14.52139,
+    "gn:longitude":106.95226,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phiakhamkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Khom Kak",
+        "Ban Phiakhamkak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660106,
+        "wk:page":"Ban_Phiakhamkak"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"13b54b88a03ce3edd801940c97edda70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1293700733,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1293700733,
+    "wof:lastmodified":1537660388,
+    "wof:name":"Ban Phiakhamkak",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95226,
+    14.52139,
+    106.95226,
+    14.52139
+],
+  "geometry": {"coordinates":[106.95226,14.52139],"type":"Point"}
+}

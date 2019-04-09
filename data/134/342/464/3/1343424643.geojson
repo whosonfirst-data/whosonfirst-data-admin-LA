@@ -1,0 +1,70 @@
+{
+  "id": 1343424643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06473,19.92193,102.06473,19.92193",
+    "geom:latitude":19.92193,
+    "geom:longitude":102.06473,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Kiap",
+    "gn:country_code":"LA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957107,
+    "gn:latitude":19.92193,
+    "gn:longitude":102.06473,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Kiap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kiap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957107
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9475b165142a506e1b67a40f19bc7c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027381,
+            "locality_id":1343424643,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1343424643,
+    "wof:lastmodified":1537660838,
+    "wof:name":"Ban Kiap",
+    "wof:parent_id":1092027381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06473,
+    19.92193,
+    102.06473,
+    19.92193
+],
+  "geometry": {"coordinates":[102.06473,19.92193],"type":"Point"}
+}

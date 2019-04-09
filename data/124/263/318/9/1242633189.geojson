@@ -1,0 +1,75 @@
+{
+  "id": 1242633189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03518,17.99436,103.03518,17.99436",
+    "geom:latitude":17.99436,
+    "geom:longitude":103.03518,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Dongxan",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664448,
+    "gn:latitude":17.99436,
+    "gn:longitude":103.03518,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban D\u00f4ngxan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00f4ngxan"
+    ],
+    "name:und_x_variant":[
+        "Ban Dong Sa He",
+        "Ban Dong Sane",
+        "Ban Dong San"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092028157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664448
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0df5207b456c90a6ca8035abca4cadf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028157,
+            "locality_id":1242633189,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1242633189,
+    "wof:lastmodified":1537660647,
+    "wof:name":"Ban Dongxan",
+    "wof:parent_id":1092028157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03518,
+    17.99436,
+    103.03518,
+    17.99436
+],
+  "geometry": {"coordinates":[103.03518,17.99436],"type":"Point"}
+}

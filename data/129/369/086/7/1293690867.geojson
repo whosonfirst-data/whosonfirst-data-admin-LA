@@ -1,0 +1,71 @@
+{
+  "id": 1293690867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21998,14.7086,107.21998,14.7086",
+    "geom:latitude":14.7086,
+    "geom:longitude":107.21998,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Onglouang",
+    "gn:country_code":"LA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660588,
+    "gn:latitude":14.7086,
+    "gn:longitude":107.21998,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban \u00d4nglouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban \u00d4nglouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660588,
+        "wk:page":"Ban_Onglouang"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3982ed468ccd8927e4b022a36ff88254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1293690867,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1293690867,
+    "wof:lastmodified":1537660417,
+    "wof:name":"Ban Onglouang",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21998,
+    14.7086,
+    107.21998,
+    14.7086
+],
+  "geometry": {"coordinates":[107.21998000000001,14.7086],"type":"Point"}
+}

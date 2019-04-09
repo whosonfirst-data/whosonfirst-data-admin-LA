@@ -1,0 +1,73 @@
+{
+  "id": 1326601517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38333,20.2,102.38333,20.2",
+    "geom:latitude":20.2,
+    "geom:longitude":102.38333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houay Sala",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663630,
+    "gn:latitude":20.2,
+    "gn:longitude":102.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Houay Sala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei Sala",
+        "Ban Houei Saia",
+        "Ban Houay Sala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663630
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7cb082f34482ad365376ef2ca580d93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028205,
+            "locality_id":1326601517,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1326601517,
+    "wof:lastmodified":1537660592,
+    "wof:name":"Ban Houay Sala",
+    "wof:parent_id":1092028205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38333,
+    20.2,
+    102.38333,
+    20.2
+],
+  "geometry": {"coordinates":[102.38333,20.2],"type":"Point"}
+}

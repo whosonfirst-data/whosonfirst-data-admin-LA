@@ -1,0 +1,71 @@
+{
+  "id": 1293221719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.37552,20.05394,101.37552,20.05394",
+    "geom:latitude":20.05394,
+    "geom:longitude":101.37552,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Vangmouak",
+    "gn:country_code":"LA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658254,
+    "gn:latitude":20.05394,
+    "gn:longitude":101.37552,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Vangmouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Van Mouk",
+        "Ban Vangmouak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658254
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c4be3748e4a3f143c4f00454db99caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1293221719,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293221719,
+    "wof:lastmodified":1537660284,
+    "wof:name":"Ban Vangmouak",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.37552,
+    20.05394,
+    101.37552,
+    20.05394
+],
+  "geometry": {"coordinates":[101.37551999999999,20.05394],"type":"Point"}
+}

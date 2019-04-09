@@ -1,0 +1,72 @@
+{
+  "id": 1225810065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4538,16.75026,106.4538,16.75026",
+    "geom:latitude":16.75026,
+    "geom:longitude":106.4538,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Laxom",
+    "gn:country_code":"LA",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659573,
+    "gn:latitude":16.75026,
+    "gn:longitude":106.4538,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lax\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lang R\u2019Som",
+        "Ban Rax\u00f4m",
+        "Ban Lax\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659573
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ebcbc6cdb4768fd2e8fb6c8cad3681a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1225810065,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1225810065,
+    "wof:lastmodified":1537660360,
+    "wof:name":"Ban Laxom",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4538,
+    16.75026,
+    106.4538,
+    16.75026
+],
+  "geometry": {"coordinates":[106.4538,16.75026],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242848899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.35572,16.35725,105.35572,16.35725",
+    "geom:latitude":16.35725,
+    "geom:longitude":105.35572,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Lamphian",
+    "gn:country_code":"LA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662647,
+    "gn:latitude":16.35725,
+    "gn:longitude":105.35572,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lamphian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lamphian"
+    ],
+    "name:und_x_variant":[
+        "Ban Lam Phien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662647
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a91f5f51ad92f7a07c582b422fa2d829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1242848899,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1242848899,
+    "wof:lastmodified":1537660533,
+    "wof:name":"Ban Lamphian",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.35572,
+    16.35725,
+    105.35572,
+    16.35725
+],
+  "geometry": {"coordinates":[105.35572000000001,16.35725],"type":"Point"}
+}

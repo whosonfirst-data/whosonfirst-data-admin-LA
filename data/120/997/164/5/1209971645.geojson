@@ -1,0 +1,71 @@
+{
+  "id": 1209971645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.44741,15.47585,106.44741,15.47585",
+    "geom:latitude":15.47585,
+    "geom:longitude":106.44741,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kathousen",
+    "gn:country_code":"LA",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663320,
+    "gn:latitude":15.47585,
+    "gn:longitude":106.44741,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kathous\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Kathou S\u00e9ne",
+        "Ban Kathous\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663320
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7c9a2ae653a48ed02a8ad6801d9c3eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1209971645,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1209971645,
+    "wof:lastmodified":1537660573,
+    "wof:name":"Ban Kathousen",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.44741,
+    15.47585,
+    106.44741,
+    15.47585
+],
+  "geometry": {"coordinates":[106.44741,15.47585],"type":"Point"}
+}

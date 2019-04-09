@@ -1,0 +1,64 @@
+{
+  "id": 1209089783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.00824,19.53738,104.00824,19.53738",
+    "geom:latitude":19.53738,
+    "geom:longitude":104.00824,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Houaytang",
+    "gn:country_code":"LA",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11227432,
+    "gn:latitude":19.53738,
+    "gn:longitude":104.00824,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Houaytang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Houaytang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227432
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"09cb6bb1b622b09f212e6fbeebf1198b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209089783
+        }
+    ],
+    "wof:id":1209089783,
+    "wof:lastmodified":1537660907,
+    "wof:name":"Ban Houaytang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.00824,
+    19.53738,
+    104.00824,
+    19.53738
+],
+  "geometry": {"coordinates":[104.00824,19.53738],"type":"Point"}
+}

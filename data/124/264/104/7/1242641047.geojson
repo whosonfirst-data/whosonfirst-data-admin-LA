@@ -1,0 +1,71 @@
+{
+  "id": 1242641047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78962,19.67219,102.78962,19.67219",
+    "geom:latitude":19.67219,
+    "geom:longitude":102.78962,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Thaosoungvandi",
+    "gn:country_code":"LA",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658613,
+    "gn:latitude":19.67219,
+    "gn:longitude":102.78962,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thaosoungvandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Tao Soung Van Di",
+        "Ban Thaosoungvandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658613
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b26838649d1735d5993800cb54984440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1242641047,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242641047,
+    "wof:lastmodified":1537660306,
+    "wof:name":"Ban Thaosoungvandi",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78962,
+    19.67219,
+    102.78962,
+    19.67219
+],
+  "geometry": {"coordinates":[102.78962,19.67219],"type":"Point"}
+}

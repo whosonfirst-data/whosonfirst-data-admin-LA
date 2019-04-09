@@ -1,0 +1,76 @@
+{
+  "id": 1226418307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88892,21.408,101.88892,21.408",
+    "geom:latitude":21.408,
+    "geom:longitude":101.88892,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phayakhamseng",
+    "gn:country_code":"LA",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1654264,
+    "gn:latitude":21.408,
+    "gn:longitude":101.88892,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phayakhams\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phayakhamsent"
+    ],
+    "name:lao_x_variant":[
+        "Ban Phayakhams\u00e8ng"
+    ],
+    "name:und_x_variant":[
+        "Paya Kam Seng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654264
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"813e1f001ba372fb4b18f145e45a5c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1226418307,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226418307,
+    "wof:lastmodified":1537660216,
+    "wof:name":"Ban Phayakhamseng",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88892,
+    21.408,
+    101.88892,
+    21.408
+],
+  "geometry": {"coordinates":[101.88892,21.408],"type":"Point"}
+}

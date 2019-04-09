@@ -1,0 +1,73 @@
+{
+  "id": 421172013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"105.9267485,13.972714,105.9267485,13.972714",
+    "geom:latitude":13.972714,
+    "geom:longitude":105.926748,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Thala Barivat",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Stoeng Treng",
+    "qs:photos":1694,
+    "qs:photos_1k":343,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1922,
+    "qs:photos_sr":14,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1291289,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":56063354,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56063354,
+        "qs:id":1291289
+    },
+    "wof:country":"LA",
+    "wof:created":1459008916,
+    "wof:geomhash":"753c653939721afec0d416a84bded460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":421172013,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":421172013,
+    "wof:lastmodified":1466635834,
+    "wof:name":"Thala Barivat",
+    "wof:parent_id":85673423,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92674849999999,
+    13.972714,
+    105.92674849999999,
+    13.972714
+],
+  "geometry": {"coordinates":[105.92674849999999,13.972714],"type":"Point"}
+}

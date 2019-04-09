@@ -1,0 +1,68 @@
+{
+  "id": 1226107091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58088,16.56701,106.58088,16.56701",
+    "geom:latitude":16.56701,
+    "geom:longitude":106.58088,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Koum",
+    "gn:country_code":"LA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664657,
+    "gn:latitude":16.56701,
+    "gn:longitude":106.58088,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Koum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Coum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664657
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9ed2411edb9eee396f365d0a59a11d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1226107091,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226107091,
+    "wof:lastmodified":1537660660,
+    "wof:name":"Ban Koum",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58088,
+    16.56701,
+    106.58088,
+    16.56701
+],
+  "geometry": {"coordinates":[106.58087999999999,16.56701],"type":"Point"}
+}

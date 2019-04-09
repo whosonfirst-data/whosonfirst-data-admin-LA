@@ -1,0 +1,67 @@
+{
+  "id": 1242640969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.68333,20.91667,102.68333,20.91667",
+    "geom:latitude":20.91667,
+    "geom:longitude":102.68333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Douane Teu",
+    "gn:country_code":"LA",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657515,
+    "gn:latitude":20.91667,
+    "gn:longitude":102.68333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Douane Teu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657515
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b819c2c99bcd4d83fd183c16a9d17a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1242640969,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242640969,
+    "wof:lastmodified":1536972280,
+    "wof:name":"Douane Teu",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.68333,
+    20.91667,
+    102.68333,
+    20.91667
+],
+  "geometry": {"coordinates":[102.68333,20.91667],"type":"Point"}
+}

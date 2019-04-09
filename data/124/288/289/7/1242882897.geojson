@@ -1,0 +1,70 @@
+{
+  "id": 1242882897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01696,15.17005,106.01696,15.17005",
+    "geom:latitude":15.17005,
+    "geom:longitude":106.01696,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Lak Xao Ha",
+    "gn:country_code":"LA",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200651,
+    "gn:latitude":15.17005,
+    "gn:longitude":106.01696,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Lak Xao Ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lak Xao Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200651
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"55540f4343943545286a8ed880b2dbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1242882897,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242882897,
+    "wof:lastmodified":1537660862,
+    "wof:name":"Ban Lak Xao Ha",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01696,
+    15.17005,
+    106.01696,
+    15.17005
+],
+  "geometry": {"coordinates":[106.01696,15.17005],"type":"Point"}
+}

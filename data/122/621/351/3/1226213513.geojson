@@ -1,0 +1,72 @@
+{
+  "id": 1226213513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23333,19.36667,103.23333,19.36667",
+    "geom:latitude":19.36667,
+    "geom:longitude":103.23333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Xangya",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658110,
+    "gn:latitude":19.36667,
+    "gn:longitude":103.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Xangya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sang Ya",
+        "Ban Xangya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658110
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"546d0cfaa9423de21499eebb18392422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1226213513,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1226213513,
+    "wof:lastmodified":1537660275,
+    "wof:name":"Ban Xangya",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23333,
+    19.36667000000001,
+    103.23333,
+    19.36667000000001
+],
+  "geometry": {"coordinates":[103.23333,19.36667000000001],"type":"Point"}
+}

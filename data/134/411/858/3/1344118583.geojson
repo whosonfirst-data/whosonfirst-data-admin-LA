@@ -1,0 +1,71 @@
+{
+  "id": 1344118583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1078,16.32595,106.1078,16.32595",
+    "geom:latitude":16.32595,
+    "geom:longitude":106.1078,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Pasia",
+    "gn:country_code":"LA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660373,
+    "gn:latitude":16.32595,
+    "gn:longitude":106.1078,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pasia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Prasie",
+        "Ban Pasia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660373
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"843fa9bbf1684991a317e41190500c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1344118583,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1344118583,
+    "wof:lastmodified":1537660404,
+    "wof:name":"Ban Pasia",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1078,
+    16.32595,
+    106.1078,
+    16.32595
+],
+  "geometry": {"coordinates":[106.1078,16.32595],"type":"Point"}
+}

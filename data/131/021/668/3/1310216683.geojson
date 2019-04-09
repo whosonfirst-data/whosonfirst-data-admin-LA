@@ -1,0 +1,71 @@
+{
+  "id": 1310216683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.53093,20.42527,103.53093,20.42527",
+    "geom:latitude":20.42527,
+    "geom:longitude":103.53093,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Gnotmat",
+    "gn:country_code":"LA",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664269,
+    "gn:latitude":20.42527,
+    "gn:longitude":103.53093,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Gnotmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Gnoi Mat",
+        "Ban Gnotmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664269
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"380abfebe595bc1ed27ba004f344a5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1310216683,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1310216683,
+    "wof:lastmodified":1537660635,
+    "wof:name":"Ban Gnotmat",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.53093,
+    20.42527,
+    103.53093,
+    20.42527
+],
+  "geometry": {"coordinates":[103.53093,20.42527],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293553009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.177,20.49095,102.177,20.49095",
+    "geom:latitude":20.49095,
+    "geom:longitude":102.177,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Tongtou-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662571,
+    "gn:latitude":20.49095,
+    "gn:longitude":102.177,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban T\u00f4ngtou-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4ngtou-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Lao Than",
+        "Ban Laothao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662571
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"072b811b66c5d62d8b2eaaa826e159a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1293553009,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293553009,
+    "wof:lastmodified":1537660529,
+    "wof:name":"Ban Tongtou-Gnai",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.177,
+    20.49095,
+    102.177,
+    20.49095
+],
+  "geometry": {"coordinates":[102.17700000000001,20.49095],"type":"Point"}
+}

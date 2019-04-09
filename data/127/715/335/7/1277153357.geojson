@@ -1,0 +1,70 @@
+{
+  "id": 1277153357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.59803,19.95846,102.59803,19.95846",
+    "geom:latitude":19.95846,
+    "geom:longitude":102.59803,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Vanglom",
+    "gn:country_code":"LA",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957028,
+    "gn:latitude":19.95846,
+    "gn:longitude":102.59803,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Vangl\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangl\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957028
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d78d6910ec84c6a545c6efcbfd3ecdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028703,
+            "locality_id":1277153357,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1277153357,
+    "wof:lastmodified":1537660836,
+    "wof:name":"Ban Vanglom",
+    "wof:parent_id":1092028703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.59803,
+    19.95846,
+    102.59803,
+    19.95846
+],
+  "geometry": {"coordinates":[102.59802999999999,19.95846],"type":"Point"}
+}

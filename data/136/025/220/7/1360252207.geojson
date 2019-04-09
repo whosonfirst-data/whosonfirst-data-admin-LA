@@ -1,0 +1,74 @@
+{
+  "id": 1360252207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.34468,15.50613,106.34468,15.50613",
+    "geom:latitude":15.50613,
+    "geom:longitude":106.34468,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kokphoung-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662801,
+    "gn:latitude":15.50613,
+    "gn:longitude":106.34468,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban K\u00f4kphoung-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00f4kphoung-Tai"
+    ],
+    "name:und_x_variant":[
+        "Ban Kakphoung",
+        "Ban K\u00f4kphoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662801
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"83778d4a5138815d888d2371b28ff4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1360252207,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1360252207,
+    "wof:lastmodified":1537660542,
+    "wof:name":"Ban Kokphoung-Tai",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.34468,
+    15.50613,
+    106.34468,
+    15.50613
+],
+  "geometry": {"coordinates":[106.34468,15.50613],"type":"Point"}
+}

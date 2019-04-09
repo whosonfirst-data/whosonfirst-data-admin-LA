@@ -1,0 +1,70 @@
+{
+  "id": 1293192565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90221,20.67667,101.90221,20.67667",
+    "geom:latitude":20.67667,
+    "geom:longitude":101.90221,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Thasaluang",
+    "gn:country_code":"LA",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956240,
+    "gn:latitude":20.67667,
+    "gn:longitude":101.90221,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Thasaluang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thasaluang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956240
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c3ff04840a28a1cdcd8a6e00063f5445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1293192565,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293192565,
+    "wof:lastmodified":1537660815,
+    "wof:name":"Ban Thasaluang",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90221,
+    20.67667,
+    101.90221,
+    20.67667
+],
+  "geometry": {"coordinates":[101.90221,20.67667],"type":"Point"}
+}

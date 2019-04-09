@@ -1,0 +1,72 @@
+{
+  "id": 1344132789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.10966,21.98663,102.10966,21.98663",
+    "geom:latitude":21.98663,
+    "geom:longitude":102.10966,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Yangposu",
+    "gn:country_code":"LA",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1651982,
+    "gn:latitude":21.98663,
+    "gn:longitude":102.10966,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Yangposu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Yang Pu Su",
+        "Yang Po Su",
+        "Ban Yangposu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1651982
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1e3929039888171882791ec14766b824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1344132789,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1344132789,
+    "wof:lastmodified":1537660191,
+    "wof:name":"Ban Yangposu",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.10966,
+    21.98663,
+    102.10966,
+    21.98663
+],
+  "geometry": {"coordinates":[102.10966000000001,21.98663],"type":"Point"}
+}

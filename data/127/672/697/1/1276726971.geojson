@@ -1,0 +1,68 @@
+{
+  "id": 1276726971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.59127,16.52741,106.59127,16.52741",
+    "geom:latitude":16.52741,
+    "geom:longitude":106.59127,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Asingphou",
+    "gn:country_code":"LA",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11236539,
+    "gn:latitude":16.52741,
+    "gn:longitude":106.59127,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Asingphou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Asingphou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236539
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fa86e44b44d6506008eef97e0d3f7d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1276726971,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276726971,
+    "wof:lastmodified":1537660960,
+    "wof:name":"Ban Asingphou",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.59127,
+    16.52741,
+    106.59127,
+    16.52741
+],
+  "geometry": {"coordinates":[106.59126999999999,16.52741],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242639233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,15.98333,105.81667,15.98333",
+    "geom:latitude":15.98333,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Na",
+    "gn:country_code":"LA",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662146,
+    "gn:latitude":15.98333,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662146
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5f04d8690760ccec59d9864bd6e67c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1242639233,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1242639233,
+    "wof:lastmodified":1536974698,
+    "wof:name":"Ban Na",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    15.98333,
+    105.81667,
+    15.98333
+],
+  "geometry": {"coordinates":[105.81667,15.98333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293601945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84298,14.48463,105.84298,14.48463",
+    "geom:latitude":14.48463,
+    "geom:longitude":105.84298,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Maknao",
+    "gn:country_code":"LA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662345,
+    "gn:latitude":14.48463,
+    "gn:longitude":105.84298,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Maknao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Maknao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662345
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"effa45cd25cfa0f52bf9eb4732414142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1293601945,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293601945,
+    "wof:lastmodified":1537660517,
+    "wof:name":"Ban Maknao",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84298,
+    14.48463,
+    105.84298,
+    14.48463
+],
+  "geometry": {"coordinates":[105.84298,14.48463],"type":"Point"}
+}

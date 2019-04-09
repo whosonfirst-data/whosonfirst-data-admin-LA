@@ -1,0 +1,65 @@
+{
+  "id": 1209290465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.62646,22.22079,101.62646,22.22079",
+    "geom:latitude":22.22079,
+    "geom:longitude":101.62646,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hoyva",
+    "gn:country_code":"LA",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664051,
+    "gn:latitude":22.22079,
+    "gn:longitude":101.62646,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Hoyva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hoi Va",
+        "Ban Hoyva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664051
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5680d196369472cb94ef9f547e0f0feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209290465
+        }
+    ],
+    "wof:id":1209290465,
+    "wof:lastmodified":1537660623,
+    "wof:name":"Ban Hoyva",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.62646,
+    22.22079,
+    101.62646,
+    22.22079
+],
+  "geometry": {"coordinates":[101.62645999999999,22.22079],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209489085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.02893,19.52841,104.02893,19.52841",
+    "geom:latitude":19.52841,
+    "geom:longitude":104.02893,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phophom",
+    "gn:country_code":"LA",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659843,
+    "gn:latitude":19.52841,
+    "gn:longitude":104.02893,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phoph\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nhot Sa Khao",
+        "Ban Phoph\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659843
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b142b0fac12bf0aef11c7f7f8c97ef89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209489085
+        }
+    ],
+    "wof:id":1209489085,
+    "wof:lastmodified":1537660374,
+    "wof:name":"Ban Phophom",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.02893,
+    19.52841,
+    104.02893,
+    19.52841
+],
+  "geometry": {"coordinates":[104.02893,19.52841],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209826883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42597,20.40409,104.42597,20.40409",
+    "geom:latitude":20.40409,
+    "geom:longitude":104.42597,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Bo-Sam",
+    "gn:country_code":"LA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664808,
+    "gn:latitude":20.40409,
+    "gn:longitude":104.42597,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Bo-Sam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Bo",
+        "Ban Bo-Sam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664808
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2f39971b477b5ad54e677dc0014beb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1209826883,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1209826883,
+    "wof:lastmodified":1537660668,
+    "wof:name":"Ban Bo-Sam",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42597,
+    20.40409,
+    104.42597,
+    20.40409
+],
+  "geometry": {"coordinates":[104.42597000000001,20.40409],"type":"Point"}
+}

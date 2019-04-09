@@ -1,0 +1,61 @@
+{
+  "id": 1209077621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.71667,20.88333,102.71667,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":102.71667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Houay Sanam",
+    "gn:country_code":"LA",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657003,
+    "gn:latitude":20.88333,
+    "gn:longitude":102.71667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Houay Sanam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657003
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f74b24416af672e9f2fb5132d35bec8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209077621
+        }
+    ],
+    "wof:id":1209077621,
+    "wof:lastmodified":1536298443,
+    "wof:name":"Houay Sanam",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.71667,
+    20.88333,
+    102.71667,
+    20.88333
+],
+  "geometry": {"coordinates":[102.71666999999999,20.88333],"type":"Point"}
+}

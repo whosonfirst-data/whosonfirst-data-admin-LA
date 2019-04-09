@@ -1,0 +1,70 @@
+{
+  "id": 1260286059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.58455,20.57742,103.58455,20.57742",
+    "geom:latitude":20.57742,
+    "geom:longitude":103.58455,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Bong",
+    "gn:country_code":"LA",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953930,
+    "gn:latitude":20.57742,
+    "gn:longitude":103.58455,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban B\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban B\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953930
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b5bd2fd2d380a235f9696e09e3406f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1260286059,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1260286059,
+    "wof:lastmodified":1537660755,
+    "wof:name":"Ban Bong",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.58455,
+    20.57742,
+    103.58455,
+    20.57742
+],
+  "geometry": {"coordinates":[103.58454999999999,20.57742],"type":"Point"}
+}

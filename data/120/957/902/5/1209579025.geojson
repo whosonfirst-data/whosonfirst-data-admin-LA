@@ -1,0 +1,67 @@
+{
+  "id": 1209579025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78688,21.0269,102.78688,21.0269",
+    "geom:latitude":21.0269,
+    "geom:longitude":102.78688,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Chomchiang-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652437,
+    "gn:latitude":21.0269,
+    "gn:longitude":102.78688,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chomchiang-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chomchiang-Nua"
+    ],
+    "name:und_x_variant":[
+        "Tiom Tieng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652437
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4d135c8a50e7876c77d3e7ff9a8395c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209579025
+        }
+    ],
+    "wof:id":1209579025,
+    "wof:lastmodified":1537660195,
+    "wof:name":"Ban Chomchiang-Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78688,
+    21.0269,
+    102.78688,
+    21.0269
+],
+  "geometry": {"coordinates":[102.78688,21.0269],"type":"Point"}
+}

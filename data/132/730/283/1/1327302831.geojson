@@ -1,0 +1,70 @@
+{
+  "id": 1327302831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.56686,20.37177,100.56686,20.37177",
+    "geom:latitude":20.37177,
+    "geom:longitude":100.56686,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Poung-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907017,
+    "gn:latitude":20.37177,
+    "gn:longitude":100.56686,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Poung-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poung-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907017
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"630306cd98301dfc212b75e22fd94ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1327302831,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1327302831,
+    "wof:lastmodified":1537660691,
+    "wof:name":"Ban Poung-Noy",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.56686,
+    20.37177,
+    100.56686,
+    20.37177
+],
+  "geometry": {"coordinates":[100.56686000000001,20.37177],"type":"Point"}
+}

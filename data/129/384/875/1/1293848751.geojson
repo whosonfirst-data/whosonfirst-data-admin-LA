@@ -1,0 +1,71 @@
+{
+  "id": 1293848751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43242,16.76381,106.43242,16.76381",
+    "geom:latitude":16.76381,
+    "geom:longitude":106.43242,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Avin",
+    "gn:country_code":"LA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664966,
+    "gn:latitude":16.76381,
+    "gn:longitude":106.43242,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Avin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A Vil",
+        "Ban Avin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664966
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9596605674b51d78c08b4c23ff26fbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293848751,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293848751,
+    "wof:lastmodified":1537660677,
+    "wof:name":"Ban Avin",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43242,
+    16.76381,
+    106.43242,
+    16.76381
+],
+  "geometry": {"coordinates":[106.43241999999999,16.76381],"type":"Point"}
+}

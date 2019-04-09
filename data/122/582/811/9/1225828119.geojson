@@ -1,0 +1,71 @@
+{
+  "id": 1225828119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.53538,17.47392,105.53538,17.47392",
+    "geom:latitude":17.47392,
+    "geom:longitude":105.53538,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Chakouan",
+    "gn:country_code":"LA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664761,
+    "gn:latitude":17.47392,
+    "gn:longitude":105.53538,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Chakouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Chakhouane",
+        "Ban Chakouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664761
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"390c701ab6a250b8b641181315fc83dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":1225828119,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1225828119,
+    "wof:lastmodified":1537660666,
+    "wof:name":"Ban Chakouan",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.53538,
+    17.47392,
+    105.53538,
+    17.47392
+],
+  "geometry": {"coordinates":[105.53538,17.47392],"type":"Point"}
+}

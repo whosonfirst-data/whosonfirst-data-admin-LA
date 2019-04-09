@@ -1,0 +1,70 @@
+{
+  "id": 1276518337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21479,19.33807,103.21479,19.33807",
+    "geom:latitude":19.33807,
+    "geom:longitude":103.21479,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Boua-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952275,
+    "gn:latitude":19.33807,
+    "gn:longitude":103.21479,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Boua-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Boua-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952275
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0a2c55bf0a09fb0234e455c8cc44a2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1276518337,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1276518337,
+    "wof:lastmodified":1537660714,
+    "wof:name":"Ban Boua-Tai",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21479,
+    19.33807,
+    103.21479,
+    19.33807
+],
+  "geometry": {"coordinates":[103.21478999999999,19.33807],"type":"Point"}
+}

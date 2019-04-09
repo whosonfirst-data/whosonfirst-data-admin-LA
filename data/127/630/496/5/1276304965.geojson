@@ -1,0 +1,70 @@
+{
+  "id": 1276304965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20904,20.61554,101.20904,20.61554",
+    "geom:latitude":20.61554,
+    "geom:longitude":101.20904,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Kampon",
+    "gn:country_code":"LA",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956267,
+    "gn:latitude":20.61554,
+    "gn:longitude":101.20904,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Kampon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kampon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956267
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"75170c007537f9f66692119772c8fa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1276304965,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276304965,
+    "wof:lastmodified":1537660816,
+    "wof:name":"Ban Kampon",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20904,
+    20.61554,
+    101.20904,
+    20.61554
+],
+  "geometry": {"coordinates":[101.20904,20.61554],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343912131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41058,19.17366,102.41058,19.17366",
+    "geom:latitude":19.17366,
+    "geom:longitude":102.41058,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nagne",
+    "gn:country_code":"LA",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662004,
+    "gn:latitude":19.17366,
+    "gn:longitude":102.41058,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nagn\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Na Gue",
+        "Ban Nagn\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662004
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8b94724c23b0a2b178892e232ec24083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1343912131,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1343912131,
+    "wof:lastmodified":1537660498,
+    "wof:name":"Ban Nagne",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41058,
+    19.17366,
+    102.41058,
+    19.17366
+],
+  "geometry": {"coordinates":[102.41058,19.17366],"type":"Point"}
+}

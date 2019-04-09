@@ -1,0 +1,70 @@
+{
+  "id": 1193039283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.51913,20.18711,101.51913,20.18711",
+    "geom:latitude":20.18711,
+    "geom:longitude":101.51913,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Vangtang",
+    "gn:country_code":"LA",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953573,
+    "gn:latitude":20.18711,
+    "gn:longitude":101.51913,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Vangtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangtang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953573
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"294154c0135197df7c3fb991c6f68162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1193039283,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1193039283,
+    "wof:lastmodified":1537660744,
+    "wof:name":"Ban Vangtang",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.51913,
+    20.18711,
+    101.51913,
+    20.18711
+],
+  "geometry": {"coordinates":[101.51913,20.18711],"type":"Point"}
+}

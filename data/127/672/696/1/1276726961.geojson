@@ -1,0 +1,73 @@
+{
+  "id": 1276726961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94074,16.70623,105.94074,16.70623",
+    "geom:latitude":16.70623,
+    "geom:longitude":105.94074,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Ngonsai",
+    "gn:country_code":"LA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235350,
+    "gn:latitude":16.70623,
+    "gn:longitude":105.94074,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ngonsai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ngonsai"
+    ],
+    "name:lao_x_variant":[
+        "Kh\u00f4kkate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235350
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cc43db631480ed31fecd3c569c47d2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1276726961,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276726961,
+    "wof:lastmodified":1537660952,
+    "wof:name":"Ban Ngonsai",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94074,
+    16.70623,
+    105.94074,
+    16.70623
+],
+  "geometry": {"coordinates":[105.94074000000001,16.70623],"type":"Point"}
+}

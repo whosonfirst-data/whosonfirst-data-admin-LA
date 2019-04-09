@@ -1,0 +1,70 @@
+{
+  "id": 1243135321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.89151,21.39113,101.89151,21.39113",
+    "geom:latitude":21.39113,
+    "geom:longitude":101.89151,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Namlan-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237472,
+    "gn:latitude":21.39113,
+    "gn:longitude":101.89151,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Namlan-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namlan-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237472
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"057cdc4a8d3c6e149cea4b7173e64c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1243135321,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243135321,
+    "wof:lastmodified":1537660975,
+    "wof:name":"Ban Namlan-Noy",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.89151,
+    21.39113,
+    101.89151,
+    21.39113
+],
+  "geometry": {"coordinates":[101.89151,21.39113],"type":"Point"}
+}

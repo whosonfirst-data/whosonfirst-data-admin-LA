@@ -1,0 +1,282 @@
+{
+  "id": 421201947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.04838,20.41592,104.04838,20.41592",
+    "geom:latitude":20.41592,
+    "geom:longitude":104.04838,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645 \u0646\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09cd\u09af\u09be\u09ae \u09a8\u09bf\u0989\u09af\u09bc\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u6851\u6012"
+    ],
+    "name:dan_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:dut_x_preferred":[
+        "Sam Neua"
+    ],
+    "name:eng_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:fin_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:fre_x_preferred":[
+        "Sam Neua"
+    ],
+    "name:ger_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03bd\u03b5\u03bf\u03c5\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9d\u0ac7\u0aae \u0aa8\u0ac1\u0a86"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093e\u092e \u0928\u0909\u0906"
+    ],
+    "name:ind_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:ita_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30e0\u30cc\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9d\u0ccd\u0caf\u0cbe\u0cae\u0ccd \u0ca8\u0ccd\u0caf\u0cc2\u0cb5\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0bc \ub204\uc544"
+    ],
+    "name:lav_x_preferred":[
+        "Samn\u012be"
+    ],
+    "name:lit_x_preferred":[
+        "Cham Neua"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0915\u094d\u0938\u092e \u0928\u094d\u092f\u0942\u0906"
+    ],
+    "name:may_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:nob_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:pol_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:por_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043d\u044b\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dc3\u0dd0\u0db8\u0dca \u0db1\u0dd2\u0dba\u0dd4\u0dc0\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:swe_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc7\u0bae\u0bcd \u0ba8\u0bc7\u0bb5\u0bc1\u0bb5\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c02\u0c28\u0c46\u0c35\u0c41\u0c06"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e33\u0e40\u0e2b\u0e19\u0e37\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c-\u041d\u0435\u0443\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Samnua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0645 \u0646\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Xamneua"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Laos",
+    "ne:ADM0_A3":"LAO",
+    "ne:ADM1NAME":"Houaphan",
+    "ne:ADMIN1_COD":3,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":1652203,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Xam Nua",
+    "ne:GN_POP":38992,
+    "ne:GTOPO30":972.0,
+    "ne:ISO_A2":"LA",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":20.416698,
+    "ne:LONGITUDE":104.033305,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Xam Nua",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Xam Nua",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":38992,
+    "ne:POP_MIN":38992,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Laos",
+    "ne:SOV_A3":"LAO",
+    "ne:TIMEZONE":"Asia/Vientiane",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":1652203,
+    "qs:gn_pop":38992,
+    "qs:name":"Xam Nua",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Houaphan",
+    "qs:photos":61,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":61,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1352378,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1140607,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":312,
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652203,
+        "gp:id":1140607,
+        "qs:id":1352378,
+        "wd:id":"Q14842846"
+    },
+    "wof:country":"LA",
+    "wof:created":1459010093,
+    "wof:geomhash":"223af0799361b76d81b27aba594c38b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":421201947,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":421201947,
+    "wof:lastmodified":1527716435,
+    "wof:name":"Xam Nua",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:population":38992,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.04838,
+    20.41592,
+    104.04838,
+    20.41592
+],
+  "geometry": {"coordinates":[104.04837999999999,20.41592],"type":"Point"}
+}

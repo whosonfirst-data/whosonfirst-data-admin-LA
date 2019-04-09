@@ -1,0 +1,70 @@
+{
+  "id": 1260369141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.49054,19.60873,103.49054,19.60873",
+    "geom:latitude":19.60873,
+    "geom:longitude":103.49054,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phounokkok",
+    "gn:country_code":"LA",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952101,
+    "gn:latitude":19.60873,
+    "gn:longitude":103.49054,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phoun\u00f4kk\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoun\u00f4kk\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952101
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e071e94ea7aff35f672d865b33918b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1260369141,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1260369141,
+    "wof:lastmodified":1537660711,
+    "wof:name":"Ban Phounokkok",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.49054,
+    19.60873,
+    103.49054,
+    19.60873
+],
+  "geometry": {"coordinates":[103.49054,19.60873],"type":"Point"}
+}

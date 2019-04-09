@@ -1,0 +1,71 @@
+{
+  "id": 1210018551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27791,20.32897,104.27791,20.32897",
+    "geom:latitude":20.32897,
+    "geom:longitude":104.27791,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Laota",
+    "gn:country_code":"LA",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655833,
+    "gn:latitude":20.32897,
+    "gn:longitude":104.27791,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Laota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lao Ta",
+        "Ban Laota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655833
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4955527b67d2ea3159cc46f64b105d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1210018551,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1210018551,
+    "wof:lastmodified":1537660245,
+    "wof:name":"Ban Laota",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27791,
+    20.32897,
+    104.27791,
+    20.32897
+],
+  "geometry": {"coordinates":[104.27791000000001,20.32897],"type":"Point"}
+}

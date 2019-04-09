@@ -1,0 +1,71 @@
+{
+  "id": 1343636653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83276,15.64339,105.83276,15.64339",
+    "geom:latitude":15.64339,
+    "geom:longitude":105.83276,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nakadao",
+    "gn:country_code":"LA",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661900,
+    "gn:latitude":15.64339,
+    "gn:longitude":105.83276,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nakadao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nakada",
+        "Ban Nakadao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661900
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6afd27133f8d503e4a7a09edcb3bafe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1343636653,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1343636653,
+    "wof:lastmodified":1537660493,
+    "wof:name":"Ban Nakadao",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83276,
+    15.64339,
+    105.83276,
+    15.64339
+],
+  "geometry": {"coordinates":[105.83275999999999,15.64339],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292912383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84453,14.04852,105.84453,14.04852",
+    "geom:latitude":14.04852,
+    "geom:longitude":105.84453,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Xangphai",
+    "gn:country_code":"LA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658113,
+    "gn:latitude":14.04852,
+    "gn:longitude":105.84453,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Xangphai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bung"
+    ],
+    "name:und_x_variant":[
+        "Ban Sang Phay",
+        "Ban Xangphai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658113
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1c60fd7e59e6cff5bb8a4f74982c7b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1292912383,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1292912383,
+    "wof:lastmodified":1537660275,
+    "wof:name":"Ban Xangphai",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84453,
+    14.04852,
+    105.84453,
+    14.04852
+],
+  "geometry": {"coordinates":[105.84453000000001,14.04852],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343532279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68398,19.15155,103.68398,19.15155",
+    "geom:latitude":19.15155,
+    "geom:longitude":103.68398,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Tintoung",
+    "gn:country_code":"LA",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11228477,
+    "gn:latitude":19.15155,
+    "gn:longitude":103.68398,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tintoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tintoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228477
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"da07646481fb62eefa027c4583dc3b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1343532279,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343532279,
+    "wof:lastmodified":1537660912,
+    "wof:name":"Ban Tintoung",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68398,
+    19.15155,
+    103.68398,
+    19.15155
+],
+  "geometry": {"coordinates":[103.68398000000001,19.15155],"type":"Point"}
+}

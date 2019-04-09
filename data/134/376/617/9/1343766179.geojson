@@ -1,0 +1,71 @@
+{
+  "id": 1343766179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05301,15.02822,107.05301,15.02822",
+    "geom:latitude":15.02822,
+    "geom:longitude":107.05301,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Talia",
+    "gn:country_code":"LA",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658954,
+    "gn:latitude":15.02822,
+    "gn:longitude":107.05301,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Talia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Talian",
+        "Ban Talia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658954
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"638c65df4957c3bfc28191644a5a237c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1343766179,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1343766179,
+    "wof:lastmodified":1537660326,
+    "wof:name":"Ban Talia",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05301,
+    15.02822,
+    107.05301,
+    15.02822
+],
+  "geometry": {"coordinates":[107.05301,15.02822],"type":"Point"}
+}

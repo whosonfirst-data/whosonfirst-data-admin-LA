@@ -1,0 +1,65 @@
+{
+  "id": 1209432443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3074,14.89941,106.3074,14.89941",
+    "geom:latitude":14.89941,
+    "geom:longitude":106.3074,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Makka",
+    "gn:country_code":"LA",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662350,
+    "gn:latitude":14.89941,
+    "gn:longitude":106.3074,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Makka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Mat Ka",
+        "Ban Makka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662350
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"70d9c8227a310d479b2ecbb348df2e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209432443
+        }
+    ],
+    "wof:id":1209432443,
+    "wof:lastmodified":1537660518,
+    "wof:name":"Ban Makka",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3074,
+    14.89941,
+    106.3074,
+    14.89941
+],
+  "geometry": {"coordinates":[106.3074,14.89941],"type":"Point"}
+}

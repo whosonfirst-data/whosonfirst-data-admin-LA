@@ -1,0 +1,70 @@
+{
+  "id": 1343309565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11321,18.76443,102.11321,18.76443",
+    "geom:latitude":18.76443,
+    "geom:longitude":102.11321,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Khonluang",
+    "gn:country_code":"LA",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229572,
+    "gn:latitude":18.76443,
+    "gn:longitude":102.11321,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Khonluang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khonluang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229572
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cc9c61be20375f0621e87aac09d1d923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1343309565,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1343309565,
+    "wof:lastmodified":1537660914,
+    "wof:name":"Ban Khonluang",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11321,
+    18.76443,
+    102.11321,
+    18.76443
+],
+  "geometry": {"coordinates":[102.11321,18.76443],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259637797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.60436,17.91071,101.60436,17.91071",
+    "geom:latitude":17.91071,
+    "geom:longitude":101.60436,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Naphafa",
+    "gn:country_code":"LA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661277,
+    "gn:latitude":17.91071,
+    "gn:longitude":101.60436,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Naphafa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Naphafa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092030125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661277
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5566c48c8d8fcd600c381a520847f961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030125,
+            "locality_id":1259637797,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259637797,
+    "wof:lastmodified":1537660459,
+    "wof:name":"Ban Naphafa",
+    "wof:parent_id":1092030125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.60436,
+    17.91071,
+    101.60436,
+    17.91071
+],
+  "geometry": {"coordinates":[101.60436,17.91071],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276235781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.09367,20.21825,104.09367,20.21825",
+    "geom:latitude":20.21825,
+    "geom:longitude":104.09367,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Tanong",
+    "gn:country_code":"LA",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956875,
+    "gn:latitude":20.21825,
+    "gn:longitude":104.09367,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tan\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tan\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956875
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"72bc3bdfb7e959c34c8050a0cf100e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1276235781,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1276235781,
+    "wof:lastmodified":1537660833,
+    "wof:name":"Ban Tanong",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.09367,
+    20.21825,
+    104.09367,
+    20.21825
+],
+  "geometry": {"coordinates":[104.09367,20.21825],"type":"Point"}
+}

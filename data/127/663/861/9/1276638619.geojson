@@ -1,0 +1,70 @@
+{
+  "id": 1276638619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07704,17.15754,106.07704,17.15754",
+    "geom:latitude":17.15754,
+    "geom:longitude":106.07704,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kapo",
+    "gn:country_code":"LA",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663355,
+    "gn:latitude":17.15754,
+    "gn:longitude":106.07704,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kapo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663355
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2c835c2bbdcabf666e542a19f5d6addf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1276638619,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1276638619,
+    "wof:lastmodified":1537660575,
+    "wof:name":"Ban Kapo",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07704,
+    17.15754,
+    106.07704,
+    17.15754
+],
+  "geometry": {"coordinates":[106.07704,17.15754],"type":"Point"}
+}

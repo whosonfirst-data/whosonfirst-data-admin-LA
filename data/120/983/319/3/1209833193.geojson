@@ -1,0 +1,72 @@
+{
+  "id": 1209833193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11332,15.23579,107.11332,15.23579",
+    "geom:latitude":15.23579,
+    "geom:longitude":107.11332,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Pliat",
+    "gn:country_code":"LA",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659595,
+    "gn:latitude":15.23579,
+    "gn:longitude":107.11332,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Pliat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Priet",
+        "Ban Priat",
+        "Ban Pliat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659595
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"07c1199cf2bed6d258ce7b01331c85ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1209833193,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1209833193,
+    "wof:lastmodified":1537660361,
+    "wof:name":"Ban Pliat",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11332,
+    15.23579,
+    107.11332,
+    15.23579
+],
+  "geometry": {"coordinates":[107.11332,15.23579],"type":"Point"}
+}

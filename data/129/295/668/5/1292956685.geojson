@@ -1,0 +1,70 @@
+{
+  "id": 1292956685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51079,18.10031,102.51079,18.10031",
+    "geom:latitude":18.10031,
+    "geom:longitude":102.51079,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Houakhoua",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664002,
+    "gn:latitude":18.10031,
+    "gn:longitude":102.51079,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houakhoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houakhoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092027795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664002
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"de06dd428fbf15442b5b08243afeca85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027795,
+            "locality_id":1292956685,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1292956685,
+    "wof:lastmodified":1537660620,
+    "wof:name":"Ban Houakhoua",
+    "wof:parent_id":1092027795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51079,
+    18.10031,
+    102.51079,
+    18.10031
+],
+  "geometry": {"coordinates":[102.51079,18.10031],"type":"Point"}
+}

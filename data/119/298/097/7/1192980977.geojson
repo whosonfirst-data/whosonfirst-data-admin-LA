@@ -1,0 +1,74 @@
+{
+  "id": 1192980977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.24562,15.54265,106.24562,15.54265",
+    "geom:latitude":15.54265,
+    "geom:longitude":106.24562,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sangthong",
+    "gn:country_code":"LA",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659409,
+    "gn:latitude":15.54265,
+    "gn:longitude":106.24562,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Sangth\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sangth\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Sam Thong",
+        "Ban San Th\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659409
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"507e0851f2a639e09d8067bc0cfc290a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1192980977,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1192980977,
+    "wof:lastmodified":1537660351,
+    "wof:name":"Ban Sangthong",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.24562,
+    15.54265,
+    106.24562,
+    15.54265
+],
+  "geometry": {"coordinates":[106.24562,15.54265],"type":"Point"}
+}

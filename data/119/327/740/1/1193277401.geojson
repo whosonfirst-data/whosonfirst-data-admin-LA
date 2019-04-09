@@ -1,0 +1,70 @@
+{
+  "id": 1193277401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42655,20.59309,104.42655,20.59309",
+    "geom:latitude":20.59309,
+    "geom:longitude":104.42655,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Haosen",
+    "gn:country_code":"LA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664197,
+    "gn:latitude":20.59309,
+    "gn:longitude":104.42655,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Haos\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Haos\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664197
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b413b8354c568feefb718cc5d7ab2601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":1193277401,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1193277401,
+    "wof:lastmodified":1537660631,
+    "wof:name":"Ban Haosen",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42655,
+    20.59309,
+    104.42655,
+    20.59309
+],
+  "geometry": {"coordinates":[104.42655000000001,20.59309],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226616279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83295,17.92463,104.83295,17.92463",
+    "geom:latitude":17.92463,
+    "geom:longitude":104.83295,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phadang",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660313,
+    "gn:latitude":17.92463,
+    "gn:longitude":104.83295,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phadang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phadang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660313
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"df5ebb5c07388c67400b550e8efa470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1226616279,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226616279,
+    "wof:lastmodified":1537660400,
+    "wof:name":"Ban Phadang",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83295,
+    17.92463,
+    104.83295,
+    17.92463
+],
+  "geometry": {"coordinates":[104.83295,17.92463],"type":"Point"}
+}

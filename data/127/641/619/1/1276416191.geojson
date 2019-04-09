@@ -1,0 +1,72 @@
+{
+  "id": 1276416191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43188,21.83692,102.43188,21.83692",
+    "geom:latitude":21.83692,
+    "geom:longitude":102.43188,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Kouchoulin",
+    "gn:country_code":"LA",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1656041,
+    "gn:latitude":21.83692,
+    "gn:longitude":102.43188,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kouchoulin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sen Sa\u00ef",
+        "Kou Tchou Lin",
+        "Ban Kouchoulin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656041
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0b09b8fdef774b497370aecca9877c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1276416191,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276416191,
+    "wof:lastmodified":1537660249,
+    "wof:name":"Ban Kouchoulin",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43188,
+    21.83692000000001,
+    102.43188,
+    21.83692000000001
+],
+  "geometry": {"coordinates":[102.43188000000001,21.83692000000001],"type":"Point"}
+}

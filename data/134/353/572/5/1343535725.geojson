@@ -1,0 +1,71 @@
+{
+  "id": 1343535725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.72751,16.42078,106.72751,16.42078",
+    "geom:latitude":16.42078,
+    "geom:longitude":106.72751,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Laman",
+    "gn:country_code":"LA",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655944,
+    "gn:latitude":16.42078,
+    "gn:longitude":106.72751,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Laman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Laman"
+    ],
+    "name:und_x_variant":[
+        "La M\u00e2n (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655944
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c3cdf38fdacadcbf32ce00d29a740e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1343535725,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343535725,
+    "wof:lastmodified":1537660247,
+    "wof:name":"Ban Laman",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.72751,
+    16.42078,
+    106.72751,
+    16.42078
+],
+  "geometry": {"coordinates":[106.72751,16.42078],"type":"Point"}
+}

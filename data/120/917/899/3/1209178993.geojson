@@ -1,0 +1,66 @@
+{
+  "id": 1209178993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21667,16.26667,106.21667,16.26667",
+    "geom:latitude":16.26667,
+    "geom:longitude":106.21667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Douan",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664358,
+    "gn:latitude":16.26667,
+    "gn:longitude":106.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Douan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Doan",
+        "Ban Douan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664358
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c4bd27e8e635b3828b664cfd90357e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209178993
+        }
+    ],
+    "wof:id":1209178993,
+    "wof:lastmodified":1537660641,
+    "wof:name":"Ban Douan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21667,
+    16.26667,
+    106.21667,
+    16.26667
+],
+  "geometry": {"coordinates":[106.21666999999999,16.26667],"type":"Point"}
+}

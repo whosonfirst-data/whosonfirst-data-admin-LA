@@ -1,0 +1,71 @@
+{
+  "id": 1243467137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86243,14.24124,105.86243,14.24124",
+    "geom:latitude":14.24124,
+    "geom:longitude":105.86243,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houayhai",
+    "gn:country_code":"LA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663913,
+    "gn:latitude":14.24124,
+    "gn:longitude":105.86243,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Houayhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houe\u00ef Hai",
+        "Ban Houayhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663913
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"80c2d6cc47d7b08f6bf0d26d3d322ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1243467137,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1243467137,
+    "wof:lastmodified":1537660614,
+    "wof:name":"Ban Houayhai",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86243,
+    14.24124,
+    105.86243,
+    14.24124
+],
+  "geometry": {"coordinates":[105.86243,14.24124],"type":"Point"}
+}

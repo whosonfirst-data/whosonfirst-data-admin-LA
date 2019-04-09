@@ -1,0 +1,70 @@
+{
+  "id": 1259751981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.02127,20.20557,101.02127,20.20557",
+    "geom:latitude":20.20557,
+    "geom:longitude":101.02127,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Hatnam",
+    "gn:country_code":"LA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953072,
+    "gn:latitude":20.20557,
+    "gn:longitude":101.02127,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Hatnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092028549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953072
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fd9a4f9bbc7b3278dc85ac984efa98c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028549,
+            "locality_id":1259751981,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1259751981,
+    "wof:lastmodified":1537660730,
+    "wof:name":"Ban Hatnam",
+    "wof:parent_id":1092028549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.02127,
+    20.20557,
+    101.02127,
+    20.20557
+],
+  "geometry": {"coordinates":[101.02127,20.20557],"type":"Point"}
+}

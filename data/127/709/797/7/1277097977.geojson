@@ -1,0 +1,70 @@
+{
+  "id": 1277097977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.89899,20.0027,101.89899,20.0027",
+    "geom:latitude":20.0027,
+    "geom:longitude":101.89899,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Tang-Ong",
+    "gn:country_code":"LA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953625,
+    "gn:latitude":20.0027,
+    "gn:longitude":101.89899,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Tang-Ong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tang-Ong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953625
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8b137deda8ef258edbb3aa8d0664efaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1277097977,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1277097977,
+    "wof:lastmodified":1537660746,
+    "wof:name":"Ban Tang-Ong",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.89899,
+    20.0027,
+    101.89899,
+    20.0027
+],
+  "geometry": {"coordinates":[101.89899,20.0027],"type":"Point"}
+}

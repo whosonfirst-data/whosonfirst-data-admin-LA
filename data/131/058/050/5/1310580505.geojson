@@ -1,0 +1,70 @@
+{
+  "id": 1310580505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05408,19.7556,101.05408,19.7556",
+    "geom:latitude":19.7556,
+    "geom:longitude":101.05408,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Moksatou-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953135,
+    "gn:latitude":19.7556,
+    "gn:longitude":101.05408,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban M\u00f4ksatou-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4ksatou-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953135
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ce30f641a692483931d30e2d1ce1f3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1310580505,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1310580505,
+    "wof:lastmodified":1537660732,
+    "wof:name":"Ban Moksatou-Nua",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05408,
+    19.7556,
+    101.05408,
+    19.7556
+],
+  "geometry": {"coordinates":[101.05408,19.7556],"type":"Point"}
+}

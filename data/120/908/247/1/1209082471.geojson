@@ -1,0 +1,67 @@
+{
+  "id": 1209082471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5403,19.9505,102.5403,19.9505",
+    "geom:latitude":19.9505,
+    "geom:longitude":102.5403,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pakvi",
+    "gn:country_code":"LA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653031,
+    "gn:latitude":19.9505,
+    "gn:longitude":102.5403,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pakvi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f4pvi",
+        "Ban Sop Vi",
+        "Ban Pakvi",
+        "Sop Vi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653031
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"417ac75a92c6c325f1219fd31fd2630f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209082471
+        }
+    ],
+    "wof:id":1209082471,
+    "wof:lastmodified":1537660201,
+    "wof:name":"Ban Pakvi",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5403,
+    19.9505,
+    102.5403,
+    19.9505
+],
+  "geometry": {"coordinates":[102.5403,19.9505],"type":"Point"}
+}

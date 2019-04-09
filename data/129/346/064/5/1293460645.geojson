@@ -1,0 +1,73 @@
+{
+  "id": 1293460645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.55951,19.36354,103.55951,19.36354",
+    "geom:latitude":19.36354,
+    "geom:longitude":103.55951,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Houaymon",
+    "gn:country_code":"LA",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1657032,
+    "gn:latitude":19.36354,
+    "gn:longitude":103.55951,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houaymon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Houei Moen",
+        "Houei Monn",
+        "Houay Mon",
+        "Ban Houaymon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657032
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"361e54d2a5dc6b0279cd2c27811dca20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1293460645,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293460645,
+    "wof:lastmodified":1537660255,
+    "wof:name":"Ban Houaymon",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.55951,
+    19.36354,
+    103.55951,
+    19.36354
+],
+  "geometry": {"coordinates":[103.55951,19.36354],"type":"Point"}
+}

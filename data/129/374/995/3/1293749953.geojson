@@ -1,0 +1,73 @@
+{
+  "id": 1293749953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69267,22.05417,101.69267,22.05417",
+    "geom:latitude":22.05417,
+    "geom:longitude":101.69267,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Soulinchay",
+    "gn:country_code":"LA",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653004,
+    "gn:latitude":22.05417,
+    "gn:longitude":101.69267,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Soulinchay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sou Lin Chai",
+        "Sou Lin Cha",
+        "Sou Lin Chay",
+        "Ban Soulinchay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653004
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"33af4a95b3915c60b976cdc5a400825c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1293749953,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293749953,
+    "wof:lastmodified":1537660200,
+    "wof:name":"Ban Soulinchay",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69267,
+    22.05417000000001,
+    101.69267,
+    22.05417000000001
+],
+  "geometry": {"coordinates":[101.69267000000001,22.05417000000001],"type":"Point"}
+}

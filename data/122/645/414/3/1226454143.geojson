@@ -1,0 +1,71 @@
+{
+  "id": 1226454143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73333,20.03333,103.73333,20.03333",
+    "geom:latitude":20.03333,
+    "geom:longitude":103.73333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xiengdi",
+    "gn:country_code":"LA",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652057,
+    "gn:latitude":20.03333,
+    "gn:longitude":103.73333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Xiengdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Xieng Di",
+        "Xiengdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652057
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2e3e9cc3516bb0e38667ee384798df0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1226454143,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226454143,
+    "wof:lastmodified":1537660192,
+    "wof:name":"Xiengdi",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73333,
+    20.03333,
+    103.73333,
+    20.03333
+],
+  "geometry": {"coordinates":[103.73333,20.03333],"type":"Point"}
+}

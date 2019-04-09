@@ -1,0 +1,71 @@
+{
+  "id": 1276515521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76544,18.12863,102.76544,18.12863",
+    "geom:latitude":18.12863,
+    "geom:longitude":102.76544,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Naphok",
+    "gn:country_code":"LA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661269,
+    "gn:latitude":18.12863,
+    "gn:longitude":102.76544,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Naphok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Phark",
+        "Ban Naphok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092030043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661269
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1df730933982ad35b7cb087d5ac04fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030043,
+            "locality_id":1276515521,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1276515521,
+    "wof:lastmodified":1537660458,
+    "wof:name":"Ban Naphok",
+    "wof:parent_id":1092030043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76544,
+    18.12863,
+    102.76544,
+    18.12863
+],
+  "geometry": {"coordinates":[102.76544,18.12863],"type":"Point"}
+}

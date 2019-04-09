@@ -1,0 +1,71 @@
+{
+  "id": 1327113997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.24002,19.35353,101.24002,19.35353",
+    "geom:latitude":19.35353,
+    "geom:longitude":101.24002,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Laoli",
+    "gn:country_code":"LA",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662596,
+    "gn:latitude":19.35353,
+    "gn:longitude":101.24002,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Laoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Lua Lai",
+        "Ban Laoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662596
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"79d9505b9b28c09cdaea16e4cc69fc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1327113997,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1327113997,
+    "wof:lastmodified":1537660531,
+    "wof:name":"Ban Laoli",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.24002,
+    19.35353,
+    101.24002,
+    19.35353
+],
+  "geometry": {"coordinates":[101.24002,19.35353],"type":"Point"}
+}

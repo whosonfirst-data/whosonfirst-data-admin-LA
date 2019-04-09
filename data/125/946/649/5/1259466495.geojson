@@ -1,0 +1,70 @@
+{
+  "id": 1259466495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79422,19.82555,103.79422,19.82555",
+    "geom:latitude":19.82555,
+    "geom:longitude":103.79422,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phiangloua",
+    "gn:country_code":"LA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11225019,
+    "gn:latitude":19.82555,
+    "gn:longitude":103.79422,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phiangloua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phiangloua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225019
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1911148b80a5a0e37caeb4280ac2d8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1259466495,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1259466495,
+    "wof:lastmodified":1537660904,
+    "wof:name":"Ban Phiangloua",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79422,
+    19.82555,
+    103.79422,
+    19.82555
+],
+  "geometry": {"coordinates":[103.79422,19.82555],"type":"Point"}
+}

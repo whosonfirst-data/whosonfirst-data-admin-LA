@@ -1,0 +1,70 @@
+{
+  "id": 1343840111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.01944,20.9902,101.01944,20.9902",
+    "geom:latitude":20.9902,
+    "geom:longitude":101.01944,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tiakampia",
+    "gn:country_code":"LA",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658440,
+    "gn:latitude":20.9902,
+    "gn:longitude":101.01944,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Tiakampi\u00e0",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tiakampi\u00e0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658440
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8ee6e748e35dd5595b511dd40187c73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1343840111,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1343840111,
+    "wof:lastmodified":1537660295,
+    "wof:name":"Ban Tiakampia",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.01944,
+    20.9902,
+    101.01944,
+    20.9902
+],
+  "geometry": {"coordinates":[101.01944,20.9902],"type":"Point"}
+}

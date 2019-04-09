@@ -1,0 +1,71 @@
+{
+  "id": 1226218755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76499,20.64039,102.76499,20.64039",
+    "geom:latitude":20.64039,
+    "geom:longitude":102.76499,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sensouta",
+    "gn:country_code":"LA",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1653210,
+    "gn:latitude":20.64039,
+    "gn:longitude":102.76499,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nsouta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban S\u00e8nsouta",
+        "Sensouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653210
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1566738599591e89ec49e4dab6e92331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1226218755,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226218755,
+    "wof:lastmodified":1537660205,
+    "wof:name":"Ban Sensouta",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76499,
+    20.64039,
+    102.76499,
+    20.64039
+],
+  "geometry": {"coordinates":[102.76499,20.64039],"type":"Point"}
+}

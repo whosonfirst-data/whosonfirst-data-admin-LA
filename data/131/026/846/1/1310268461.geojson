@@ -1,0 +1,71 @@
+{
+  "id": 1310268461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.04978,20.21123,103.04978,20.21123",
+    "geom:latitude":20.21123,
+    "geom:longitude":103.04978,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sophuang",
+    "gn:country_code":"LA",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956822,
+    "gn:latitude":20.21123,
+    "gn:longitude":103.04978,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00f4phuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban S\u00f4phuang",
+        "Ban S\u00f4phuang (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956822
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"947d438679971c1429e8599bda422fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1310268461,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1310268461,
+    "wof:lastmodified":1537660831,
+    "wof:name":"Ban Sophuang",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.04978,
+    20.21123,
+    103.04978,
+    20.21123
+],
+  "geometry": {"coordinates":[103.04978,20.21123],"type":"Point"}
+}

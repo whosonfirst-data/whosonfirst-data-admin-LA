@@ -1,0 +1,64 @@
+{
+  "id": 1209290861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83358,19.30844,101.83358,19.30844",
+    "geom:latitude":19.30844,
+    "geom:longitude":101.83358,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houayhip",
+    "gn:country_code":"LA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221382,
+    "gn:latitude":19.30844,
+    "gn:longitude":101.83358,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Houayhip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayhip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221382
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5c91fa996844216c5adcea0a9bffb9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209290861
+        }
+    ],
+    "wof:id":1209290861,
+    "wof:lastmodified":1537660884,
+    "wof:name":"Ban Houayhip",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83358,
+    19.30844,
+    101.83358,
+    19.30844
+],
+  "geometry": {"coordinates":[101.83358,19.30844],"type":"Point"}
+}

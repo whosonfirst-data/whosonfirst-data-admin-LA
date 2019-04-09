@@ -1,0 +1,72 @@
+{
+  "id": 1193116513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4197,17.73497,101.4197,17.73497",
+    "geom:latitude":17.73497,
+    "geom:longitude":101.4197,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Hatdong",
+    "gn:country_code":"LA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664183,
+    "gn:latitude":17.73497,
+    "gn:longitude":101.4197,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Hatd\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hat Deng",
+        "Ban Hatd\u00f4ng",
+        "Ban Hatdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664183
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7d3c0a44853982111b0ff270593192d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1193116513,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1193116513,
+    "wof:lastmodified":1537660630,
+    "wof:name":"Ban Hatdong",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4197,
+    17.73497,
+    101.4197,
+    17.73497
+],
+  "geometry": {"coordinates":[101.41970000000001,17.73497],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243524961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.69299,17.55553,104.69299,17.55553",
+    "geom:latitude":17.55553,
+    "geom:longitude":104.69299,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Natakhet",
+    "gn:country_code":"LA",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233884,
+    "gn:latitude":17.55553,
+    "gn:longitude":104.69299,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Natakh\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Natakh\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233884
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6c2f3b2d61bc48ac10641486f5d89988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1243524961,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1243524961,
+    "wof:lastmodified":1537660942,
+    "wof:name":"Ban Natakhet",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.69299,
+    17.55552999999999,
+    104.69299,
+    17.55552999999999
+],
+  "geometry": {"coordinates":[104.69298999999999,17.55552999999999],"type":"Point"}
+}

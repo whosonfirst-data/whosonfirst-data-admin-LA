@@ -1,0 +1,73 @@
+{
+  "id": 1293083233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18154,21.24413,101.18154,21.24413",
+    "geom:latitude":21.24413,
+    "geom:longitude":101.18154,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Houaylong",
+    "gn:country_code":"LA",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663769,
+    "gn:latitude":21.24413,
+    "gn:longitude":101.18154,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houaylong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaylong"
+    ],
+    "name:und_x_variant":[
+        "Ban Houei Long"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663769
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"99b679d44474df49e1cafb8c124600d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1293083233,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1293083233,
+    "wof:lastmodified":1537660603,
+    "wof:name":"Ban Houaylong",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18154,
+    21.24413,
+    101.18154,
+    21.24413
+],
+  "geometry": {"coordinates":[101.18154,21.24413],"type":"Point"}
+}

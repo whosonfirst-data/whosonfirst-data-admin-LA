@@ -1,0 +1,70 @@
+{
+  "id": 1259836017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66222,20.47944,100.66222,20.47944",
+    "geom:latitude":20.47944,
+    "geom:longitude":100.66222,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Namko",
+    "gn:country_code":"LA",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907031,
+    "gn:latitude":20.47944,
+    "gn:longitude":100.66222,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Namko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907031
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7a506ba3e5806fb8c5d348370458c961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1259836017,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1259836017,
+    "wof:lastmodified":1537660691,
+    "wof:name":"Ban Namko",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66222,
+    20.47944,
+    100.66222,
+    20.47944
+],
+  "geometry": {"coordinates":[100.66222,20.47944],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209436325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.10788,20.54164,102.10788,20.54164",
+    "geom:latitude":20.54164,
+    "geom:longitude":102.10788,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Houayphe-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954812,
+    "gn:latitude":20.54164,
+    "gn:longitude":102.10788,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houayph\u00e8-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayph\u00e8-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954812
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2fe798fea119e60a622df1c3ecccfb40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209436325
+        }
+    ],
+    "wof:id":1209436325,
+    "wof:lastmodified":1537660777,
+    "wof:name":"Ban Houayphe-Noy",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.10788,
+    20.54164,
+    102.10788,
+    20.54164
+],
+  "geometry": {"coordinates":[102.10787999999999,20.54164],"type":"Point"}
+}

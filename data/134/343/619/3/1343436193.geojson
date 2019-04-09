@@ -1,0 +1,74 @@
+{
+  "id": 1343436193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.94644,16.3127,106.94644,16.3127",
+    "geom:latitude":16.3127,
+    "geom:longitude":106.94644,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Lalaideo",
+    "gn:country_code":"LA",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655956,
+    "gn:latitude":16.3127,
+    "gn:longitude":106.94644,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lalaid\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lalaid\u00e8o"
+    ],
+    "name:und_x_variant":[
+        "La Lay Deo",
+        "Lalai D\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655956
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6ec795cf899dce81bf1e73f736d22280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1343436193,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1343436193,
+    "wof:lastmodified":1537660248,
+    "wof:name":"Ban Lalaideo",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.94644,
+    16.3127,
+    106.94644,
+    16.3127
+],
+  "geometry": {"coordinates":[106.94644,16.3127],"type":"Point"}
+}

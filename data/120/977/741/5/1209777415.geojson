@@ -1,0 +1,71 @@
+{
+  "id": 1209777415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.31461,16.79949,106.31461,16.79949",
+    "geom:latitude":16.79949,
+    "geom:longitude":106.31461,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tambang",
+    "gn:country_code":"LA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658929,
+    "gn:latitude":16.79949,
+    "gn:longitude":106.31461,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tambang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Tamban",
+        "Ban Tambang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658929
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1711b56a5e87a9020a9f2697e04b8fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1209777415,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1209777415,
+    "wof:lastmodified":1537660324,
+    "wof:name":"Ban Tambang",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.31461000000002,
+    16.79949,
+    106.31461000000002,
+    16.79949
+],
+  "geometry": {"coordinates":[106.31461000000002,16.79949],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209377413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.80467,16.12815,106.80467,16.12815",
+    "geom:latitude":16.12815,
+    "geom:longitude":106.80467,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Pagnoua",
+    "gn:country_code":"LA",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660346,
+    "gn:latitude":16.12815,
+    "gn:longitude":106.80467,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pagnoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Pagnoua"
+    ],
+    "name:und_x_variant":[
+        "Pa Youa",
+        "Ban Payoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660346
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a58cf88b2ecd93a5e1d0bb3822214916",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209377413
+        }
+    ],
+    "wof:id":1209377413,
+    "wof:lastmodified":1537660402,
+    "wof:name":"Ban Pagnoua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.80467,
+    16.12815,
+    106.80467,
+    16.12815
+],
+  "geometry": {"coordinates":[106.80467,16.12815],"type":"Point"}
+}

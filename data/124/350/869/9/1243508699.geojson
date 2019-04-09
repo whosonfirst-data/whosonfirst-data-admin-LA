@@ -1,0 +1,70 @@
+{
+  "id": 1243508699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0545,19.07329,102.0545,19.07329",
+    "geom:latitude":19.07329,
+    "geom:longitude":102.0545,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Pounglak",
+    "gn:country_code":"LA",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227323,
+    "gn:latitude":19.07329,
+    "gn:longitude":102.0545,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pounglak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pounglak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227323
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1e111985bc617618e5133a0b94d8e9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1243508699,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243508699,
+    "wof:lastmodified":1537660906,
+    "wof:name":"Ban Pounglak",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0545,
+    19.07329,
+    102.0545,
+    19.07329
+],
+  "geometry": {"coordinates":[102.0545,19.07329],"type":"Point"}
+}

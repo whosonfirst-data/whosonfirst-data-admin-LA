@@ -1,0 +1,67 @@
+{
+  "id": 1259345315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.98333,16.2,106.98333,16.2",
+    "geom:latitude":16.2,
+    "geom:longitude":106.98333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koumbouay",
+    "gn:country_code":"LA",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1656072,
+    "gn:latitude":16.2,
+    "gn:longitude":106.98333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Koumbouay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656072
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"327a74cf86c822ff7252d28f06343cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1259345315,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259345315,
+    "wof:lastmodified":1537054964,
+    "wof:name":"Koumbouay",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.98333,
+    16.2,
+    106.98333,
+    16.2
+],
+  "geometry": {"coordinates":[106.98333,16.2],"type":"Point"}
+}

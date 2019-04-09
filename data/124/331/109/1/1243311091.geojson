@@ -1,0 +1,70 @@
+{
+  "id": 1243311091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29869,19.08631,102.29869,19.08631",
+    "geom:latitude":19.08631,
+    "geom:longitude":102.29869,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Napha",
+    "gn:country_code":"LA",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11227503,
+    "gn:latitude":19.08631,
+    "gn:longitude":102.29869,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Napha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Napha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227503
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4b42e56b70c6d97f35245e8abcedfc4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1243311091,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243311091,
+    "wof:lastmodified":1537660908,
+    "wof:name":"Ban Napha",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29869,
+    19.08631,
+    102.29869,
+    19.08631
+],
+  "geometry": {"coordinates":[102.29868999999999,19.08631],"type":"Point"}
+}

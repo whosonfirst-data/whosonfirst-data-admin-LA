@@ -1,0 +1,70 @@
+{
+  "id": 1310008919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79068,15.39499,105.79068,15.39499",
+    "geom:latitude":15.39499,
+    "geom:longitude":105.79068,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khamsommo",
+    "gn:country_code":"LA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663089,
+    "gn:latitude":15.39499,
+    "gn:longitude":105.79068,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khams\u00f4mmo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Khams\u00f4mmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663089
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d528b085d65eec04ce8a22de210ab918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1310008919,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310008919,
+    "wof:lastmodified":1537660560,
+    "wof:name":"Ban Khamsommo",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79068,
+    15.39499,
+    105.79068,
+    15.39499
+],
+  "geometry": {"coordinates":[105.79067999999999,15.39499],"type":"Point"}
+}

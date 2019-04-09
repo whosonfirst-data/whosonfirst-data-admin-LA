@@ -1,0 +1,71 @@
+{
+  "id": 1226453987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.52758,19.913,104.52758,19.913",
+    "geom:latitude":19.913,
+    "geom:longitude":104.52758,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Kohai",
+    "gn:country_code":"LA",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662838,
+    "gn:latitude":19.913,
+    "gn:longitude":104.52758,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kohai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ko Hay",
+        "Ban Kohai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662838
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"672f42e20795962bc32d75c40c8f2fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1226453987,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226453987,
+    "wof:lastmodified":1537660544,
+    "wof:name":"Ban Kohai",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.52758,
+    19.913,
+    104.52758,
+    19.913
+],
+  "geometry": {"coordinates":[104.52758,19.913],"type":"Point"}
+}

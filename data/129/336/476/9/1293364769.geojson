@@ -1,0 +1,71 @@
+{
+  "id": 1293364769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.32546,16.65129,106.32546,16.65129",
+    "geom:latitude":16.65129,
+    "geom:longitude":106.32546,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kengthong",
+    "gn:country_code":"LA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663283,
+    "gn:latitude":16.65129,
+    "gn:longitude":106.32546,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8ngthong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban K\u00e8ngchong",
+        "Ban K\u00e8ngthong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663283
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f3d60a9adfb2cd8a70ace8397e6bfc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293364769,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293364769,
+    "wof:lastmodified":1537660571,
+    "wof:name":"Ban Kengthong",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.32546,
+    16.65129,
+    106.32546,
+    16.65129
+],
+  "geometry": {"coordinates":[106.32546000000001,16.65129],"type":"Point"}
+}

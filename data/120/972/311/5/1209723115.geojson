@@ -1,0 +1,70 @@
+{
+  "id": 1209723115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50235,20.01453,104.50235,20.01453",
+    "geom:latitude":20.01453,
+    "geom:longitude":104.50235,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nangiou",
+    "gn:country_code":"LA",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401860,
+    "gn:latitude":20.01453,
+    "gn:longitude":104.50235,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ban Nangiou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nangiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401860
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8c8038d1f7eaf20e9ff26c6e1982ce97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1209723115,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1209723115,
+    "wof:lastmodified":1537660989,
+    "wof:name":"Ban Nangiou",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50235,
+    20.01453,
+    104.50235,
+    20.01453
+],
+  "geometry": {"coordinates":[104.50235000000001,20.01453],"type":"Point"}
+}

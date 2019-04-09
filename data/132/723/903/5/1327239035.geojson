@@ -1,0 +1,71 @@
+{
+  "id": 1327239035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99159,20.02265,103.99159,20.02265",
+    "geom:latitude":20.02265,
+    "geom:longitude":103.99159,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phamot",
+    "gn:country_code":"LA",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660213,
+    "gn:latitude":20.02265,
+    "gn:longitude":103.99159,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Pham\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Pham\u00f4t",
+        "Ban Pha Mat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660213
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1ee24e721f6848e99a9232f83db2b3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1327239035,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1327239035,
+    "wof:lastmodified":1537660394,
+    "wof:name":"Ban Phamot",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99159,
+    20.02265,
+    103.99159,
+    20.02265
+],
+  "geometry": {"coordinates":[103.99159,20.02265],"type":"Point"}
+}

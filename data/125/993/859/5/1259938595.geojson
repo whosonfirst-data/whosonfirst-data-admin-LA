@@ -1,0 +1,70 @@
+{
+  "id": 1259938595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.5644,20.51798,100.5644,20.51798",
+    "geom:latitude":20.51798,
+    "geom:longitude":100.5644,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Koung",
+    "gn:country_code":"LA",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662740,
+    "gn:latitude":20.51798,
+    "gn:longitude":100.5644,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Koung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Koung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662740
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2c198f01989e4dc798efb9586a0c298c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1259938595,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1259938595,
+    "wof:lastmodified":1537660538,
+    "wof:name":"Ban Koung",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.5644,
+    20.51798,
+    100.5644,
+    20.51798
+],
+  "geometry": {"coordinates":[100.56440000000001,20.51798],"type":"Point"}
+}

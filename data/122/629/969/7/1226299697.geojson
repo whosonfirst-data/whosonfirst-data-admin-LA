@@ -1,0 +1,72 @@
+{
+  "id": 1226299697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.37711,15.41091,106.37711,15.41091",
+    "geom:latitude":15.41091,
+    "geom:longitude":106.37711,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tayun",
+    "gn:country_code":"LA",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658774,
+    "gn:latitude":15.41091,
+    "gn:longitude":106.37711,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Tayun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tay Une",
+        "Ban Tayune",
+        "Ban Tayun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658774
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dde3de9d59efac7a9f2abddb99ba517e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1226299697,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1226299697,
+    "wof:lastmodified":1537660315,
+    "wof:name":"Ban Tayun",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.37711000000002,
+    15.41091,
+    106.37711000000002,
+    15.41091
+],
+  "geometry": {"coordinates":[106.37711000000002,15.41091],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243467175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.76001,14.12419,105.76001,14.12419",
+    "geom:latitude":14.12419,
+    "geom:longitude":105.76001,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Phoumeo",
+    "gn:country_code":"LA",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659782,
+    "gn:latitude":14.12419,
+    "gn:longitude":105.76001,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phoum\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pou Meo",
+        "Ban Phoum\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659782
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c98ffaa14f22d851d2f80e19eb860aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1243467175,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1243467175,
+    "wof:lastmodified":1537660370,
+    "wof:name":"Ban Phoumeo",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.76001,
+    14.12419,
+    105.76001,
+    14.12419
+],
+  "geometry": {"coordinates":[105.76000999999999,14.12419],"type":"Point"}
+}

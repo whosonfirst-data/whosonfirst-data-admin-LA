@@ -1,0 +1,70 @@
+{
+  "id": 1344222529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.09764,16.15775,107.09764,16.15775",
+    "geom:latitude":16.15775,
+    "geom:longitude":107.09764,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Ading",
+    "gn:country_code":"LA",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1665020,
+    "gn:latitude":16.15775,
+    "gn:longitude":107.09764,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ading",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Ading"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665020
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bc438592fed894ea7d5cceaf520e7475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1344222529,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1344222529,
+    "wof:lastmodified":1537660680,
+    "wof:name":"Ban Ading",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.09763999999998,
+    16.15775,
+    107.09763999999998,
+    16.15775
+],
+  "geometry": {"coordinates":[107.09763999999998,16.15775],"type":"Point"}
+}

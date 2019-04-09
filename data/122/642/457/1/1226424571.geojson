@@ -1,0 +1,70 @@
+{
+  "id": 1226424571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23798,20.94364,101.23798,20.94364",
+    "geom:latitude":20.94364,
+    "geom:longitude":101.23798,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Namluang",
+    "gn:country_code":"LA",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957188,
+    "gn:latitude":20.94364,
+    "gn:longitude":101.23798,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Namluang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namluang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957188
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9f85573b42f4df1dc46ad246dedeeb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1226424571,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1226424571,
+    "wof:lastmodified":1537660840,
+    "wof:name":"Ban Namluang",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23798,
+    20.94364,
+    101.23798,
+    20.94364
+],
+  "geometry": {"coordinates":[101.23797999999999,20.94364],"type":"Point"}
+}

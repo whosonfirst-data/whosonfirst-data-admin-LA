@@ -1,0 +1,64 @@
+{
+  "id": 1209569601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39783,19.36597,102.39783,19.36597",
+    "geom:latitude":19.36597,
+    "geom:longitude":102.39783,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phouxeun",
+    "gn:country_code":"LA",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952530,
+    "gn:latitude":19.36597,
+    "gn:longitude":102.39783,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phouxeun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phouxeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952530
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e7d892e388f468ab39b3ca244d5e7f32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209569601
+        }
+    ],
+    "wof:id":1209569601,
+    "wof:lastmodified":1537660721,
+    "wof:name":"Ban Phouxeun",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39783,
+    19.36597,
+    102.39783,
+    19.36597
+],
+  "geometry": {"coordinates":[102.39783,19.36597],"type":"Point"}
+}

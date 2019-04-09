@@ -1,0 +1,73 @@
+{
+  "id": 1293360113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06734,20.66043,101.06734,20.66043",
+    "geom:latitude":20.66043,
+    "geom:longitude":101.06734,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tang-Noua",
+    "gn:country_code":"LA",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658883,
+    "gn:latitude":20.66043,
+    "gn:longitude":101.06734,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Tang-Noua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tang-Noua"
+    ],
+    "name:und_x_variant":[
+        "Ban Tang Noeua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658883
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fa02c37502931236d370b64034747e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1293360113,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1293360113,
+    "wof:lastmodified":1537660321,
+    "wof:name":"Ban Tang-Noua",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06734,
+    20.66043,
+    101.06734,
+    20.66043
+],
+  "geometry": {"coordinates":[101.06734,20.66043],"type":"Point"}
+}

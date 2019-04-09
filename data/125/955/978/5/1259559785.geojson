@@ -1,0 +1,72 @@
+{
+  "id": 1259559785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21029,19.82039,102.21029,19.82039",
+    "geom:latitude":19.82039,
+    "geom:longitude":102.21029,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Souan",
+    "gn:country_code":"LA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657995,
+    "gn:latitude":19.82039,
+    "gn:longitude":102.21029,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Souan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Son",
+        "Ban Xon",
+        "Ban Souan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657995
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"efeffe3583f191f73aab69d86e21d920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1259559785,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259559785,
+    "wof:lastmodified":1537660266,
+    "wof:name":"Ban Souan",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21029,
+    19.82039,
+    102.21029,
+    19.82039
+],
+  "geometry": {"coordinates":[102.21029,19.82039],"type":"Point"}
+}

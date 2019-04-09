@@ -1,0 +1,73 @@
+{
+  "id": 1259971343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.34885,20.24446,101.34885,20.24446",
+    "geom:latitude":20.24446,
+    "geom:longitude":101.34885,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Konlouk",
+    "gn:country_code":"LA",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951862,
+    "gn:latitude":20.24446,
+    "gn:longitude":101.34885,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Konlouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Konlouk"
+    ],
+    "name:und_x_variant":[
+        "Ban Kontouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951862
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b6dd28896b2f74f6ad436b4196d9a944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1259971343,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1259971343,
+    "wof:lastmodified":1537660708,
+    "wof:name":"Ban Konlouk",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.34885,
+    20.24446,
+    101.34885,
+    20.24446
+],
+  "geometry": {"coordinates":[101.34885,20.24446],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243284953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.64383,19.87914,101.64383,19.87914",
+    "geom:latitude":19.87914,
+    "geom:longitude":101.64383,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Bo",
+    "gn:country_code":"LA",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658057,
+    "gn:latitude":19.87914,
+    "gn:longitude":101.64383,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Bo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bo"
+    ],
+    "name:und_x_variant":[
+        "Ban Xieng Bo",
+        "Ban Xiangbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658057
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"677a2ef9c127f8823fca1b58d9b22afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1243284953,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1243284953,
+    "wof:lastmodified":1537660271,
+    "wof:name":"Ban Bo",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.64383,
+    19.87914,
+    101.64383,
+    19.87914
+],
+  "geometry": {"coordinates":[101.64382999999999,19.87914],"type":"Point"}
+}

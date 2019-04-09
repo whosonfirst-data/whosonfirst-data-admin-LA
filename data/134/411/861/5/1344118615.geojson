@@ -1,0 +1,72 @@
+{
+  "id": 1344118615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27724,16.9464,105.27724,16.9464",
+    "geom:latitude":16.9464,
+    "geom:longitude":105.27724,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nasongkhon",
+    "gn:country_code":"LA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661143,
+    "gn:latitude":16.9464,
+    "gn:longitude":105.27724,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nasongkhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Song Khone",
+        "Ban Na Song Khone",
+        "Ban Nasongkhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661143
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"87ed4b873dfe6d49184468938678500d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028001,
+            "locality_id":1344118615,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1344118615,
+    "wof:lastmodified":1537660451,
+    "wof:name":"Ban Nasongkhon",
+    "wof:parent_id":1092028001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27724,
+    16.9464,
+    105.27724,
+    16.9464
+],
+  "geometry": {"coordinates":[105.27724000000001,16.9464],"type":"Point"}
+}

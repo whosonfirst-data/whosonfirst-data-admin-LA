@@ -1,0 +1,71 @@
+{
+  "id": 1343919761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41735,16.39148,105.41735,16.39148",
+    "geom:latitude":16.39148,
+    "geom:longitude":105.41735,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Khambounhuang",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663127,
+    "gn:latitude":16.39148,
+    "gn:longitude":105.41735,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Khambounhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khano",
+        "Ban Khambounhuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663127
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"448d399988466fe7d2daf080031fcc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1343919761,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343919761,
+    "wof:lastmodified":1537660562,
+    "wof:name":"Ban Khambounhuang",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41735,
+    16.39148,
+    105.41735,
+    16.39148
+],
+  "geometry": {"coordinates":[105.41735,16.39148],"type":"Point"}
+}

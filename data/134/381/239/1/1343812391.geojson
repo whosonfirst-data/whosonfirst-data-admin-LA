@@ -1,0 +1,68 @@
+{
+  "id": 1343812391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45003,18.97376,102.45003,18.97376",
+    "geom:latitude":18.97376,
+    "geom:longitude":102.45003,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Pakpo",
+    "gn:country_code":"LA",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660461,
+    "gn:latitude":18.97376,
+    "gn:longitude":102.45003,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pakpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660461,
+        "wk:page":"Ban_Pakpo"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"30e99568a86763408cba12792e9f0661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":1343812391,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1343812391,
+    "wof:lastmodified":1537567845,
+    "wof:name":"Ban Pakpo",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45003,
+    18.97376,
+    102.45003,
+    18.97376
+],
+  "geometry": {"coordinates":[102.45003,18.97376],"type":"Point"}
+}

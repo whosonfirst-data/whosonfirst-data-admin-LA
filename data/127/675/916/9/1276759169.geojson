@@ -1,0 +1,67 @@
+{
+  "id": 1276759169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.44722,20.10694,101.44722,20.10694",
+    "geom:latitude":20.10694,
+    "geom:longitude":101.44722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Vangnong",
+    "gn:country_code":"LA",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951715,
+    "gn:latitude":20.10694,
+    "gn:longitude":101.44722,
+    "gn:modification_date":"2001-05-03",
+    "gn:name":"Ban Vangnong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951715
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0a1c984564d2f692ca4cd6d9268a063e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1276759169,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1276759169,
+    "wof:lastmodified":1536705525,
+    "wof:name":"Ban Vangnong",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.44722,
+    20.10694,
+    101.44722,
+    20.10694
+],
+  "geometry": {"coordinates":[101.44722,20.10694],"type":"Point"}
+}

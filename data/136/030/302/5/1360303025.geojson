@@ -1,0 +1,71 @@
+{
+  "id": 1360303025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06239,15.17621,107.06239,15.17621",
+    "geom:latitude":15.17621,
+    "geom:longitude":107.06239,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Khiat",
+    "gn:country_code":"LA",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663004,
+    "gn:latitude":15.17621,
+    "gn:longitude":107.06239,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khiet",
+        "Ban Khiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663004
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9dc6271b075e4e5b40ac2a7d681e0be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1360303025,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1360303025,
+    "wof:lastmodified":1537660554,
+    "wof:name":"Ban Khiat",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06239,
+    15.17621,
+    107.06239,
+    15.17621
+],
+  "geometry": {"coordinates":[107.06238999999999,15.17621],"type":"Point"}
+}

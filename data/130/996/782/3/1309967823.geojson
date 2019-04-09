@@ -1,0 +1,70 @@
+{
+  "id": 1309967823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6049,16.55494,106.6049,16.55494",
+    "geom:latitude":16.55494,
+    "geom:longitude":106.6049,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kaleng",
+    "gn:country_code":"LA",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655906,
+    "gn:latitude":16.55494,
+    "gn:longitude":106.6049,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kal\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lang Ka Lon",
+        "L\u00e0ng Ka Len",
+        "Ban Kal\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655906
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3508b60e459654d1f752719aad1077a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1309967823,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1309967823,
+    "wof:lastmodified":1537660247,
+    "wof:name":"Ban Kaleng",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6049,
+    16.55494,
+    106.6049,
+    16.55494
+],
+  "geometry": {"coordinates":[106.6049,16.55494],"type":"Point"}
+}

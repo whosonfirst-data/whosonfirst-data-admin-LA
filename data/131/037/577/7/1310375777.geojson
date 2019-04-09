@@ -1,0 +1,71 @@
+{
+  "id": 1310375777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43994,17.32177,105.43994,17.32177",
+    "geom:latitude":17.32177,
+    "geom:longitude":105.43994,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kouantan",
+    "gn:country_code":"LA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662753,
+    "gn:latitude":17.32177,
+    "gn:longitude":105.43994,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kouantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kountan",
+        "Ban Kouantan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662753
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"728bba2e936c8d893573ba664eb3ab65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1310375777,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310375777,
+    "wof:lastmodified":1537660539,
+    "wof:name":"Ban Kouantan",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43994,
+    17.32177,
+    105.43994,
+    17.32177
+],
+  "geometry": {"coordinates":[105.43994000000001,17.32177],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242887099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88333,14.81667,105.88333,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":105.88333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Pak-Houaylai",
+    "gn:country_code":"LA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660512,
+    "gn:latitude":14.81667,
+    "gn:longitude":105.88333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Pak-Houaylai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660512
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dc726fc160a869d3813cc1b2e048dc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":1242887099,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242887099,
+    "wof:lastmodified":1536615451,
+    "wof:name":"Ban Pak-Houaylai",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88333,
+    14.81667,
+    105.88333,
+    14.81667
+],
+  "geometry": {"coordinates":[105.88333,14.81667],"type":"Point"}
+}

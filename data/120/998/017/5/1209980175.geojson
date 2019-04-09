@@ -1,0 +1,70 @@
+{
+  "id": 1209980175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.03571,20.01319,103.03571,20.01319",
+    "geom:latitude":20.01319,
+    "geom:longitude":103.03571,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Kha",
+    "gn:country_code":"LA",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663151,
+    "gn:latitude":20.01319,
+    "gn:longitude":103.03571,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663151
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"694142bcf3c4e4e759ef9d01a1c674f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028703,
+            "locality_id":1209980175,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1209980175,
+    "wof:lastmodified":1537660563,
+    "wof:name":"Ban Kha",
+    "wof:parent_id":1092028703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.03571,
+    20.01319,
+    103.03571,
+    20.01319
+],
+  "geometry": {"coordinates":[103.03570999999999,20.01319],"type":"Point"}
+}

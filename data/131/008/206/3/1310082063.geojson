@@ -1,0 +1,70 @@
+{
+  "id": 1310082063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.44787,19.46853,101.44787,19.46853",
+    "geom:latitude":19.46853,
+    "geom:longitude":101.44787,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khounkhan",
+    "gn:country_code":"LA",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662888,
+    "gn:latitude":19.46853,
+    "gn:longitude":101.44787,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khounkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khounkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662888
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ba37df911bd55a5d4c669effdbc23b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1310082063,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1310082063,
+    "wof:lastmodified":1537660547,
+    "wof:name":"Ban Khounkhan",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.44787,
+    19.46853,
+    101.44787,
+    19.46853
+],
+  "geometry": {"coordinates":[101.44786999999999,19.46853],"type":"Point"}
+}

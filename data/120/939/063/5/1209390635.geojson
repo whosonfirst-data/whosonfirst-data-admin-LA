@@ -1,0 +1,66 @@
+{
+  "id": 1209390635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.27229,21.70485,102.27229,21.70485",
+    "geom:latitude":21.70485,
+    "geom:longitude":102.27229,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sensoukkha",
+    "gn:country_code":"LA",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653209,
+    "gn:latitude":21.70485,
+    "gn:longitude":102.27229,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nsoukkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sen Su Kha",
+        "Sen Su Khu",
+        "Ban S\u00e8nsoukkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653209
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c501f89a4414a7cb7fa568eae5e0d566",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209390635
+        }
+    ],
+    "wof:id":1209390635,
+    "wof:lastmodified":1537660205,
+    "wof:name":"Ban Sensoukkha",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27229,
+    21.70485,
+    102.27229,
+    21.70485
+],
+  "geometry": {"coordinates":[102.27229,21.70485],"type":"Point"}
+}

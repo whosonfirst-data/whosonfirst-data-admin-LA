@@ -1,0 +1,72 @@
+{
+  "id": 1276559609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79685,20.04158,103.79685,20.04158",
+    "geom:latitude":20.04158,
+    "geom:longitude":103.79685,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houayyouak",
+    "gn:country_code":"LA",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663516,
+    "gn:latitude":20.04158,
+    "gn:longitude":103.79685,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houayyouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Houe\u00ef Youok",
+        "Ban Houay Youok",
+        "Ban Houayyouak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663516
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"96ee31338501115d9e444dd14caa5a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1276559609,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1276559609,
+    "wof:lastmodified":1537660584,
+    "wof:name":"Ban Houayyouak",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79685,
+    20.04158,
+    103.79685,
+    20.04158
+],
+  "geometry": {"coordinates":[103.79685000000001,20.04158],"type":"Point"}
+}

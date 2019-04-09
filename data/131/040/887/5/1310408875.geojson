@@ -1,0 +1,67 @@
+{
+  "id": 1310408875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42216,14.27088,105.42216,14.27088",
+    "geom:latitude":14.27088,
+    "geom:longitude":105.42216,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Trapeang Popul",
+    "gn:country_code":"LA",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652333,
+    "gn:latitude":14.27088,
+    "gn:longitude":105.42216,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Trapeang Popul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652333
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9a2205d6232da9069751a4b3797f97db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1310408875,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310408875,
+    "wof:lastmodified":1537054049,
+    "wof:name":"Trapeang Popul",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42216,
+    14.27088,
+    105.42216,
+    14.27088
+],
+  "geometry": {"coordinates":[105.42216000000001,14.27088],"type":"Point"}
+}

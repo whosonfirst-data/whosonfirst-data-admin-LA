@@ -1,0 +1,70 @@
+{
+  "id": 1344225851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54536,20.80703,100.54536,20.80703",
+    "geom:latitude":20.80703,
+    "geom:longitude":100.54536,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Chaibo",
+    "gn:country_code":"LA",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907076,
+    "gn:latitude":20.80703,
+    "gn:longitude":100.54536,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Chaibo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chaibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907076
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6443778c5c9fce53bec51035a5055a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1344225851,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1344225851,
+    "wof:lastmodified":1537660693,
+    "wof:name":"Ban Chaibo",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54536,
+    20.80703,
+    100.54536,
+    20.80703
+],
+  "geometry": {"coordinates":[100.54536,20.80703],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209123879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.04381,15.08595,107.04381,15.08595",
+    "geom:latitude":15.08595,
+    "geom:longitude":107.04381,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Dak-Hiat",
+    "gn:country_code":"LA",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11201184,
+    "gn:latitude":15.08595,
+    "gn:longitude":107.04381,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Dak-Hiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Dak-Hiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201184
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"65213192d74a7a6ce30b936f449ca906",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209123879
+        }
+    ],
+    "wof:id":1209123879,
+    "wof:lastmodified":1537660864,
+    "wof:name":"Ban Dak-Hiat",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.04381,
+    15.08595,
+    107.04381,
+    15.08595
+],
+  "geometry": {"coordinates":[107.04380999999999,15.08595],"type":"Point"}
+}

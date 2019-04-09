@@ -1,0 +1,70 @@
+{
+  "id": 1326600235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.54956,17.70856,104.54956,17.70856",
+    "geom:latitude":17.70856,
+    "geom:longitude":104.54956,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nahuang",
+    "gn:country_code":"LA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233334,
+    "gn:latitude":17.70856,
+    "gn:longitude":104.54956,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nahuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nahuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233334
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2e535fa7954a43bf9abbf43f78433bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1326600235,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1326600235,
+    "wof:lastmodified":1537660939,
+    "wof:name":"Ban Nahuang",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.54956,
+    17.70856000000001,
+    104.54956,
+    17.70856000000001
+],
+  "geometry": {"coordinates":[104.54956,17.70856000000001],"type":"Point"}
+}

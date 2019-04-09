@@ -1,0 +1,73 @@
+{
+  "id": 1260156063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30762,15.87278,106.30762,15.87278",
+    "geom:latitude":15.87278,
+    "geom:longitude":106.30762,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Thongphiakhoua",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658469,
+    "gn:latitude":15.87278,
+    "gn:longitude":106.30762,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Th\u00f4ngphiakhoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngphiakhoua"
+    ],
+    "name:und_x_variant":[
+        "Ban Th\u00f4ngphiakhoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658469
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f6d2627b20c26f83cec9544ee4c04439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1260156063,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1260156063,
+    "wof:lastmodified":1537660297,
+    "wof:name":"Ban Thongphiakhoua",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30762,
+    15.87278,
+    106.30762,
+    15.87278
+],
+  "geometry": {"coordinates":[106.30762,15.87278],"type":"Point"}
+}

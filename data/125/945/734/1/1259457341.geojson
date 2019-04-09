@@ -1,0 +1,70 @@
+{
+  "id": 1259457341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.67177,17.10765,105.67177,17.10765",
+    "geom:latitude":17.10765,
+    "geom:longitude":105.67177,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nongdeng",
+    "gn:country_code":"LA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214102,
+    "gn:latitude":17.10765,
+    "gn:longitude":105.67177,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nongd\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongd\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214102
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d8d24bf71d1483eb9fecdeddf69e563e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1259457341,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259457341,
+    "wof:lastmodified":1537660881,
+    "wof:name":"Ban Nongdeng",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.67177,
+    17.10765,
+    105.67177,
+    17.10765
+],
+  "geometry": {"coordinates":[105.67177,17.10765],"type":"Point"}
+}

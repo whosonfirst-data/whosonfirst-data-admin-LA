@@ -1,0 +1,70 @@
+{
+  "id": 1260235507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41512,18.53833,102.41512,18.53833",
+    "geom:latitude":18.53833,
+    "geom:longitude":102.41512,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nongtao",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944300,
+    "gn:latitude":18.53833,
+    "gn:longitude":102.41512,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Nongtao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongtao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092028631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944300
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"309da35c5194c7dfcd16b43585044073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028631,
+            "locality_id":1260235507,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1260235507,
+    "wof:lastmodified":1537660704,
+    "wof:name":"Ban Nongtao",
+    "wof:parent_id":1092028631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41512,
+    18.53833,
+    102.41512,
+    18.53833
+],
+  "geometry": {"coordinates":[102.41512,18.53833],"type":"Point"}
+}

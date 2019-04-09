@@ -1,0 +1,72 @@
+{
+  "id": 1327404187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.90115,17.33487,104.90115,17.33487",
+    "geom:latitude":17.33487,
+    "geom:longitude":104.90115,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nadon",
+    "gn:country_code":"LA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662042,
+    "gn:latitude":17.33487,
+    "gn:longitude":104.90115,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nad\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban May",
+        "Ban Na Done",
+        "Ban Nad\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662042
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"826856c88f740120e15ceafcfdf7e4f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1327404187,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327404187,
+    "wof:lastmodified":1537660501,
+    "wof:name":"Ban Nadon",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.90115,
+    17.33487,
+    104.90115,
+    17.33487
+],
+  "geometry": {"coordinates":[104.90115,17.33487],"type":"Point"}
+}

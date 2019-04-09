@@ -1,0 +1,67 @@
+{
+  "id": 1310316517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51722,19.94515,104.51722,19.94515",
+    "geom:latitude":19.94515,
+    "geom:longitude":104.51722,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Xamtay",
+    "gn:country_code":"LA",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":7648328,
+    "gn:latitude":19.94515,
+    "gn:longitude":104.51722,
+    "gn:modification_date":"2011-01-31",
+    "gn:name":"Xamtay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648328
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2e8451d82d775e93e6b134cad6dfd557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1310316517,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1310316517,
+    "wof:lastmodified":1536692154,
+    "wof:name":"Xamtay",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51722,
+    19.94515,
+    104.51722,
+    19.94515
+],
+  "geometry": {"coordinates":[104.51721999999999,19.94515],"type":"Point"}
+}

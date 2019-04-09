@@ -1,0 +1,70 @@
+{
+  "id": 1276197359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30564,19.4647,102.30564,19.4647",
+    "geom:latitude":19.4647,
+    "geom:longitude":102.30564,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pha-Ngam",
+    "gn:country_code":"LA",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11227018,
+    "gn:latitude":19.4647,
+    "gn:longitude":102.30564,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pha-Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Pha-Ngam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227018
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aa88b6d2eebc52a20fd7de78e20e4807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1276197359,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276197359,
+    "wof:lastmodified":1537660906,
+    "wof:name":"Ban Pha-Ngam",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30564,
+    19.4647,
+    102.30564,
+    19.4647
+],
+  "geometry": {"coordinates":[102.30564,19.4647],"type":"Point"}
+}

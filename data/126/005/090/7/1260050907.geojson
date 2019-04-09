@@ -1,0 +1,73 @@
+{
+  "id": 1260050907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71942,19.32408,103.71942,19.32408",
+    "geom:latitude":19.32408,
+    "geom:longitude":103.71942,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Bouaksua",
+    "gn:country_code":"LA",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664858,
+    "gn:latitude":19.32408,
+    "gn:longitude":103.71942,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Bouaksua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Bouaksua"
+    ],
+    "name:und_x_variant":[
+        "Ban Bouak Seua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664858
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d0c5439ff393ca99fbc0b70350e9ae3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1260050907,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1260050907,
+    "wof:lastmodified":1537660672,
+    "wof:name":"Ban Bouaksua",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71942,
+    19.32408,
+    103.71942,
+    19.32408
+],
+  "geometry": {"coordinates":[103.71942,19.32408],"type":"Point"}
+}

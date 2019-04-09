@@ -1,0 +1,73 @@
+{
+  "id": 1360166873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.18083,20.49273,101.18083,20.49273",
+    "geom:latitude":20.49273,
+    "geom:longitude":101.18083,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Sensale",
+    "gn:country_code":"LA",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956323,
+    "gn:latitude":20.49273,
+    "gn:longitude":101.18083,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban S\u00e8nsal\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nsal\u00e8"
+    ],
+    "name:und_x_variant":[
+        "Ban S\u00e8nsat\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956323
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7977ba01fc0fcc3ac5f7445b66167fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1360166873,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1360166873,
+    "wof:lastmodified":1537660817,
+    "wof:name":"Ban Sensale",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.18083,
+    20.49273,
+    101.18083,
+    20.49273
+],
+  "geometry": {"coordinates":[101.18083,20.49273],"type":"Point"}
+}

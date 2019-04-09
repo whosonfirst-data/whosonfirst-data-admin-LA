@@ -1,0 +1,73 @@
+{
+  "id": 1293355969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6481,15.64092,105.6481,15.64092",
+    "geom:latitude":15.64092,
+    "geom:longitude":105.6481,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Kenggnaphut",
+    "gn:country_code":"LA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663274,
+    "gn:latitude":15.64092,
+    "gn:longitude":105.6481,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban K\u00e8nggnaphut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8nggnaphut"
+    ],
+    "name:und_x_variant":[
+        "Ban Keng Yapeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663274
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"038053aaf714670a7c59030a51574e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1293355969,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293355969,
+    "wof:lastmodified":1537660570,
+    "wof:name":"Ban Kenggnaphut",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6481,
+    15.64092,
+    105.6481,
+    15.64092
+],
+  "geometry": {"coordinates":[105.6481,15.64092],"type":"Point"}
+}

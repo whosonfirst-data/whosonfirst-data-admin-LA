@@ -1,0 +1,70 @@
+{
+  "id": 1309771619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22624,16.08975,106.22624,16.08975",
+    "geom:latitude":16.08975,
+    "geom:longitude":106.22624,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tanbeng-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236678,
+    "gn:latitude":16.08975,
+    "gn:longitude":106.22624,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tanb\u00e8ng-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tanb\u00e8ng-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236678
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e38c9009448d9f3350f04b87ea007a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1309771619,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1309771619,
+    "wof:lastmodified":1537660964,
+    "wof:name":"Ban Tanbeng-Gnai",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22624,
+    16.08975,
+    106.22624,
+    16.08975
+],
+  "geometry": {"coordinates":[106.22624,16.08975],"type":"Point"}
+}

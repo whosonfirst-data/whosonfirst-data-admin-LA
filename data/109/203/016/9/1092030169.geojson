@@ -1,0 +1,78 @@
+{
+  "id": 1092030169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-01-13",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":348866.420252,
+    "geom:bbox":"101.554787942,17.8003988517,101.568333337,17.809008",
+    "geom:latitude":17.805666,
+    "geom:longitude":101.561456,
+    "iso:country":"LA",
+    "lbl:latitude":17.80625,
+    "lbl:longitude":101.560994,
+    "meso:admin1_loc":"\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5",
+    "meso:admin_1":"Xayabury",
+    "meso:dissme":"KenthaoXayabury",
+    "meso:gadm_admin":"Kenethao",
+    "meso:gadm_hasc2":"LA.XA.KE",
+    "meso:mps_x":101.560994,
+    "meso:mps_y":17.80625,
+    "meso:name_en":"Kenthao",
+    "meso:name_loc":"\u0ec1\u0e81\u0ec8\u0e99\u0e97\u0ec9\u0eb2\u0ea7",
+    "meso:source":"AOTM",
+    "mps:latitude":17.80625,
+    "mps:longitude":101.560994,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_variant":[
+        "Kenethao"
+    ],
+    "name:und_x_variant":[
+        "\u0ec1\u0e81\u0ec8\u0e99\u0e97\u0ec9\u0eb2\u0ea7"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632293,
+        85678853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LA.XA.KE"
+    },
+    "wof:country":"LA",
+    "wof:created":1473897731,
+    "wof:geomhash":"601c383c8130a73b0115689756e5b075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "county_id":1092030169,
+            "region_id":85678853
+        }
+    ],
+    "wof:id":1092030169,
+    "wof:lastmodified":1536615101,
+    "wof:name":"Kenthao",
+    "wof:parent_id":85678853,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:shortcode":"KE",
+    "wof:superseded_by":[
+        1092030663
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.55478794205885,
+    17.8003988516663,
+    101.56833333680464,
+    17.809008
+],
+  "geometry": {"coordinates":[[[101.56833333680464,17.8003988516663],[101.56543423936873,17.80243896045548],[101.55747961797741,17.80643299211576],[101.55478794205885,17.80735838571935],[101.555662,17.807762],[101.55672800000001,17.808484],[101.557935,17.808943],[101.558716,17.809008],[101.55971099999999,17.808746],[101.56063399999999,17.80809],[101.561913,17.807172],[101.563405,17.805991],[101.56475399999999,17.804811],[101.565962,17.803761],[101.567098,17.802974],[101.567809,17.801859],[101.568235,17.800744],[101.56833333680464,17.8003988516663]]],"type":"Polygon"}
+}

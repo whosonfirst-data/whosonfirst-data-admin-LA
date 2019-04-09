@@ -1,0 +1,77 @@
+{
+  "id": 1343827497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.79767,21.11414,100.79767,21.11414",
+    "geom:latitude":21.11414,
+    "geom:longitude":100.79767,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phagnaloungkhamtan",
+    "gn:country_code":"LA",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660127,
+    "gn:latitude":21.11414,
+    "gn:longitude":100.79767,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phagnaloungkhamtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phangaloungkhamtan"
+    ],
+    "name:lao_x_variant":[
+        "Ban Phagnaloungkhamtan"
+    ],
+    "name:und_x_variant":[
+        "Ban Phaya Luong Kam Tane",
+        "Ban Phaya Loung Kam Tane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660127
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"91508712a36b29b97953c32c0a602c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1343827497,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1343827497,
+    "wof:lastmodified":1537660390,
+    "wof:name":"Ban Phagnaloungkhamtan",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.79767,
+    21.11414,
+    100.79767,
+    21.11414
+],
+  "geometry": {"coordinates":[100.79767,21.11414],"type":"Point"}
+}

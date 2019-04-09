@@ -1,0 +1,70 @@
+{
+  "id": 1243154225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.20595,21.22167,101.20595,21.22167",
+    "geom:latitude":21.22167,
+    "geom:longitude":101.20595,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phalat-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955644,
+    "gn:latitude":21.22167,
+    "gn:longitude":101.20595,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Phalat-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phalat-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955644
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6c0fbd8bc4282adbadcce743d4c9b867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1243154225,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1243154225,
+    "wof:lastmodified":1537660799,
+    "wof:name":"Ban Phalat-Noy",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.20595,
+    21.22167,
+    101.20595,
+    21.22167
+],
+  "geometry": {"coordinates":[101.20595,21.22167],"type":"Point"}
+}

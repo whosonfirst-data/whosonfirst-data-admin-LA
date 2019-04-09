@@ -1,0 +1,71 @@
+{
+  "id": 1292976829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.04539,21.99117,102.04539,21.99117",
+    "geom:latitude":21.99117,
+    "geom:longitude":102.04539,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Laothen",
+    "gn:country_code":"LA",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655441,
+    "gn:latitude":21.99117,
+    "gn:longitude":102.04539,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Laoth\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma Lao Sen",
+        "Ban Laoth\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655441
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"502d8db56e46dc1f7eff5378b74224b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1292976829,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1292976829,
+    "wof:lastmodified":1537660243,
+    "wof:name":"Ban Laothen",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.04539,
+    21.99117,
+    102.04539,
+    21.99117
+],
+  "geometry": {"coordinates":[102.04539,21.99117],"type":"Point"}
+}

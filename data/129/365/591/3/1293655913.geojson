@@ -1,0 +1,70 @@
+{
+  "id": 1293655913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.59003,18.2486,102.59003,18.2486",
+    "geom:latitude":18.2486,
+    "geom:longitude":102.59003,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phonmeng",
+    "gn:country_code":"LA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944244,
+    "gn:latitude":18.2486,
+    "gn:longitude":102.59003,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Ph\u00f4nm\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nm\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944244
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"762c031f36142a0652e98bb0b5cdc7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1293655913,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293655913,
+    "wof:lastmodified":1537660703,
+    "wof:name":"Ban Phonmeng",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.59003,
+    18.2486,
+    102.59003,
+    18.2486
+],
+  "geometry": {"coordinates":[102.59003,18.2486],"type":"Point"}
+}

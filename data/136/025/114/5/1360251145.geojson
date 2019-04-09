@@ -1,0 +1,70 @@
+{
+  "id": 1360251145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48009,21.1539,102.48009,21.1539",
+    "geom:latitude":21.1539,
+    "geom:longitude":102.48009,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hadum",
+    "gn:country_code":"LA",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954963,
+    "gn:latitude":21.1539,
+    "gn:longitude":102.48009,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Hadum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hadum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954963
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"39b606c6e908df2d5967368018556601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1360251145,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1360251145,
+    "wof:lastmodified":1537660783,
+    "wof:name":"Ban Hadum",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48009,
+    21.1539,
+    102.48009,
+    21.1539
+],
+  "geometry": {"coordinates":[102.48009,21.1539],"type":"Point"}
+}

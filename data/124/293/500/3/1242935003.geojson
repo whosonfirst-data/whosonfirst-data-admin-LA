@@ -1,0 +1,70 @@
+{
+  "id": 1242935003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.41823,16.55703,106.41823,16.55703",
+    "geom:latitude":16.55703,
+    "geom:longitude":106.41823,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Lakhum-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956494,
+    "gn:latitude":16.55703,
+    "gn:longitude":106.41823,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Lakhum-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lakhum-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956494
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"36a563224a79ae919802b55788750d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1242935003,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1242935003,
+    "wof:lastmodified":1537660822,
+    "wof:name":"Ban Lakhum-Nua",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.41823,
+    16.55702999999999,
+    106.41823,
+    16.55702999999999
+],
+  "geometry": {"coordinates":[106.41822999999999,16.55702999999999],"type":"Point"}
+}

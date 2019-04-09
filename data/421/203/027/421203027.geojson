@@ -1,0 +1,82 @@
+{
+  "id": 421203027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8942,14.04726,105.8942,14.04726",
+    "geom:latitude":14.04726,
+    "geom:longitude":105.8942,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:lao_x_preferred":[
+        "Ban Khinak"
+    ],
+    "name:unk_x_variant":[
+        "Ki Nak"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1656393,
+    "qs:gn_pop":0,
+    "qs:name":"Khinak",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Champasak",
+    "qs:photos":229,
+    "qs:photos_1k":46,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":229,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":229225,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1139554,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656393,
+        "gp:id":1139554,
+        "qs:id":229225
+    },
+    "wof:country":"LA",
+    "wof:created":1459010138,
+    "wof:geomhash":"3e5b8152e6cf92fdcea15a29229e9c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":421203027,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":421203027,
+    "wof:lastmodified":1501221411,
+    "wof:name":"Khinak",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8942,
+    14.04726,
+    105.8942,
+    14.04726
+],
+  "geometry": {"coordinates":[105.8942,14.04726],"type":"Point"}
+}

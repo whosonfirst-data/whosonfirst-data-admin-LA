@@ -1,0 +1,71 @@
+{
+  "id": 1309917515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.21558,20.31517,104.21558,20.31517",
+    "geom:latitude":20.31517,
+    "geom:longitude":104.21558,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Kaxeung",
+    "gn:country_code":"LA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1656745,
+    "gn:latitude":20.31517,
+    "gn:longitude":104.21558,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kaxeung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka Seung",
+        "Ban Kaxeung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656745
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4abf9e270716986a124638a4aad1c220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1309917515,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1309917515,
+    "wof:lastmodified":1537660253,
+    "wof:name":"Ban Kaxeung",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.21558,
+    20.31517,
+    104.21558,
+    20.31517
+],
+  "geometry": {"coordinates":[104.21558,20.31517],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293083871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83096,17.4968,104.83096,17.4968",
+    "geom:latitude":17.4968,
+    "geom:longitude":104.83096,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Houay Nang-Nignom",
+    "gn:country_code":"LA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11233911,
+    "gn:latitude":17.4968,
+    "gn:longitude":104.83096,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Houay Nang-Nign\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Houay Nang-Nign\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233911
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8f866871248dacf4b5e60c18425c7428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1293083871,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293083871,
+    "wof:lastmodified":1537660943,
+    "wof:name":"Houay Nang-Nignom",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83096,
+    17.4968,
+    104.83096,
+    17.4968
+],
+  "geometry": {"coordinates":[104.83096,17.4968],"type":"Point"}
+}

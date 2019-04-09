@@ -1,0 +1,73 @@
+{
+  "id": 1327399581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80376,15.74692,105.80376,15.74692",
+    "geom:latitude":15.74692,
+    "geom:longitude":105.80376,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nong-Ian",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660642,
+    "gn:latitude":15.74692,
+    "gn:longitude":105.80376,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Nong-Ian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nong-Ian"
+    ],
+    "name:und_x_variant":[
+        "Ban Nong Yen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660642
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"002b48e1d7fca65cc42130864acef868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029135,
+            "locality_id":1327399581,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1327399581,
+    "wof:lastmodified":1537660421,
+    "wof:name":"Ban Nong-Ian",
+    "wof:parent_id":1092029135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80376,
+    15.74692,
+    105.80376,
+    15.74692
+],
+  "geometry": {"coordinates":[105.80376,15.74692],"type":"Point"}
+}

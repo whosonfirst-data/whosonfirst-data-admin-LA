@@ -1,0 +1,70 @@
+{
+  "id": 1310471489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.45225,20.36472,101.45225,20.36472",
+    "geom:latitude":20.36472,
+    "geom:longitude":101.45225,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tamon",
+    "gn:country_code":"LA",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956378,
+    "gn:latitude":20.36472,
+    "gn:longitude":101.45225,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tamon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tamon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956378
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"327f4d5fe2f88730fb7de6177e529e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1310471489,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1310471489,
+    "wof:lastmodified":1537660819,
+    "wof:name":"Ban Tamon",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.45225,
+    20.36472,
+    101.45225,
+    20.36472
+],
+  "geometry": {"coordinates":[101.45225000000001,20.36472],"type":"Point"}
+}

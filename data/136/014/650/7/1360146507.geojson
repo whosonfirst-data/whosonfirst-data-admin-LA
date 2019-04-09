@@ -1,0 +1,73 @@
+{
+  "id": 1360146507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10566,16.71407,105.10566,16.71407",
+    "geom:latitude":16.71407,
+    "geom:longitude":105.10566,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Lao-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662603,
+    "gn:latitude":16.71407,
+    "gn:longitude":105.10566,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lao-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lao-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Nao Nhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662603
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3cc4846c7dd8c3011cfd4a7a7812525d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028047,
+            "locality_id":1360146507,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1360146507,
+    "wof:lastmodified":1537660531,
+    "wof:name":"Ban Lao-Gnai",
+    "wof:parent_id":1092028047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10566,
+    16.71407,
+    105.10566,
+    16.71407
+],
+  "geometry": {"coordinates":[105.10566,16.71407],"type":"Point"}
+}

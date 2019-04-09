@@ -1,0 +1,72 @@
+{
+  "id": 1209580401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56365,16.65892,105.56365,16.65892",
+    "geom:latitude":16.65892,
+    "geom:longitude":105.56365,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phalan",
+    "gn:country_code":"LA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655132,
+    "gn:latitude":16.65892,
+    "gn:longitude":105.56365,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phalan"
+    ],
+    "name:und_x_variant":[
+        "Muong Phalane",
+        "Muang Phalane",
+        "Muong Pha",
+        "Pha Lan",
+        "Pha Lane",
+        "Muang Phalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655132
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1223a65bccc2e742b284127381e292e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209580401
+        }
+    ],
+    "wof:id":1209580401,
+    "wof:lastmodified":1537660232,
+    "wof:name":"Ban Phalan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56365,
+    16.65892,
+    105.56365,
+    16.65892
+],
+  "geometry": {"coordinates":[105.56365,16.65892],"type":"Point"}
+}

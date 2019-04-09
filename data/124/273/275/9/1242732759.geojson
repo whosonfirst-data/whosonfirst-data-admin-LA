@@ -1,0 +1,67 @@
+{
+  "id": 1242732759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.61667,15.33333,107.61667,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":107.61667,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dak Lat",
+    "gn:country_code":"LA",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657639,
+    "gn:latitude":15.33333,
+    "gn:longitude":107.61667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dak Lat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632763,
+        85680757,
+        1108781777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657639
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c24d83a1396a74df3f7f04f64bc892b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632763,
+            "county_id":1108781777,
+            "locality_id":1242732759,
+            "region_id":85680757
+        }
+    ],
+    "wof:id":1242732759,
+    "wof:lastmodified":1536839393,
+    "wof:name":"Dak Lat",
+    "wof:parent_id":1108781777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.61667,
+    15.33333,
+    107.61667,
+    15.33333
+],
+  "geometry": {"coordinates":[107.61667,15.33333],"type":"Point"}
+}

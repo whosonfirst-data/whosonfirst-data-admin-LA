@@ -1,0 +1,74 @@
+{
+  "id": 1277131103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38137,18.56197,102.38137,18.56197",
+    "geom:latitude":18.56197,
+    "geom:longitude":102.38137,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Senxoum",
+    "gn:country_code":"LA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659352,
+    "gn:latitude":18.56197,
+    "gn:longitude":102.38137,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00e8nxoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nxoum"
+    ],
+    "name:und_x_variant":[
+        "Ban S\u00e8n Xoum",
+        "Ban S\u00e8ne Sum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092028631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659352
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6b3d8b9850c690fbcae2d557e2c0784e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028631,
+            "locality_id":1277131103,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1277131103,
+    "wof:lastmodified":1537660347,
+    "wof:name":"Ban Senxoum",
+    "wof:parent_id":1092028631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38137,
+    18.56197,
+    102.38137,
+    18.56197
+],
+  "geometry": {"coordinates":[102.38137,18.56197],"type":"Point"}
+}

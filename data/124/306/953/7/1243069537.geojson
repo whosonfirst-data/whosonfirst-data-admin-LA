@@ -1,0 +1,71 @@
+{
+  "id": 1243069537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.28517,20.69943,104.28517,20.69943",
+    "geom:latitude":20.69943,
+    "geom:longitude":104.28517,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Khonsi",
+    "gn:country_code":"LA",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1656336,
+    "gn:latitude":20.69943,
+    "gn:longitude":104.28517,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Khonsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khone Si",
+        "Ban Khonsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656336
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eb24fea504bc4ec37c3348654e38451a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":1243069537,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1243069537,
+    "wof:lastmodified":1537660251,
+    "wof:name":"Ban Khonsi",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.28517,
+    20.69943,
+    104.28517,
+    20.69943
+],
+  "geometry": {"coordinates":[104.28516999999999,20.69943],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293258857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51411,18.51961,102.51411,18.51961",
+    "geom:latitude":18.51961,
+    "geom:longitude":102.51411,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Thinkeo",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658526,
+    "gn:latitude":18.51961,
+    "gn:longitude":102.51411,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Think\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tin Keo",
+        "Ban Think\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658526
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b767dab9c65220f2dd758b8983c0ee61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":1293258857,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293258857,
+    "wof:lastmodified":1537660301,
+    "wof:name":"Ban Thinkeo",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51411,
+    18.51961,
+    102.51411,
+    18.51961
+],
+  "geometry": {"coordinates":[102.51411,18.51961],"type":"Point"}
+}

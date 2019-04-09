@@ -1,0 +1,76 @@
+{
+  "id": 1226667485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81394,21.06827,101.81394,21.06827",
+    "geom:latitude":21.06827,
+    "geom:longitude":101.81394,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Khouang",
+    "gn:country_code":"LA",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662981,
+    "gn:latitude":21.06827,
+    "gn:longitude":101.81394,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Khouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khouang"
+    ],
+    "name:und_x_variant":[
+        "Ban Quang",
+        "Ban Khoung",
+        "Ban Ouang",
+        "Ban Khoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092031207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662981
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a512ce90550f5824b8c9829b3c1b2376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031207,
+            "locality_id":1226667485,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1226667485,
+    "wof:lastmodified":1537660553,
+    "wof:name":"Ban Khouang",
+    "wof:parent_id":1092031207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81394,
+    21.06827,
+    101.81394,
+    21.06827
+],
+  "geometry": {"coordinates":[101.81394,21.06827],"type":"Point"}
+}

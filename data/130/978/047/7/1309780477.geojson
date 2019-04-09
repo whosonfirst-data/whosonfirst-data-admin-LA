@@ -1,0 +1,70 @@
+{
+  "id": 1309780477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55439,16.65481,106.55439,16.65481",
+    "geom:latitude":16.65481,
+    "geom:longitude":106.55439,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Hala",
+    "gn:country_code":"LA",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11236499,
+    "gn:latitude":16.65481,
+    "gn:longitude":106.55439,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Hala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Hala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236499
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"de2c14e8144aeb3aea5dd7a9a0c8d4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1309780477,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1309780477,
+    "wof:lastmodified":1537660958,
+    "wof:name":"Ban Hala",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55438999999998,
+    16.65481,
+    106.55438999999998,
+    16.65481
+],
+  "geometry": {"coordinates":[106.55438999999998,16.65481],"type":"Point"}
+}

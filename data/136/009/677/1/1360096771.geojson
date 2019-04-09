@@ -1,0 +1,73 @@
+{
+  "id": 1360096771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7795,20.44727,103.7795,20.44727",
+    "geom:latitude":20.44727,
+    "geom:longitude":103.7795,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phousouak",
+    "gn:country_code":"LA",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659745,
+    "gn:latitude":20.44727,
+    "gn:longitude":103.7795,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phousouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phousouak"
+    ],
+    "name:und_x_variant":[
+        "Ban Phou Souok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659745
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a6b9c3b6ab1d55b5597539b6288920f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1360096771,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1360096771,
+    "wof:lastmodified":1537660369,
+    "wof:name":"Ban Phousouak",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7795,
+    20.44727,
+    103.7795,
+    20.44727
+],
+  "geometry": {"coordinates":[103.7795,20.44727],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276519993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.8163,20.92697,100.8163,20.92697",
+    "geom:latitude":20.92697,
+    "geom:longitude":100.8163,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Hotmam",
+    "gn:country_code":"LA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244201,
+    "gn:latitude":20.92697,
+    "gn:longitude":100.8163,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban H\u00f4tmam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban H\u00f4tmam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244201
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"acb31fdeb7d02e1b120ef7d6f727d635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1276519993,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276519993,
+    "wof:lastmodified":1537660981,
+    "wof:name":"Ban Hotmam",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.8163,
+    20.92697,
+    100.8163,
+    20.92697
+],
+  "geometry": {"coordinates":[100.8163,20.92697],"type":"Point"}
+}

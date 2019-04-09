@@ -1,0 +1,70 @@
+{
+  "id": 1259458085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45507,15.87709,105.45507,15.87709",
+    "geom:latitude":15.87709,
+    "geom:longitude":105.45507,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nakala",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661894,
+    "gn:latitude":15.87709,
+    "gn:longitude":105.45507,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ban Nakala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661894
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5be903c52a2a4098ae49bc4f127db0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029135,
+            "locality_id":1259458085,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259458085,
+    "wof:lastmodified":1537660493,
+    "wof:name":"Ban Nakala",
+    "wof:parent_id":1092029135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45507,
+    15.87709,
+    105.45507,
+    15.87709
+],
+  "geometry": {"coordinates":[105.45507000000001,15.87709],"type":"Point"}
+}

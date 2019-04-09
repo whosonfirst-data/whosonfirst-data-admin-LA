@@ -1,0 +1,72 @@
+{
+  "id": 1326504569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04404,16.62127,106.04404,16.62127",
+    "geom:latitude":16.62127,
+    "geom:longitude":106.04404,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Saloy-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659500,
+    "gn:latitude":16.62127,
+    "gn:longitude":106.04404,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Saloy-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Saloy (1)",
+        "Ban Sa Loi",
+        "Ban Saloy-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659500
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9ac160e8cd8411c26dbe13f76db4eb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1326504569,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1326504569,
+    "wof:lastmodified":1537660355,
+    "wof:name":"Ban Saloy-Gnai",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04404,
+    16.62127000000001,
+    106.04404,
+    16.62127000000001
+],
+  "geometry": {"coordinates":[106.04404,16.62127000000001],"type":"Point"}
+}

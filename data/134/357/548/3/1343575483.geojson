@@ -1,0 +1,70 @@
+{
+  "id": 1343575483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95372,14.8223,106.95372,14.8223",
+    "geom:latitude":14.8223,
+    "geom:longitude":106.95372,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Hatxaykhao",
+    "gn:country_code":"LA",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201554,
+    "gn:latitude":14.8223,
+    "gn:longitude":106.95372,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Hatxaykhao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatxaykhao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201554
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a7c8d712724b03449cba8064ac280f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029865,
+            "locality_id":1343575483,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1343575483,
+    "wof:lastmodified":1537660869,
+    "wof:name":"Ban Hatxaykhao",
+    "wof:parent_id":1092029865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95372,
+    14.8223,
+    106.95372,
+    14.8223
+],
+  "geometry": {"coordinates":[106.95372,14.8223],"type":"Point"}
+}

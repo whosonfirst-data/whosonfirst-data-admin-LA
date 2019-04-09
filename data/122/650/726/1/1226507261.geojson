@@ -1,0 +1,72 @@
+{
+  "id": 1226507261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31429,16.18688,105.31429,16.18688",
+    "geom:latitude":16.18688,
+    "geom:longitude":105.31429,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kengdon",
+    "gn:country_code":"LA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663280,
+    "gn:latitude":16.18688,
+    "gn:longitude":105.31429,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8ngd\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kong Done",
+        "Ban K\u00e8ngd\u00f4n",
+        "Ban Keng Done"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663280
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fa531da3f933629fd9987f1cfbec07ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026707,
+            "locality_id":1226507261,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226507261,
+    "wof:lastmodified":1537660571,
+    "wof:name":"Ban Kengdon",
+    "wof:parent_id":1092026707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31429,
+    16.18688,
+    105.31429,
+    16.18688
+],
+  "geometry": {"coordinates":[105.31429,16.18688],"type":"Point"}
+}

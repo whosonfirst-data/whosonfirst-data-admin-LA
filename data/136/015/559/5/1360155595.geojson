@@ -1,0 +1,70 @@
+{
+  "id": 1360155595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96444,19.15459,103.96444,19.15459",
+    "geom:latitude":19.15459,
+    "geom:longitude":103.96444,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Poungmai",
+    "gn:country_code":"LA",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659622,
+    "gn:latitude":19.15459,
+    "gn:longitude":103.96444,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Poungmai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Poungmay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659622
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c6961ae1e4eae08d2adb05661ec35a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027549,
+            "locality_id":1360155595,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1360155595,
+    "wof:lastmodified":1537660363,
+    "wof:name":"Ban Poungmai",
+    "wof:parent_id":1092027549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96444,
+    19.15459,
+    103.96444,
+    19.15459
+],
+  "geometry": {"coordinates":[103.96444,19.15459],"type":"Point"}
+}

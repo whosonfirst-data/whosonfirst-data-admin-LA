@@ -1,0 +1,71 @@
+{
+  "id": 1343337945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38859,19.9857,102.38859,19.9857",
+    "geom:latitude":19.9857,
+    "geom:longitude":102.38859,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hailouang",
+    "gn:country_code":"LA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664234,
+    "gn:latitude":19.9857,
+    "gn:longitude":102.38859,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hailouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hai Louong",
+        "Ban Hailouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664234
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51b035c1c712aad0eda9ce3bb65aab00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":1343337945,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1343337945,
+    "wof:lastmodified":1537660633,
+    "wof:name":"Ban Hailouang",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38859,
+    19.9857,
+    102.38859,
+    19.9857
+],
+  "geometry": {"coordinates":[102.38858999999999,19.9857],"type":"Point"}
+}

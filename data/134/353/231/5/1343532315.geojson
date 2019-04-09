@@ -1,0 +1,72 @@
+{
+  "id": 1343532315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73504,19.99138,103.73504,19.99138",
+    "geom:latitude":19.99138,
+    "geom:longitude":103.73504,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Houaytek",
+    "gn:country_code":"LA",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663781,
+    "gn:latitude":19.99138,
+    "gn:longitude":103.73504,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houayt\u00e9k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Houei Lek",
+        "Ban Houayl\u00e9k",
+        "Ban Houayt\u00e9k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663781
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"add37b6ccb1f53a6235df24098a1795d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1343532315,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343532315,
+    "wof:lastmodified":1537660604,
+    "wof:name":"Ban Houaytek",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73504,
+    19.99138,
+    103.73504,
+    19.99138
+],
+  "geometry": {"coordinates":[103.73504,19.99138],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293352221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56319,16.18273,105.56319,16.18273",
+    "geom:latitude":16.18273,
+    "geom:longitude":105.56319,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Natang-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222497,
+    "gn:latitude":16.18273,
+    "gn:longitude":105.56319,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Natang-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Natang-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222497
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e26f6f4452acd6a194a532f7b3cc3ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1293352221,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293352221,
+    "wof:lastmodified":1537660898,
+    "wof:name":"Ban Natang-Tai",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56319,
+    16.18273,
+    105.56319,
+    16.18273
+],
+  "geometry": {"coordinates":[105.56319000000001,16.18273],"type":"Point"}
+}

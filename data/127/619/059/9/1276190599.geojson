@@ -1,0 +1,70 @@
+{
+  "id": 1276190599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.5618,15.98871,106.5618,15.98871",
+    "geom:latitude":15.98871,
+    "geom:longitude":106.5618,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tang-Un-Kang",
+    "gn:country_code":"LA",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199751,
+    "gn:latitude":15.98871,
+    "gn:longitude":106.5618,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Tang-Un-Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tang-Un-Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199751
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"12a28793aaa722ffac299202a6f0d72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1276190599,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1276190599,
+    "wof:lastmodified":1537660848,
+    "wof:name":"Ban Tang-Un-Kang",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.5618,
+    15.98871,
+    106.5618,
+    15.98871
+],
+  "geometry": {"coordinates":[106.56180000000001,15.98871],"type":"Point"}
+}

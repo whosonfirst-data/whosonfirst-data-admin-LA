@@ -1,0 +1,70 @@
+{
+  "id": 1277131081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6853,17.97867,101.6853,17.97867",
+    "geom:latitude":17.97867,
+    "geom:longitude":101.6853,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nanoi-Songhong",
+    "gn:country_code":"LA",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223729,
+    "gn:latitude":17.97867,
+    "gn:longitude":101.6853,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nanoi-Songhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nanoi-Songhong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092030125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223729
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2da133aee877cff74711e45e2ee81b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030125,
+            "locality_id":1277131081,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1277131081,
+    "wof:lastmodified":1537660900,
+    "wof:name":"Ban Nanoi-Songhong",
+    "wof:parent_id":1092030125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6853,
+    17.97867,
+    101.6853,
+    17.97867
+],
+  "geometry": {"coordinates":[101.6853,17.97867],"type":"Point"}
+}

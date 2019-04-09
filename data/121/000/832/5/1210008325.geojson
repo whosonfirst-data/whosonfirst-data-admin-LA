@@ -1,0 +1,70 @@
+{
+  "id": 1210008325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.1072,20.4965,102.1072,20.4965",
+    "geom:latitude":20.4965,
+    "geom:longitude":102.1072,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Pounglen",
+    "gn:country_code":"LA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954831,
+    "gn:latitude":20.4965,
+    "gn:longitude":102.1072,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Poungl\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poungl\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954831
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a388b20ba0638fcb3dffe584ee07e172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1210008325,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1210008325,
+    "wof:lastmodified":1537660778,
+    "wof:name":"Ban Pounglen",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.1072,
+    20.4965,
+    102.1072,
+    20.4965
+],
+  "geometry": {"coordinates":[102.10720000000001,20.4965],"type":"Point"}
+}

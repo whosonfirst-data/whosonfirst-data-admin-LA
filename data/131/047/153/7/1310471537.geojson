@@ -1,0 +1,71 @@
+{
+  "id": 1310471537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6,21.05,101.6,21.05",
+    "geom:latitude":21.05,
+    "geom:longitude":101.6,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Ay-On",
+    "gn:country_code":"LA",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664964,
+    "gn:latitude":21.05,
+    "gn:longitude":101.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Ay-On",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ai One",
+        "Ban Ay-On"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664964
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e6e2e7185ba77371149a3f4f9305fe43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1310471537,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1310471537,
+    "wof:lastmodified":1537660677,
+    "wof:name":"Ban Ay-On",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6,
+    21.05,
+    101.6,
+    21.05
+],
+  "geometry": {"coordinates":[101.59999999999999,21.05],"type":"Point"}
+}

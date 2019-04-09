@@ -1,0 +1,73 @@
+{
+  "id": 1309806935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07585,15.22994,106.07585,15.22994",
+    "geom:latitude":15.22994,
+    "geom:longitude":106.07585,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khot-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662908,
+    "gn:latitude":15.22994,
+    "gn:longitude":106.07585,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kh\u00f4t-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4t-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Khot Nhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662908
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7416f37218c2f6b23563596b972fd5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028479,
+            "locality_id":1309806935,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1309806935,
+    "wof:lastmodified":1537660548,
+    "wof:name":"Ban Khot-Gnai",
+    "wof:parent_id":1092028479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07585,
+    15.22994,
+    106.07585,
+    15.22994
+],
+  "geometry": {"coordinates":[106.07585,15.22994],"type":"Point"}
+}

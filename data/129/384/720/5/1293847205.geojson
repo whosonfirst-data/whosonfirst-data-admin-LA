@@ -1,0 +1,70 @@
+{
+  "id": 1293847205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.69957,21.94594,101.69957,21.94594",
+    "geom:latitude":21.94594,
+    "geom:longitude":101.69957,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Ngithang",
+    "gn:country_code":"LA",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955233,
+    "gn:latitude":21.94594,
+    "gn:longitude":101.69957,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Ngithang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ngithang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955233
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f44079e89b4291af5e8dadf0421c4790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1293847205,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293847205,
+    "wof:lastmodified":1537660791,
+    "wof:name":"Ban Ngithang",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.69957,
+    21.94594,
+    101.69957,
+    21.94594
+],
+  "geometry": {"coordinates":[101.69956999999999,21.94594],"type":"Point"}
+}

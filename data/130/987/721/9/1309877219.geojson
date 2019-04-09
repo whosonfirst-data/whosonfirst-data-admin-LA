@@ -1,0 +1,70 @@
+{
+  "id": 1309877219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6065,20.21421,102.6065,20.21421",
+    "geom:latitude":20.21421,
+    "geom:longitude":102.6065,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Chek-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956489,
+    "gn:latitude":20.21421,
+    "gn:longitude":102.6065,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Ch\u00e8k-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ch\u00e8k-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956489
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d632a245a8105ae9b63ca396b86ea40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1309877219,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309877219,
+    "wof:lastmodified":1537660822,
+    "wof:name":"Ban Chek-Nua",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6065,
+    20.21421,
+    102.6065,
+    20.21421
+],
+  "geometry": {"coordinates":[102.6065,20.21421],"type":"Point"}
+}

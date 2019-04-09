@@ -1,0 +1,70 @@
+{
+  "id": 1310567619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34347,21.08671,102.34347,21.08671",
+    "geom:latitude":21.08671,
+    "geom:longitude":102.34347,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hatxeuy",
+    "gn:country_code":"LA",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955002,
+    "gn:latitude":21.08671,
+    "gn:longitude":102.34347,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Hatxeuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatxeuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955002
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a7b7ddb6540d379fc09d1e24ad66924c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1310567619,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310567619,
+    "wof:lastmodified":1537660785,
+    "wof:name":"Ban Hatxeuy",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34347,
+    21.08671,
+    102.34347,
+    21.08671
+],
+  "geometry": {"coordinates":[102.34347,21.08671],"type":"Point"}
+}

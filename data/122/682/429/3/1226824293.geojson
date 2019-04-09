@@ -1,0 +1,71 @@
+{
+  "id": 1226824293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90962,15.7127,105.90962,15.7127",
+    "geom:latitude":15.7127,
+    "geom:longitude":105.90962,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Donkhaomin",
+    "gn:country_code":"LA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664413,
+    "gn:latitude":15.7127,
+    "gn:longitude":105.90962,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Donkhaomin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Done Khao Min",
+        "Ban Donkhaomin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664413
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1a374e1abf71e69a6a5cba1b0e86fa8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029441,
+            "locality_id":1226824293,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226824293,
+    "wof:lastmodified":1537660645,
+    "wof:name":"Ban Donkhaomin",
+    "wof:parent_id":1092029441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90962,
+    15.7127,
+    105.90962,
+    15.7127
+],
+  "geometry": {"coordinates":[105.90962,15.7127],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226610107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74272,15.99438,105.74272,15.99438",
+    "geom:latitude":15.99438,
+    "geom:longitude":105.74272,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nonchan",
+    "gn:country_code":"LA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660897,
+    "gn:latitude":15.99438,
+    "gn:longitude":105.74272,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban N\u00f4nchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban None Tiane",
+        "Ban N\u00f4nchan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660897
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6d339525bafe3906eda1fa4aa52cd827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1226610107,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226610107,
+    "wof:lastmodified":1537660436,
+    "wof:name":"Ban Nonchan",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74272,
+    15.99438,
+    105.74272,
+    15.99438
+],
+  "geometry": {"coordinates":[105.74272000000001,15.99438],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292987383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.51667,18.4,101.51667,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":101.51667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Muang Xaignaphoum",
+    "gn:country_code":"LA",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655083,
+    "gn:latitude":18.4,
+    "gn:longitude":101.51667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Muang Xaignaphoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092028273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655083
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3429f98732983b6ab752d6a95ebc8990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028273,
+            "locality_id":1292987383,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1292987383,
+    "wof:lastmodified":1537010331,
+    "wof:name":"Muang Xaignaphoum",
+    "wof:parent_id":1092028273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.51667,
+    18.4,
+    101.51667,
+    18.4
+],
+  "geometry": {"coordinates":[101.51667,18.4],"type":"Point"}
+}

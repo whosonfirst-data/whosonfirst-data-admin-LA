@@ -1,0 +1,72 @@
+{
+  "id": 1360132261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85,18.83333,101.85,18.83333",
+    "geom:latitude":18.83333,
+    "geom:longitude":101.85,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Kok Teven",
+    "gn:country_code":"LA",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662796,
+    "gn:latitude":18.83333,
+    "gn:longitude":101.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Kok Teven",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Rok Teven",
+        "Kok Teven",
+        "Ban Kok Teven"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662796
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b44c9dd2c39127b339a584c489c90cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027449,
+            "locality_id":1360132261,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1360132261,
+    "wof:lastmodified":1537660542,
+    "wof:name":"Ban Kok Teven",
+    "wof:parent_id":1092027449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85,
+    18.83333,
+    101.85,
+    18.83333
+],
+  "geometry": {"coordinates":[101.84999999999999,18.83333],"type":"Point"}
+}

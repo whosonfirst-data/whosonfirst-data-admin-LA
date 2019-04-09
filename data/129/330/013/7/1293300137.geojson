@@ -1,0 +1,71 @@
+{
+  "id": 1293300137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.26906,20.41931,104.26906,20.41931",
+    "geom:latitude":20.41931,
+    "geom:longitude":104.26906,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Peum",
+    "gn:country_code":"LA",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660325,
+    "gn:latitude":20.41931,
+    "gn:longitude":104.26906,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Peum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Peume",
+        "Ban Peum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660325
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5f7210ed39a1d6231f50736d530bbe0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1293300137,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293300137,
+    "wof:lastmodified":1537660400,
+    "wof:name":"Ban Peum",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.26906,
+    20.41931,
+    104.26906,
+    20.41931
+],
+  "geometry": {"coordinates":[104.26906,20.41931],"type":"Point"}
+}

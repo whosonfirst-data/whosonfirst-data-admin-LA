@@ -1,0 +1,65 @@
+{
+  "id": 1209379667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19514,16.5869,105.19514,16.5869",
+    "geom:latitude":16.5869,
+    "geom:longitude":105.19514,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phondok",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659973,
+    "gn:latitude":16.5869,
+    "gn:longitude":105.19514,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ph\u00f4nd\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Phone Dok",
+        "Ban Ph\u00f4nd\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659973
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0f38a173dcd7e8a186b02c4e229e9104",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209379667
+        }
+    ],
+    "wof:id":1209379667,
+    "wof:lastmodified":1537660382,
+    "wof:name":"Ban Phondok",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19514,
+    16.5869,
+    105.19514,
+    16.5869
+],
+  "geometry": {"coordinates":[105.19513999999999,16.5869],"type":"Point"}
+}

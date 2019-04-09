@@ -1,0 +1,73 @@
+{
+  "id": 1243229403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.74192,16.26594,106.74192,16.26594",
+    "geom:latitude":16.26594,
+    "geom:longitude":106.74192,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Chou-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665055,
+    "gn:latitude":16.26594,
+    "gn:longitude":106.74192,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Chou-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chou-Tai"
+    ],
+    "name:und_x_variant":[
+        "A Tio (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665055
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0def97f7688805b609fd17882b3691c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1243229403,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243229403,
+    "wof:lastmodified":1537660681,
+    "wof:name":"Ban Chou-Tai",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.74192,
+    16.26594,
+    106.74192,
+    16.26594
+],
+  "geometry": {"coordinates":[106.74191999999999,16.26594],"type":"Point"}
+}

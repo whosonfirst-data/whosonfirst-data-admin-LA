@@ -1,0 +1,70 @@
+{
+  "id": 1360079673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.01052,19.86294,101.01052,19.86294",
+    "geom:latitude":19.86294,
+    "geom:longitude":101.01052,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokkho",
+    "gn:country_code":"LA",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953309,
+    "gn:latitude":19.86294,
+    "gn:longitude":101.01052,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban M\u00f4kkh\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kkh\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092028245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953309
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"34b0b0756ec2f3a7bd5dda79e25dc2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028245,
+            "locality_id":1360079673,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1360079673,
+    "wof:lastmodified":1537660737,
+    "wof:name":"Ban Mokkho",
+    "wof:parent_id":1092028245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.01052,
+    19.86294,
+    101.01052,
+    19.86294
+],
+  "geometry": {"coordinates":[101.01052,19.86294],"type":"Point"}
+}

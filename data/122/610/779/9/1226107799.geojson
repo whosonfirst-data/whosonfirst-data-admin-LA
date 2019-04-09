@@ -1,0 +1,70 @@
+{
+  "id": 1226107799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.14591,16.1117,106.14591,16.1117",
+    "geom:latitude":16.1117,
+    "geom:longitude":106.14591,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Kamep-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236644,
+    "gn:latitude":16.1117,
+    "gn:longitude":106.14591,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kam\u00e8p-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kam\u00e8p-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236644
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0e01106ba69d8da97343609a16208931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1226107799,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226107799,
+    "wof:lastmodified":1537660963,
+    "wof:name":"Ban Kamep-Nua",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14591,
+    16.1117,
+    106.14591,
+    16.1117
+],
+  "geometry": {"coordinates":[106.14591,16.1117],"type":"Point"}
+}

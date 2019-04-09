@@ -1,0 +1,70 @@
+{
+  "id": 1310172637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.97925,15.74331,106.97925,15.74331",
+    "geom:latitude":15.74331,
+    "geom:longitude":106.97925,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Talong",
+    "gn:country_code":"LA",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199827,
+    "gn:latitude":15.74331,
+    "gn:longitude":106.97925,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Tal\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tal\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199827
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"12ab74b1d7e8febc0657ad022f025767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1310172637,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1310172637,
+    "wof:lastmodified":1537660850,
+    "wof:name":"Ban Talong",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.97925,
+    15.74331,
+    106.97925,
+    15.74331
+],
+  "geometry": {"coordinates":[106.97924999999999,15.74331],"type":"Point"}
+}

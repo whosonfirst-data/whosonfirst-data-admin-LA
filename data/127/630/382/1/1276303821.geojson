@@ -1,0 +1,70 @@
+{
+  "id": 1276303821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34103,20.67009,102.34103,20.67009",
+    "geom:latitude":20.67009,
+    "geom:longitude":102.34103,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senkhan-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954741,
+    "gn:latitude":20.67009,
+    "gn:longitude":102.34103,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00e8nkhan-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nkhan-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954741
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cdb576a03893d0a6c16bb649bc6f0c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1276303821,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276303821,
+    "wof:lastmodified":1537660775,
+    "wof:name":"Ban Senkhan-Nua",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34103,
+    20.67009,
+    102.34103,
+    20.67009
+],
+  "geometry": {"coordinates":[102.34103,20.67009],"type":"Point"}
+}

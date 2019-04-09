@@ -1,0 +1,70 @@
+{
+  "id": 1242839987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61968,15.85627,106.61968,15.85627",
+    "geom:latitude":15.85627,
+    "geom:longitude":106.61968,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Chakay",
+    "gn:country_code":"LA",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664769,
+    "gn:latitude":15.85627,
+    "gn:longitude":106.61968,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Chakay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Chakay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664769
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"22e958742ae8b36264d6f9bb857de786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1242839987,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242839987,
+    "wof:lastmodified":1537660666,
+    "wof:name":"Ban Chakay",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61968,
+    15.85627,
+    106.61968,
+    15.85627
+],
+  "geometry": {"coordinates":[106.61968,15.85627],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226404867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22652,15.49333,106.22652,15.49333",
+    "geom:latitude":15.49333,
+    "geom:longitude":106.22652,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Phonouan",
+    "gn:country_code":"LA",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659905,
+    "gn:latitude":15.49333,
+    "gn:longitude":106.22652,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phonouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phonouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659905
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"56af0ef71b89f323f2d9a6f296575c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1226404867,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226404867,
+    "wof:lastmodified":1537660377,
+    "wof:name":"Ban Phonouan",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22652,
+    15.49333,
+    106.22652,
+    15.49333
+],
+  "geometry": {"coordinates":[106.22651999999999,15.49333],"type":"Point"}
+}

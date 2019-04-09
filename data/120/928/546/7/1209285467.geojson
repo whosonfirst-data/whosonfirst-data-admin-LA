@@ -1,0 +1,65 @@
+{
+  "id": 1209285467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88713,19.56405,103.88713,19.56405",
+    "geom:latitude":19.56405,
+    "geom:longitude":103.88713,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Tinphaling",
+    "gn:country_code":"LA",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658420,
+    "gn:latitude":19.56405,
+    "gn:longitude":103.88713,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tinphaling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tinphal\u00e9n",
+        "Ban Tinphaling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658420
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7a522ee143c494e03acc28c2e17b95ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209285467
+        }
+    ],
+    "wof:id":1209285467,
+    "wof:lastmodified":1537660294,
+    "wof:name":"Ban Tinphaling",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88713,
+    19.56405,
+    103.88713,
+    19.56405
+],
+  "geometry": {"coordinates":[103.88713,19.56405],"type":"Point"}
+}

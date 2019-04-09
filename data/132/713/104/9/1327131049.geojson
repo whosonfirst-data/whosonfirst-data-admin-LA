@@ -1,0 +1,70 @@
+{
+  "id": 1327131049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81571,21.08342,101.81571,21.08342",
+    "geom:latitude":21.08342,
+    "geom:longitude":101.81571,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Gniakha",
+    "gn:country_code":"LA",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664284,
+    "gn:latitude":21.08342,
+    "gn:longitude":101.81571,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Gniakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Gniakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092031207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664284
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ada641ffe96847c76f4c7cbd9f49400a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031207,
+            "locality_id":1327131049,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1327131049,
+    "wof:lastmodified":1537660636,
+    "wof:name":"Ban Gniakha",
+    "wof:parent_id":1092031207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81571,
+    21.08342,
+    101.81571,
+    21.08342
+],
+  "geometry": {"coordinates":[101.81571,21.08342],"type":"Point"}
+}

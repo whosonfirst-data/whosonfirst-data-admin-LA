@@ -1,0 +1,71 @@
+{
+  "id": 1327207767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.73373,19.47113,103.73373,19.47113",
+    "geom:latitude":19.47113,
+    "geom:longitude":103.73373,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Houaygni",
+    "gn:country_code":"LA",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663916,
+    "gn:latitude":19.47113,
+    "gn:longitude":103.73373,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houaygni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Houei Nhi",
+        "Ban Houaygni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663916
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"818000a1a64a2e594352bc1ee8da17c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1327207767,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1327207767,
+    "wof:lastmodified":1537660614,
+    "wof:name":"Ban Houaygni",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.73373,
+    19.47113,
+    103.73373,
+    19.47113
+],
+  "geometry": {"coordinates":[103.73372999999999,19.47113],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327208351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77705,16.00934,105.77705,16.00934",
+    "geom:latitude":16.00934,
+    "geom:longitude":105.77705,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nahouakhoay",
+    "gn:country_code":"LA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661926,
+    "gn:latitude":16.00934,
+    "gn:longitude":105.77705,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nahouakhoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Houa Khouai",
+        "Ban Nahouakhoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661926
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ad5e82fafd0e3f83a6e406a89b327945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1327208351,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1327208351,
+    "wof:lastmodified":1537660495,
+    "wof:name":"Ban Nahouakhoay",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77705,
+    16.00934,
+    105.77705,
+    16.00934
+],
+  "geometry": {"coordinates":[105.77705,16.00934],"type":"Point"}
+}

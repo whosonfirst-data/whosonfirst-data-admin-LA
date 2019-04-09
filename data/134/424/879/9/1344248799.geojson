@@ -1,0 +1,70 @@
+{
+  "id": 1344248799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23446,20.12138,101.23446,20.12138",
+    "geom:latitude":20.12138,
+    "geom:longitude":101.23446,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Kangmuang",
+    "gn:country_code":"LA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953037,
+    "gn:latitude":20.12138,
+    "gn:longitude":101.23446,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Kangmuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kangmuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953037
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3f45087c3ca84e52e66b80f0fd6a5ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1344248799,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1344248799,
+    "wof:lastmodified":1537660729,
+    "wof:name":"Ban Kangmuang",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23446,
+    20.12138,
+    101.23446,
+    20.12138
+],
+  "geometry": {"coordinates":[101.23446,20.12138],"type":"Point"}
+}

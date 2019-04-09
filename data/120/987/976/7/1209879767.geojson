@@ -1,0 +1,70 @@
+{
+  "id": 1209879767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29197,19.57634,102.29197,19.57634",
+    "geom:latitude":19.57634,
+    "geom:longitude":102.29197,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phokang",
+    "gn:country_code":"LA",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660026,
+    "gn:latitude":19.57634,
+    "gn:longitude":102.29197,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phokang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phokang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660026
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f970fcf34a0b6a61374e437c8c44b8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1209879767,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1209879767,
+    "wof:lastmodified":1537660384,
+    "wof:name":"Ban Phokang",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29197,
+    19.57634,
+    102.29197,
+    19.57634
+],
+  "geometry": {"coordinates":[102.29197000000001,19.57634],"type":"Point"}
+}

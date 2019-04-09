@@ -1,0 +1,64 @@
+{
+  "id": 1209027817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81221,20.55501,101.81221,20.55501",
+    "geom:latitude":20.55501,
+    "geom:longitude":101.81221,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Namtout",
+    "gn:country_code":"LA",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953728,
+    "gn:latitude":20.55501,
+    "gn:longitude":101.81221,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namtout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namtout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953728
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"97b1e6be6edef7bce37e0ce669ba0b5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209027817
+        }
+    ],
+    "wof:id":1209027817,
+    "wof:lastmodified":1537660749,
+    "wof:name":"Ban Namtout",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81221,
+    20.55501,
+    101.81221,
+    20.55501
+],
+  "geometry": {"coordinates":[101.81220999999999,20.55501],"type":"Point"}
+}

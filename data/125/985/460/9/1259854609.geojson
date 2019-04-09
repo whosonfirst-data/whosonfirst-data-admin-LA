@@ -1,0 +1,71 @@
+{
+  "id": 1259854609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1728,15.66827,106.1728,15.66827",
+    "geom:latitude":15.66827,
+    "geom:longitude":106.1728,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Naphanouan",
+    "gn:country_code":"LA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661272,
+    "gn:latitude":15.66827,
+    "gn:longitude":106.1728,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Naphanouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Phanouane",
+        "Ban Naphanouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661272
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"52c35afa863dcd9eaf338e4f082b2115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028911,
+            "locality_id":1259854609,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259854609,
+    "wof:lastmodified":1537660458,
+    "wof:name":"Ban Naphanouan",
+    "wof:parent_id":1092028911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1728,
+    15.66827,
+    106.1728,
+    15.66827
+],
+  "geometry": {"coordinates":[106.1728,15.66827],"type":"Point"}
+}

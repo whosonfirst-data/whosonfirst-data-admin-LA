@@ -1,0 +1,73 @@
+{
+  "id": 1360241301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51079,20.53876,100.51079,20.53876",
+    "geom:latitude":20.53876,
+    "geom:longitude":100.51079,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Panpoboung",
+    "gn:country_code":"LA",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660385,
+    "gn:latitude":20.53876,
+    "gn:longitude":100.51079,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Panpoboung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Panpoboung"
+    ],
+    "name:und_x_variant":[
+        "Pang Po Boung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660385
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8203430acd6015d73476f78ff65046e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1360241301,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1360241301,
+    "wof:lastmodified":1537660404,
+    "wof:name":"Ban Panpoboung",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51079,
+    20.53876,
+    100.51079,
+    20.53876
+],
+  "geometry": {"coordinates":[100.51079,20.53876],"type":"Point"}
+}

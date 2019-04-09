@@ -1,0 +1,70 @@
+{
+  "id": 1242939419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21256,21.24452,102.21256,21.24452",
+    "geom:latitude":21.24452,
+    "geom:longitude":102.21256,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phiacheu",
+    "gn:country_code":"LA",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954933,
+    "gn:latitude":21.24452,
+    "gn:longitude":102.21256,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phiacheu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phiacheu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954933
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e262502c2692952f44b8cb8a7c4554cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1242939419,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242939419,
+    "wof:lastmodified":1537660782,
+    "wof:name":"Ban Phiacheu",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21256,
+    21.24452,
+    102.21256,
+    21.24452
+],
+  "geometry": {"coordinates":[102.21256,21.24452],"type":"Point"}
+}

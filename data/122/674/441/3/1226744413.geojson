@@ -1,0 +1,70 @@
+{
+  "id": 1226744413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8813,20.5897,101.8813,20.5897",
+    "geom:latitude":20.5897,
+    "geom:longitude":101.8813,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mongsapo",
+    "gn:country_code":"LA",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953693,
+    "gn:latitude":20.5897,
+    "gn:longitude":101.8813,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4ngsap\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4ngsap\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953693
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c56c39a439fdbc8aa6d705f297c42596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1226744413,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1226744413,
+    "wof:lastmodified":1537660748,
+    "wof:name":"Ban Mongsapo",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8813,
+    20.5897,
+    101.8813,
+    20.5897
+],
+  "geometry": {"coordinates":[101.8813,20.5897],"type":"Point"}
+}

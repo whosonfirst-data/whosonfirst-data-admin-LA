@@ -1,0 +1,72 @@
+{
+  "id": 1344268617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.20336,20.18605,103.20336,20.18605",
+    "geom:latitude":20.18605,
+    "geom:longitude":103.20336,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Sakok",
+    "gn:country_code":"LA",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655113,
+    "gn:latitude":20.18605,
+    "gn:longitude":103.20336,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Sak\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Sakok",
+        "Muong Sakok",
+        "Ban Sak\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655113
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e0be7395fe5317def82d11bafa22bf54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1344268617,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1344268617,
+    "wof:lastmodified":1537660230,
+    "wof:name":"Ban Sakok",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.20336,
+    20.18605,
+    103.20336,
+    20.18605
+],
+  "geometry": {"coordinates":[103.20336,20.18605],"type":"Point"}
+}

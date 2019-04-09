@@ -1,0 +1,70 @@
+{
+  "id": 1243155007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41058,17.74056,104.41058,17.74056",
+    "geom:latitude":17.74056,
+    "geom:longitude":104.41058,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Houaykhiao",
+    "gn:country_code":"LA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663827,
+    "gn:latitude":17.74056,
+    "gn:longitude":104.41058,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houaykhiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaykhiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663827
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2954ede9bba91404b8ba9db6a1883991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1243155007,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1243155007,
+    "wof:lastmodified":1537660607,
+    "wof:name":"Ban Houaykhiao",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41058,
+    17.74056000000001,
+    104.41058,
+    17.74056000000001
+],
+  "geometry": {"coordinates":[104.41058,17.74056000000001],"type":"Point"}
+}

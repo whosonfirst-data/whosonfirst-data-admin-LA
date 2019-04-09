@@ -1,0 +1,71 @@
+{
+  "id": 1259596081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7974,14.61098,105.7974,14.61098",
+    "geom:latitude":14.61098,
+    "geom:longitude":105.7974,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Vangxeungheup",
+    "gn:country_code":"LA",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658211,
+    "gn:latitude":14.61098,
+    "gn:longitude":105.7974,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Vangxeungheup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Vang Seung Heup",
+        "Ban Vangxeungheup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658211
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fa4c4895e7d713a8a0c0b7a22d6103a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1259596081,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1259596081,
+    "wof:lastmodified":1537660282,
+    "wof:name":"Ban Vangxeungheup",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7974,
+    14.61098,
+    105.7974,
+    14.61098
+],
+  "geometry": {"coordinates":[105.7974,14.61098],"type":"Point"}
+}

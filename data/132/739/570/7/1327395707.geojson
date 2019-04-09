@@ -1,0 +1,70 @@
+{
+  "id": 1327395707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90409,16.52661,105.90409,16.52661",
+    "geom:latitude":16.52661,
+    "geom:longitude":105.90409,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tamoup",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658918,
+    "gn:latitude":16.52661,
+    "gn:longitude":105.90409,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tamoup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tamoup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658918
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"70763ed752edde60f4e9e362283e348f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1327395707,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1327395707,
+    "wof:lastmodified":1537660323,
+    "wof:name":"Ban Tamoup",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90409,
+    16.52661,
+    105.90409,
+    16.52661
+],
+  "geometry": {"coordinates":[105.90409,16.52661],"type":"Point"}
+}

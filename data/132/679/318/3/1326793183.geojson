@@ -1,0 +1,71 @@
+{
+  "id": 1326793183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.29522,15.74083,106.29522,15.74083",
+    "geom:latitude":15.74083,
+    "geom:longitude":106.29522,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Kengpo",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663211,
+    "gn:latitude":15.74083,
+    "gn:longitude":106.29522,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban K\u00e8ngpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tong Keng Po",
+        "Ban K\u00e8ngpo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663211
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dfd3a11a82a5e58fba7787a27bc50a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028911,
+            "locality_id":1326793183,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1326793183,
+    "wof:lastmodified":1537660566,
+    "wof:name":"Ban Kengpo",
+    "wof:parent_id":1092028911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.29522,
+    15.74083,
+    106.29522,
+    15.74083
+],
+  "geometry": {"coordinates":[106.29522,15.74083],"type":"Point"}
+}

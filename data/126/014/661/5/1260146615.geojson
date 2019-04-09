@@ -1,0 +1,70 @@
+{
+  "id": 1260146615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11392,21.28718,102.11392,21.28718",
+    "geom:latitude":21.28718,
+    "geom:longitude":102.11392,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khonnammou",
+    "gn:country_code":"LA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954889,
+    "gn:latitude":21.28718,
+    "gn:longitude":102.11392,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Khonnammou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khonnammou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954889
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"acde431eb90a153b5e074f6914495c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1260146615,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1260146615,
+    "wof:lastmodified":1537660780,
+    "wof:name":"Ban Khonnammou",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11392,
+    21.28718,
+    102.11392,
+    21.28718
+],
+  "geometry": {"coordinates":[102.11391999999999,21.28718],"type":"Point"}
+}

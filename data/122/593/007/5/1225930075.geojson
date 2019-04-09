@@ -1,0 +1,71 @@
+{
+  "id": 1225930075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.15829,18.35605,101.15829,18.35605",
+    "geom:latitude":18.35605,
+    "geom:longitude":101.15829,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nafay",
+    "gn:country_code":"LA",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662023,
+    "gn:latitude":18.35605,
+    "gn:longitude":101.15829,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Nafay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Fai",
+        "Ban Nafay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662023
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bb16b269beb68f005aac508607acd31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030537,
+            "locality_id":1225930075,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1225930075,
+    "wof:lastmodified":1537660500,
+    "wof:name":"Ban Nafay",
+    "wof:parent_id":1092030537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.15829,
+    18.35605,
+    101.15829,
+    18.35605
+],
+  "geometry": {"coordinates":[101.15828999999999,18.35605],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277145583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.41667,18.48333,104.41667,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":104.41667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Pamak",
+    "gn:country_code":"LA",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660404,
+    "gn:latitude":18.48333,
+    "gn:longitude":104.41667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ban Pamak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092029605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660404
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"26fbef60151146aba4f2e09dc6504f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029605,
+            "locality_id":1277145583,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1277145583,
+    "wof:lastmodified":1536677147,
+    "wof:name":"Ban Pamak",
+    "wof:parent_id":1092029605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.41667,
+    18.48333,
+    104.41667,
+    18.48333
+],
+  "geometry": {"coordinates":[104.41667,18.48333],"type":"Point"}
+}

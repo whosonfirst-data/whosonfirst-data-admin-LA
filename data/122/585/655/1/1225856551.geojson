@@ -1,0 +1,67 @@
+{
+  "id": 1225856551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05,20.38333,104.05,20.38333",
+    "geom:latitude":20.38333,
+    "geom:longitude":104.05,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pom Luong",
+    "gn:country_code":"LA",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659682,
+    "gn:latitude":20.38333,
+    "gn:longitude":104.05,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Pom Luong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659682
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a6607ac836e7eca5bb8ac79febec2328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1225856551,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1225856551,
+    "wof:lastmodified":1536997286,
+    "wof:name":"Ban Pom Luong",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05,
+    20.38333,
+    104.05,
+    20.38333
+],
+  "geometry": {"coordinates":[104.05,20.38333],"type":"Point"}
+}

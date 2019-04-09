@@ -1,0 +1,70 @@
+{
+  "id": 1343424199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.8164,22.2568,101.8164,22.2568",
+    "geom:latitude":22.2568,
+    "geom:longitude":101.8164,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Botay",
+    "gn:country_code":"LA",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664871,
+    "gn:latitude":22.2568,
+    "gn:longitude":101.8164,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Botay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Botay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664871
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a3b1c4d09c381e461047a861fcbe4f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1343424199,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1343424199,
+    "wof:lastmodified":1537660672,
+    "wof:name":"Ban Botay",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.8164,
+    22.2568,
+    101.8164,
+    22.2568
+],
+  "geometry": {"coordinates":[101.8164,22.2568],"type":"Point"}
+}

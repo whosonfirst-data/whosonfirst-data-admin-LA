@@ -1,0 +1,64 @@
+{
+  "id": 1209187941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11142,19.30649,103.11142,19.30649",
+    "geom:latitude":19.30649,
+    "geom:longitude":103.11142,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Thang",
+    "gn:country_code":"LA",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658644,
+    "gn:latitude":19.30649,
+    "gn:longitude":103.11142,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658644
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0941980387bdc7d76f5113a610b371f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209187941
+        }
+    ],
+    "wof:id":1209187941,
+    "wof:lastmodified":1537660307,
+    "wof:name":"Ban Thang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11142,
+    19.30649,
+    103.11142,
+    19.30649
+],
+  "geometry": {"coordinates":[103.11142,19.30649],"type":"Point"}
+}

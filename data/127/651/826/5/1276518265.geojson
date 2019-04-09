@@ -1,0 +1,71 @@
+{
+  "id": 1276518265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83649,19.54797,102.83649,19.54797",
+    "geom:latitude":19.54797,
+    "geom:longitude":102.83649,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Vangkham",
+    "gn:country_code":"LA",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658288,
+    "gn:latitude":19.54797,
+    "gn:longitude":102.83649,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Van Cam",
+        "Ban Vangkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658288
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a61e797b17128870276a903f001b23e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1276518265,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1276518265,
+    "wof:lastmodified":1537660286,
+    "wof:name":"Ban Vangkham",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83649,
+    19.54797,
+    102.83649,
+    19.54797
+],
+  "geometry": {"coordinates":[102.83649,19.54797],"type":"Point"}
+}

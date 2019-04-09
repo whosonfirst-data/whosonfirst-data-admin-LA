@@ -1,0 +1,74 @@
+{
+  "id": 1310563801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.92608,16.21067,106.92608,16.21067",
+    "geom:latitude":16.21067,
+    "geom:longitude":106.92608,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Pahai",
+    "gn:country_code":"LA",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654446,
+    "gn:latitude":16.21067,
+    "gn:longitude":106.92608,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Pahai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pahai"
+    ],
+    "name:und_x_variant":[
+        "Pe Hai",
+        "Pahai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654446
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"abda2a228a723e846e232aebff40c3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1310563801,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1310563801,
+    "wof:lastmodified":1537660218,
+    "wof:name":"Ban Pahai",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.92608,
+    16.21067,
+    106.92608,
+    16.21067
+],
+  "geometry": {"coordinates":[106.92608,16.21067],"type":"Point"}
+}

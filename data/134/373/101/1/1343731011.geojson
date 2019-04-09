@@ -1,0 +1,70 @@
+{
+  "id": 1343731011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57028,20.50458,100.57028,20.50458",
+    "geom:latitude":20.50458,
+    "geom:longitude":100.57028,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Tongpot",
+    "gn:country_code":"LA",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956252,
+    "gn:latitude":20.50458,
+    "gn:longitude":100.57028,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban T\u00f4ngpot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4ngpot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956252
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d06c61da568297f3c6198278688d57ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1343731011,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1343731011,
+    "wof:lastmodified":1537660816,
+    "wof:name":"Ban Tongpot",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57028,
+    20.50458,
+    100.57028,
+    20.50458
+],
+  "geometry": {"coordinates":[100.57028,20.50458],"type":"Point"}
+}

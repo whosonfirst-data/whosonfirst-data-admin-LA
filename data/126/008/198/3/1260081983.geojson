@@ -1,0 +1,72 @@
+{
+  "id": 1260081983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.32585,20.48581,104.32585,20.48581",
+    "geom:latitude":20.48581,
+    "geom:longitude":104.32585,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Vangxeng",
+    "gn:country_code":"LA",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652279,
+    "gn:latitude":20.48581,
+    "gn:longitude":104.32585,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Vangx\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vang X\u00e8ng",
+        "Ban Xeng",
+        "Ban Vangx\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652279
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cae80dbf57c8647445d1866c505b3f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1260081983,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1260081983,
+    "wof:lastmodified":1537660193,
+    "wof:name":"Ban Vangxeng",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.32585,
+    20.48581,
+    104.32585,
+    20.48581
+],
+  "geometry": {"coordinates":[104.32585,20.48581],"type":"Point"}
+}

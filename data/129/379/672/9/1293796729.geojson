@@ -1,0 +1,70 @@
+{
+  "id": 1293796729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74183,14.62206,105.74183,14.62206",
+    "geom:latitude":14.62206,
+    "geom:longitude":105.74183,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Naphaktop",
+    "gn:country_code":"LA",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202142,
+    "gn:latitude":14.62206,
+    "gn:longitude":105.74183,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Naphakt\u00f4p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naphakt\u00f4p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202142
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"14c6ceb5e6305d5e6e368fd3ce202ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1293796729,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293796729,
+    "wof:lastmodified":1537660870,
+    "wof:name":"Ban Naphaktop",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74183,
+    14.62206,
+    105.74183,
+    14.62206
+],
+  "geometry": {"coordinates":[105.74182999999999,14.62206],"type":"Point"}
+}

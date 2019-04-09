@@ -1,0 +1,72 @@
+{
+  "id": 1243158499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.37633,17.68987,101.37633,17.68987",
+    "geom:latitude":17.68987,
+    "geom:longitude":101.37633,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Muangmo",
+    "gn:country_code":"LA",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662168,
+    "gn:latitude":17.68987,
+    "gn:longitude":101.37633,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Muangmo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Mo",
+        "Ban Moung Mo",
+        "Ban Muangmo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662168
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5c49cfd35910d28b81e7e6e216c922f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1243158499,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1243158499,
+    "wof:lastmodified":1537660507,
+    "wof:name":"Ban Muangmo",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.37633,
+    17.68987000000001,
+    101.37633,
+    17.68987000000001
+],
+  "geometry": {"coordinates":[101.37633,17.68987000000001],"type":"Point"}
+}

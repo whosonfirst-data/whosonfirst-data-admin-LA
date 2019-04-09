@@ -1,0 +1,73 @@
+{
+  "id": 1309891897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.22584,19.75494,101.22584,19.75494",
+    "geom:latitude":19.75494,
+    "geom:longitude":101.22584,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Kioungiou",
+    "gn:country_code":"LA",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953292,
+    "gn:latitude":19.75494,
+    "gn:longitude":101.22584,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Kioungiou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kioungiou"
+    ],
+    "name:und_x_variant":[
+        "Ban Kioung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953292
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ccdbd6b1fce74c4ecfa7a8426870dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1309891897,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1309891897,
+    "wof:lastmodified":1537660736,
+    "wof:name":"Ban Kioungiou",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.22584,
+    19.75494,
+    101.22584,
+    19.75494
+],
+  "geometry": {"coordinates":[101.22584000000001,19.75494],"type":"Point"}
+}

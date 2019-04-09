@@ -1,0 +1,67 @@
+{
+  "id": 1343331335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08167,20.80139,101.08167,20.80139",
+    "geom:latitude":20.80139,
+    "geom:longitude":101.08167,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Ponping",
+    "gn:country_code":"LA",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957245,
+    "gn:latitude":20.80139,
+    "gn:longitude":101.08167,
+    "gn:modification_date":"2001-09-26",
+    "gn:name":"Ban Ponping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957245
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"92c6cb12894d289dff83cccc165058af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1343331335,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1343331335,
+    "wof:lastmodified":1536933509,
+    "wof:name":"Ban Ponping",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08167,
+    20.80139,
+    101.08167,
+    20.80139
+],
+  "geometry": {"coordinates":[101.08167,20.80139],"type":"Point"}
+}

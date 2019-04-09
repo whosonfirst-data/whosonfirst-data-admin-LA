@@ -1,0 +1,75 @@
+{
+  "id": 1276841005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99067,19.49155,103.99067,19.49155",
+    "geom:latitude":19.49155,
+    "geom:longitude":103.99067,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Namkuang",
+    "gn:country_code":"LA",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661536,
+    "gn:latitude":19.49155,
+    "gn:longitude":103.99067,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Namkuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Namkuang"
+    ],
+    "name:und_x_variant":[
+        "Ban Namkouang",
+        "Ban Nam Kauang",
+        "Namkoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661536
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3436ee5183caee504ed981d2b3bd9357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1276841005,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1276841005,
+    "wof:lastmodified":1537660473,
+    "wof:name":"Namkuang",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99067,
+    19.49155,
+    103.99067,
+    19.49155
+],
+  "geometry": {"coordinates":[103.99066999999999,19.49155],"type":"Point"}
+}

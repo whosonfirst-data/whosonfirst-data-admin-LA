@@ -1,0 +1,71 @@
+{
+  "id": 1326680945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.34318,19.10016,103.34318,19.10016",
+    "geom:latitude":19.10016,
+    "geom:longitude":103.34318,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Xiangkhong",
+    "gn:country_code":"LA",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658046,
+    "gn:latitude":19.10016,
+    "gn:longitude":103.34318,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Xiangkh\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Xieng Khong",
+        "Ban Xiangkh\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658046
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2efbb88a5b18d8ade664f2705f44c0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029205,
+            "locality_id":1326680945,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1326680945,
+    "wof:lastmodified":1537660270,
+    "wof:name":"Ban Xiangkhong",
+    "wof:parent_id":1092029205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.34318,
+    19.10016,
+    103.34318,
+    19.10016
+],
+  "geometry": {"coordinates":[103.34318,19.10016],"type":"Point"}
+}

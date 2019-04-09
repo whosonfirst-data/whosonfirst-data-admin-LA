@@ -1,0 +1,71 @@
+{
+  "id": 1259941755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10183,16.17229,105.10183,16.17229",
+    "geom:latitude":16.17229,
+    "geom:longitude":105.10183,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Naphouak",
+    "gn:country_code":"LA",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661212,
+    "gn:latitude":16.17229,
+    "gn:longitude":105.10183,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Naphouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Phouac",
+        "Ban Naphouak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661212
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"05359ea1e5c767a1f71de22857bdfe67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026707,
+            "locality_id":1259941755,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259941755,
+    "wof:lastmodified":1537660455,
+    "wof:name":"Ban Naphouak",
+    "wof:parent_id":1092026707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10183,
+    16.17229,
+    105.10183,
+    16.17229
+],
+  "geometry": {"coordinates":[105.10183000000001,16.17229],"type":"Point"}
+}

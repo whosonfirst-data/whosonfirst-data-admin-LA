@@ -1,0 +1,71 @@
+{
+  "id": 1226027641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86932,17.18809,104.86932,17.18809",
+    "geom:latitude":17.18809,
+    "geom:longitude":104.86932,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nonsila",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660625,
+    "gn:latitude":17.18809,
+    "gn:longitude":104.86932,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban N\u00f4nsila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban None Sila",
+        "Ban N\u00f4nsila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092028125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660625
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"63187af53606f6d3b3f8981bb1a20857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028125,
+            "locality_id":1226027641,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226027641,
+    "wof:lastmodified":1537660419,
+    "wof:name":"Ban Nonsila",
+    "wof:parent_id":1092028125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86932,
+    17.18809,
+    104.86932,
+    17.18809
+],
+  "geometry": {"coordinates":[104.86932,17.18809],"type":"Point"}
+}

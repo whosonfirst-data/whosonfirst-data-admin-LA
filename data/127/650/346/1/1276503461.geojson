@@ -1,0 +1,70 @@
+{
+  "id": 1276503461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.13809,15.35939,107.13809,15.35939",
+    "geom:latitude":15.35939,
+    "geom:longitude":107.13809,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dak-O",
+    "gn:country_code":"LA",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657141,
+    "gn:latitude":15.35939,
+    "gn:longitude":107.13809,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dak-O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657141
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aeedc60fbdaf6fcd1da2ab66372a41f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1276503461,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1276503461,
+    "wof:lastmodified":1537660257,
+    "wof:name":"Ban Dak-O",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.13809,
+    15.35939,
+    107.13809,
+    15.35939
+],
+  "geometry": {"coordinates":[107.13809000000001,15.35939],"type":"Point"}
+}

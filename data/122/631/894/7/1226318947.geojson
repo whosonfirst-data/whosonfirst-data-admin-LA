@@ -1,0 +1,70 @@
+{
+  "id": 1226318947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43589,20.82074,102.43589,20.82074",
+    "geom:latitude":20.82074,
+    "geom:longitude":102.43589,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hen",
+    "gn:country_code":"LA",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954692,
+    "gn:latitude":20.82074,
+    "gn:longitude":102.43589,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban H\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban H\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954692
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b21e586df89d25252c0d00122f968aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1226318947,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226318947,
+    "wof:lastmodified":1537660773,
+    "wof:name":"Ban Hen",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43589,
+    20.82074,
+    102.43589,
+    20.82074
+],
+  "geometry": {"coordinates":[102.43589,20.82074],"type":"Point"}
+}

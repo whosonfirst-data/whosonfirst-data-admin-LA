@@ -1,0 +1,74 @@
+{
+  "id": 1225952819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78305,14.76223,105.78305,14.76223",
+    "geom:latitude":14.76223,
+    "geom:longitude":105.78305,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thongkhikai",
+    "gn:country_code":"LA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658493,
+    "gn:latitude":14.76223,
+    "gn:longitude":105.78305,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Th\u00f4ngkhikai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngkhikai"
+    ],
+    "name:und_x_variant":[
+        "Ban Thong Khi Kai Nhai",
+        "Ban Th\u00f4ngkhikai Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658493
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3716188d0c2d2f3b00b8aa4f1c4630c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":1225952819,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1225952819,
+    "wof:lastmodified":1537660299,
+    "wof:name":"Ban Thongkhikai",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78305,
+    14.76223,
+    105.78305,
+    14.76223
+],
+  "geometry": {"coordinates":[105.78305,14.76223],"type":"Point"}
+}

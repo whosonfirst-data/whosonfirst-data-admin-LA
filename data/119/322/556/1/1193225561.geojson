@@ -1,0 +1,70 @@
+{
+  "id": 1193225561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.54473,18.79962,102.54473,18.79962",
+    "geom:latitude":18.79962,
+    "geom:longitude":102.54473,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nampat-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231501,
+    "gn:latitude":18.79962,
+    "gn:longitude":102.54473,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nampat-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nampat-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231501
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"35ff2f55c45fae79f5cf0ebcebbb4698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":1193225561,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1193225561,
+    "wof:lastmodified":1537660916,
+    "wof:name":"Ban Nampat-Nua",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.54473,
+    18.79962,
+    102.54473,
+    18.79962
+],
+  "geometry": {"coordinates":[102.54473,18.79962],"type":"Point"}
+}

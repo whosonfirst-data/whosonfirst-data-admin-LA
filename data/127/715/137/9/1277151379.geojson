@@ -1,0 +1,70 @@
+{
+  "id": 1277151379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.85715,16.68066,104.85715,16.68066",
+    "geom:latitude":16.68066,
+    "geom:longitude":104.85715,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phosi",
+    "gn:country_code":"LA",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659837,
+    "gn:latitude":16.68066,
+    "gn:longitude":104.85715,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ph\u00f4si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659837
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ecac0f8903acd5493c7f06ea8f9e3a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026527,
+            "locality_id":1277151379,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1277151379,
+    "wof:lastmodified":1537660373,
+    "wof:name":"Ban Phosi",
+    "wof:parent_id":1092026527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.85715,
+    16.68066,
+    104.85715,
+    16.68066
+],
+  "geometry": {"coordinates":[104.85715,16.68066],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293250677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.66646,18.50096,103.66646,18.50096",
+    "geom:latitude":18.50096,
+    "geom:longitude":103.66646,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Muang Mai",
+    "gn:country_code":"LA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655176,
+    "gn:latitude":18.50096,
+    "gn:longitude":103.66646,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Muang Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong May",
+        "Muong Mai",
+        "Muang Mai",
+        "Ban Muang Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655176
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"46d7f804e49392950f5bdc2da30eabcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":1293250677,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1293250677,
+    "wof:lastmodified":1537660236,
+    "wof:name":"Ban Muang Mai",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.66646,
+    18.50096,
+    103.66646,
+    18.50096
+],
+  "geometry": {"coordinates":[103.66646,18.50096],"type":"Point"}
+}

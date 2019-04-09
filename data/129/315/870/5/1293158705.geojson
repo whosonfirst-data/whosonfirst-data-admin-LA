@@ -1,0 +1,72 @@
+{
+  "id": 1293158705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0333,18.06273,103.0333,18.06273",
+    "geom:latitude":18.06273,
+    "geom:longitude":103.0333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Nongphouviang",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660701,
+    "gn:latitude":18.06273,
+    "gn:longitude":103.0333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongphouviang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Phou Vieng",
+        "Ban Nong Phu Wiang",
+        "Ban Nongphouviang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092028157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660701
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b558cf883f9340c8a44302da00018247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028157,
+            "locality_id":1293158705,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1293158705,
+    "wof:lastmodified":1537660424,
+    "wof:name":"Ban Nongphouviang",
+    "wof:parent_id":1092028157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0333,
+    18.06273,
+    103.0333,
+    18.06273
+],
+  "geometry": {"coordinates":[103.0333,18.06273],"type":"Point"}
+}

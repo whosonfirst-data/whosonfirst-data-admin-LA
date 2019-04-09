@@ -1,0 +1,70 @@
+{
+  "id": 1276308587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72448,21.4566,102.72448,21.4566",
+    "geom:latitude":21.4566,
+    "geom:longitude":102.72448,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Tangan",
+    "gn:country_code":"LA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954759,
+    "gn:latitude":21.4566,
+    "gn:longitude":102.72448,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954759
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7bb8f92fe0c0bbe26f316fc8a4c6112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1276308587,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276308587,
+    "wof:lastmodified":1537660775,
+    "wof:name":"Ban Tangan",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72448,
+    21.4566,
+    102.72448,
+    21.4566
+],
+  "geometry": {"coordinates":[102.72448,21.4566],"type":"Point"}
+}

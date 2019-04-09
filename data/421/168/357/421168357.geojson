@@ -1,0 +1,88 @@
+{
+  "id": 421168357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85322,14.11726,105.85322,14.11726",
+    "geom:latitude":14.11726,
+    "geom:longitude":105.85322,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_historical":[
+        "Khong"
+    ],
+    "name:fra_x_preferred":[
+        "Khong"
+    ],
+    "name:unk_x_variant":[
+        "Muong Khong"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1655192,
+    "qs:gn_pop":15000,
+    "qs:name":"Muang Khong",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Champasak",
+    "qs:photos":1345,
+    "qs:photos_1k":273,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1345,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":492693,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1140556,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655192,
+        "gp:id":1140556,
+        "qs:id":492693
+    },
+    "wof:country":"LA",
+    "wof:created":1459008762,
+    "wof:geomhash":"82d02ea499b9f3d492881dd480aa992f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":421168357,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":421168357,
+    "wof:lastmodified":1505340590,
+    "wof:name":"Muang Khong",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85322,
+    14.11726,
+    105.85322,
+    14.11726
+],
+  "geometry": {"coordinates":[105.85321999999999,14.11726],"type":"Point"}
+}

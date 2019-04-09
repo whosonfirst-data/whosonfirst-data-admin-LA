@@ -1,0 +1,73 @@
+{
+  "id": 1226128843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52516,19.65028,100.52516,19.65028",
+    "geom:latitude":19.65028,
+    "geom:longitude":100.52516,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Keo",
+    "gn:country_code":"LA",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662989,
+    "gn:latitude":19.65028,
+    "gn:longitude":100.52516,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban K\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8o"
+    ],
+    "name:und_x_variant":[
+        "Ban Kho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662989
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"de28c3b4506a7953177a2072746636c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026391,
+            "locality_id":1226128843,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226128843,
+    "wof:lastmodified":1537660554,
+    "wof:name":"Ban Keo",
+    "wof:parent_id":1092026391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52516,
+    19.65028,
+    100.52516,
+    19.65028
+],
+  "geometry": {"coordinates":[100.52516,19.65028],"type":"Point"}
+}

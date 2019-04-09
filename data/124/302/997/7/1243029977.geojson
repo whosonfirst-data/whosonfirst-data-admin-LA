@@ -1,0 +1,71 @@
+{
+  "id": 1243029977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74694,16.81112,104.74694,16.81112",
+    "geom:latitude":16.81112,
+    "geom:longitude":104.74694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kengkabao",
+    "gn:country_code":"LA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663268,
+    "gn:latitude":16.81112,
+    "gn:longitude":104.74694,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8ngkabao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keng Kabao",
+        "Ban K\u00e8ngkabao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663268
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d3ccba78c9fab164bd6c96e8d2c2363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1243029977,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243029977,
+    "wof:lastmodified":1537660570,
+    "wof:name":"Ban Kengkabao",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74694,
+    16.81112000000001,
+    104.74694,
+    16.81112000000001
+],
+  "geometry": {"coordinates":[104.74694,16.81112000000001],"type":"Point"}
+}

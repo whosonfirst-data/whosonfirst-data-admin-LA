@@ -1,0 +1,71 @@
+{
+  "id": 1259691319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.46868,20.54823,104.46868,20.54823",
+    "geom:latitude":20.54823,
+    "geom:longitude":104.46868,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Naka-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662092,
+    "gn:latitude":20.54823,
+    "gn:longitude":104.46868,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Naka-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Ca Tay",
+        "Ban Naka-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662092
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cee10d9b171e5bcf1d55c3c6588d73cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":1259691319,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1259691319,
+    "wof:lastmodified":1537660503,
+    "wof:name":"Ban Naka-Tai",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.46868,
+    20.54823,
+    104.46868,
+    20.54823
+],
+  "geometry": {"coordinates":[104.46868000000001,20.54823],"type":"Point"}
+}

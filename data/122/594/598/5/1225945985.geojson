@@ -1,0 +1,67 @@
+{
+  "id": 1225945985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98333,20.9,103.98333,20.9",
+    "geom:latitude":20.9,
+    "geom:longitude":103.98333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Keo Cu",
+    "gn:country_code":"LA",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663188,
+    "gn:latitude":20.9,
+    "gn:longitude":103.98333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Keo Cu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663188
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3e118e19bf989b1dbc032276c50ba9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031091,
+            "locality_id":1225945985,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1225945985,
+    "wof:lastmodified":1536867796,
+    "wof:name":"Ban Keo Cu",
+    "wof:parent_id":1092031091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98333,
+    20.9,
+    103.98333,
+    20.9
+],
+  "geometry": {"coordinates":[103.98333,20.9],"type":"Point"}
+}

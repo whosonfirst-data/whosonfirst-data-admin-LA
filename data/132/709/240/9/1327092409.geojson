@@ -1,0 +1,71 @@
+{
+  "id": 1327092409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52917,18.04389,102.52917,18.04389",
+    "geom:latitude":18.04389,
+    "geom:longitude":102.52917,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Na Lien",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661662,
+    "gn:latitude":18.04389,
+    "gn:longitude":102.52917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Na Li\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Li\u00e8n",
+        "Ban Nalian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092027795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661662
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"85a3ca68f4e04b15104ea41fdcad99e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027795,
+            "locality_id":1327092409,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1327092409,
+    "wof:lastmodified":1537660480,
+    "wof:name":"Ban Na Lien",
+    "wof:parent_id":1092027795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52917,
+    18.04389,
+    102.52917,
+    18.04389
+],
+  "geometry": {"coordinates":[102.52916999999999,18.04389],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327106035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1768,20.48748,103.1768,20.48748",
+    "geom:latitude":20.48748,
+    "geom:longitude":103.1768,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Songmoua",
+    "gn:country_code":"LA",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954896,
+    "gn:latitude":20.48748,
+    "gn:longitude":103.1768,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00f4ngmoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4ngmoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954896
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bcdb73b2a6eea025024ce7ccffd1564b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1327106035,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1327106035,
+    "wof:lastmodified":1537660780,
+    "wof:name":"Ban Songmoua",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1768,
+    20.48748,
+    103.1768,
+    20.48748
+],
+  "geometry": {"coordinates":[103.1768,20.48748],"type":"Point"}
+}

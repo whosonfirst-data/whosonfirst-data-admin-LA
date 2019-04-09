@@ -1,0 +1,77 @@
+{
+  "id": 1259630947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76491,18.38743,102.76491,18.38743",
+    "geom:latitude":18.38743,
+    "geom:longitude":102.76491,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phoukhaokhoay",
+    "gn:country_code":"LA",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653865,
+    "gn:latitude":18.38743,
+    "gn:longitude":102.76491,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phoukhaokhoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoukhaokhoay"
+    ],
+    "name:und_x_variant":[
+        "Phou Khao Khouai",
+        "Ritaville",
+        "Phou Khao Khoai",
+        "Phou Khaokhoay",
+        "Ban Phou Khaokhoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653865
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c72af9f95af8f39dbe6f14d7c467337c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1259630947,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259630947,
+    "wof:lastmodified":1537660213,
+    "wof:name":"Ban Phoukhaokhoay",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76491,
+    18.38743,
+    102.76491,
+    18.38743
+],
+  "geometry": {"coordinates":[102.76491,18.38743],"type":"Point"}
+}

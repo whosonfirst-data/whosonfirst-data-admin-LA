@@ -1,0 +1,73 @@
+{
+  "id": 1293266743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1887,16.75973,106.1887,16.75973",
+    "geom:latitude":16.75973,
+    "geom:longitude":106.1887,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Taiken-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658996,
+    "gn:latitude":16.75973,
+    "gn:longitude":106.1887,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Taik\u00e8n-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Taik\u00e8n-Tai"
+    ],
+    "name:und_x_variant":[
+        "Ban Taiken Tay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658996
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2ea9801a46b1dbac87ef7f7e0e7c2275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293266743,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293266743,
+    "wof:lastmodified":1537660328,
+    "wof:name":"Ban Taiken-Tai",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1887,
+    16.75973,
+    106.1887,
+    16.75973
+],
+  "geometry": {"coordinates":[106.1887,16.75973],"type":"Point"}
+}

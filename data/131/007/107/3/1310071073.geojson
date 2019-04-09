@@ -1,0 +1,72 @@
+{
+  "id": 1310071073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7151,15.55649,105.7151,15.55649",
+    "geom:latitude":15.55649,
+    "geom:longitude":105.7151,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Don Kong Khao",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664400,
+    "gn:latitude":15.55649,
+    "gn:longitude":105.7151,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Ban Don Kong Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Don Hang Kheo",
+        "Ban Don Hang Khao",
+        "Ban Don Kong Khao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664400
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"122e7b3be0b489d1ed1b406fbc1e2230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1310071073,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1310071073,
+    "wof:lastmodified":1537660644,
+    "wof:name":"Ban Don Kong Khao",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7151,
+    15.55649,
+    105.7151,
+    15.55649
+],
+  "geometry": {"coordinates":[105.71510000000001,15.55649],"type":"Point"}
+}

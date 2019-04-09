@@ -1,0 +1,74 @@
+{
+  "id": 1225922921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98624,19.49278,103.98624,19.49278",
+    "geom:latitude":19.49278,
+    "geom:longitude":103.98624,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nonghet",
+    "gn:country_code":"LA",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654605,
+    "gn:latitude":19.49278,
+    "gn:longitude":103.98624,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongh\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noong Het",
+        "Nong Et",
+        "Nong H\u00e8t",
+        "Ban Nongh\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654605,
+        "wk:page":"Nong_Het"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1c78d0f095ad397303e3dcbf6fee6f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1225922921,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1225922921,
+    "wof:lastmodified":1537660220,
+    "wof:name":"Ban Nonghet",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98624,
+    19.49278,
+    103.98624,
+    19.49278
+],
+  "geometry": {"coordinates":[103.98624,19.49278],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326789029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.50186,20.73035,100.50186,20.73035",
+    "geom:latitude":20.73035,
+    "geom:longitude":100.50186,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Paxot",
+    "gn:country_code":"LA",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244171,
+    "gn:latitude":20.73035,
+    "gn:longitude":100.50186,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Paxot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Paxot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244171
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ec052196c66c4cf8511087df7e30a9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1326789029,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1326789029,
+    "wof:lastmodified":1537660980,
+    "wof:name":"Ban Paxot",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.50186,
+    20.73035,
+    100.50186,
+    20.73035
+],
+  "geometry": {"coordinates":[100.50185999999999,20.73035],"type":"Point"}
+}

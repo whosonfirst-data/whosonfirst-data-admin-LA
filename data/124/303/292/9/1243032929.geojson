@@ -1,0 +1,73 @@
+{
+  "id": 1243032929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86688,16.82642,105.86688,16.82642",
+    "geom:latitude":16.82642,
+    "geom:longitude":105.86688,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phongsavang",
+    "gn:country_code":"LA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659951,
+    "gn:latitude":16.82642,
+    "gn:longitude":105.86688,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phongsavang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phongsavang"
+    ],
+    "name:und_x_variant":[
+        "Ban Phong Sauang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659951
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"158753fea4a7864a81d9b143e6b38970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1243032929,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243032929,
+    "wof:lastmodified":1537660380,
+    "wof:name":"Ban Phongsavang",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86688,
+    16.82642,
+    105.86688,
+    16.82642
+],
+  "geometry": {"coordinates":[105.86687999999999,16.82642],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293742075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.83469,18.29127,104.83469,18.29127",
+    "geom:latitude":18.29127,
+    "geom:longitude":104.83469,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Kaan",
+    "gn:country_code":"LA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663461,
+    "gn:latitude":18.29127,
+    "gn:longitude":104.83469,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ca An",
+        "Ban Kaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663461
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5a9c9eddbad20b95fe3ed3e2f42b5629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1293742075,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1293742075,
+    "wof:lastmodified":1537660580,
+    "wof:name":"Ban Kaan",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.83469,
+    18.29127,
+    104.83469,
+    18.29127
+],
+  "geometry": {"coordinates":[104.83468999999999,18.29127],"type":"Point"}
+}

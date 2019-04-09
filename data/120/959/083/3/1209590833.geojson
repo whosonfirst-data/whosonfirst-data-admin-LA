@@ -1,0 +1,67 @@
+{
+  "id": 1209590833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.50191,15.72735,106.50191,15.72735",
+    "geom:latitude":15.72735,
+    "geom:longitude":106.50191,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Kathang",
+    "gn:country_code":"LA",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663323,
+    "gn:latitude":15.72735,
+    "gn:longitude":106.50191,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kathang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kathang"
+    ],
+    "name:und_x_variant":[
+        "Ban Kathang (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663323
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"25685abb6be0a61953d70095cb873b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209590833
+        }
+    ],
+    "wof:id":1209590833,
+    "wof:lastmodified":1537660573,
+    "wof:name":"Ban Kathang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.50191,
+    15.72735,
+    106.50191,
+    15.72735
+],
+  "geometry": {"coordinates":[106.50191,15.72735],"type":"Point"}
+}

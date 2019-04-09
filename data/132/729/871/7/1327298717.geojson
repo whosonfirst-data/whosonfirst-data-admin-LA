@@ -1,0 +1,70 @@
+{
+  "id": 1327298717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61907,16.22193,105.61907,16.22193",
+    "geom:latitude":16.22193,
+    "geom:longitude":105.61907,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Thaphi",
+    "gn:country_code":"LA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658597,
+    "gn:latitude":16.22193,
+    "gn:longitude":105.61907,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thaphi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thaphi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658597
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ccae11e558c50bd73c253d0b0e115f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1327298717,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1327298717,
+    "wof:lastmodified":1537660305,
+    "wof:name":"Ban Thaphi",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61907,
+    16.22193,
+    105.61907,
+    16.22193
+],
+  "geometry": {"coordinates":[105.61906999999999,16.22193],"type":"Point"}
+}

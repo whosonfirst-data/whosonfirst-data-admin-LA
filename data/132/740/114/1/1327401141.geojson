@@ -1,0 +1,70 @@
+{
+  "id": 1327401141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.6508,15.29096,107.6508,15.29096",
+    "geom:latitude":15.29096,
+    "geom:longitude":107.6508,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakbla-Nai",
+    "gn:country_code":"LA",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201212,
+    "gn:latitude":15.29096,
+    "gn:longitude":107.6508,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Dakbla-Nai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dakbla-Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201212
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"79bd1aa6aa9ed45bb572dd99a8a2a697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1327401141,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1327401141,
+    "wof:lastmodified":1537660864,
+    "wof:name":"Ban Dakbla-Nai",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.6508,
+    15.29096,
+    107.6508,
+    15.29096
+],
+  "geometry": {"coordinates":[107.6508,15.29096],"type":"Point"}
+}

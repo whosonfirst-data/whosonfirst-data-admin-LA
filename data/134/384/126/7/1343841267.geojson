@@ -1,0 +1,70 @@
+{
+  "id": 1343841267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84414,19.85332,103.84414,19.85332",
+    "geom:latitude":19.85332,
+    "geom:longitude":103.84414,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Soptiang",
+    "gn:country_code":"LA",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11224959,
+    "gn:latitude":19.85332,
+    "gn:longitude":103.84414,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban S\u00f4ptiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4ptiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11224959
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aeb32b8f046367c452ecddd2ae0754b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1343841267,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343841267,
+    "wof:lastmodified":1537660903,
+    "wof:name":"Ban Soptiang",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84414,
+    19.85332,
+    103.84414,
+    19.85332
+],
+  "geometry": {"coordinates":[103.84414,19.85332],"type":"Point"}
+}

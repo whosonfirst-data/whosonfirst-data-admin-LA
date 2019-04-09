@@ -1,0 +1,70 @@
+{
+  "id": 1276726965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41121,16.43577,105.41121,16.43577",
+    "geom:latitude":16.43577,
+    "geom:longitude":105.41121,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Vangkhon-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11240354,
+    "gn:latitude":16.43577,
+    "gn:longitude":105.41121,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Vangkhon-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangkhon-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11240354
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"af267c927fd70bfb2e6c0227b159dd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1276726965,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276726965,
+    "wof:lastmodified":1537660977,
+    "wof:name":"Ban Vangkhon-Nua",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41121,
+    16.43577,
+    105.41121,
+    16.43577
+],
+  "geometry": {"coordinates":[105.41121,16.43577],"type":"Point"}
+}

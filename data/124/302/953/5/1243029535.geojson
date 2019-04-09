@@ -1,0 +1,71 @@
+{
+  "id": 1243029535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61667,19.13333,102.61667,19.13333",
+    "geom:latitude":19.13333,
+    "geom:longitude":102.61667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Phasouanya",
+    "gn:country_code":"LA",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660158,
+    "gn:latitude":19.13333,
+    "gn:longitude":102.61667,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Phasouanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pha Soun Ya",
+        "Ban Phasouanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660158
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"faac865aa2efce7188f9a926b2dba66e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1243029535,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243029535,
+    "wof:lastmodified":1537660391,
+    "wof:name":"Ban Phasouanya",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61667,
+    19.13333,
+    102.61667,
+    19.13333
+],
+  "geometry": {"coordinates":[102.61667,19.13333],"type":"Point"}
+}

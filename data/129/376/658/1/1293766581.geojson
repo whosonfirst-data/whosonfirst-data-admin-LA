@@ -1,0 +1,72 @@
+{
+  "id": 1293766581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.27729,17.25184,105.27729,17.25184",
+    "geom:latitude":17.25184,
+    "geom:longitude":105.27729,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Donthong",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664370,
+    "gn:latitude":17.25184,
+    "gn:longitude":105.27729,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Donth\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Dong Phong",
+        "Ban Pha Kham",
+        "Ban Donth\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664370
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3a22a8fab2fd8edad573442e727ba1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1293766581,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293766581,
+    "wof:lastmodified":1537660641,
+    "wof:name":"Ban Donthong",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.27729,
+    17.25184,
+    105.27729,
+    17.25184
+],
+  "geometry": {"coordinates":[105.27728999999999,17.25184],"type":"Point"}
+}

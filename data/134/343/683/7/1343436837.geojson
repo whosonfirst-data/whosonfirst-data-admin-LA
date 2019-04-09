@@ -1,0 +1,70 @@
+{
+  "id": 1343436837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44127,22.04784,102.44127,22.04784",
+    "geom:latitude":22.04784,
+    "geom:longitude":102.44127,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Senlong",
+    "gn:country_code":"LA",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659302,
+    "gn:latitude":22.04784,
+    "gn:longitude":102.44127,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Senl\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Senl\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659302
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fde87551426758faedd36a42db95c2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1343436837,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1343436837,
+    "wof:lastmodified":1537660345,
+    "wof:name":"Ban Senlong",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44127,
+    22.04784,
+    102.44127,
+    22.04784
+],
+  "geometry": {"coordinates":[102.44127,22.04784],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193017783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37435,20.09275,103.37435,20.09275",
+    "geom:latitude":20.09275,
+    "geom:longitude":103.37435,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Muanghiam",
+    "gn:country_code":"LA",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655213,
+    "gn:latitude":20.09275,
+    "gn:longitude":103.37435,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Muanghiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong Hiem",
+        "Hiem",
+        "Muang Hiam",
+        "Ban Muanghiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655213
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dcee1a64db7a805e83a708fbbeaa86ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1193017783,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1193017783,
+    "wof:lastmodified":1537660240,
+    "wof:name":"Ban Muanghiam",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37435,
+    20.09275,
+    103.37435,
+    20.09275
+],
+  "geometry": {"coordinates":[103.37435000000001,20.09275],"type":"Point"}
+}

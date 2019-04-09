@@ -1,0 +1,79 @@
+{
+  "id": 421204483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85605,14.84922,105.85605,14.84922",
+    "geom:latitude":14.84922,
+    "geom:longitude":105.85605,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ban Nong Vien"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1660646,
+    "qs:gn_pop":0,
+    "qs:name":"Ban Nongvian",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Champasak",
+    "qs:photos":764,
+    "qs:photos_1k":155,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":764,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":241129,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1140486,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660646,
+        "gp:id":1140486,
+        "qs:id":241129
+    },
+    "wof:country":"LA",
+    "wof:created":1459010187,
+    "wof:geomhash":"7ddb291af75f88ed91919ac4edacdf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":421204483,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":421204483,
+    "wof:lastmodified":1501221413,
+    "wof:name":"Ban Nongvian",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85605,
+    14.84922,
+    105.85605,
+    14.84922
+],
+  "geometry": {"coordinates":[105.85605,14.84922],"type":"Point"}
+}

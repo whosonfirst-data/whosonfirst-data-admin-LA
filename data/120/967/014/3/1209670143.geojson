@@ -1,0 +1,64 @@
+{
+  "id": 1209670143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.30268,15.38995,107.30268,15.38995",
+    "geom:latitude":15.38995,
+    "geom:longitude":107.30268,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakban",
+    "gn:country_code":"LA",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200436,
+    "gn:latitude":15.38995,
+    "gn:longitude":107.30268,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Dakban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dakban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200436
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d4665f6b7cd3a6e0104d5c7ef430169a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209670143
+        }
+    ],
+    "wof:id":1209670143,
+    "wof:lastmodified":1537660858,
+    "wof:name":"Ban Dakban",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.30268,
+    15.38995,
+    107.30268,
+    15.38995
+],
+  "geometry": {"coordinates":[107.30268,15.38995],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242936643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1,20.38333,103.1,20.38333",
+    "geom:latitude":20.38333,
+    "geom:longitude":103.1,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Poungdet",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653691,
+    "gn:latitude":20.38333,
+    "gn:longitude":103.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Poungd\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pong Det",
+        "Poungd\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653691
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a67b744861b67500f273aa6a72774acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1242936643,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242936643,
+    "wof:lastmodified":1537660211,
+    "wof:name":"Poungdet",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1,
+    20.38333,
+    103.1,
+    20.38333
+],
+  "geometry": {"coordinates":[103.09999999999999,20.38333],"type":"Point"}
+}

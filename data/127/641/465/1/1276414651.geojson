@@ -1,0 +1,70 @@
+{
+  "id": 1276414651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.57916,17.04625,105.57916,17.04625",
+    "geom:latitude":17.04625,
+    "geom:longitude":105.57916,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phakno",
+    "gn:country_code":"LA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214094,
+    "gn:latitude":17.04625,
+    "gn:longitude":105.57916,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phakno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phakno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214094
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cffe3bd9b029006d0aaf41849db63ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028001,
+            "locality_id":1276414651,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276414651,
+    "wof:lastmodified":1537660880,
+    "wof:name":"Ban Phakno",
+    "wof:parent_id":1092028001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.57916000000002,
+    17.04625,
+    105.57916000000002,
+    17.04625
+],
+  "geometry": {"coordinates":[105.57916000000002,17.04625],"type":"Point"}
+}

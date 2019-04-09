@@ -1,0 +1,68 @@
+{
+  "id": 1209524065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.12527,14.70512,106.12527,14.70512",
+    "geom:latitude":14.70512,
+    "geom:longitude":106.12527,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Phalay-Thong",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660228,
+    "gn:latitude":14.70512,
+    "gn:longitude":106.12527,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phalay-Th\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phalay-Th\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Pha Lai",
+        "Ban Phalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660228
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"77883a18987e28b887ea814f4ca0e557",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209524065
+        }
+    ],
+    "wof:id":1209524065,
+    "wof:lastmodified":1537660395,
+    "wof:name":"Ban Phalay-Thong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.12527,
+    14.70512,
+    106.12527,
+    14.70512
+],
+  "geometry": {"coordinates":[106.12527,14.70512],"type":"Point"}
+}

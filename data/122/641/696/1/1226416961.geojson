@@ -1,0 +1,72 @@
+{
+  "id": 1226416961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,16.91667,106.08333,16.91667",
+    "geom:latitude":16.91667,
+    "geom:longitude":106.08333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kenggnao",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663275,
+    "gn:latitude":16.91667,
+    "gn:longitude":106.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban K\u00e8nggnao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban K\u00e8ng Nhao",
+        "Ban K\u00e8nggnao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663275
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"666a1302ace3eca17eaf6072256ae57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1226416961,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226416961,
+    "wof:lastmodified":1537660570,
+    "wof:name":"Ban Kenggnao",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    16.91667,
+    106.08333,
+    16.91667
+],
+  "geometry": {"coordinates":[106.08333,16.91667],"type":"Point"}
+}

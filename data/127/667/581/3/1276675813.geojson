@@ -1,0 +1,72 @@
+{
+  "id": 1276675813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75,14.78333,106.75,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":106.75,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Kongmun",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662779,
+    "gn:latitude":14.78333,
+    "gn:longitude":106.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Kongmun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kung Mun",
+        "Ban Kongmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092028773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662779
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"acc7cc07f713e10408b15f80d378e767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028773,
+            "locality_id":1276675813,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1276675813,
+    "wof:lastmodified":1537660541,
+    "wof:name":"Ban Kongmun",
+    "wof:parent_id":1092028773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75,
+    14.78333,
+    106.75,
+    14.78333
+],
+  "geometry": {"coordinates":[106.75,14.78333],"type":"Point"}
+}

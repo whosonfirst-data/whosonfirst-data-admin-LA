@@ -1,0 +1,67 @@
+{
+  "id": 1243528259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3,19.38333,103.3,19.38333",
+    "geom:latitude":19.38333,
+    "geom:longitude":103.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Khao",
+    "gn:country_code":"LA",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663039,
+    "gn:latitude":19.38333,
+    "gn:longitude":103.3,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663039
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"34bd5ad5b6046b92887aad3caefd8efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1243528259,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1243528259,
+    "wof:lastmodified":1536687727,
+    "wof:name":"Ban Khao",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3,
+    19.38333,
+    103.3,
+    19.38333
+],
+  "geometry": {"coordinates":[103.3,19.38333],"type":"Point"}
+}

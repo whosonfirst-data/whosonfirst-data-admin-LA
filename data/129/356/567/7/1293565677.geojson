@@ -1,0 +1,70 @@
+{
+  "id": 1293565677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46292,19.798,101.46292,19.798",
+    "geom:latitude":19.798,
+    "geom:longitude":101.46292,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Houaylai-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953271,
+    "gn:latitude":19.798,
+    "gn:longitude":101.46292,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Houaylai-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaylai-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092027837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953271
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d678a4a35292d1684fef9fd74fb46393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027837,
+            "locality_id":1293565677,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1293565677,
+    "wof:lastmodified":1537660736,
+    "wof:name":"Ban Houaylai-Noy",
+    "wof:parent_id":1092027837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46292,
+    19.798,
+    101.46292,
+    19.798
+],
+  "geometry": {"coordinates":[101.46292,19.798],"type":"Point"}
+}

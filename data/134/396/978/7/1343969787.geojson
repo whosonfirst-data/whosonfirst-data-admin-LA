@@ -1,0 +1,72 @@
+{
+  "id": 1343969787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22893,20.76684,104.22893,20.76684",
+    "geom:latitude":20.76684,
+    "geom:longitude":104.22893,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Soppit",
+    "gn:country_code":"LA",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653043,
+    "gn:latitude":20.76684,
+    "gn:longitude":104.22893,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00f4ppit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sap Pit",
+        "Sop Pit",
+        "Ban S\u00f4ppit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653043
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cf91532970643eafb40b2433d320ce14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1343969787,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1343969787,
+    "wof:lastmodified":1537660202,
+    "wof:name":"Ban Soppit",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22893,
+    20.76684,
+    104.22893,
+    20.76684
+],
+  "geometry": {"coordinates":[104.22893000000001,20.76684],"type":"Point"}
+}

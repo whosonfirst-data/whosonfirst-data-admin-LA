@@ -1,0 +1,73 @@
+{
+  "id": 1260055865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36931,21.67235,102.36931,21.67235",
+    "geom:latitude":21.67235,
+    "geom:longitude":102.36931,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Senlouang",
+    "gn:country_code":"LA",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652111,
+    "gn:latitude":21.67235,
+    "gn:longitude":102.36931,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nlouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nlouang"
+    ],
+    "name:und_x_variant":[
+        "Xe Long Quang Mang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652111
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1420ffeabcf988300a9ef62321399793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1260055865,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1260055865,
+    "wof:lastmodified":1537660193,
+    "wof:name":"Ban Senlouang",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36931,
+    21.67235,
+    102.36931,
+    21.67235
+],
+  "geometry": {"coordinates":[102.36931,21.67235],"type":"Point"}
+}

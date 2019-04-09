@@ -1,0 +1,67 @@
+{
+  "id": 1293466171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.35083,17.79667,101.35083,17.79667",
+    "geom:latitude":17.79667,
+    "geom:longitude":101.35083,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Houayto",
+    "gn:country_code":"LA",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941366,
+    "gn:latitude":17.79667,
+    "gn:longitude":101.35083,
+    "gn:modification_date":"2000-08-15",
+    "gn:name":"Ban Houayto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941366
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3adb4c91a68a74c71b1464eec51ec3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1293466171,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1293466171,
+    "wof:lastmodified":1536817109,
+    "wof:name":"Ban Houayto",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.35083,
+    17.79667000000001,
+    101.35083,
+    17.79667000000001
+],
+  "geometry": {"coordinates":[101.35083,17.79667000000001],"type":"Point"}
+}

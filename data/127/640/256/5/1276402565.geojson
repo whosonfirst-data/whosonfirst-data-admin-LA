@@ -1,0 +1,70 @@
+{
+  "id": 1276402565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26365,21.71646,102.26365,21.71646",
+    "geom:latitude":21.71646,
+    "geom:longitude":102.26365,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Houaylou",
+    "gn:country_code":"LA",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954090,
+    "gn:latitude":21.71646,
+    "gn:longitude":102.26365,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houaylou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaylou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954090
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3a9e6e070c992eb6f869942c0cc33ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1276402565,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276402565,
+    "wof:lastmodified":1537660757,
+    "wof:name":"Ban Houaylou",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26365,
+    21.71646,
+    102.26365,
+    21.71646
+],
+  "geometry": {"coordinates":[102.26365,21.71646],"type":"Point"}
+}

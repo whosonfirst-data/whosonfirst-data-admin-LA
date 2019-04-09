@@ -1,0 +1,72 @@
+{
+  "id": 1259745031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35492,16.54601,106.35492,16.54601",
+    "geom:latitude":16.54601,
+    "geom:longitude":106.35492,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Houay Palai",
+    "gn:country_code":"LA",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660426,
+    "gn:latitude":16.54601,
+    "gn:longitude":106.35492,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Houay Palai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Houay Palai"
+    ],
+    "name:und_x_variant":[
+        "Ban Pra Lai",
+        "Ban Palai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660426
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e727b89be13bd822d87008538d43e762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1259745031,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259745031,
+    "wof:lastmodified":1537660406,
+    "wof:name":"Houay Palai",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35492,
+    16.54601,
+    106.35492,
+    16.54601
+],
+  "geometry": {"coordinates":[106.35492000000001,16.54601],"type":"Point"}
+}

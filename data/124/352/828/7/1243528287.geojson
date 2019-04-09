@@ -1,0 +1,70 @@
+{
+  "id": 1243528287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.96694,19.45297,103.96694,19.45297",
+    "geom:latitude":19.45297,
+    "geom:longitude":103.96694,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Thamsua",
+    "gn:country_code":"LA",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658661,
+    "gn:latitude":19.45297,
+    "gn:longitude":103.96694,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thamsua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Thamsua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658661
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2061ce1e2758823d9604d922b8bea211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1243528287,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1243528287,
+    "wof:lastmodified":1537660308,
+    "wof:name":"Ban Thamsua",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.96694,
+    19.45297,
+    103.96694,
+    19.45297
+],
+  "geometry": {"coordinates":[103.96693999999999,19.45297],"type":"Point"}
+}

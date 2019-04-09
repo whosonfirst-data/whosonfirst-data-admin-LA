@@ -1,0 +1,70 @@
+{
+  "id": 1310583475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08046,20.45751,101.08046,20.45751",
+    "geom:latitude":20.45751,
+    "geom:longitude":101.08046,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Tongmay",
+    "gn:country_code":"LA",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956338,
+    "gn:latitude":20.45751,
+    "gn:longitude":101.08046,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban T\u00f4ngmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4ngmay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956338
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"97ab40c53ce36148f40b926e920eed29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1310583475,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1310583475,
+    "wof:lastmodified":1537660818,
+    "wof:name":"Ban Tongmay",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08046,
+    20.45751,
+    101.08046,
+    20.45751
+],
+  "geometry": {"coordinates":[101.08046,20.45751],"type":"Point"}
+}

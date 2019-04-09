@@ -1,0 +1,70 @@
+{
+  "id": 1309782217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2875,20.52456,102.2875,20.52456",
+    "geom:latitude":20.52456,
+    "geom:longitude":102.2875,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phen",
+    "gn:country_code":"LA",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954828,
+    "gn:latitude":20.52456,
+    "gn:longitude":102.2875,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Ph\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954828
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6695b220e5608bb0f165738da3c838a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1309782217,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309782217,
+    "wof:lastmodified":1537660778,
+    "wof:name":"Ban Phen",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2875,
+    20.52456,
+    102.2875,
+    20.52456
+],
+  "geometry": {"coordinates":[102.28749999999999,20.52456],"type":"Point"}
+}

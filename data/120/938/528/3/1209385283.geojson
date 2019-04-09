@@ -1,0 +1,64 @@
+{
+  "id": 1209385283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.65665,17.47065,105.65665,17.47065",
+    "geom:latitude":17.47065,
+    "geom:longitude":105.65665,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phonkate",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234112,
+    "gn:latitude":17.47065,
+    "gn:longitude":105.65665,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nkat\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nkat\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234112
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"427cd9b8eb0fe59b46a5fd0719a19baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209385283
+        }
+    ],
+    "wof:id":1209385283,
+    "wof:lastmodified":1537660945,
+    "wof:name":"Ban Phonkate",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.65665,
+    17.47065,
+    105.65665,
+    17.47065
+],
+  "geometry": {"coordinates":[105.65665,17.47065],"type":"Point"}
+}

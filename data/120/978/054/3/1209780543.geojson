@@ -1,0 +1,71 @@
+{
+  "id": 1209780543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94764,17.04764,105.94764,17.04764",
+    "geom:latitude":17.04764,
+    "geom:longitude":105.94764,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Thongkong",
+    "gn:country_code":"LA",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658485,
+    "gn:latitude":17.04764,
+    "gn:longitude":105.94764,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Th\u00f4ngkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Thong Long",
+        "Ban Th\u00f4ngkong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658485
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"746c32c2802229a7ef13065378492d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1209780543,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1209780543,
+    "wof:lastmodified":1537660299,
+    "wof:name":"Ban Thongkong",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94764,
+    17.04764,
+    105.94764,
+    17.04764
+],
+  "geometry": {"coordinates":[105.94764000000001,17.04764],"type":"Point"}
+}

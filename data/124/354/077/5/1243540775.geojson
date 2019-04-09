@@ -1,0 +1,70 @@
+{
+  "id": 1243540775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.0614,19.78361,101.0614,19.78361",
+    "geom:latitude":19.78361,
+    "geom:longitude":101.0614,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Longxang",
+    "gn:country_code":"LA",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953138,
+    "gn:latitude":19.78361,
+    "gn:longitude":101.0614,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Longxang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Longxang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953138
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"87d76c6d9c55528f6bf5bb372b60200a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1243540775,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1243540775,
+    "wof:lastmodified":1537660732,
+    "wof:name":"Ban Longxang",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.0614,
+    19.78361,
+    101.0614,
+    19.78361
+],
+  "geometry": {"coordinates":[101.06140000000001,19.78361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293746183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69516,16.11127,106.69516,16.11127",
+    "geom:latitude":16.11127,
+    "geom:longitude":106.69516,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Laseng",
+    "gn:country_code":"LA",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236784,
+    "gn:latitude":16.11127,
+    "gn:longitude":106.69516,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Las\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Las\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236784
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"81c19c8f06ae6bd480fe46ac78613910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1293746183,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293746183,
+    "wof:lastmodified":1537660968,
+    "wof:name":"Ban Laseng",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69516000000002,
+    16.11127,
+    106.69516000000002,
+    16.11127
+],
+  "geometry": {"coordinates":[106.69516000000002,16.11127],"type":"Point"}
+}

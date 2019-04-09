@@ -1,0 +1,67 @@
+{
+  "id": 1226653297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.76667,20.33333,103.76667,20.33333",
+    "geom:latitude":20.33333,
+    "geom:longitude":103.76667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phya Louong",
+    "gn:country_code":"LA",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659713,
+    "gn:latitude":20.33333,
+    "gn:longitude":103.76667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Phya Louong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659713
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c6b80c62e88c2e95e5cbfd13c030af3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1226653297,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226653297,
+    "wof:lastmodified":1536847392,
+    "wof:name":"Ban Phya Louong",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.76667,
+    20.33333,
+    103.76667,
+    20.33333
+],
+  "geometry": {"coordinates":[103.76667,20.33333],"type":"Point"}
+}

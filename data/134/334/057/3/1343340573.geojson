@@ -1,0 +1,70 @@
+{
+  "id": 1343340573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0227,19.54389,104.0227,19.54389",
+    "geom:latitude":19.54389,
+    "geom:longitude":104.0227,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Bouaksal",
+    "gn:country_code":"LA",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227431,
+    "gn:latitude":19.54389,
+    "gn:longitude":104.0227,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Bouaksal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bouaksal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227431
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"854c23935775321cec72360a06375a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1343340573,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343340573,
+    "wof:lastmodified":1537660907,
+    "wof:name":"Ban Bouaksal",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0227,
+    19.54389,
+    104.0227,
+    19.54389
+],
+  "geometry": {"coordinates":[104.0227,19.54389],"type":"Point"}
+}

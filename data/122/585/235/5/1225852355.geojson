@@ -1,0 +1,67 @@
+{
+  "id": 1225852355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98333,20.88333,103.98333,20.88333",
+    "geom:latitude":20.88333,
+    "geom:longitude":103.98333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Chien Kum",
+    "gn:country_code":"LA",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664706,
+    "gn:latitude":20.88333,
+    "gn:longitude":103.98333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Chien Kum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664706
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a75945abf5542443c6455f974a6b8088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031091,
+            "locality_id":1225852355,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1225852355,
+    "wof:lastmodified":1537003336,
+    "wof:name":"Ban Chien Kum",
+    "wof:parent_id":1092031091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98333,
+    20.88333,
+    103.98333,
+    20.88333
+],
+  "geometry": {"coordinates":[103.98333,20.88333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293067275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.24732,21.41305,102.24732,21.41305",
+    "geom:latitude":21.41305,
+    "geom:longitude":102.24732,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Moukkikang",
+    "gn:country_code":"LA",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952751,
+    "gn:latitude":21.41305,
+    "gn:longitude":102.24732,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Moukkikang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Moukkikang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952751
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9d8c2d46890e61018372e935fe308f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1293067275,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293067275,
+    "wof:lastmodified":1537660724,
+    "wof:name":"Ban Moukkikang",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.24732,
+    21.41305,
+    102.24732,
+    21.41305
+],
+  "geometry": {"coordinates":[102.24732,21.41305],"type":"Point"}
+}

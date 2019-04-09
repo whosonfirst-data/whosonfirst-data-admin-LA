@@ -1,0 +1,70 @@
+{
+  "id": 1360176425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85968,20.68203,101.85968,20.68203",
+    "geom:latitude":20.68203,
+    "geom:longitude":101.85968,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokkouk",
+    "gn:country_code":"LA",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956238,
+    "gn:latitude":20.68203,
+    "gn:longitude":101.85968,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4kkouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kkouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956238
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"50fcf33de3ed726e483b6dcb6d46c50e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1360176425,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1360176425,
+    "wof:lastmodified":1537660815,
+    "wof:name":"Ban Mokkouk",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85968,
+    20.68203,
+    101.85968,
+    20.68203
+],
+  "geometry": {"coordinates":[101.85968,20.68203],"type":"Point"}
+}

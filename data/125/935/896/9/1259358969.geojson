@@ -1,0 +1,70 @@
+{
+  "id": 1259358969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25834,21.1942,102.25834,21.1942",
+    "geom:latitude":21.1942,
+    "geom:longitude":102.25834,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sanamchep",
+    "gn:country_code":"LA",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954952,
+    "gn:latitude":21.1942,
+    "gn:longitude":102.25834,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Sanamch\u00e8p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sanamch\u00e8p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954952
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4fd0d7629d1c8db124b486df9a801872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1259358969,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1259358969,
+    "wof:lastmodified":1537660783,
+    "wof:name":"Ban Sanamchep",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25834,
+    21.1942,
+    102.25834,
+    21.1942
+],
+  "geometry": {"coordinates":[102.25834,21.1942],"type":"Point"}
+}

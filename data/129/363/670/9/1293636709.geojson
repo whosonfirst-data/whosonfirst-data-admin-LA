@@ -1,0 +1,72 @@
+{
+  "id": 1293636709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72095,18.88268,103.72095,18.88268",
+    "geom:latitude":18.88268,
+    "geom:longitude":103.72095,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Sala Dendin",
+    "gn:country_code":"LA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653529,
+    "gn:latitude":18.88268,
+    "gn:longitude":103.72095,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Sala D\u00e8ndin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sala Den Dine",
+        "Sala D\u00e8ndin",
+        "Ban Sala D\u00e8ndin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653529
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"74013f968a2ec04ca7876325e846c3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029205,
+            "locality_id":1293636709,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293636709,
+    "wof:lastmodified":1537660209,
+    "wof:name":"Ban Sala Dendin",
+    "wof:parent_id":1092029205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72095,
+    18.88268,
+    103.72095,
+    18.88268
+],
+  "geometry": {"coordinates":[103.72095,18.88268],"type":"Point"}
+}

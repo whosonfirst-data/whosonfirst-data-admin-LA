@@ -1,0 +1,67 @@
+{
+  "id": 1226617633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94639,19.75083,101.94639,19.75083",
+    "geom:latitude":19.75083,
+    "geom:longitude":101.94639,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Nap",
+    "gn:country_code":"LA",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953538,
+    "gn:latitude":19.75083,
+    "gn:longitude":101.94639,
+    "gn:modification_date":"2001-05-21",
+    "gn:name":"Ban Nap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953538
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"773defa1f8d57f0a34b06bec778c1030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":1226617633,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226617633,
+    "wof:lastmodified":1536899855,
+    "wof:name":"Ban Nap",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94639,
+    19.75083,
+    101.94639,
+    19.75083
+],
+  "geometry": {"coordinates":[101.94638999999999,19.75083],"type":"Point"}
+}

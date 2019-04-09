@@ -1,0 +1,70 @@
+{
+  "id": 1293366815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.23788,17.78178,101.23788,17.78178",
+    "geom:latitude":17.78178,
+    "geom:longitude":101.23788,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Paktom",
+    "gn:country_code":"LA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941390,
+    "gn:latitude":17.78178,
+    "gn:longitude":101.23788,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Pakt\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pakt\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941390
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"079175c3f2cbe00f9013efb56052ac05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1293366815,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1293366815,
+    "wof:lastmodified":1537660694,
+    "wof:name":"Ban Paktom",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.23788,
+    17.78177999999999,
+    101.23788,
+    17.78177999999999
+],
+  "geometry": {"coordinates":[101.23788,17.78177999999999],"type":"Point"}
+}

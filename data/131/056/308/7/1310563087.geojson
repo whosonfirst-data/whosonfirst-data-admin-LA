@@ -1,0 +1,71 @@
+{
+  "id": 1310563087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.78032,15.97628,105.78032,15.97628",
+    "geom:latitude":15.97628,
+    "geom:longitude":105.78032,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phanxi",
+    "gn:country_code":"LA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660182,
+    "gn:latitude":15.97628,
+    "gn:longitude":105.78032,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Phanxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Phan Si",
+        "Ban Phanxi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660182
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b0b355bd5ecfb9e2a31f209cda0c6569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1310563087,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310563087,
+    "wof:lastmodified":1537660393,
+    "wof:name":"Ban Phanxi",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.78032,
+    15.97628,
+    105.78032,
+    15.97628
+],
+  "geometry": {"coordinates":[105.78032,15.97628],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293499047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70219,20.45171,103.70219,20.45171",
+    "geom:latitude":20.45171,
+    "geom:longitude":103.70219,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Thamnam",
+    "gn:country_code":"LA",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658673,
+    "gn:latitude":20.45171,
+    "gn:longitude":103.70219,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Thamnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Tam Nam",
+        "Ban Thamnam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658673
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2d0b39b323863a36890a4b9890c43857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1293499047,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293499047,
+    "wof:lastmodified":1537660309,
+    "wof:name":"Ban Thamnam",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70219,
+    20.45171,
+    103.70219,
+    20.45171
+],
+  "geometry": {"coordinates":[103.70219,20.45171],"type":"Point"}
+}

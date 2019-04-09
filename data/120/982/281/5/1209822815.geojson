@@ -1,0 +1,70 @@
+{
+  "id": 1209822815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.44099,20.62362,103.44099,20.62362",
+    "geom:latitude":20.62362,
+    "geom:longitude":103.44099,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phamon-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954861,
+    "gn:latitude":20.62362,
+    "gn:longitude":103.44099,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phamon-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phamon-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954861
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2b50e7da8301cd71e9e9d5590fb3e0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1209822815,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1209822815,
+    "wof:lastmodified":1537660779,
+    "wof:name":"Ban Phamon-Nua",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.44099,
+    20.62362000000001,
+    103.44099,
+    20.62362000000001
+],
+  "geometry": {"coordinates":[103.44099,20.62362000000001],"type":"Point"}
+}

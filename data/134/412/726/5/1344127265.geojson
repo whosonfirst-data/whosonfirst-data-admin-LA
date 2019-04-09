@@ -1,0 +1,70 @@
+{
+  "id": 1344127265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74845,16.97792,104.74845,16.97792",
+    "geom:latitude":16.97792,
+    "geom:longitude":104.74845,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nonglom",
+    "gn:country_code":"LA",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660757,
+    "gn:latitude":16.97792,
+    "gn:longitude":104.74845,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban N\u00f4ngl\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban N\u00f4ngl\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092028125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660757
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f0888fcc45aa02ac75a5f85af0e0a1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028125,
+            "locality_id":1344127265,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1344127265,
+    "wof:lastmodified":1537660427,
+    "wof:name":"Ban Nonglom",
+    "wof:parent_id":1092028125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74845,
+    16.97792,
+    104.74845,
+    16.97792
+],
+  "geometry": {"coordinates":[104.74845000000001,16.97792],"type":"Point"}
+}

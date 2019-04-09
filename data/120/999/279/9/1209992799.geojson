@@ -1,0 +1,70 @@
+{
+  "id": 1209992799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51199,20.1562,102.51199,20.1562",
+    "geom:latitude":20.1562,
+    "geom:longitude":102.51199,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sensap",
+    "gn:country_code":"LA",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659264,
+    "gn:latitude":20.1562,
+    "gn:longitude":102.51199,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nsap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nsap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659264
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"47e4601b0b39982727a7f5cd96a35f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1209992799,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1209992799,
+    "wof:lastmodified":1537660343,
+    "wof:name":"Ban Sensap",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51199,
+    20.1562,
+    102.51199,
+    20.1562
+],
+  "geometry": {"coordinates":[102.51199,20.1562],"type":"Point"}
+}

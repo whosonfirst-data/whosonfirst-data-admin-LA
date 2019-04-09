@@ -1,0 +1,71 @@
+{
+  "id": 1243024469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4564,18.7363,104.4564,18.7363",
+    "geom:latitude":18.7363,
+    "geom:longitude":104.4564,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Phakhay",
+    "gn:country_code":"LA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660268,
+    "gn:latitude":18.7363,
+    "gn:longitude":104.4564,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phakhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Phakkay",
+        "Ban Phakhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092029605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660268
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0e7ffcf9c7ad416e5920739b61e7f766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029605,
+            "locality_id":1243024469,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1243024469,
+    "wof:lastmodified":1537660398,
+    "wof:name":"Ban Phakhay",
+    "wof:parent_id":1092029605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4564,
+    18.7363,
+    104.4564,
+    18.7363
+],
+  "geometry": {"coordinates":[104.4564,18.7363],"type":"Point"}
+}

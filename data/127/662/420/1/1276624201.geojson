@@ -1,0 +1,67 @@
+{
+  "id": 1276624201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.1,21.3,101.1,21.3",
+    "geom:latitude":21.3,
+    "geom:longitude":101.1,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Muong Moune",
+    "gn:country_code":"LA",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655051,
+    "gn:latitude":21.3,
+    "gn:longitude":101.1,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Muong Moune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655051
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"19fd583f2dff4d4308872b4a0cce8ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1276624201,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276624201,
+    "wof:lastmodified":1536885914,
+    "wof:name":"Muong Moune",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.1,
+    21.3,
+    101.1,
+    21.3
+],
+  "geometry": {"coordinates":[101.09999999999999,21.3],"type":"Point"}
+}

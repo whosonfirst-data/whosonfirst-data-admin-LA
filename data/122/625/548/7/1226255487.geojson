@@ -1,0 +1,70 @@
+{
+  "id": 1226255487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17661,14.88275,106.17661,14.88275",
+    "geom:latitude":14.88275,
+    "geom:longitude":106.17661,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongphu",
+    "gn:country_code":"LA",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660706,
+    "gn:latitude":14.88275,
+    "gn:longitude":106.17661,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongphu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660706
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c1c83e7a19f46b9a14eb1af3ace563ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1226255487,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226255487,
+    "wof:lastmodified":1537660424,
+    "wof:name":"Ban Nongphu",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17661,
+    14.88275,
+    106.17661,
+    14.88275
+],
+  "geometry": {"coordinates":[106.17661,14.88275],"type":"Point"}
+}

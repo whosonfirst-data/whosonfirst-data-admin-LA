@@ -1,0 +1,70 @@
+{
+  "id": 1225811603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48706,21.13606,102.48706,21.13606",
+    "geom:latitude":21.13606,
+    "geom:longitude":102.48706,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Houaylik",
+    "gn:country_code":"LA",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954962,
+    "gn:latitude":21.13606,
+    "gn:longitude":102.48706,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houaylik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaylik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954962
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b7b6cf44dd5ab08997a051ca146af3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1225811603,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1225811603,
+    "wof:lastmodified":1537660783,
+    "wof:name":"Ban Houaylik",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48706,
+    21.13606,
+    102.48706,
+    21.13606
+],
+  "geometry": {"coordinates":[102.48706,21.13606],"type":"Point"}
+}

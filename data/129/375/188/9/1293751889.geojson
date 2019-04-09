@@ -1,0 +1,73 @@
+{
+  "id": 1293751889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.68149,17.83104,102.68149,17.83104",
+    "geom:latitude":17.83104,
+    "geom:longitude":102.68149,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Sithan-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659202,
+    "gn:latitude":17.83104,
+    "gn:longitude":102.68149,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sithan-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sithan-Tai"
+    ],
+    "name:und_x_variant":[
+        "Ban Sithan Tay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092026285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659202
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"32c2e0d623e10118da48971b85fae06a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026285,
+            "locality_id":1293751889,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1293751889,
+    "wof:lastmodified":1537660340,
+    "wof:name":"Ban Sithan-Tai",
+    "wof:parent_id":1092026285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.68149,
+    17.83103999999999,
+    102.68149,
+    17.83103999999999
+],
+  "geometry": {"coordinates":[102.68149,17.83103999999999],"type":"Point"}
+}

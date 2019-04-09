@@ -1,0 +1,70 @@
+{
+  "id": 1226044465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.27161,20.80767,104.27161,20.80767",
+    "geom:latitude":20.80767,
+    "geom:longitude":104.27161,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Chephay",
+    "gn:country_code":"LA",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956071,
+    "gn:latitude":20.80767,
+    "gn:longitude":104.27161,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Ch\u00e9phay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ch\u00e9phay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956071
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d1d50fab4a9c64172792a8840df5455c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1226044465,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226044465,
+    "wof:lastmodified":1537660811,
+    "wof:name":"Ban Chephay",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.27161,
+    20.80767,
+    104.27161,
+    20.80767
+],
+  "geometry": {"coordinates":[104.27161,20.80767],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344215087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78775,18.00511,102.78775,18.00511",
+    "geom:latitude":18.00511,
+    "geom:longitude":102.78775,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Sanghouabo",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661929,
+    "gn:latitude":18.00511,
+    "gn:longitude":102.78775,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sanghouabo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Houa Bo",
+        "Ban Sanghouabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092030043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661929
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1d94e16436e6241843231eb746c535e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030043,
+            "locality_id":1344215087,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1344215087,
+    "wof:lastmodified":1537660495,
+    "wof:name":"Ban Sanghouabo",
+    "wof:parent_id":1092030043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78775,
+    18.00511000000001,
+    102.78775,
+    18.00511000000001
+],
+  "geometry": {"coordinates":[102.78775,18.00511000000001],"type":"Point"}
+}

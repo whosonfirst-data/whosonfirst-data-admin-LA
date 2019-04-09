@@ -1,0 +1,71 @@
+{
+  "id": 1243365415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.32134,20.01092,104.32134,20.01092",
+    "geom:latitude":20.01092,
+    "geom:longitude":104.32134,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nahi",
+    "gn:country_code":"LA",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661953,
+    "gn:latitude":20.01092,
+    "gn:longitude":104.32134,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Nahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Hi",
+        "Ban Nahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661953
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"020af026f0c3318dc5a2b04f14908a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1243365415,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1243365415,
+    "wof:lastmodified":1537660496,
+    "wof:name":"Ban Nahi",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.32134,
+    20.01092,
+    104.32134,
+    20.01092
+],
+  "geometry": {"coordinates":[104.32134000000001,20.01092],"type":"Point"}
+}

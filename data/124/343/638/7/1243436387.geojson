@@ -1,0 +1,70 @@
+{
+  "id": 1243436387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68103,21.11635,101.68103,21.11635",
+    "geom:latitude":21.11635,
+    "geom:longitude":101.68103,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Senluangchoumkham",
+    "gn:country_code":"LA",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659356,
+    "gn:latitude":21.11635,
+    "gn:longitude":101.68103,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nluangchoumkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nluangchoumkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659356
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8ac9d83e081c774363464c6fed5f80f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1243436387,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1243436387,
+    "wof:lastmodified":1537660348,
+    "wof:name":"Ban Senluangchoumkham",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68103,
+    21.11635,
+    101.68103,
+    21.11635
+],
+  "geometry": {"coordinates":[101.68103000000001,21.11635],"type":"Point"}
+}

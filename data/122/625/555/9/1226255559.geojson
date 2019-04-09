@@ -1,0 +1,70 @@
+{
+  "id": 1226255559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99258,15.17158,105.99258,15.17158",
+    "geom:latitude":15.17158,
+    "geom:longitude":105.99258,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houaymouang",
+    "gn:country_code":"LA",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203141,
+    "gn:latitude":15.17158,
+    "gn:longitude":105.99258,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Houaymouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaymouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203141
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a69a0558a7372083a1e2489d47f8d489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1226255559,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226255559,
+    "wof:lastmodified":1537660879,
+    "wof:name":"Ban Houaymouang",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99258,
+    15.17158,
+    105.99258,
+    15.17158
+],
+  "geometry": {"coordinates":[105.99258,15.17158],"type":"Point"}
+}

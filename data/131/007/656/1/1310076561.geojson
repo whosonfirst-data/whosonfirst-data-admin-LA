@@ -1,0 +1,70 @@
+{
+  "id": 1310076561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.75941,19.84819,103.75941,19.84819",
+    "geom:latitude":19.84819,
+    "geom:longitude":103.75941,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Sankang",
+    "gn:country_code":"LA",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952333,
+    "gn:latitude":19.84819,
+    "gn:longitude":103.75941,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Sankang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sankang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952333
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eed5f5a8a5f6b4a1a03dfc01881ec194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1310076561,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1310076561,
+    "wof:lastmodified":1537660715,
+    "wof:name":"Ban Sankang",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.75941,
+    19.84819,
+    103.75941,
+    19.84819
+],
+  "geometry": {"coordinates":[103.75941,19.84819],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310576269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9621,15.68187,105.9621,15.68187",
+    "geom:latitude":15.68187,
+    "geom:longitude":105.9621,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Phakkha",
+    "gn:country_code":"LA",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660257,
+    "gn:latitude":15.68187,
+    "gn:longitude":105.9621,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Phakkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Phakha",
+        "Ban Phakkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660257
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0fcdf585c54e5cd84f5da2f0a641943a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029441,
+            "locality_id":1310576269,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1310576269,
+    "wof:lastmodified":1537660397,
+    "wof:name":"Ban Phakkha",
+    "wof:parent_id":1092029441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9621,
+    15.68187,
+    105.9621,
+    15.68187
+],
+  "geometry": {"coordinates":[105.96210000000001,15.68187],"type":"Point"}
+}

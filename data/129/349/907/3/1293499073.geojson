@@ -1,0 +1,71 @@
+{
+  "id": 1293499073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10314,20.48888,104.10314,20.48888",
+    "geom:latitude":20.48888,
+    "geom:longitude":104.10314,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Gnotlong",
+    "gn:country_code":"LA",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660919,
+    "gn:latitude":20.48888,
+    "gn:longitude":104.10314,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Gnotlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nhot Long",
+        "Ban Gnotlong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660919
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"80a1147d6ce127ae2de9b9f89cf84426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1293499073,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293499073,
+    "wof:lastmodified":1537660437,
+    "wof:name":"Ban Gnotlong",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10314,
+    20.48888,
+    104.10314,
+    20.48888
+],
+  "geometry": {"coordinates":[104.10314,20.48888],"type":"Point"}
+}

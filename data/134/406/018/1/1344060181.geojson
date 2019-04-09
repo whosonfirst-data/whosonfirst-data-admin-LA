@@ -1,0 +1,73 @@
+{
+  "id": 1344060181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7935,14.98787,105.7935,14.98787",
+    "geom:latitude":14.98787,
+    "geom:longitude":105.7935,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Houay Boung-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664823,
+    "gn:latitude":14.98787,
+    "gn:longitude":105.7935,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Houay Boung-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Houay Boung-Mai"
+    ],
+    "name:und_x_variant":[
+        "Ban Boungmai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664823
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"90f2450d3852ffe3eae2a881ec6339f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":1344060181,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1344060181,
+    "wof:lastmodified":1537660669,
+    "wof:name":"Houay Boung-Mai",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7935,
+    14.98787,
+    105.7935,
+    14.98787
+],
+  "geometry": {"coordinates":[105.79349999999999,14.98787],"type":"Point"}
+}

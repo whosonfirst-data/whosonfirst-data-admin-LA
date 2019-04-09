@@ -1,0 +1,73 @@
+{
+  "id": 1226007239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.02508,15.67234,106.02508,15.67234",
+    "geom:latitude":15.67234,
+    "geom:longitude":106.02508,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sompoydong",
+    "gn:country_code":"LA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659167,
+    "gn:latitude":15.67234,
+    "gn:longitude":106.02508,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban S\u00f4mpoyd\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4mpoyd\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Sompoi Dong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659167
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"31db07051e0fe5540ae5bea33be06cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029441,
+            "locality_id":1226007239,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226007239,
+    "wof:lastmodified":1537660338,
+    "wof:name":"Ban Sompoydong",
+    "wof:parent_id":1092029441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.02508,
+    15.67234,
+    106.02508,
+    15.67234
+],
+  "geometry": {"coordinates":[106.02508,15.67234],"type":"Point"}
+}

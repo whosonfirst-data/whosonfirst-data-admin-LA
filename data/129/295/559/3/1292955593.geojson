@@ -1,0 +1,70 @@
+{
+  "id": 1292955593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.12062,15.97031,107.12062,15.97031",
+    "geom:latitude":15.97031,
+    "geom:longitude":107.12062,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Aleo",
+    "gn:country_code":"LA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199844,
+    "gn:latitude":15.97031,
+    "gn:longitude":107.12062,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Al\u00eao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Al\u00eao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199844
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"288f5e57087b24cb2b44024f68d549f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1292955593,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1292955593,
+    "wof:lastmodified":1537660851,
+    "wof:name":"Ban Aleo",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.12062,
+    15.97031,
+    107.12062,
+    15.97031
+],
+  "geometry": {"coordinates":[107.12062,15.97031],"type":"Point"}
+}

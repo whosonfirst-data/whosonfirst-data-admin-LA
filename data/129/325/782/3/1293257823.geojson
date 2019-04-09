@@ -1,0 +1,73 @@
+{
+  "id": 1293257823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.72549,15.94371,106.72549,15.94371",
+    "geom:latitude":15.94371,
+    "geom:longitude":106.72549,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Luktoungka Tai",
+    "gn:country_code":"LA",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662380,
+    "gn:latitude":15.94371,
+    "gn:longitude":106.72549,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Luktoungka Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Luktoungka Tai"
+    ],
+    "name:und_x_variant":[
+        "Ban Luktoungka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662380
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"84707cefec71d3d0fc8853995ca27a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1293257823,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293257823,
+    "wof:lastmodified":1537660519,
+    "wof:name":"Ban Luktoungka Tai",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.72549,
+    15.94371,
+    106.72549,
+    15.94371
+],
+  "geometry": {"coordinates":[106.72548999999999,15.94371],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309913303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.60334,20.632,103.60334,20.632",
+    "geom:latitude":20.632,
+    "geom:longitude":103.60334,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houaypade-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953921,
+    "gn:latitude":20.632,
+    "gn:longitude":103.60334,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houaypad\u00e8-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaypad\u00e8-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953921
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f0dda08554d59b07041c3ac98f0d7571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1309913303,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1309913303,
+    "wof:lastmodified":1537660755,
+    "wof:name":"Ban Houaypade-Nua",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.60334,
+    20.632,
+    103.60334,
+    20.632
+],
+  "geometry": {"coordinates":[103.60334,20.632],"type":"Point"}
+}

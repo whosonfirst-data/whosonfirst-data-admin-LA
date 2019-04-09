@@ -1,0 +1,70 @@
+{
+  "id": 1293459941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16938,17.64334,105.16938,17.64334",
+    "geom:latitude":17.64334,
+    "geom:longitude":105.16938,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Itak",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663465,
+    "gn:latitude":17.64334,
+    "gn:longitude":105.16938,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Itak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Itak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663465
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d8e5a0cb9122610a5c4c0f6099f89238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":1293459941,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293459941,
+    "wof:lastmodified":1537660581,
+    "wof:name":"Ban Itak",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16938,
+    17.64334,
+    105.16938,
+    17.64334
+],
+  "geometry": {"coordinates":[105.16938,17.64334],"type":"Point"}
+}

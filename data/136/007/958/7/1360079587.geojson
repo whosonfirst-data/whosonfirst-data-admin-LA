@@ -1,0 +1,67 @@
+{
+  "id": 1360079587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85195,20.20471,101.85195,20.20471",
+    "geom:latitude":20.20471,
+    "geom:longitude":101.85195,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Senboun-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953565,
+    "gn:latitude":20.20471,
+    "gn:longitude":101.85195,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ban S\u00e8nboun-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953565
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1e9f71676d58976906d021077174dbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1360079587,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1360079587,
+    "wof:lastmodified":1536953737,
+    "wof:name":"Ban Senboun-Noy",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85195,
+    20.20471,
+    101.85195,
+    20.20471
+],
+  "geometry": {"coordinates":[101.85195,20.20471],"type":"Point"}
+}

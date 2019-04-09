@@ -1,0 +1,70 @@
+{
+  "id": 1360264649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.75144,19.33092,101.75144,19.33092",
+    "geom:latitude":19.33092,
+    "geom:longitude":101.75144,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Naleng-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221379,
+    "gn:latitude":19.33092,
+    "gn:longitude":101.75144,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Naleng-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naleng-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221379
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0a9ff4cade5e387fbeed4e43587194a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1360264649,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1360264649,
+    "wof:lastmodified":1537660884,
+    "wof:name":"Ban Naleng-Noy",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.75144,
+    19.33092000000001,
+    101.75144,
+    19.33092000000001
+],
+  "geometry": {"coordinates":[101.75144,19.33092000000001],"type":"Point"}
+}

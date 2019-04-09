@@ -1,0 +1,71 @@
+{
+  "id": 1225801389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81667,18.3,104.81667,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":104.81667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Phonsoung",
+    "gn:country_code":"LA",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659878,
+    "gn:latitude":18.3,
+    "gn:longitude":104.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Ph\u00f4nsoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Phon Sung",
+        "Ban Ph\u00f4nsoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659878
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6bf5791e03f71230d7be35c98d0dd0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1225801389,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1225801389,
+    "wof:lastmodified":1537660376,
+    "wof:name":"Ban Phonsoung",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81667,
+    18.3,
+    104.81667,
+    18.3
+],
+  "geometry": {"coordinates":[104.81667,18.3],"type":"Point"}
+}

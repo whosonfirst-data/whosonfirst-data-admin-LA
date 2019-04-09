@@ -1,0 +1,72 @@
+{
+  "id": 1226620627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.07641,16.83644,106.07641,16.83644",
+    "geom:latitude":16.83644,
+    "geom:longitude":106.07641,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Vangmothoum",
+    "gn:country_code":"LA",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658258,
+    "gn:latitude":16.83644,
+    "gn:longitude":106.07641,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangmothoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Vang Mathoun",
+        "Ban Vangmothoum",
+        "Keng Kok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658258
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bb1641e71309915644cc9727da3a7de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1226620627,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226620627,
+    "wof:lastmodified":1537660285,
+    "wof:name":"Ban Vangmothoum",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.07641,
+    16.83644,
+    106.07641,
+    16.83644
+],
+  "geometry": {"coordinates":[106.07641,16.83644],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343424659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.33333,20.11667,102.33333,20.11667",
+    "geom:latitude":20.11667,
+    "geom:longitude":102.33333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houay Heung",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663892,
+    "gn:latitude":20.11667,
+    "gn:longitude":102.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Houay Heung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Lung",
+        "Ban Houei Heung",
+        "Ban Houay Heung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663892
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cba3e3d7798c2a31f4c948ab12375e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028205,
+            "locality_id":1343424659,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1343424659,
+    "wof:lastmodified":1537660612,
+    "wof:name":"Ban Houay Heung",
+    "wof:parent_id":1092028205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33333,
+    20.11667000000001,
+    102.33333,
+    20.11667000000001
+],
+  "geometry": {"coordinates":[102.33333,20.11667000000001],"type":"Point"}
+}

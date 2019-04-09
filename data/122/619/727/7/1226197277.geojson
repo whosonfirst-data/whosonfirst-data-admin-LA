@@ -1,0 +1,70 @@
+{
+  "id": 1226197277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.89649,15.67836,106.89649,15.67836",
+    "geom:latitude":15.67836,
+    "geom:longitude":106.89649,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Phak-Houay",
+    "gn:country_code":"LA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660262,
+    "gn:latitude":15.67836,
+    "gn:longitude":106.89649,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phak-Houay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phak-Houay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660262
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"637b5ca7b016475f38d00916788ce855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1226197277,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1226197277,
+    "wof:lastmodified":1537660397,
+    "wof:name":"Ban Phak-Houay",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.89649,
+    15.67836,
+    106.89649,
+    15.67836
+],
+  "geometry": {"coordinates":[106.89649,15.67836],"type":"Point"}
+}

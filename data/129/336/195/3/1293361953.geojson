@@ -1,0 +1,71 @@
+{
+  "id": 1293361953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.49344,19.61229,102.49344,19.61229",
+    "geom:latitude":19.61229,
+    "geom:longitude":102.49344,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senpan-Gna",
+    "gn:country_code":"LA",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659275,
+    "gn:latitude":19.61229,
+    "gn:longitude":102.49344,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00e8npan-Gna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban S\u00e8n Pan Ya (1)",
+        "Ban S\u00e8npan-Gna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659275
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6dc37a9a1786ef6c23aff9ab4dbfa54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1293361953,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293361953,
+    "wof:lastmodified":1537660343,
+    "wof:name":"Ban Senpan-Gna",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.49344,
+    19.61229,
+    102.49344,
+    19.61229
+],
+  "geometry": {"coordinates":[102.49344000000001,19.61229],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293731597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.76754,18.06971,101.76754,18.06971",
+    "geom:latitude":18.06971,
+    "geom:longitude":101.76754,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kon Saysaday",
+    "gn:country_code":"LA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1941650,
+    "gn:latitude":18.06971,
+    "gn:longitude":101.76754,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Kon Saysaday",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Kon Saysaday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941650
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"500ecf6c2e5a027fd36df111c0175b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027485,
+            "locality_id":1293731597,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293731597,
+    "wof:lastmodified":1537660698,
+    "wof:name":"Kon Saysaday",
+    "wof:parent_id":1092027485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.76754,
+    18.06971,
+    101.76754,
+    18.06971
+],
+  "geometry": {"coordinates":[101.76754,18.06971],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276939765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56288,16.01227,106.56288,16.01227",
+    "geom:latitude":16.01227,
+    "geom:longitude":106.56288,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Laviphothong",
+    "gn:country_code":"LA",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662507,
+    "gn:latitude":16.01227,
+    "gn:longitude":106.56288,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Laviphothong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Laviphothong"
+    ],
+    "name:und_x_variant":[
+        "Lavi Pho Thong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662507
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"134cedb01164dd6fdbf37f55985be1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1276939765,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1276939765,
+    "wof:lastmodified":1537660526,
+    "wof:name":"Ban Laviphothong",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56288,
+    16.01227,
+    106.56288,
+    16.01227
+],
+  "geometry": {"coordinates":[106.56288000000001,16.01227],"type":"Point"}
+}

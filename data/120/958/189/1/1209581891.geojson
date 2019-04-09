@@ -1,0 +1,68 @@
+{
+  "id": 1209581891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94034,21.46056,101.94034,21.46056",
+    "geom:latitude":21.46056,
+    "geom:longitude":101.94034,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sen-At",
+    "gn:country_code":"LA",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653274,
+    "gn:latitude":21.46056,
+    "gn:longitude":101.94034,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban S\u00e9n-At",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e9n-At"
+    ],
+    "name:und_x_variant":[
+        "Sen Al",
+        "Sen At"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653274
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"49f95e8943621611cd35630e04ed2e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209581891
+        }
+    ],
+    "wof:id":1209581891,
+    "wof:lastmodified":1537660207,
+    "wof:name":"Ban Sen-At",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94034,
+    21.46056,
+    101.94034,
+    21.46056
+],
+  "geometry": {"coordinates":[101.94034000000001,21.46056],"type":"Point"}
+}

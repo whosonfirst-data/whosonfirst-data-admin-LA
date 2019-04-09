@@ -1,0 +1,72 @@
+{
+  "id": 1326486665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7939,18.63627,104.7939,18.63627",
+    "geom:latitude":18.63627,
+    "geom:longitude":104.7939,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Sopsang",
+    "gn:country_code":"LA",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659068,
+    "gn:latitude":18.63627,
+    "gn:longitude":104.7939,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00f4psang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Xop Sang",
+        "Ban Xop Sang",
+        "Ban S\u00f4psang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659068
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e485115f32fa6a02e8e33a5931215ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1326486665,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1326486665,
+    "wof:lastmodified":1537660332,
+    "wof:name":"Ban Sopsang",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7939,
+    18.63627,
+    104.7939,
+    18.63627
+],
+  "geometry": {"coordinates":[104.79389999999999,18.63627],"type":"Point"}
+}

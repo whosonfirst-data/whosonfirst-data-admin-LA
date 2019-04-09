@@ -1,0 +1,70 @@
+{
+  "id": 1293071971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86497,19.20145,103.86497,19.20145",
+    "geom:latitude":19.20145,
+    "geom:longitude":103.86497,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Paxang",
+    "gn:country_code":"LA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11228494,
+    "gn:latitude":19.20145,
+    "gn:longitude":103.86497,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Paxang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Paxang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228494
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"60c4b6a71d971f6902ae81ffd9ab65ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027549,
+            "locality_id":1293071971,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293071971,
+    "wof:lastmodified":1537660912,
+    "wof:name":"Ban Paxang",
+    "wof:parent_id":1092027549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86497,
+    19.20145,
+    103.86497,
+    19.20145
+],
+  "geometry": {"coordinates":[103.86497,19.20145],"type":"Point"}
+}

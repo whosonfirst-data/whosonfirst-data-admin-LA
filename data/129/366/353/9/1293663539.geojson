@@ -1,0 +1,70 @@
+{
+  "id": 1293663539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.46679,16.53434,106.46679,16.53434",
+    "geom:latitude":16.53434,
+    "geom:longitude":106.46679,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tamlouang-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658921,
+    "gn:latitude":16.53434,
+    "gn:longitude":106.46679,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tamlouang-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tam Luong",
+        "Ban Tamlouang (3)",
+        "Ban Tamlouang-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658921
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3b3e6ed50095cf88d27b0661892a98d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1293663539,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293663539,
+    "wof:lastmodified":1537660324,
+    "wof:name":"Ban Tamlouang-Gnai",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.46679,
+    16.53434,
+    106.46679,
+    16.53434
+],
+  "geometry": {"coordinates":[106.46679,16.53434],"type":"Point"}
+}

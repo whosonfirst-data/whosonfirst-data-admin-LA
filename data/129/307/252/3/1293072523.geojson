@@ -1,0 +1,70 @@
+{
+  "id": 1293072523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.62854,20.0142,102.62854,20.0142",
+    "geom:latitude":20.0142,
+    "geom:longitude":102.62854,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houaypot",
+    "gn:country_code":"LA",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956633,
+    "gn:latitude":20.0142,
+    "gn:longitude":102.62854,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houayp\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayp\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956633
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d20ac9ce6958ff2a4270f999e0bb1ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028703,
+            "locality_id":1293072523,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293072523,
+    "wof:lastmodified":1537660826,
+    "wof:name":"Ban Houaypot",
+    "wof:parent_id":1092028703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.62854,
+    20.0142,
+    102.62854,
+    20.0142
+],
+  "geometry": {"coordinates":[102.62854,20.0142],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243329193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.22029,16.10082,106.22029,16.10082",
+    "geom:latitude":16.10082,
+    "geom:longitude":106.22029,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sakuay",
+    "gn:country_code":"LA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11236677,
+    "gn:latitude":16.10082,
+    "gn:longitude":106.22029,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Sakuay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Sakuay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236677
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b25a8e88683e6128eb65b174045333bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1243329193,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243329193,
+    "wof:lastmodified":1537660964,
+    "wof:name":"Ban Sakuay",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.22029,
+    16.10082,
+    106.22029,
+    16.10082
+],
+  "geometry": {"coordinates":[106.22029000000001,16.10082],"type":"Point"}
+}

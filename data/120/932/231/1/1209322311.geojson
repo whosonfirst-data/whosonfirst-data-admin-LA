@@ -1,0 +1,64 @@
+{
+  "id": 1209322311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.272,19.94448,104.272,19.94448",
+    "geom:latitude":19.94448,
+    "geom:longitude":104.272,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Lan",
+    "gn:country_code":"LA",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952850,
+    "gn:latitude":19.94448,
+    "gn:longitude":104.272,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Lan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952850
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"af68f35412a1b2e85ef401cae42e2ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209322311
+        }
+    ],
+    "wof:id":1209322311,
+    "wof:lastmodified":1537660726,
+    "wof:name":"Ban Lan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.272,
+    19.94448,
+    104.272,
+    19.94448
+],
+  "geometry": {"coordinates":[104.27200000000001,19.94448],"type":"Point"}
+}

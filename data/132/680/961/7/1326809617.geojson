@@ -1,0 +1,73 @@
+{
+  "id": 1326809617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.28241,19.72816,101.28241,19.72816",
+    "geom:latitude":19.72816,
+    "geom:longitude":101.28241,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Kioumaktek",
+    "gn:country_code":"LA",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941787,
+    "gn:latitude":19.72816,
+    "gn:longitude":101.28241,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Kioumakt\u00e8k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kioumakt\u00e8k"
+    ],
+    "name:und_x_variant":[
+        "Ban Kioumakt\u00eak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092027837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941787
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e90a4cf05829108e417b6fd825470c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027837,
+            "locality_id":1326809617,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1326809617,
+    "wof:lastmodified":1537660699,
+    "wof:name":"Ban Kioumaktek",
+    "wof:parent_id":1092027837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.28241,
+    19.72816,
+    101.28241,
+    19.72816
+],
+  "geometry": {"coordinates":[101.28241,19.72816],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242936737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.0666,20.62035,103.0666,20.62035",
+    "geom:latitude":20.62035,
+    "geom:longitude":103.0666,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Naveung",
+    "gn:country_code":"LA",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654758,
+    "gn:latitude":20.62035,
+    "gn:longitude":103.0666,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Naveung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naveung",
+        "Ban Naveung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654758
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51165957529e0dd613dcc55af2e1828c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1242936737,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242936737,
+    "wof:lastmodified":1537660221,
+    "wof:name":"Ban Naveung",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.0666,
+    20.62035,
+    103.0666,
+    20.62035
+],
+  "geometry": {"coordinates":[103.06659999999999,20.62035],"type":"Point"}
+}

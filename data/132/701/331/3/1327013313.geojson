@@ -1,0 +1,70 @@
+{
+  "id": 1327013313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.36716,19.32627,103.36716,19.32627",
+    "geom:latitude":19.32627,
+    "geom:longitude":103.36716,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nasi",
+    "gn:country_code":"LA",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11228372,
+    "gn:latitude":19.32627,
+    "gn:longitude":103.36716,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228372
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"749bc8ba9042a6c7a203b8d5583724e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1327013313,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1327013313,
+    "wof:lastmodified":1537660910,
+    "wof:name":"Ban Nasi",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.36716,
+    19.32627,
+    103.36716,
+    19.32627
+],
+  "geometry": {"coordinates":[103.36716,19.32627],"type":"Point"}
+}

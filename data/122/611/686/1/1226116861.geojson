@@ -1,0 +1,70 @@
+{
+  "id": 1226116861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.34125,16.8311,106.34125,16.8311",
+    "geom:latitude":16.8311,
+    "geom:longitude":106.34125,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kata",
+    "gn:country_code":"LA",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663342,
+    "gn:latitude":16.8311,
+    "gn:longitude":106.34125,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663342
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2750352d0316420894704a111ba91d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1226116861,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226116861,
+    "wof:lastmodified":1537660574,
+    "wof:name":"Ban Kata",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.34125,
+    16.8311,
+    106.34125,
+    16.8311
+],
+  "geometry": {"coordinates":[106.34125,16.8311],"type":"Point"}
+}

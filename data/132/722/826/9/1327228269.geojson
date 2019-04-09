@@ -1,0 +1,70 @@
+{
+  "id": 1327228269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.66852,20.32913,101.66852,20.32913",
+    "geom:latitude":20.32913,
+    "geom:longitude":101.66852,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Pangdua",
+    "gn:country_code":"LA",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953498,
+    "gn:latitude":20.32913,
+    "gn:longitude":101.66852,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Pangdua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pangdua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953498
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"740e3d9002c82913d29d8518eb14d85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1327228269,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1327228269,
+    "wof:lastmodified":1537660742,
+    "wof:name":"Ban Pangdua",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.66852,
+    20.32913,
+    101.66852,
+    20.32913
+],
+  "geometry": {"coordinates":[101.66852,20.32913],"type":"Point"}
+}

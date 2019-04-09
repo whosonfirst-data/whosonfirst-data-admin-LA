@@ -1,0 +1,70 @@
+{
+  "id": 1293847211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.14485,21.408,102.14485,21.408",
+    "geom:latitude":21.408,
+    "geom:longitude":102.14485,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Muchi",
+    "gn:country_code":"LA",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655063,
+    "gn:latitude":21.408,
+    "gn:longitude":102.14485,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Muchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Mu C\u2019chi (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655063
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4345305912c21e0653a16c73f5819830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1293847211,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293847211,
+    "wof:lastmodified":1537660225,
+    "wof:name":"Ban Muchi",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.14485,
+    21.408,
+    102.14485,
+    21.408
+],
+  "geometry": {"coordinates":[102.14485000000001,21.408],"type":"Point"}
+}

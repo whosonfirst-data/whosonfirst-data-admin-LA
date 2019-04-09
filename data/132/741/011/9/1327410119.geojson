@@ -1,0 +1,70 @@
+{
+  "id": 1327410119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.60838,20.03198,102.60838,20.03198",
+    "geom:latitude":20.03198,
+    "geom:longitude":102.60838,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Khaokok",
+    "gn:country_code":"LA",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663037,
+    "gn:latitude":20.03198,
+    "gn:longitude":102.60838,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Khaok\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Khaok\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663037
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8b153f5d3d864e73de9c20a17855501c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1327410119,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1327410119,
+    "wof:lastmodified":1537660556,
+    "wof:name":"Ban Khaokok",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.60838,
+    20.03198,
+    102.60838,
+    20.03198
+],
+  "geometry": {"coordinates":[102.60838,20.03198],"type":"Point"}
+}

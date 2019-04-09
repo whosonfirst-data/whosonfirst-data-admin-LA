@@ -1,0 +1,67 @@
+{
+  "id": 1344048913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.30444,20.00778,101.30444,20.00778",
+    "geom:latitude":20.00778,
+    "geom:longitude":101.30444,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Oudom",
+    "gn:country_code":"LA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951668,
+    "gn:latitude":20.00778,
+    "gn:longitude":101.30444,
+    "gn:modification_date":"2001-05-03",
+    "gn:name":"Ban Oud\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951668
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"386eb004f2de78f8112bb3471c67f326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1344048913,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1344048913,
+    "wof:lastmodified":1536891998,
+    "wof:name":"Ban Oudom",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.30444,
+    20.00778,
+    101.30444,
+    20.00778
+],
+  "geometry": {"coordinates":[101.30444,20.00778],"type":"Point"}
+}

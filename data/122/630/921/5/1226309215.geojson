@@ -1,0 +1,70 @@
+{
+  "id": 1226309215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.15736,21.84114,102.15736,21.84114",
+    "geom:latitude":21.84114,
+    "geom:longitude":102.15736,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Naposang-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954059,
+    "gn:latitude":21.84114,
+    "gn:longitude":102.15736,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Nap\u00f4sang-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nap\u00f4sang-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954059
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7d5c7daf2bf4fc8ee6d757e72fa22744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1226309215,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226309215,
+    "wof:lastmodified":1537660756,
+    "wof:name":"Ban Naposang-Mai",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.15736,
+    21.84114,
+    102.15736,
+    21.84114
+],
+  "geometry": {"coordinates":[102.15736,21.84114],"type":"Point"}
+}

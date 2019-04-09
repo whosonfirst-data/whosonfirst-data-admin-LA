@@ -1,0 +1,64 @@
+{
+  "id": 1209601561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.39608,18.16146,101.39608,18.16146",
+    "geom:latitude":18.16146,
+    "geom:longitude":101.39608,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khokkhaodo",
+    "gn:country_code":"LA",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222455,
+    "gn:latitude":18.16146,
+    "gn:longitude":101.39608,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kh\u00f4kkhaodo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4kkhaodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222455
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ea7be02cd3f1a88afab72e5872432cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209601561
+        }
+    ],
+    "wof:id":1209601561,
+    "wof:lastmodified":1537660897,
+    "wof:name":"Ban Khokkhaodo",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.39608,
+    18.16146,
+    101.39608,
+    18.16146
+],
+  "geometry": {"coordinates":[101.39608,18.16146],"type":"Point"}
+}

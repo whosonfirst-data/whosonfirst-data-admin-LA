@@ -1,0 +1,70 @@
+{
+  "id": 1343738183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.77773,22.49823,101.77773,22.49823",
+    "geom:latitude":22.49823,
+    "geom:longitude":101.77773,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pochosin",
+    "gn:country_code":"LA",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1956129,
+    "gn:latitude":22.49823,
+    "gn:longitude":101.77773,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Pochosin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Pochosin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956129
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ff7056b9c4844c8482ab99fe5d12b271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1343738183,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1343738183,
+    "wof:lastmodified":1537660812,
+    "wof:name":"Ban Pochosin",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.77773,
+    22.49823,
+    101.77773,
+    22.49823
+],
+  "geometry": {"coordinates":[101.77773000000001,22.49823],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293092799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52358,20.11253,101.52358,20.11253",
+    "geom:latitude":20.11253,
+    "geom:longitude":101.52358,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Sengdi",
+    "gn:country_code":"LA",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953596,
+    "gn:latitude":20.11253,
+    "gn:longitude":101.52358,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban S\u00e8ngdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8ngdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953596
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e8fd3c22adbc1c7c43d43f030286e23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1293092799,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293092799,
+    "wof:lastmodified":1537660745,
+    "wof:name":"Ban Sengdi",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52358,
+    20.11253,
+    101.52358,
+    20.11253
+],
+  "geometry": {"coordinates":[101.52358,20.11253],"type":"Point"}
+}

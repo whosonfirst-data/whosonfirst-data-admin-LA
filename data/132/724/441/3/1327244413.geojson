@@ -1,0 +1,71 @@
+{
+  "id": 1327244413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9,14.9,105.9,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":105.9,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Noy",
+    "gn:country_code":"LA",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660607,
+    "gn:latitude":14.9,
+    "gn:longitude":105.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban No\u00ef",
+        "Ban Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660607
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8eb0cad70395dd043a573a525a75a39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1327244413,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1327244413,
+    "wof:lastmodified":1537660418,
+    "wof:name":"Ban Noy",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9,
+    14.9,
+    105.9,
+    14.9
+],
+  "geometry": {"coordinates":[105.90000000000001,14.9],"type":"Point"}
+}

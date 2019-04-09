@@ -1,0 +1,70 @@
+{
+  "id": 1209870463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63035,18.34707,102.63035,18.34707",
+    "geom:latitude":18.34707,
+    "geom:longitude":102.63035,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Natao",
+    "gn:country_code":"LA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944274,
+    "gn:latitude":18.34707,
+    "gn:longitude":102.63035,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Natao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Natao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944274
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"026d79c1eee672ac454322c2857e640b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1209870463,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1209870463,
+    "wof:lastmodified":1537660704,
+    "wof:name":"Ban Natao",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63035,
+    18.34707,
+    102.63035,
+    18.34707
+],
+  "geometry": {"coordinates":[102.63035000000001,18.34707],"type":"Point"}
+}

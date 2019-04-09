@@ -1,0 +1,67 @@
+{
+  "id": 1242936757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48333,19.43333,102.48333,19.43333",
+    "geom:latitude":19.43333,
+    "geom:longitude":102.48333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phou Soung",
+    "gn:country_code":"LA",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659750,
+    "gn:latitude":19.43333,
+    "gn:longitude":102.48333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Phou Soung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659750
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9e71cec3aaca577b4db0e4937b19f80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1242936757,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242936757,
+    "wof:lastmodified":1537041771,
+    "wof:name":"Ban Phou Soung",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48333,
+    19.43333,
+    102.48333,
+    19.43333
+],
+  "geometry": {"coordinates":[102.48333,19.43333],"type":"Point"}
+}

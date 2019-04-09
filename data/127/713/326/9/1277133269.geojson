@@ -1,0 +1,74 @@
+{
+  "id": 1277133269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18802,20.65626,100.18802,20.65626",
+    "geom:latitude":20.65626,
+    "geom:longitude":100.18802,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Tang-O",
+    "gn:country_code":"LA",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652841,
+    "gn:latitude":20.65626,
+    "gn:longitude":100.18802,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Tang-O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Tang Au",
+        "Ban Ta Tang-au",
+        "Ban Tang Ho",
+        "Ban Thang O",
+        "Ban Tang-O"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092026785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652841
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"335ae8fa674265417fc473268da6a63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026785,
+            "locality_id":1277133269,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1277133269,
+    "wof:lastmodified":1537660199,
+    "wof:name":"Ban Tang-O",
+    "wof:parent_id":1092026785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18802,
+    20.65626,
+    100.18802,
+    20.65626
+],
+  "geometry": {"coordinates":[100.18801999999999,20.65626],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310376871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11821,19.86417,102.11821,19.86417",
+    "geom:latitude":19.86417,
+    "geom:longitude":102.11821,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Xiangkeo",
+    "gn:country_code":"LA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658049,
+    "gn:latitude":19.86417,
+    "gn:longitude":102.11821,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xiangk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sieng Keo",
+        "Ban Sieng K\u00e8ou",
+        "Ban Xiangk\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658049
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e5c495f198d9957cb7413d8cd42e4222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":1310376871,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1310376871,
+    "wof:lastmodified":1537660270,
+    "wof:name":"Ban Xiangkeo",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11821,
+    19.86417,
+    102.11821,
+    19.86417
+],
+  "geometry": {"coordinates":[102.11821,19.86417],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209279265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08333,16.85,106.08333,16.85",
+    "geom:latitude":16.85,
+    "geom:longitude":106.08333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Keng Kok",
+    "gn:country_code":"LA",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1656638,
+    "gn:latitude":16.85,
+    "gn:longitude":106.08333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Keng Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656638
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a8f3041c83b3fb4b195b5a83763ad829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209279265
+        }
+    ],
+    "wof:id":1209279265,
+    "wof:lastmodified":1536292082,
+    "wof:name":"Keng Kok",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08333,
+    16.85,
+    106.08333,
+    16.85
+],
+  "geometry": {"coordinates":[106.08333,16.85],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276940445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0541,21.30952,102.0541,21.30952",
+    "geom:latitude":21.30952,
+    "geom:longitude":102.0541,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Aya-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954884,
+    "gn:latitude":21.30952,
+    "gn:longitude":102.0541,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Aya-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Aya-Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954884
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"96ca9c741dba6d441363ae45df6ce5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1276940445,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276940445,
+    "wof:lastmodified":1537660780,
+    "wof:name":"Ban Aya-Kao",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0541,
+    21.30952000000001,
+    102.0541,
+    21.30952000000001
+],
+  "geometry": {"coordinates":[102.05410000000001,21.30952000000001],"type":"Point"}
+}

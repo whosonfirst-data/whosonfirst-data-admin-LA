@@ -1,0 +1,71 @@
+{
+  "id": 1327300127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.84609,22.22117,101.84609,22.22117",
+    "geom:latitude":22.22117,
+    "geom:longitude":101.84609,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pek",
+    "gn:country_code":"LA",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660338,
+    "gn:latitude":22.22117,
+    "gn:longitude":101.84609,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban P\u00e9k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Peck",
+        "Ban P\u00e9k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660338
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7c3971a337cc6f96f52df3146119cfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1327300127,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1327300127,
+    "wof:lastmodified":1537660401,
+    "wof:name":"Ban Pek",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.84609,
+    22.22117,
+    101.84609,
+    22.22117
+],
+  "geometry": {"coordinates":[101.84609,22.22117],"type":"Point"}
+}

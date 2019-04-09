@@ -1,0 +1,70 @@
+{
+  "id": 1293179845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.6552,19.35576,103.6552,19.35576",
+    "geom:latitude":19.35576,
+    "geom:longitude":103.6552,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Pokhak",
+    "gn:country_code":"LA",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11227173,
+    "gn:latitude":19.35576,
+    "gn:longitude":103.6552,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pokhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Pokhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227173
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f0b8a9b854c447fb6faa644ead3c9b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1293179845,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293179845,
+    "wof:lastmodified":1537660906,
+    "wof:name":"Ban Pokhak",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.6552,
+    19.35576,
+    103.6552,
+    19.35576
+],
+  "geometry": {"coordinates":[103.65519999999999,19.35576],"type":"Point"}
+}

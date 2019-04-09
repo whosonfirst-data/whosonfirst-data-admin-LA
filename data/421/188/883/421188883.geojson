@@ -1,0 +1,75 @@
+{
+  "id": 421188883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.814048,14.071312,105.814048,14.071312",
+    "geom:latitude":14.071312,
+    "geom:longitude":105.814048,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Phumi Kompong Sralau",
+    "qs:name_adm0":"Cambodia",
+    "qs:name_adm1":"Preah Vihear",
+    "qs:photos":82,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":82,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104853,
+    "qs:woe_adm0":23424776,
+    "qs:woe_id":1028529,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1028529,
+        "qs:id":1104853
+    },
+    "wof:country":"LA",
+    "wof:created":1459009587,
+    "wof:geomhash":"47001ead439aef942b5cf86a91e61c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":421188883,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":421188883,
+    "wof:lastmodified":1500012901,
+    "wof:name":"Phumi Kompong Sralau",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.814048,
+    14.071312,
+    105.814048,
+    14.071312
+],
+  "geometry": {"coordinates":[105.814048,14.071312],"type":"Point"}
+}

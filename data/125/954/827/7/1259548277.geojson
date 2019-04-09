@@ -1,0 +1,71 @@
+{
+  "id": 1259548277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.08101,16.22633,105.08101,16.22633",
+    "geom:latitude":16.22633,
+    "geom:longitude":105.08101,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Sisavang",
+    "gn:country_code":"LA",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659207,
+    "gn:latitude":16.22633,
+    "gn:longitude":105.08101,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sisavang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sisavang (1)",
+        "Ban Sisayang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659207
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c94422c1982e7427ee5d252fc8a91c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030959,
+            "locality_id":1259548277,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259548277,
+    "wof:lastmodified":1537660340,
+    "wof:name":"Ban Sisavang",
+    "wof:parent_id":1092030959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.08101,
+    16.22632999999999,
+    105.08101,
+    16.22632999999999
+],
+  "geometry": {"coordinates":[105.08101000000001,16.22632999999999],"type":"Point"}
+}

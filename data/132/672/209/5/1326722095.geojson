@@ -1,0 +1,70 @@
+{
+  "id": 1326722095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96469,20.25101,101.96469,20.25101",
+    "geom:latitude":20.25101,
+    "geom:longitude":101.96469,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Thin",
+    "gn:country_code":"LA",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658532,
+    "gn:latitude":20.25101,
+    "gn:longitude":101.96469,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Thin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658532
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c2a24b543a232cc0f26dbe826469abfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1326722095,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1326722095,
+    "wof:lastmodified":1537660301,
+    "wof:name":"Ban Thin",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96469,
+    20.25101,
+    101.96469,
+    20.25101
+],
+  "geometry": {"coordinates":[101.96469,20.25101],"type":"Point"}
+}

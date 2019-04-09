@@ -1,0 +1,78 @@
+{
+  "id": 1175612899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":318254.693493,
+    "geom:bbox":"106.511231688,14.588794868,106.543946452,14.5970047063",
+    "geom:latitude":14.593346,
+    "geom:longitude":106.528153,
+    "iso:country":"LA",
+    "lbl:latitude":14.592369,
+    "lbl:longitude":106.513952,
+    "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
+    "meso:admin_1":"Attapeu",
+    "meso:dissme":"SanamxaiAttapeu",
+    "meso:gadm_admin":"Sanamxay",
+    "meso:gadm_hasc2":"LA.AT.SN",
+    "meso:mps_x":106.513952,
+    "meso:mps_y":14.592369,
+    "meso:name_en":"Sanamxai",
+    "meso:name_loc":"\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0ec4\u0e8a",
+    "meso:source":"AOTM",
+    "mps:latitude":14.592369,
+    "mps:longitude":106.513952,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Sanamxay"
+    ],
+    "name:und_x_variant":[
+        "\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0ec4\u0e8a"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092031419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LA.AT.SN"
+    },
+    "wof:country":"LA",
+    "wof:created":1473897785,
+    "wof:geomhash":"7f2931006bf8a70ad017b635ea532abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031419,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1175612899,
+    "wof:lastmodified":1534985957,
+    "wof:name":"Sanamxai",
+    "wof:parent_id":85673469,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1092031463,
+        1092031419
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51123168788074,
+    14.58879486801134,
+    106.54394645184118,
+    14.59700470631272
+],
+  "geometry": {"coordinates":[[[[106.51913418486224,14.59172736296302],[106.51886,14.591673],[106.517714,14.591389],[106.51626,14.59086],[106.51528999999999,14.590371],[106.513527,14.58972],[106.51123168788074,14.58879486801134],[106.51208285356766,14.595],[106.51365959515199,14.595416728269],[106.51912512984784,14.59174868252777],[106.51913418486224,14.59172736296302]]],[[[106.54394645184118,14.59335506989408],[106.54305600000001,14.593179],[106.540412,14.592569],[106.538428,14.592162],[106.536445,14.59204],[106.53472600000001,14.591918],[106.533272,14.591877],[106.5311754816166,14.59211875353768],[106.53149621712511,14.59364919368263],[106.532581242565,14.5947406283158],[106.53561538904677,14.59700470631272],[106.54260291926747,14.59508614515104],[106.54394645184118,14.59335506989408]]]],"type":"MultiPolygon"}
+}

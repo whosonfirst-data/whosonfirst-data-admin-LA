@@ -1,0 +1,71 @@
+{
+  "id": 1193108735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.73506,20.06174,102.73506,20.06174",
+    "geom:latitude":20.06174,
+    "geom:longitude":102.73506,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senmanivan",
+    "gn:country_code":"LA",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659288,
+    "gn:latitude":20.06174,
+    "gn:longitude":102.73506,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nmanivan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sen Manivan",
+        "Ban S\u00e8nmanivan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659288
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4cbc4f7cd8a5efc4fa648620e4b1f607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1193108735,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1193108735,
+    "wof:lastmodified":1537660344,
+    "wof:name":"Ban Senmanivan",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.73506,
+    20.06174,
+    102.73506,
+    20.06174
+],
+  "geometry": {"coordinates":[102.73506,20.06174],"type":"Point"}
+}

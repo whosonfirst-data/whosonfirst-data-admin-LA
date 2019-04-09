@@ -1,0 +1,70 @@
+{
+  "id": 1243024717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98725,20.3967,100.98725,20.3967",
+    "geom:latitude":20.3967,
+    "geom:longitude":100.98725,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Tongmang",
+    "gn:country_code":"LA",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1906986,
+    "gn:latitude":20.3967,
+    "gn:longitude":100.98725,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban T\u00f4ngmang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4ngmang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1906986
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eec88ab980e71f353bc23f584b788d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1243024717,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1243024717,
+    "wof:lastmodified":1537660689,
+    "wof:name":"Ban Tongmang",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98725,
+    20.3967,
+    100.98725,
+    20.3967
+],
+  "geometry": {"coordinates":[100.98725,20.3967],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259748047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40291,17.08114,105.40291,17.08114",
+    "geom:latitude":17.08114,
+    "geom:longitude":105.40291,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kengchong",
+    "gn:country_code":"LA",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663284,
+    "gn:latitude":17.08114,
+    "gn:longitude":105.40291,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8ngchong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8ngchong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663284
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"05cefcf4f0dd652bf787c77541e66a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028001,
+            "locality_id":1259748047,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259748047,
+    "wof:lastmodified":1537660571,
+    "wof:name":"Ban Kengchong",
+    "wof:parent_id":1092028001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40291,
+    17.08114,
+    105.40291,
+    17.08114
+],
+  "geometry": {"coordinates":[105.40291000000001,17.08114],"type":"Point"}
+}

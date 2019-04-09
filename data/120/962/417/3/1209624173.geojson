@@ -1,0 +1,64 @@
+{
+  "id": 1209624173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.49009,15.18322,106.49009,15.18322",
+    "geom:latitude":15.18322,
+    "geom:longitude":106.49009,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thongvay",
+    "gn:country_code":"LA",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200635,
+    "gn:latitude":15.18322,
+    "gn:longitude":106.49009,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Th\u00f4ngvay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngvay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200635
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bfafc79899bbe14f7a698f544217f099",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209624173
+        }
+    ],
+    "wof:id":1209624173,
+    "wof:lastmodified":1537660861,
+    "wof:name":"Ban Thongvay",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.49009,
+    15.18322,
+    106.49009,
+    15.18322
+],
+  "geometry": {"coordinates":[106.49009,15.18322],"type":"Point"}
+}

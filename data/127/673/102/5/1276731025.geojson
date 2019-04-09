@@ -1,0 +1,72 @@
+{
+  "id": 1276731025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.37534,18.58306,104.37534,18.58306",
+    "geom:latitude":18.58306,
+    "geom:longitude":104.37534,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Kokkham",
+    "gn:country_code":"LA",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662815,
+    "gn:latitude":18.58306,
+    "gn:longitude":104.37534,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00f4kkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khok Kham",
+        "Ban Khak Kham",
+        "Ban K\u00f4kkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092029605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662815
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"21fb80912646d39e125977bc7bf73dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029605,
+            "locality_id":1276731025,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1276731025,
+    "wof:lastmodified":1537660543,
+    "wof:name":"Ban Kokkham",
+    "wof:parent_id":1092029605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.37534,
+    18.58306,
+    104.37534,
+    18.58306
+],
+  "geometry": {"coordinates":[104.37533999999999,18.58306],"type":"Point"}
+}

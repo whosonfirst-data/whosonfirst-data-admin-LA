@@ -1,0 +1,70 @@
+{
+  "id": 1209698069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.99183,20.66006,100.99183,20.66006",
+    "geom:latitude":20.66006,
+    "geom:longitude":100.99183,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Chang-Oung",
+    "gn:country_code":"LA",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1907044,
+    "gn:latitude":20.66006,
+    "gn:longitude":100.99183,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Chang-Oung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Chang-Oung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907044
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"226b9ab1e0cccb79229e67ebb9ac7685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1209698069,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1209698069,
+    "wof:lastmodified":1537660692,
+    "wof:name":"Ban Chang-Oung",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.99183,
+    20.66006,
+    100.99183,
+    20.66006
+],
+  "geometry": {"coordinates":[100.99182999999999,20.66006],"type":"Point"}
+}

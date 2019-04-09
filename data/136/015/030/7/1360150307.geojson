@@ -1,0 +1,70 @@
+{
+  "id": 1360150307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.56814,16.0935,106.56814,16.0935",
+    "geom:latitude":16.0935,
+    "geom:longitude":106.56814,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sanchan",
+    "gn:country_code":"LA",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659452,
+    "gn:latitude":16.0935,
+    "gn:longitude":106.56814,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sanchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sanchan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659452
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"75408d596486cf69831c02c55490a727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1360150307,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1360150307,
+    "wof:lastmodified":1537660353,
+    "wof:name":"Ban Sanchan",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.56814,
+    16.0935,
+    106.56814,
+    16.0935
+],
+  "geometry": {"coordinates":[106.56814,16.0935],"type":"Point"}
+}

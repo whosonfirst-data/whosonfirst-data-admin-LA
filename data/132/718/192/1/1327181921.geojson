@@ -1,0 +1,67 @@
+{
+  "id": 1327181921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.23333,19.13333,102.23333,19.13333",
+    "geom:latitude":19.13333,
+    "geom:longitude":102.23333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Thieng",
+    "gn:country_code":"LA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658535,
+    "gn:latitude":19.13333,
+    "gn:longitude":102.23333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thieng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658535
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"65bbb64a8a74b0a0caa93579558d63ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1327181921,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1327181921,
+    "wof:lastmodified":1537040805,
+    "wof:name":"Ban Thieng",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.23333,
+    19.13333,
+    102.23333,
+    19.13333
+],
+  "geometry": {"coordinates":[102.23333,19.13333],"type":"Point"}
+}

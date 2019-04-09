@@ -1,0 +1,70 @@
+{
+  "id": 1327425771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.56519,20.3237,101.56519,20.3237",
+    "geom:latitude":20.3237,
+    "geom:longitude":101.56519,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Namkhong",
+    "gn:country_code":"LA",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953496,
+    "gn:latitude":20.3237,
+    "gn:longitude":101.56519,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namkhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namkhong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953496
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ec40bf05edfc418dc06f8aafe14c7bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1327425771,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1327425771,
+    "wof:lastmodified":1537660742,
+    "wof:name":"Ban Namkhong",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.56519,
+    20.3237,
+    101.56519,
+    20.3237
+],
+  "geometry": {"coordinates":[101.56519,20.3237],"type":"Point"}
+}

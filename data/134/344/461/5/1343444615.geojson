@@ -1,0 +1,67 @@
+{
+  "id": 1343444615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13333,19.78333,104.13333,19.78333",
+    "geom:latitude":19.78333,
+    "geom:longitude":104.13333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Keo Pro",
+    "gn:country_code":"LA",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663170,
+    "gn:latitude":19.78333,
+    "gn:longitude":104.13333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban K\u00e9o Pro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663170
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bb1fc602f13b3506def4a2866027a193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1343444615,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343444615,
+    "wof:lastmodified":1536769634,
+    "wof:name":"Ban Keo Pro",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13333,
+    19.78333,
+    104.13333,
+    19.78333
+],
+  "geometry": {"coordinates":[104.13333,19.78333],"type":"Point"}
+}

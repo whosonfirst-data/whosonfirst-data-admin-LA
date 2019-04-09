@@ -1,0 +1,70 @@
+{
+  "id": 1226054315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.49296,20.26779,104.49296,20.26779",
+    "geom:latitude":20.26779,
+    "geom:longitude":104.49296,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houayphong",
+    "gn:country_code":"LA",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956903,
+    "gn:latitude":20.26779,
+    "gn:longitude":104.49296,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houayph\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayph\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956903
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"15256a53a7fc7484b8934d4d8d3c36da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1226054315,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226054315,
+    "wof:lastmodified":1537660833,
+    "wof:name":"Ban Houayphong",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.49296,
+    20.26779,
+    104.49296,
+    20.26779
+],
+  "geometry": {"coordinates":[104.49296,20.26779],"type":"Point"}
+}

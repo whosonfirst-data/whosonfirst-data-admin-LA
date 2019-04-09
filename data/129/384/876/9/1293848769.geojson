@@ -1,0 +1,70 @@
+{
+  "id": 1293848769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.76144,16.75682,104.76144,16.75682",
+    "geom:latitude":16.75682,
+    "geom:longitude":104.76144,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Hinnam Oy",
+    "gn:country_code":"LA",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235243,
+    "gn:latitude":16.75682,
+    "gn:longitude":104.76144,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Hinnam Oy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hinnam Oy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235243
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c475a6ce248bad7e607eaffd57aa4efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1293848769,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293848769,
+    "wof:lastmodified":1537660952,
+    "wof:name":"Ban Hinnam Oy",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.76144,
+    16.75682,
+    104.76144,
+    16.75682
+],
+  "geometry": {"coordinates":[104.76143999999999,16.75682],"type":"Point"}
+}

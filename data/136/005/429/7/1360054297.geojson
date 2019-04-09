@@ -1,0 +1,70 @@
+{
+  "id": 1360054297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.57672,20.38182,100.57672,20.38182",
+    "geom:latitude":20.38182,
+    "geom:longitude":100.57672,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Phimonsin",
+    "gn:country_code":"LA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907018,
+    "gn:latitude":20.38182,
+    "gn:longitude":100.57672,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Phim\u00f4nsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phim\u00f4nsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907018
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"319c7dc8c0ca500facf0851858564887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1360054297,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1360054297,
+    "wof:lastmodified":1537660691,
+    "wof:name":"Ban Phimonsin",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.57672,
+    20.38182,
+    100.57672,
+    20.38182
+],
+  "geometry": {"coordinates":[100.57671999999999,20.38182],"type":"Point"}
+}

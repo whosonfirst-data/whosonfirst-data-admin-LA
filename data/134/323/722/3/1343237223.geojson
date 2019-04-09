@@ -1,0 +1,70 @@
+{
+  "id": 1343237223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.82015,16.23239,106.82015,16.23239",
+    "geom:latitude":16.23239,
+    "geom:longitude":106.82015,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Ango",
+    "gn:country_code":"LA",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236796,
+    "gn:latitude":16.23239,
+    "gn:longitude":106.82015,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ango",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236796
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"af22e70dde29d522bf128bd326d99b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1343237223,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1343237223,
+    "wof:lastmodified":1537660968,
+    "wof:name":"Ban Ango",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.82015,
+    16.23239,
+    106.82015,
+    16.23239
+],
+  "geometry": {"coordinates":[106.82015,16.23239],"type":"Point"}
+}

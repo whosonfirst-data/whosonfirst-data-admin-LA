@@ -1,0 +1,74 @@
+{
+  "id": 1310388953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.05328,19.46343,104.05328,19.46343",
+    "geom:latitude":19.46343,
+    "geom:longitude":104.05328,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Louangkouang",
+    "gn:country_code":"LA",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662432,
+    "gn:latitude":19.46343,
+    "gn:longitude":104.05328,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Louangkouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tham Lom",
+        "Ban Thanl\u00f4m",
+        "Ban Long Quang",
+        "Ban Longkouang",
+        "Ban Louangkouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662432
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a2fc07ec22144bd0b0e1c86e0e3b504e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1310388953,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1310388953,
+    "wof:lastmodified":1537660522,
+    "wof:name":"Ban Louangkouang",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.05328,
+    19.46343,
+    104.05328,
+    19.46343
+],
+  "geometry": {"coordinates":[104.05328,19.46343],"type":"Point"}
+}

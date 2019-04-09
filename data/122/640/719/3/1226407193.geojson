@@ -1,0 +1,70 @@
+{
+  "id": 1226407193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77174,16.56878,105.77174,16.56878",
+    "geom:latitude":16.56878,
+    "geom:longitude":105.77174,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Alouay-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235959,
+    "gn:latitude":16.56878,
+    "gn:longitude":105.77174,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Alouay-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Alouay-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235959
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6aa2b0bdb851ac70fa25fc9cbc72d44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1226407193,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226407193,
+    "wof:lastmodified":1537660957,
+    "wof:name":"Ban Alouay-Mai",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77174,
+    16.56878,
+    105.77174,
+    16.56878
+],
+  "geometry": {"coordinates":[105.77173999999999,16.56878],"type":"Point"}
+}

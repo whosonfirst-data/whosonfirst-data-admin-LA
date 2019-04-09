@@ -1,0 +1,72 @@
+{
+  "id": 1260287525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45561,15.14477,106.45561,15.14477",
+    "geom:latitude":15.14477,
+    "geom:longitude":106.45561,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongkin",
+    "gn:country_code":"LA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660776,
+    "gn:latitude":15.14477,
+    "gn:longitude":106.45561,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongkin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Hine",
+        "Ban Nong Kine",
+        "Ban Nongkin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660776
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ca21ce5cfd9dfea024a4c0488e0918d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028479,
+            "locality_id":1260287525,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1260287525,
+    "wof:lastmodified":1537660428,
+    "wof:name":"Ban Nongkin",
+    "wof:parent_id":1092028479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45561,
+    15.14477,
+    106.45561,
+    15.14477
+],
+  "geometry": {"coordinates":[106.45560999999999,15.14477],"type":"Point"}
+}

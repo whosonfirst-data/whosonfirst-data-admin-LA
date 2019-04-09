@@ -1,0 +1,71 @@
+{
+  "id": 1327185317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21667,18.93333,103.21667,18.93333",
+    "geom:latitude":18.93333,
+    "geom:longitude":103.21667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Songkeo",
+    "gn:country_code":"LA",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653073,
+    "gn:latitude":18.93333,
+    "gn:longitude":103.21667,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Songk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Son Keo",
+        "Songk\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653073
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2b83b76d759ee9a46863f23d4341ec3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1327185317,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1327185317,
+    "wof:lastmodified":1537660203,
+    "wof:name":"Songkeo",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21667,
+    18.93333,
+    103.21667,
+    18.93333
+],
+  "geometry": {"coordinates":[103.21666999999999,18.93333],"type":"Point"}
+}

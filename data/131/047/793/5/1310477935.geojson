@@ -1,0 +1,70 @@
+{
+  "id": 1310477935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30638,19.58935,102.30638,19.58935",
+    "geom:latitude":19.58935,
+    "geom:longitude":102.30638,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Thaosala",
+    "gn:country_code":"LA",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658615,
+    "gn:latitude":19.58935,
+    "gn:longitude":102.30638,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Thaosala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Thaosala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658615
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"618fa81a6f167cfbeea0499053281eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1310477935,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1310477935,
+    "wof:lastmodified":1537660306,
+    "wof:name":"Ban Thaosala",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30638,
+    19.58935,
+    102.30638,
+    19.58935
+],
+  "geometry": {"coordinates":[102.30638,19.58935],"type":"Point"}
+}

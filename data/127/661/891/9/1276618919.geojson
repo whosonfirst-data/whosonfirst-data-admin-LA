@@ -1,0 +1,70 @@
+{
+  "id": 1276618919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26261,16.64355,105.26261,16.64355",
+    "geom:latitude":16.64355,
+    "geom:longitude":105.26261,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Pongling",
+    "gn:country_code":"LA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221646,
+    "gn:latitude":16.64355,
+    "gn:longitude":105.26261,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pongling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pongling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092031025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221646
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"788e464f855c6c73b574784901cf0a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031025,
+            "locality_id":1276618919,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276618919,
+    "wof:lastmodified":1537660888,
+    "wof:name":"Ban Pongling",
+    "wof:parent_id":1092031025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26261,
+    16.64355,
+    105.26261,
+    16.64355
+],
+  "geometry": {"coordinates":[105.26261,16.64355],"type":"Point"}
+}

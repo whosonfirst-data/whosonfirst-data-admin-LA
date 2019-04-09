@@ -1,0 +1,71 @@
+{
+  "id": 1327309787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30082,21.06163,102.30082,21.06163",
+    "geom:latitude":21.06163,
+    "geom:longitude":102.30082,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Namhouaymo",
+    "gn:country_code":"LA",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1654962,
+    "gn:latitude":21.06163,
+    "gn:longitude":102.30082,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Namhouaym\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nam Houay Mo",
+        "Ban Namhouaym\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654962
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7be33f7523b4764507c48861748dc7d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1327309787,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1327309787,
+    "wof:lastmodified":1537660223,
+    "wof:name":"Ban Namhouaymo",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30082,
+    21.06163,
+    102.30082,
+    21.06163
+],
+  "geometry": {"coordinates":[102.30082,21.06163],"type":"Point"}
+}

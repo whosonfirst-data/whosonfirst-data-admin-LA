@@ -1,0 +1,71 @@
+{
+  "id": 1243530303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.12749,22.05156,102.12749,22.05156",
+    "geom:latitude":22.05156,
+    "geom:longitude":102.12749,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Limouchang",
+    "gn:country_code":"LA",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655709,
+    "gn:latitude":22.05156,
+    "gn:longitude":102.12749,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Limouchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Li Mou Chang",
+        "Ban Limouchang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655709
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1c7c20126472cfaa4201c13392a3cffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1243530303,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243530303,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Limouchang",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.12749,
+    22.05156,
+    102.12749,
+    22.05156
+],
+  "geometry": {"coordinates":[102.12748999999999,22.05156],"type":"Point"}
+}

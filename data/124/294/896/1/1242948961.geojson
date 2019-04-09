@@ -1,0 +1,70 @@
+{
+  "id": 1242948961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.90825,21.21782,102.90825,21.21782",
+    "geom:latitude":21.21782,
+    "geom:longitude":102.90825,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Lakmay",
+    "gn:country_code":"LA",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955177,
+    "gn:latitude":21.21782,
+    "gn:longitude":102.90825,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Lakmay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lakmay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955177
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5e5da036a1c742d411331de7a906ac36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1242948961,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242948961,
+    "wof:lastmodified":1537660790,
+    "wof:name":"Ban Lakmay",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.90825,
+    21.21782,
+    102.90825,
+    21.21782
+],
+  "geometry": {"coordinates":[102.90825,21.21782],"type":"Point"}
+}

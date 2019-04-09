@@ -1,0 +1,61 @@
+{
+  "id": 1209206197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.57361,20.09,101.57361,20.09",
+    "geom:latitude":20.09,
+    "geom:longitude":101.57361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Me",
+    "gn:country_code":"LA",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953605,
+    "gn:latitude":20.09,
+    "gn:longitude":101.57361,
+    "gn:modification_date":"2001-05-18",
+    "gn:name":"Ban M\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953605
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ffec1b5d6b355b290d5b6e871f4b2b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209206197
+        }
+    ],
+    "wof:id":1209206197,
+    "wof:lastmodified":1536294448,
+    "wof:name":"Ban Me",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.57361,
+    20.09,
+    101.57361,
+    20.09
+],
+  "geometry": {"coordinates":[101.57361,20.09],"type":"Point"}
+}

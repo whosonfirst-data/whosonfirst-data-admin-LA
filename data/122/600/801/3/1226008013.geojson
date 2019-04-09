@@ -1,0 +1,71 @@
+{
+  "id": 1226008013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96101,22.20356,101.96101,22.20356",
+    "geom:latitude":22.20356,
+    "geom:longitude":101.96101,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Pingchangchai",
+    "gn:country_code":"LA",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653798,
+    "gn:latitude":22.20356,
+    "gn:longitude":101.96101,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Pingchangchai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping Chang Chai",
+        "Ban Pingchangchai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653798
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b0cc8353a610d33c679e06636572da46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1226008013,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226008013,
+    "wof:lastmodified":1537660211,
+    "wof:name":"Ban Pingchangchai",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96101,
+    22.20356,
+    101.96101,
+    22.20356
+],
+  "geometry": {"coordinates":[101.96101,22.20356],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327407007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17434,17.97738,105.17434,17.97738",
+    "geom:latitude":17.97738,
+    "geom:longitude":105.17434,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Thongmuang",
+    "gn:country_code":"LA",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233729,
+    "gn:latitude":17.97738,
+    "gn:longitude":105.17434,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Th\u00f4ngmuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngmuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233729
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1ace2e05ebec2780e8d19e540dfbc355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1327407007,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327407007,
+    "wof:lastmodified":1537660940,
+    "wof:name":"Ban Thongmuang",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17434,
+    17.97738,
+    105.17434,
+    17.97738
+],
+  "geometry": {"coordinates":[105.17434,17.97738],"type":"Point"}
+}

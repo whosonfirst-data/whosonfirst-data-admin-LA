@@ -1,0 +1,71 @@
+{
+  "id": 1243233433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.19902,21.15421,101.19902,21.15421",
+    "geom:latitude":21.15421,
+    "geom:longitude":101.19902,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Sop-I",
+    "gn:country_code":"LA",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955701,
+    "gn:latitude":21.15421,
+    "gn:longitude":101.19902,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban S\u00f4p-I",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban S\u00f4p-I",
+        "Ban S\u00f4p-I (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955701
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6ac6b2e0d156c77c8bcc162d1e468b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1243233433,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1243233433,
+    "wof:lastmodified":1537660800,
+    "wof:name":"Ban Sop-I",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.19902,
+    21.15421,
+    101.19902,
+    21.15421
+],
+  "geometry": {"coordinates":[101.19902,21.15421],"type":"Point"}
+}

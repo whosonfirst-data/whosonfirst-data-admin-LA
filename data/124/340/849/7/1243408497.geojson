@@ -1,0 +1,70 @@
+{
+  "id": 1243408497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.39742,18.75025,102.39742,18.75025",
+    "geom:latitude":18.75025,
+    "geom:longitude":102.39742,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phonthong",
+    "gn:country_code":"LA",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229623,
+    "gn:latitude":18.75025,
+    "gn:longitude":102.39742,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nthong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nthong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229623
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"18212fd6b220fe56f28d4faa0c5b221c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027061,
+            "locality_id":1243408497,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243408497,
+    "wof:lastmodified":1537660915,
+    "wof:name":"Ban Phonthong",
+    "wof:parent_id":1092027061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.39742,
+    18.75025,
+    102.39742,
+    18.75025
+],
+  "geometry": {"coordinates":[102.39742,18.75025],"type":"Point"}
+}

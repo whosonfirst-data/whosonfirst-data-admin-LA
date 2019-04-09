@@ -1,0 +1,74 @@
+{
+  "id": 1277042371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.29305,15.92712,107.29305,15.92712",
+    "geom:latitude":15.92712,
+    "geom:longitude":107.29305,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Adou",
+    "gn:country_code":"LA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1665137,
+    "gn:latitude":15.92712,
+    "gn:longitude":107.29305,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Adou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Adou"
+    ],
+    "name:und_x_variant":[
+        "A Doi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665137,
+        "wk:page":"A_Doi"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"00ab69e1400b19e57df468a19ab15767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1277042371,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1277042371,
+    "wof:lastmodified":1537660683,
+    "wof:name":"Ban Adou",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.29305,
+    15.92712,
+    107.29305,
+    15.92712
+],
+  "geometry": {"coordinates":[107.29304999999999,15.92712],"type":"Point"}
+}

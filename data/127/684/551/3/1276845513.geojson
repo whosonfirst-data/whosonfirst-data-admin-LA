@@ -1,0 +1,70 @@
+{
+  "id": 1276845513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6977,15.88153,106.6977,15.88153",
+    "geom:latitude":15.88153,
+    "geom:longitude":106.6977,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Lukdong",
+    "gn:country_code":"LA",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662383,
+    "gn:latitude":15.88153,
+    "gn:longitude":106.6977,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Lukd\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lukd\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662383
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8e895e55f253f5f79999b34f1356dc08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1276845513,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1276845513,
+    "wof:lastmodified":1537660519,
+    "wof:name":"Ban Lukdong",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6977,
+    15.88153,
+    106.6977,
+    15.88153
+],
+  "geometry": {"coordinates":[106.6977,15.88153],"type":"Point"}
+}

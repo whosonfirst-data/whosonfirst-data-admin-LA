@@ -1,0 +1,70 @@
+{
+  "id": 890455215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.93861,19.8175,103.93861,19.8175",
+    "geom:latitude":19.8175,
+    "geom:longitude":103.93861,
+    "gn:country":"LA",
+    "gn:fcode":"MT",
+    "gn:pop":1070,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:lao_x_preferred":[
+        "San K\u00e8ngt\u00f4p"
+    ],
+    "qs:name":"San K\u00e8ngt\u00f4p",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952344,
+        "gp:id":1140607,
+        "qs:id":90247
+    },
+    "wof:country":"LA",
+    "wof:created":1469052938,
+    "wof:geomhash":"68a170db7185a7383d97ae0c59460997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":890455215,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":890455215,
+    "wof:lastmodified":1505343661,
+    "wof:name":"San K\u00e8ngt\u00f4p",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:population":1070,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.93861,
+    19.8175,
+    103.93861,
+    19.8175
+],
+  "geometry": {"coordinates":[103.93861,19.8175],"type":"Point"}
+}

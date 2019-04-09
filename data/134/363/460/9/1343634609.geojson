@@ -1,0 +1,70 @@
+{
+  "id": 1343634609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.6137,17.48732,105.6137,17.48732",
+    "geom:latitude":17.48732,
+    "geom:longitude":105.6137,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phonmouang",
+    "gn:country_code":"LA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659921,
+    "gn:latitude":17.48732,
+    "gn:longitude":105.6137,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ph\u00f4nmouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nmouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659921
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"df6641897f43249c4619964a31131c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1343634609,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343634609,
+    "wof:lastmodified":1537660379,
+    "wof:name":"Ban Phonmouang",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.6137,
+    17.48732,
+    105.6137,
+    17.48732
+],
+  "geometry": {"coordinates":[105.61369999999999,17.48732],"type":"Point"}
+}

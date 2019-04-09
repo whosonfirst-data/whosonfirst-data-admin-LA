@@ -1,0 +1,70 @@
+{
+  "id": 1243529653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.43354,15.93218,105.43354,15.93218",
+    "geom:latitude":15.93218,
+    "geom:longitude":105.43354,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Namuang-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11184088,
+    "gn:latitude":15.93218,
+    "gn:longitude":105.43354,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Ban Namuang-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namuang-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11184088
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dbe2a88a8e356d379dd8223dbb5a17d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029135,
+            "locality_id":1243529653,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243529653,
+    "wof:lastmodified":1537660845,
+    "wof:name":"Ban Namuang-Noy",
+    "wof:parent_id":1092029135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.43354,
+    15.93218,
+    105.43354,
+    15.93218
+],
+  "geometry": {"coordinates":[105.43353999999999,15.93218],"type":"Point"}
+}

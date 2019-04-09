@@ -1,0 +1,65 @@
+{
+  "id": 1209069887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.70282,20.40309,102.70282,20.40309",
+    "geom:latitude":20.40309,
+    "geom:longitude":102.70282,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Mokchong",
+    "gn:country_code":"LA",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662269,
+    "gn:latitude":20.40309,
+    "gn:longitude":102.70282,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban M\u00f4kch\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Mok Khouang",
+        "Ban M\u00f4kch\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662269
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"57b6453c365a841e4c9796e56cfe8503",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209069887
+        }
+    ],
+    "wof:id":1209069887,
+    "wof:lastmodified":1537660513,
+    "wof:name":"Ban Mokchong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.70282,
+    20.40309,
+    102.70282,
+    20.40309
+],
+  "geometry": {"coordinates":[102.70282,20.40309],"type":"Point"}
+}

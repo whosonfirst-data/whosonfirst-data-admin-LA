@@ -1,0 +1,70 @@
+{
+  "id": 1259455499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.87729,21.3122,100.87729,21.3122",
+    "geom:latitude":21.3122,
+    "geom:longitude":100.87729,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Chaphouthon",
+    "gn:country_code":"LA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237436,
+    "gn:latitude":21.3122,
+    "gn:longitude":100.87729,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Chaphouthon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chaphouthon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237436
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6de30e9938b40ae19109557789f343af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1259455499,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1259455499,
+    "wof:lastmodified":1537660974,
+    "wof:name":"Ban Chaphouthon",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.87729,
+    21.3122,
+    100.87729,
+    21.3122
+],
+  "geometry": {"coordinates":[100.87729,21.3122],"type":"Point"}
+}

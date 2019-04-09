@@ -1,0 +1,71 @@
+{
+  "id": 1243036693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89595,18.20362,104.89595,18.20362",
+    "geom:latitude":18.20362,
+    "geom:longitude":104.89595,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nanoy",
+    "gn:country_code":"LA",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661305,
+    "gn:latitude":18.20362,
+    "gn:longitude":104.89595,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nanoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Na Noi",
+        "Ban Nanoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661305
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"94c449eab4a761d7e8cada18629b1418",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1243036693,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1243036693,
+    "wof:lastmodified":1537660460,
+    "wof:name":"Ban Nanoy",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89595,
+    18.20362,
+    104.89595,
+    18.20362
+],
+  "geometry": {"coordinates":[104.89595,18.20362],"type":"Point"}
+}

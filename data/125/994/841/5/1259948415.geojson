@@ -1,0 +1,70 @@
+{
+  "id": 1259948415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.07664,18.09503,105.07664,18.09503",
+    "geom:latitude":18.09503,
+    "geom:longitude":105.07664,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Kengphalat",
+    "gn:country_code":"LA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233036,
+    "gn:latitude":18.09503,
+    "gn:longitude":105.07664,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban K\u00e8ngphalat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8ngphalat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233036
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a0c6bbaeeb95d72ad8401f056aee9bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1259948415,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1259948415,
+    "wof:lastmodified":1537660934,
+    "wof:name":"Ban Kengphalat",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.07664,
+    18.09503,
+    105.07664,
+    18.09503
+],
+  "geometry": {"coordinates":[105.07664,18.09503],"type":"Point"}
+}

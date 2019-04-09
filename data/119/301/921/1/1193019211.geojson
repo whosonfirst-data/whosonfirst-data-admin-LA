@@ -1,0 +1,75 @@
+{
+  "id": 1193019211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83672,14.01624,105.83672,14.01624",
+    "geom:latitude":14.01624,
+    "geom:longitude":105.83672,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Loppadichok",
+    "gn:country_code":"LA",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662407,
+    "gn:latitude":14.01624,
+    "gn:longitude":105.83672,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban L\u00f4ppadich\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban L\u00f4ppadich\u00f4k"
+    ],
+    "name:und_x_variant":[
+        "D\u00f4ppadich\u00f4k",
+        "Ban Lappady Chok",
+        "Ban Lopaddy Chok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662407
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"45ac3747e2e14dd8db7e29fe2808c873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1193019211,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1193019211,
+    "wof:lastmodified":1537660521,
+    "wof:name":"Ban Loppadichok",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83672,
+    14.01624,
+    105.83672,
+    14.01624
+],
+  "geometry": {"coordinates":[105.83672,14.01624],"type":"Point"}
+}

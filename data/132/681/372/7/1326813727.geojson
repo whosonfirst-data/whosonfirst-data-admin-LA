@@ -1,0 +1,73 @@
+{
+  "id": 1326813727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.80779,19.53139,103.80779,19.53139",
+    "geom:latitude":19.53139,
+    "geom:longitude":103.80779,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Gnotkhay",
+    "gn:country_code":"LA",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664275,
+    "gn:latitude":19.53139,
+    "gn:longitude":103.80779,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Gnotkhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Niat Houay",
+        "Ban Gnot Houay",
+        "Ban Niot Houay",
+        "Ban Gnotkhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664275
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f1b81d7219b992e58c2cd568110b26c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1326813727,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1326813727,
+    "wof:lastmodified":1537660635,
+    "wof:name":"Ban Gnotkhay",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.80779,
+    19.53139,
+    103.80779,
+    19.53139
+],
+  "geometry": {"coordinates":[103.80779,19.53139],"type":"Point"}
+}

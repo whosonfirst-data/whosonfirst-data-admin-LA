@@ -1,0 +1,70 @@
+{
+  "id": 1242648931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92763,19.91456,101.92763,19.91456",
+    "geom:latitude":19.91456,
+    "geom:longitude":101.92763,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Ving-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953671,
+    "gn:latitude":19.91456,
+    "gn:longitude":101.92763,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Ving-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ving-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953671
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"68ffe4650afbed83cd622495803f55e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027381,
+            "locality_id":1242648931,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242648931,
+    "wof:lastmodified":1537660747,
+    "wof:name":"Ban Ving-Tai",
+    "wof:parent_id":1092027381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92763,
+    19.91456,
+    101.92763,
+    19.91456
+],
+  "geometry": {"coordinates":[101.92762999999999,19.91456],"type":"Point"}
+}

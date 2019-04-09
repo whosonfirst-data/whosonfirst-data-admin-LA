@@ -1,0 +1,70 @@
+{
+  "id": 1293392015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.10355,19.90206,104.10355,19.90206",
+    "geom:latitude":19.90206,
+    "geom:longitude":104.10355,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nongduang",
+    "gn:country_code":"LA",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952784,
+    "gn:latitude":19.90206,
+    "gn:longitude":104.10355,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Nongduang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongduang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952784
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d0c1239fb880034c3851a5abf944742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1293392015,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293392015,
+    "wof:lastmodified":1537660725,
+    "wof:name":"Ban Nongduang",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.10355,
+    19.90206,
+    104.10355,
+    19.90206
+],
+  "geometry": {"coordinates":[104.10355,19.90206],"type":"Point"}
+}

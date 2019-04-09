@@ -1,0 +1,73 @@
+{
+  "id": 1360149659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5821,16.68682,105.5821,16.68682",
+    "geom:latitude":16.68682,
+    "geom:longitude":105.5821,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nakhoung",
+    "gn:country_code":"LA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661743,
+    "gn:latitude":16.68682,
+    "gn:longitude":105.5821,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nakhoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nakhoung"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Khouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661743
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"101009b47fb895170bb3bc403e644dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028591,
+            "locality_id":1360149659,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1360149659,
+    "wof:lastmodified":1537660484,
+    "wof:name":"Ban Nakhoung",
+    "wof:parent_id":1092028591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5821,
+    16.68682,
+    105.5821,
+    16.68682
+],
+  "geometry": {"coordinates":[105.5821,16.68682],"type":"Point"}
+}

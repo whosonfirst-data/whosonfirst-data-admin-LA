@@ -1,0 +1,71 @@
+{
+  "id": 1276180243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52099,18.11629,102.52099,18.11629",
+    "geom:latitude":18.11629,
+    "geom:longitude":102.52099,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Namkiang",
+    "gn:country_code":"LA",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661544,
+    "gn:latitude":18.11629,
+    "gn:longitude":102.52099,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Namkiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nam Kieng",
+        "Ban Namkiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092027795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661544
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"446b747bfa9e4063b80b4268ec66f1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027795,
+            "locality_id":1276180243,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1276180243,
+    "wof:lastmodified":1537660473,
+    "wof:name":"Ban Namkiang",
+    "wof:parent_id":1092027795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52099,
+    18.11629,
+    102.52099,
+    18.11629
+],
+  "geometry": {"coordinates":[102.52099,18.11629],"type":"Point"}
+}

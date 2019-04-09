@@ -1,0 +1,72 @@
+{
+  "id": 1243139261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.38264,15.31888,107.38264,15.31888",
+    "geom:latitude":15.31888,
+    "geom:longitude":107.38264,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakbliat",
+    "gn:country_code":"LA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664651,
+    "gn:latitude":15.31888,
+    "gn:longitude":107.38264,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dakbliat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Briass",
+        "Ban Dakbrats",
+        "Ban Dakbliat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664651
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"99aad7674b6130b75ed27ed6576956fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1243139261,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1243139261,
+    "wof:lastmodified":1537660660,
+    "wof:name":"Ban Dakbliat",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.38264,
+    15.31888,
+    107.38264,
+    15.31888
+],
+  "geometry": {"coordinates":[107.38263999999999,15.31888],"type":"Point"}
+}

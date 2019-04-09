@@ -1,0 +1,71 @@
+{
+  "id": 1326901975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.70936,20.75019,102.70936,20.75019",
+    "geom:latitude":20.75019,
+    "geom:longitude":102.70936,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Kioukhan",
+    "gn:country_code":"LA",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1656226,
+    "gn:latitude":20.75019,
+    "gn:longitude":102.70936,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kioukhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiou Kan",
+        "Ban Kioukhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656226
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2dd2a32600875c91aa96ac1f9862dab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1326901975,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1326901975,
+    "wof:lastmodified":1537660250,
+    "wof:name":"Ban Kioukhan",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.70936,
+    20.75019,
+    102.70936,
+    20.75019
+],
+  "geometry": {"coordinates":[102.70936,20.75019],"type":"Point"}
+}

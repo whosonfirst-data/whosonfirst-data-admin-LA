@@ -1,0 +1,66 @@
+{
+  "id": 1209480047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2898,16.54785,106.2898,16.54785",
+    "geom:latitude":16.54785,
+    "geom:longitude":106.2898,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Chidan",
+    "gn:country_code":"LA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664708,
+    "gn:latitude":16.54785,
+    "gn:longitude":106.2898,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Chidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Chidane",
+        "Ban Ghidane",
+        "Ban Chidan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664708
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0c4f6b50ff01f2ec658f9226ba5f86cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209480047
+        }
+    ],
+    "wof:id":1209480047,
+    "wof:lastmodified":1537660663,
+    "wof:name":"Ban Chidan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2898,
+    16.54785,
+    106.2898,
+    16.54785
+],
+  "geometry": {"coordinates":[106.2898,16.54785],"type":"Point"}
+}

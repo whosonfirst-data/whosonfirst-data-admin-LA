@@ -1,0 +1,67 @@
+{
+  "id": 1209484903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3842,20.6132,101.3842,20.6132",
+    "geom:latitude":20.6132,
+    "geom:longitude":101.3842,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Soko",
+    "gn:country_code":"LA",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1653097,
+    "gn:latitude":20.6132,
+    "gn:longitude":101.3842,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Soko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Soko"
+    ],
+    "name:und_x_variant":[
+        "So Ko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653097
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a2e8b6b97461c757a7186ab5026372bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209484903
+        }
+    ],
+    "wof:id":1209484903,
+    "wof:lastmodified":1537660204,
+    "wof:name":"Ban Soko",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3842,
+    20.6132,
+    101.3842,
+    20.6132
+],
+  "geometry": {"coordinates":[101.38420000000001,20.6132],"type":"Point"}
+}

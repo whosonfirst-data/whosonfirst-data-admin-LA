@@ -1,0 +1,70 @@
+{
+  "id": 1242645861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.53714,18.74185,103.53714,18.74185",
+    "geom:latitude":18.74185,
+    "geom:longitude":103.53714,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nahan",
+    "gn:country_code":"LA",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661981,
+    "gn:latitude":18.74185,
+    "gn:longitude":103.53714,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661981
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8172928a2a9ba3ef8020828d316607cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":1242645861,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1242645861,
+    "wof:lastmodified":1537660497,
+    "wof:name":"Ban Nahan",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.53714,
+    18.74185,
+    103.53714,
+    18.74185
+],
+  "geometry": {"coordinates":[103.53713999999999,18.74185],"type":"Point"}
+}

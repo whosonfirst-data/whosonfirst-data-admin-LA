@@ -1,0 +1,64 @@
+{
+  "id": 1209365785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.60722,18.98156,103.60722,18.98156",
+    "geom:latitude":18.98156,
+    "geom:longitude":103.60722,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Mong",
+    "gn:country_code":"LA",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662244,
+    "gn:latitude":18.98156,
+    "gn:longitude":103.60722,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Mong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Mong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662244
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d673d820fab3ebf0c3964616767fc5b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209365785
+        }
+    ],
+    "wof:id":1209365785,
+    "wof:lastmodified":1537660512,
+    "wof:name":"Ban Mong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.60722,
+    18.98156,
+    103.60722,
+    18.98156
+],
+  "geometry": {"coordinates":[103.60722,18.98156],"type":"Point"}
+}

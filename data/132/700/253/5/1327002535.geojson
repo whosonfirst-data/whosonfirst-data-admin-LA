@@ -1,0 +1,67 @@
+{
+  "id": 1327002535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6,21.0,101.6,21.0",
+    "geom:latitude":21.0,
+    "geom:longitude":101.6,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Lanten",
+    "gn:country_code":"LA",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662623,
+    "gn:latitude":21.0,
+    "gn:longitude":101.6,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ban Lant\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662623
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d6c9d1bab3c77734d89da4a27107db39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1327002535,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1327002535,
+    "wof:lastmodified":1536803583,
+    "wof:name":"Ban Lanten",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6,
+    21.0,
+    101.6,
+    21.0
+],
+  "geometry": {"coordinates":[101.59999999999999,21.0],"type":"Point"}
+}

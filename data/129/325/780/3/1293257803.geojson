@@ -1,0 +1,71 @@
+{
+  "id": 1293257803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.82157,15.59899,105.82157,15.59899",
+    "geom:latitude":15.59899,
+    "geom:longitude":105.82157,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Pakxuak",
+    "gn:country_code":"LA",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660433,
+    "gn:latitude":15.59899,
+    "gn:longitude":105.82157,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Pakxuak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pak Suak",
+        "Ban Pakxuak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660433
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fc1367c1439901ce285a8dad7c18901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1293257803,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293257803,
+    "wof:lastmodified":1537660407,
+    "wof:name":"Ban Pakxuak",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.82157,
+    15.59899,
+    105.82157,
+    15.59899
+],
+  "geometry": {"coordinates":[105.82156999999999,15.59899],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209879335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.31667,21.43333,102.31667,21.43333",
+    "geom:latitude":21.43333,
+    "geom:longitude":102.31667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sen Quan",
+    "gn:country_code":"LA",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659266,
+    "gn:latitude":21.43333,
+    "gn:longitude":102.31667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Sen Quan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659266
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b25c4b1f5b21575e1c4885536739957e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1209879335,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209879335,
+    "wof:lastmodified":1536395767,
+    "wof:name":"Ban Sen Quan",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.31667,
+    21.43333,
+    102.31667,
+    21.43333
+],
+  "geometry": {"coordinates":[102.31667,21.43333],"type":"Point"}
+}

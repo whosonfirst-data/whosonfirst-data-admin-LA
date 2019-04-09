@@ -1,0 +1,72 @@
+{
+  "id": 1327233599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88333,20.48333,103.88333,20.48333",
+    "geom:latitude":20.48333,
+    "geom:longitude":103.88333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houay Ngoua",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663710,
+    "gn:latitude":20.48333,
+    "gn:longitude":103.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Houay Ngoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei Ngoua",
+        "Ban Houay Ngoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663710
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f6b9970a3a1e21f8370b12aab30a5b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1327233599,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1327233599,
+    "wof:lastmodified":1537660598,
+    "wof:name":"Ban Houay Ngoua",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88333,
+    20.48333,
+    103.88333,
+    20.48333
+],
+  "geometry": {"coordinates":[103.88333,20.48333],"type":"Point"}
+}

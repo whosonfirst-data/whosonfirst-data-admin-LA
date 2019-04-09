@@ -1,0 +1,73 @@
+{
+  "id": 1310277427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.87754,21.32878,100.87754,21.32878",
+    "geom:latitude":21.32878,
+    "geom:longitude":100.87754,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Xiangkheng",
+    "gn:country_code":"LA",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658047,
+    "gn:latitude":21.32878,
+    "gn:longitude":100.87754,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xiangkh\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Yangon",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xiangkh\u00e8ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Xieng Kheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658047
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"862dd87a83076bbf8265dd755b31edc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1310277427,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1310277427,
+    "wof:lastmodified":1537660270,
+    "wof:name":"Ban Xiangkheng",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.87754,
+    21.32878,
+    100.87754,
+    21.32878
+],
+  "geometry": {"coordinates":[100.87754,21.32878],"type":"Point"}
+}

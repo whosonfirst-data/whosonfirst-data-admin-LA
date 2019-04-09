@@ -1,0 +1,73 @@
+{
+  "id": 1243501937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.33872,19.28695,102.33872,19.28695",
+    "geom:latitude":19.28695,
+    "geom:longitude":102.33872,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nam-Okhou",
+    "gn:country_code":"LA",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661485,
+    "gn:latitude":19.28695,
+    "gn:longitude":102.33872,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nam-Okhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nam-Okhou"
+    ],
+    "name:und_x_variant":[
+        "Ban Nan Ok Hou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661485
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"48459a0db5faada44c4f5fd452bd1b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1243501937,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243501937,
+    "wof:lastmodified":1537660470,
+    "wof:name":"Ban Nam-Okhou",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33872,
+    19.28695,
+    102.33872,
+    19.28695
+],
+  "geometry": {"coordinates":[102.33872,19.28695],"type":"Point"}
+}

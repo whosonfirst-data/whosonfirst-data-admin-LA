@@ -1,0 +1,73 @@
+{
+  "id": 1293886581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97081,15.2739,105.97081,15.2739",
+    "geom:latitude":15.2739,
+    "geom:longitude":105.97081,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongsatao",
+    "gn:country_code":"LA",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660686,
+    "gn:latitude":15.2739,
+    "gn:longitude":105.97081,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongsatao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Nong Sim",
+        "Ban Nong Sim",
+        "Ban Nong Xa Tao",
+        "Ban Nongsatao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660686
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3b8cb967893840dcad07ad2b6a9f570b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1293886581,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293886581,
+    "wof:lastmodified":1537660423,
+    "wof:name":"Ban Nongsatao",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97081,
+    15.2739,
+    105.97081,
+    15.2739
+],
+  "geometry": {"coordinates":[105.97081,15.2739],"type":"Point"}
+}

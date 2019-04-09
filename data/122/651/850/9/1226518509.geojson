@@ -1,0 +1,70 @@
+{
+  "id": 1226518509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.78833,20.20403,102.78833,20.20403",
+    "geom:latitude":20.20403,
+    "geom:longitude":102.78833,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hovat",
+    "gn:country_code":"LA",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956529,
+    "gn:latitude":20.20403,
+    "gn:longitude":102.78833,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Hovat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hovat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956529
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c76d704cf746156ffc6fd38c46cf798c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1226518509,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226518509,
+    "wof:lastmodified":1537660823,
+    "wof:name":"Ban Hovat",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.78833,
+    20.20403,
+    102.78833,
+    20.20403
+],
+  "geometry": {"coordinates":[102.78833,20.20403],"type":"Point"}
+}

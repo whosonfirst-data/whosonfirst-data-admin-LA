@@ -1,0 +1,78 @@
+{
+  "id": 1226016257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.52405,19.03545,101.52405,19.03545",
+    "geom:latitude":19.03545,
+    "geom:longitude":101.52405,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Sibounhuang",
+    "gn:country_code":"LA",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663890,
+    "gn:latitude":19.03545,
+    "gn:longitude":101.52405,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sibounhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sibounhuang"
+    ],
+    "name:lao_x_variant":[
+        "Ban Houayhiang"
+    ],
+    "name:und_x_variant":[
+        "Ban Houei Hiem",
+        "Ban Houay-Hiam",
+        "Ban Houayhian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092031375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663890
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6296271a3ec1d3abceeb75ed49a717e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031375,
+            "locality_id":1226016257,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226016257,
+    "wof:lastmodified":1537660612,
+    "wof:name":"Ban Sibounhuang",
+    "wof:parent_id":1092031375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.52405,
+    19.03545,
+    101.52405,
+    19.03545
+],
+  "geometry": {"coordinates":[101.52405,19.03545],"type":"Point"}
+}

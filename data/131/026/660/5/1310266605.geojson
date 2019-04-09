@@ -1,0 +1,70 @@
+{
+  "id": 1310266605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.48295,16.52592,106.48295,16.52592",
+    "geom:latitude":16.52592,
+    "geom:longitude":106.48295,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tampanko",
+    "gn:country_code":"LA",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658916,
+    "gn:latitude":16.52592,
+    "gn:longitude":106.48295,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tampank\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tam Luong Noi",
+        "Tam Pan Ko",
+        "Ban Tampank\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658916
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"922348a4ab8f31b90c750252869e70d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1310266605,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310266605,
+    "wof:lastmodified":1537660323,
+    "wof:name":"Ban Tampanko",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.48295,
+    16.52592000000001,
+    106.48295,
+    16.52592000000001
+],
+  "geometry": {"coordinates":[106.48295,16.52592000000001],"type":"Point"}
+}

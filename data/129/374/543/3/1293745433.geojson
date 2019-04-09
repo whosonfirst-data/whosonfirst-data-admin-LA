@@ -1,0 +1,70 @@
+{
+  "id": 1293745433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.16106,16.07558,105.16106,16.07558",
+    "geom:latitude":16.07558,
+    "geom:longitude":105.16106,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Sabouxai-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11240357,
+    "gn:latitude":16.07558,
+    "gn:longitude":105.16106,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Sabouxai-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sabouxai-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11240357
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"654cd9b00efd51e83da1238024a30938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026707,
+            "locality_id":1293745433,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293745433,
+    "wof:lastmodified":1537660977,
+    "wof:name":"Ban Sabouxai-Tai",
+    "wof:parent_id":1092026707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.16106,
+    16.07558,
+    105.16106,
+    16.07558
+],
+  "geometry": {"coordinates":[105.16106000000001,16.07558],"type":"Point"}
+}

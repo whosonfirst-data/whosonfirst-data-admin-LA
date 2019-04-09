@@ -1,0 +1,73 @@
+{
+  "id": 1343316911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02231,15.89262,107.02231,15.89262",
+    "geom:latitude":15.89262,
+    "geom:longitude":107.02231,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Katlup",
+    "gn:country_code":"LA",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663314,
+    "gn:latitude":15.89262,
+    "gn:longitude":107.02231,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Katlup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Katlup"
+    ],
+    "name:und_x_variant":[
+        "Ban Katrup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663314
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3ae77222af59fed91402182ceec5fcfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1343316911,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1343316911,
+    "wof:lastmodified":1537660572,
+    "wof:name":"Ban Katlup",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02231,
+    15.89262,
+    107.02231,
+    15.89262
+],
+  "geometry": {"coordinates":[107.02231,15.89262],"type":"Point"}
+}

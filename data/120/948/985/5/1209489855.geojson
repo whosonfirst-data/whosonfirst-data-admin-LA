@@ -1,0 +1,67 @@
+{
+  "id": 1209489855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43811,16.57194,106.43811,16.57194",
+    "geom:latitude":16.57194,
+    "geom:longitude":106.43811,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Salai-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956453,
+    "gn:latitude":16.57194,
+    "gn:longitude":106.43811,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Salai-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Salai-Nua"
+    ],
+    "name:und_x_variant":[
+        "Ban Sala-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956453
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"82e124e6e98a59c9a9b7cd2d1123d796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209489855
+        }
+    ],
+    "wof:id":1209489855,
+    "wof:lastmodified":1537660821,
+    "wof:name":"Ban Salai-Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43811,
+    16.57194,
+    106.43811,
+    16.57194
+],
+  "geometry": {"coordinates":[106.43810999999999,16.57194],"type":"Point"}
+}

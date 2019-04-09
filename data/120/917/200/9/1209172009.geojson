@@ -1,0 +1,66 @@
+{
+  "id": 1209172009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.53028,18.07806,102.53028,18.07806",
+    "geom:latitude":18.07806,
+    "geom:longitude":102.53028,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Naxaythong",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944196,
+    "gn:latitude":18.07806,
+    "gn:longitude":102.53028,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Naxaythong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Naxay Thong",
+        "Ban Naxaythong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944196
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c9ee9ce8933f915927d9aeb6a9854fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209172009
+        }
+    ],
+    "wof:id":1209172009,
+    "wof:lastmodified":1537660702,
+    "wof:name":"Ban Naxaythong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.53028,
+    18.07806,
+    102.53028,
+    18.07806
+],
+  "geometry": {"coordinates":[102.53028,18.07806],"type":"Point"}
+}

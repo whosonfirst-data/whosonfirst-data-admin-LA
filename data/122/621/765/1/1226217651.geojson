@@ -1,0 +1,73 @@
+{
+  "id": 1226217651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.1033,15.37352,106.1033,15.37352",
+    "geom:latitude":15.37352,
+    "geom:longitude":106.1033,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Muang-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662175,
+    "gn:latitude":15.37352,
+    "gn:longitude":106.1033,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Muang-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Muang-Kao"
+    ],
+    "name:und_x_variant":[
+        "Ban Meung Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662175
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"649911ef74ece02fb55061261db8a35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1226217651,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226217651,
+    "wof:lastmodified":1537660508,
+    "wof:name":"Ban Muang-Kao",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.1033,
+    15.37352,
+    106.1033,
+    15.37352
+],
+  "geometry": {"coordinates":[106.1033,15.37352],"type":"Point"}
+}

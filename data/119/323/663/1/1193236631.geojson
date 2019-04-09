@@ -1,0 +1,70 @@
+{
+  "id": 1193236631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.58909,18.59212,104.58909,18.59212",
+    "geom:latitude":18.59212,
+    "geom:longitude":104.58909,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Samsok-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659468,
+    "gn:latitude":18.59212,
+    "gn:longitude":104.58909,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Samsok-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Samsok-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092029605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659468
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c5386a3d2db18c76b3e1f633da1bf338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029605,
+            "locality_id":1193236631,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1193236631,
+    "wof:lastmodified":1537660353,
+    "wof:name":"Ban Samsok-Gnai",
+    "wof:parent_id":1092029605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.58909,
+    18.59212,
+    104.58909,
+    18.59212
+],
+  "geometry": {"coordinates":[104.58909,18.59212],"type":"Point"}
+}

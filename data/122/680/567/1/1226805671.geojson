@@ -1,0 +1,70 @@
+{
+  "id": 1226805671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.45889,20.64222,100.45889,20.64222",
+    "geom:latitude":20.64222,
+    "geom:longitude":100.45889,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Namkhali",
+    "gn:country_code":"LA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1906959,
+    "gn:latitude":20.64222,
+    "gn:longitude":100.45889,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Namkhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namkhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1906959
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7b2bfd9d24007ce41a575c1358b399e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1226805671,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1226805671,
+    "wof:lastmodified":1537660688,
+    "wof:name":"Ban Namkhali",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.45889,
+    20.64222,
+    100.45889,
+    20.64222
+],
+  "geometry": {"coordinates":[100.45889,20.64222],"type":"Point"}
+}

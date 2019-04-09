@@ -1,0 +1,67 @@
+{
+  "id": 1310176735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35,19.75,102.35,19.75",
+    "geom:latitude":19.75,
+    "geom:longitude":102.35,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houay Samane",
+    "gn:country_code":"LA",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663621,
+    "gn:latitude":19.75,
+    "gn:longitude":102.35,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houay Samane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663621
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"116403babe74c026c5b52991b8475e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1310176735,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1310176735,
+    "wof:lastmodified":1536893640,
+    "wof:name":"Ban Houay Samane",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35,
+    19.75,
+    102.35,
+    19.75
+],
+  "geometry": {"coordinates":[102.34999999999999,19.75],"type":"Point"}
+}

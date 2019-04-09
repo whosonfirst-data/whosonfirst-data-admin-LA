@@ -1,0 +1,72 @@
+{
+  "id": 1226317193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81667,16.23333,105.81667,16.23333",
+    "geom:latitude":16.23333,
+    "geom:longitude":105.81667,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phopaling",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659851,
+    "gn:latitude":16.23333,
+    "gn:longitude":105.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Phopaling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Popeling",
+        "Ban Phopaling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659851
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4606c137252280157ecf0a4dd797d6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1226317193,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226317193,
+    "wof:lastmodified":1537660374,
+    "wof:name":"Ban Phopaling",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81667,
+    16.23333,
+    105.81667,
+    16.23333
+],
+  "geometry": {"coordinates":[105.81667,16.23333],"type":"Point"}
+}

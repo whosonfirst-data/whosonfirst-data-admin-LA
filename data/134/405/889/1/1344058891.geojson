@@ -1,0 +1,73 @@
+{
+  "id": 1344058891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.21716,20.90962,104.21716,20.90962",
+    "geom:latitude":20.90962,
+    "geom:longitude":104.21716,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nget",
+    "gn:country_code":"LA",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660942,
+    "gn:latitude":20.90962,
+    "gn:longitude":104.21716,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Ng\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nghet",
+        "Ban Ng\u00e9t",
+        "Ban Ye Ta",
+        "Ban Ya Ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660942
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8c9a90231933875f0ffc68a96cf94014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1344058891,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1344058891,
+    "wof:lastmodified":1537660438,
+    "wof:name":"Ban Nget",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.21716,
+    20.90962,
+    104.21716,
+    20.90962
+],
+  "geometry": {"coordinates":[104.21716000000001,20.90962],"type":"Point"}
+}

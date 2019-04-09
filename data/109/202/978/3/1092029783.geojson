@@ -1,0 +1,75 @@
+{
+  "id": 1092029783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000011,
+    "geom:area_square_m":131604.908046,
+    "geom:bbox":"106.460011402,14.5328316801,106.466173064,14.5406196187",
+    "geom:latitude":14.535789,
+    "geom:longitude":106.462701,
+    "iso:country":"LA",
+    "lbl:latitude":14.535141,
+    "lbl:longitude":106.462911,
+    "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
+    "meso:admin_1":"Attapeu",
+    "meso:dissme":"SanamxaiAttapeu",
+    "meso:gadm_admin":"Sanamxay",
+    "meso:gadm_hasc2":"LA.AT.SN",
+    "meso:mps_x":106.462911,
+    "meso:mps_y":14.535141,
+    "meso:name_en":"Sanamxai",
+    "meso:name_loc":"\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0ec4\u0e8a",
+    "meso:source":"AOTM",
+    "mps:latitude":14.535141,
+    "mps:longitude":106.462911,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Sanamxay"
+    ],
+    "name:und_x_variant":[
+        "\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0ec4\u0e8a"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"LA.AT.SN"
+    },
+    "wof:country":"LA",
+    "wof:created":1473897718,
+    "wof:geomhash":"f0fe2a96b9946dd5a7590366e640043e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029783,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1092029783,
+    "wof:lastmodified":1536615100,
+    "wof:name":"Sanamxai",
+    "wof:parent_id":85673469,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:shortcode":"SN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4600114017066,
+    14.53283168005015,
+    106.46617306428746,
+    14.54061961871439
+],
+  "geometry": {"coordinates":[[[106.46617306428746,14.53283168005015],[106.46246402478187,14.53375110475014],[106.46162071375606,14.53595117132059],[106.46039027389176,14.53866758114139],[106.46001140170659,14.54061961871439],[106.460199,14.540234],[106.460993,14.539135],[106.462006,14.537833],[106.46262299999999,14.537019],[106.46420999999999,14.534943],[106.466061,14.532949],[106.46617306428746,14.53283168005015]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209986825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0524,17.16221,105.0524,17.16221",
+    "geom:latitude":17.16221,
+    "geom:longitude":105.0524,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Veunxe",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658169,
+    "gn:latitude":17.16221,
+    "gn:longitude":105.0524,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Veunx\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Houei Se",
+        "Ban Veune S\u00e9",
+        "Ban Veunx\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658169
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"db9a8ef6821908cd34c36475c6518c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1209986825,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1209986825,
+    "wof:lastmodified":1537660279,
+    "wof:name":"Ban Veunxe",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0524,
+    17.16221,
+    105.0524,
+    17.16221
+],
+  "geometry": {"coordinates":[105.05240000000001,17.16221],"type":"Point"}
+}

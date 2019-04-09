@@ -1,0 +1,70 @@
+{
+  "id": 1343732459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51654,17.94382,104.51654,17.94382",
+    "geom:latitude":17.94382,
+    "geom:longitude":104.51654,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Bonongxun",
+    "gn:country_code":"LA",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233320,
+    "gn:latitude":17.94382,
+    "gn:longitude":104.51654,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Bonongxun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bonongxun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233320
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1f2500d0b37ba31fb88c8808188a4e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1343732459,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343732459,
+    "wof:lastmodified":1537660939,
+    "wof:name":"Ban Bonongxun",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51654,
+    17.94382000000001,
+    104.51654,
+    17.94382000000001
+],
+  "geometry": {"coordinates":[104.51654000000001,17.94382000000001],"type":"Point"}
+}

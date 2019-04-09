@@ -1,0 +1,70 @@
+{
+  "id": 1326704683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.45254,16.41024,105.45254,16.41024",
+    "geom:latitude":16.41024,
+    "geom:longitude":105.45254,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Dinkok",
+    "gn:country_code":"LA",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221683,
+    "gn:latitude":16.41024,
+    "gn:longitude":105.45254,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Dinkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dinkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221683
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bb2e6905c188ed49974abf845ba199f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1326704683,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1326704683,
+    "wof:lastmodified":1537660888,
+    "wof:name":"Ban Dinkok",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.45253999999998,
+    16.41024,
+    105.45253999999998,
+    16.41024
+],
+  "geometry": {"coordinates":[105.45253999999998,16.41024],"type":"Point"}
+}

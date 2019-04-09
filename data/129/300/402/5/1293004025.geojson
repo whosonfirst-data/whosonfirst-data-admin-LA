@@ -1,0 +1,72 @@
+{
+  "id": 1293004025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84395,14.54763,105.84395,14.54763",
+    "geom:latitude":14.54763,
+    "geom:longitude":105.84395,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houadonxai",
+    "gn:country_code":"LA",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664022,
+    "gn:latitude":14.54763,
+    "gn:longitude":105.84395,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Houadonxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houa Done Sai",
+        "Ban Donxai",
+        "Ban Houadonxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664022
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a125d7aaac9b388566723fc0fa782b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1293004025,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293004025,
+    "wof:lastmodified":1537660622,
+    "wof:name":"Ban Houadonxai",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84395,
+    14.54763,
+    105.84395,
+    14.54763
+],
+  "geometry": {"coordinates":[105.84395000000001,14.54763],"type":"Point"}
+}

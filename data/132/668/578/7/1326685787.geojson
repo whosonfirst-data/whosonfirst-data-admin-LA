@@ -1,0 +1,70 @@
+{
+  "id": 1326685787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.72096,18.03856,102.72096,18.03856",
+    "geom:latitude":18.03856,
+    "geom:longitude":102.72096,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Xa",
+    "gn:country_code":"LA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955923,
+    "gn:latitude":18.03856,
+    "gn:longitude":102.72096,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Xa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092030043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955923
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"184205d5bbbd153c08a3fe62bcdbd4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030043,
+            "locality_id":1326685787,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1326685787,
+    "wof:lastmodified":1537660807,
+    "wof:name":"Ban Xa",
+    "wof:parent_id":1092030043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.72096,
+    18.03856,
+    102.72096,
+    18.03856
+],
+  "geometry": {"coordinates":[102.72096000000001,18.03856],"type":"Point"}
+}

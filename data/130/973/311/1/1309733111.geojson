@@ -1,0 +1,72 @@
+{
+  "id": 1309733111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.82768,20.45478,101.82768,20.45478",
+    "geom:latitude":20.45478,
+    "geom:longitude":101.82768,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Napa-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661290,
+    "gn:latitude":20.45478,
+    "gn:longitude":101.82768,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Napa-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pa Nap",
+        "Ban Napa",
+        "Ban Napa-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661290
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3cffd425d44877bd06ddd48418beaaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1309733111,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1309733111,
+    "wof:lastmodified":1537660459,
+    "wof:name":"Ban Napa-Tai",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.82768,
+    20.45478,
+    101.82768,
+    20.45478
+],
+  "geometry": {"coordinates":[101.82768,20.45478],"type":"Point"}
+}

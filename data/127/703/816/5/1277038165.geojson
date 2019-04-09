@@ -1,0 +1,73 @@
+{
+  "id": 1277038165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18388,21.35029,102.18388,21.35029",
+    "geom:latitude":21.35029,
+    "geom:longitude":102.18388,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Euyalao-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654499,
+    "gn:latitude":21.35029,
+    "gn:longitude":102.18388,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Euyalao-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Euyalao-Noy"
+    ],
+    "name:und_x_variant":[
+        "O Pa Ban Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654499
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dc57c3c45b7b2555a1414116f1252241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1277038165,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1277038165,
+    "wof:lastmodified":1537660218,
+    "wof:name":"Ban Euyalao-Noy",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18388,
+    21.35029,
+    102.18388,
+    21.35029
+],
+  "geometry": {"coordinates":[102.18388,21.35029],"type":"Point"}
+}

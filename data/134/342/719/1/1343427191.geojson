@@ -1,0 +1,72 @@
+{
+  "id": 1343427191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90211,21.83773,101.90211,21.83773",
+    "geom:latitude":21.83773,
+    "geom:longitude":101.90211,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Ngay-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654718,
+    "gn:latitude":21.83773,
+    "gn:longitude":101.90211,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Ngay-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngay Neua",
+        "Ngay Nua",
+        "Ban Ngay-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654718
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bfa9817be5d27c4aaffd5a14da122d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1343427191,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1343427191,
+    "wof:lastmodified":1537660220,
+    "wof:name":"Ban Ngay-Nua",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90211,
+    21.83773,
+    101.90211,
+    21.83773
+],
+  "geometry": {"coordinates":[101.90210999999999,21.83773],"type":"Point"}
+}

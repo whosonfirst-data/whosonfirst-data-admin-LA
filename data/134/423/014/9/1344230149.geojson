@@ -1,0 +1,70 @@
+{
+  "id": 1344230149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.01077,17.10272,105.01077,17.10272",
+    "geom:latitude":17.10272,
+    "geom:longitude":105.01077,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Tatkham-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234967,
+    "gn:latitude":17.10272,
+    "gn:longitude":105.01077,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tatkham-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tatkham-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234967
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2087fa4a509089bfc08cd6bc68c99b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1344230149,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1344230149,
+    "wof:lastmodified":1537660947,
+    "wof:name":"Ban Tatkham-Mai",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.01077,
+    17.10272,
+    105.01077,
+    17.10272
+],
+  "geometry": {"coordinates":[105.01076999999999,17.10272],"type":"Point"}
+}

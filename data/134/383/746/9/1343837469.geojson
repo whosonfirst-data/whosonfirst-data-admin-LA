@@ -1,0 +1,73 @@
+{
+  "id": 1343837469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.51147,18.65,101.51147,18.65",
+    "geom:latitude":18.65,
+    "geom:longitude":101.51147,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Na-Oum",
+    "gn:country_code":"LA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661456,
+    "gn:latitude":18.65,
+    "gn:longitude":101.51147,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Na-Oum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Na-Oum"
+    ],
+    "name:und_x_variant":[
+        "Ban Namoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092031375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661456
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3561fde197f6b32672408aff8abc90c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031375,
+            "locality_id":1343837469,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1343837469,
+    "wof:lastmodified":1537660468,
+    "wof:name":"Ban Na-Oum",
+    "wof:parent_id":1092031375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.51147,
+    18.65,
+    101.51147,
+    18.65
+],
+  "geometry": {"coordinates":[101.51147,18.65],"type":"Point"}
+}

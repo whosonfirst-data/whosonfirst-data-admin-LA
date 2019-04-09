@@ -1,0 +1,71 @@
+{
+  "id": 1343608903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9,18.75,102.9,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":102.9,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Nong Pao",
+    "gn:country_code":"LA",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660727,
+    "gn:latitude":18.75,
+    "gn:longitude":102.9,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Nong Pao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nong Pao",
+        "Ban Nong Pao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660727
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"10d498d22c6dea619af2e14da569c32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1343608903,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1343608903,
+    "wof:lastmodified":1537660425,
+    "wof:name":"Ban Nong Pao",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9,
+    18.75,
+    102.9,
+    18.75
+],
+  "geometry": {"coordinates":[102.90000000000001,18.75],"type":"Point"}
+}

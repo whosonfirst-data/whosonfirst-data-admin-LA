@@ -1,0 +1,70 @@
+{
+  "id": 1310555645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.47864,19.31205,102.47864,19.31205",
+    "geom:latitude":19.31205,
+    "geom:longitude":102.47864,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Longpot",
+    "gn:country_code":"LA",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662419,
+    "gn:latitude":19.31205,
+    "gn:longitude":102.47864,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Longp\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Longp\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662419
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e359eec49a163746d5b524dde3999288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1310555645,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1310555645,
+    "wof:lastmodified":1537660521,
+    "wof:name":"Ban Longpot",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.47864,
+    19.31205,
+    102.47864,
+    19.31205
+],
+  "geometry": {"coordinates":[102.47864,19.31205],"type":"Point"}
+}

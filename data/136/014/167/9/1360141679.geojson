@@ -1,0 +1,70 @@
+{
+  "id": 1360141679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38997,15.47918,106.38997,15.47918",
+    "geom:latitude":15.47918,
+    "geom:longitude":106.38997,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Mun-Kang",
+    "gn:country_code":"LA",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200294,
+    "gn:latitude":15.47918,
+    "gn:longitude":106.38997,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Mun-Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Mun-Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200294
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e55925eb66dde5f817fd50412cb852a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1360141679,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1360141679,
+    "wof:lastmodified":1537660855,
+    "wof:name":"Ban Mun-Kang",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38997,
+    15.47918,
+    106.38997,
+    15.47918
+],
+  "geometry": {"coordinates":[106.38997000000001,15.47918],"type":"Point"}
+}

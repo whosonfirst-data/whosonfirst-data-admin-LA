@@ -1,0 +1,70 @@
+{
+  "id": 1326621899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54934,20.76638,101.54934,20.76638",
+    "geom:latitude":20.76638,
+    "geom:longitude":101.54934,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Mokkalam",
+    "gn:country_code":"LA",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956101,
+    "gn:latitude":20.76638,
+    "gn:longitude":101.54934,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4kkalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4kkalam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092031207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956101
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"808fe4dcd680d401a5c46b5d471dd9f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031207,
+            "locality_id":1326621899,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1326621899,
+    "wof:lastmodified":1537660812,
+    "wof:name":"Ban Mokkalam",
+    "wof:parent_id":1092031207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54934,
+    20.76638,
+    101.54934,
+    20.76638
+],
+  "geometry": {"coordinates":[101.54934,20.76638],"type":"Point"}
+}

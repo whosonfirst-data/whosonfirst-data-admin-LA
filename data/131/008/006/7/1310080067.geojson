@@ -1,0 +1,70 @@
+{
+  "id": 1310080067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.49309,16.63222,106.49309,16.63222",
+    "geom:latitude":16.63222,
+    "geom:longitude":106.49309,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Taki",
+    "gn:country_code":"LA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956405,
+    "gn:latitude":16.63222,
+    "gn:longitude":106.49309,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Taki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Taki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956405
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"72deee0bff98a0dc0632bff7683dca78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1310080067,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310080067,
+    "wof:lastmodified":1537660820,
+    "wof:name":"Ban Taki",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.49309,
+    16.63222,
+    106.49309,
+    16.63222
+],
+  "geometry": {"coordinates":[106.49309,16.63222],"type":"Point"}
+}

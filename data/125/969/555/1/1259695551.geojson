@@ -1,0 +1,70 @@
+{
+  "id": 1259695551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41516,20.73313,103.41516,20.73313",
+    "geom:latitude":20.73313,
+    "geom:longitude":103.41516,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Diang",
+    "gn:country_code":"LA",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954947,
+    "gn:latitude":20.73313,
+    "gn:longitude":103.41516,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Diang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Diang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954947
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eae17ffedb9ed2c98db42e4dacf467b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1259695551,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1259695551,
+    "wof:lastmodified":1537660783,
+    "wof:name":"Ban Diang",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41516,
+    20.73313,
+    103.41516,
+    20.73313
+],
+  "geometry": {"coordinates":[103.41516,20.73313],"type":"Point"}
+}

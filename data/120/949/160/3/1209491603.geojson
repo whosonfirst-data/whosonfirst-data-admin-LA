@@ -1,0 +1,65 @@
+{
+  "id": 1209491603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44974,19.89372,102.44974,19.89372",
+    "geom:latitude":19.89372,
+    "geom:longitude":102.44974,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senlat",
+    "gn:country_code":"LA",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659304,
+    "gn:latitude":19.89372,
+    "gn:longitude":102.44974,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00e8nlat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hoi Len",
+        "Ban S\u00e8nlat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659304
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c815434d87fa4aab7d125e19ad6dcda0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209491603
+        }
+    ],
+    "wof:id":1209491603,
+    "wof:lastmodified":1537660345,
+    "wof:name":"Ban Senlat",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44974,
+    19.89372,
+    102.44974,
+    19.89372
+],
+  "geometry": {"coordinates":[102.44974000000001,19.89372],"type":"Point"}
+}

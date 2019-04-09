@@ -1,0 +1,70 @@
+{
+  "id": 1277052027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26933,19.5275,102.26933,19.5275",
+    "geom:latitude":19.5275,
+    "geom:longitude":102.26933,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Nammok-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952501,
+    "gn:latitude":19.5275,
+    "gn:longitude":102.26933,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Namm\u00f4k-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namm\u00f4k-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952501
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d336ff0d8aceb4817f5b3e43ee324c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1277052027,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1277052027,
+    "wof:lastmodified":1537660721,
+    "wof:name":"Ban Nammok-Tai",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26933,
+    19.5275,
+    102.26933,
+    19.5275
+],
+  "geometry": {"coordinates":[102.26933,19.5275],"type":"Point"}
+}

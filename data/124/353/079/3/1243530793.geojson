@@ -1,0 +1,70 @@
+{
+  "id": 1243530793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.97039,20.0246,102.97039,20.0246",
+    "geom:latitude":20.0246,
+    "geom:longitude":102.97039,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sanen",
+    "gn:country_code":"LA",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956580,
+    "gn:latitude":20.0246,
+    "gn:longitude":102.97039,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban San\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban San\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956580
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"896cd87ec6b802cfe438d36bd95becd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1243530793,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1243530793,
+    "wof:lastmodified":1537660825,
+    "wof:name":"Ban Sanen",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.97039,
+    20.0246,
+    102.97039,
+    20.0246
+],
+  "geometry": {"coordinates":[102.97038999999999,20.0246],"type":"Point"}
+}

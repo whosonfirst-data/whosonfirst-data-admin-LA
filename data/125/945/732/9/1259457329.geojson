@@ -1,0 +1,70 @@
+{
+  "id": 1259457329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35538,16.50136,106.35538,16.50136",
+    "geom:latitude":16.50136,
+    "geom:longitude":106.35538,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Alanpho",
+    "gn:country_code":"LA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665003,
+    "gn:latitude":16.50136,
+    "gn:longitude":106.35538,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Alanph\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Alaopho",
+        "Ban Alap",
+        "Ban Alanph\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665003
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"74f5b1b64b2e9f2c248261431f55f741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1259457329,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259457329,
+    "wof:lastmodified":1537660679,
+    "wof:name":"Ban Alanpho",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35538,
+    16.50136,
+    106.35538,
+    16.50136
+],
+  "geometry": {"coordinates":[106.35538,16.50136],"type":"Point"}
+}

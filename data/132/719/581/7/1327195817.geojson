@@ -1,0 +1,71 @@
+{
+  "id": 1327195817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21125,16.7934,105.21125,16.7934",
+    "geom:latitude":16.7934,
+    "geom:longitude":105.21125,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Donmakko",
+    "gn:country_code":"LA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664396,
+    "gn:latitude":16.7934,
+    "gn:longitude":105.21125,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Donmakko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Done Mak Ko",
+        "Ban Donmakko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092031025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664396
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0e6d251b1be57b6059537d759ff11271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031025,
+            "locality_id":1327195817,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1327195817,
+    "wof:lastmodified":1537660643,
+    "wof:name":"Ban Donmakko",
+    "wof:parent_id":1092031025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21125,
+    16.7934,
+    105.21125,
+    16.7934
+],
+  "geometry": {"coordinates":[105.21125000000001,16.7934],"type":"Point"}
+}

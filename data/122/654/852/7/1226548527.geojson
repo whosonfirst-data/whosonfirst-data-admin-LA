@@ -1,0 +1,70 @@
+{
+  "id": 1226548527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84788,14.03595,105.84788,14.03595",
+    "geom:latitude":14.03595,
+    "geom:longitude":105.84788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Xangphai-Phonkam",
+    "gn:country_code":"LA",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11211255,
+    "gn:latitude":14.03595,
+    "gn:longitude":105.84788,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Xangphai-Ph\u00f4nkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xangphai-Ph\u00f4nkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11211255
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"17b8d5fe2a840d13382d3a7ade5887f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1226548527,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226548527,
+    "wof:lastmodified":1537660880,
+    "wof:name":"Ban Xangphai-Phonkam",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84788,
+    14.03595,
+    105.84788,
+    14.03595
+],
+  "geometry": {"coordinates":[105.84788,14.03595],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259637789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97233,18.44573,101.97233,18.44573",
+    "geom:latitude":18.44573,
+    "geom:longitude":101.97233,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Hingkangna",
+    "gn:country_code":"LA",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664079,
+    "gn:latitude":18.44573,
+    "gn:longitude":101.97233,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hingkangna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hingkangna"
+    ],
+    "name:und_x_variant":[
+        "Ban Hin Kan Na",
+        "Ban Hinkang Na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664079
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bc910a439d6b6db3f35452f300ca293e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1259637789,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259637789,
+    "wof:lastmodified":1537660625,
+    "wof:name":"Ban Hingkangna",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97233,
+    18.44573,
+    101.97233,
+    18.44573
+],
+  "geometry": {"coordinates":[101.97233,18.44573],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243154975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.95791,17.26573,104.95791,17.26573",
+    "geom:latitude":17.26573,
+    "geom:longitude":104.95791,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nongphanna",
+    "gn:country_code":"LA",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660713,
+    "gn:latitude":17.26573,
+    "gn:longitude":104.95791,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongphanna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongphanna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660713
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"352639442da1f6232170de72c2e9165c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1243154975,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1243154975,
+    "wof:lastmodified":1537660425,
+    "wof:name":"Ban Nongphanna",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.95791,
+    17.26573,
+    104.95791,
+    17.26573
+],
+  "geometry": {"coordinates":[104.95791,17.26573],"type":"Point"}
+}

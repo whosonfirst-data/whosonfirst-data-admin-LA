@@ -1,0 +1,70 @@
+{
+  "id": 1193024965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.01386,13.95486,106.01386,13.95486",
+    "geom:latitude":13.95486,
+    "geom:longitude":106.01386,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Bungngam",
+    "gn:country_code":"LA",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202884,
+    "gn:latitude":13.95486,
+    "gn:longitude":106.01386,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Bungngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bungngam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202884
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51ff305c51ab976b6076e22626193102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1193024965,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1193024965,
+    "wof:lastmodified":1537660874,
+    "wof:name":"Ban Bungngam",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.01386,
+    13.95486,
+    106.01386,
+    13.95486
+],
+  "geometry": {"coordinates":[106.01385999999999,13.95486],"type":"Point"}
+}

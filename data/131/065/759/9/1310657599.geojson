@@ -1,0 +1,70 @@
+{
+  "id": 1310657599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.07175,15.45515,107.07175,15.45515",
+    "geom:latitude":15.45515,
+    "geom:longitude":107.07175,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Chabok-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200428,
+    "gn:latitude":15.45515,
+    "gn:longitude":107.07175,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Chabok-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chabok-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200428
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6d914bf186b94b14f576ce8a463a1302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1310657599,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1310657599,
+    "wof:lastmodified":1537660858,
+    "wof:name":"Ban Chabok-Nua",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.07175,
+    15.45515,
+    107.07175,
+    15.45515
+],
+  "geometry": {"coordinates":[107.07174999999999,15.45515],"type":"Point"}
+}

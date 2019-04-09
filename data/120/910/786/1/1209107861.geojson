@@ -1,0 +1,66 @@
+{
+  "id": 1209107861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89578,20.07224,103.89578,20.07224",
+    "geom:latitude":20.07224,
+    "geom:longitude":103.89578,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Chiapouang",
+    "gn:country_code":"LA",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658433,
+    "gn:latitude":20.07224,
+    "gn:longitude":103.89578,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chiapouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Na Phoung",
+        "Ban Tia Pouong",
+        "Ban Chiapouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658433
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6d701cccc354b9f16c424b8baeaf9dd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209107861
+        }
+    ],
+    "wof:id":1209107861,
+    "wof:lastmodified":1537660295,
+    "wof:name":"Ban Chiapouang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89578,
+    20.07224,
+    103.89578,
+    20.07224
+],
+  "geometry": {"coordinates":[103.89578,20.07224],"type":"Point"}
+}

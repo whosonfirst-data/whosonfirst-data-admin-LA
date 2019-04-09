@@ -1,0 +1,70 @@
+{
+  "id": 1260059561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.77716,19.6423,101.77716,19.6423",
+    "geom:latitude":19.6423,
+    "geom:longitude":101.77716,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Samsoum",
+    "gn:country_code":"LA",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954424,
+    "gn:latitude":19.6423,
+    "gn:longitude":101.77716,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Samsoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Samsoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954424
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"039fb3917bcee1d90beb1ef620d71c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1260059561,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1260059561,
+    "wof:lastmodified":1537660765,
+    "wof:name":"Ban Samsoum",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.77716,
+    19.6423,
+    101.77716,
+    19.6423
+],
+  "geometry": {"coordinates":[101.77715999999999,19.6423],"type":"Point"}
+}

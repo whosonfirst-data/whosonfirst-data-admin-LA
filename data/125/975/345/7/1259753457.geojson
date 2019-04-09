@@ -1,0 +1,71 @@
+{
+  "id": 1259753457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09379,17.88493,105.09379,17.88493",
+    "geom:latitude":17.88493,
+    "geom:longitude":105.09379,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Namxot",
+    "gn:country_code":"LA",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661369,
+    "gn:latitude":17.88493,
+    "gn:longitude":105.09379,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Namx\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nam S\u00f4t",
+        "Ban Namx\u00f4t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661369
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8a7738a85ffe882b12fb72996418c271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1259753457,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1259753457,
+    "wof:lastmodified":1537660464,
+    "wof:name":"Ban Namxot",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09378999999998,
+    17.88492999999999,
+    105.09378999999998,
+    17.88492999999999
+],
+  "geometry": {"coordinates":[105.09378999999998,17.88492999999999],"type":"Point"}
+}

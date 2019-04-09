@@ -1,0 +1,70 @@
+{
+  "id": 1260245437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19117,20.54404,103.19117,20.54404",
+    "geom:latitude":20.54404,
+    "geom:longitude":103.19117,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Navet",
+    "gn:country_code":"LA",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954898,
+    "gn:latitude":20.54404,
+    "gn:longitude":103.19117,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Nav\u00e8t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nav\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954898
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0970ceee093dd93786f9de81d81843d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1260245437,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260245437,
+    "wof:lastmodified":1537660781,
+    "wof:name":"Ban Navet",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19117,
+    20.54404,
+    103.19117,
+    20.54404
+],
+  "geometry": {"coordinates":[103.19117,20.54404],"type":"Point"}
+}

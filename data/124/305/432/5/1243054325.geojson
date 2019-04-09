@@ -1,0 +1,71 @@
+{
+  "id": 1243054325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.80651,19.61797,100.80651,19.61797",
+    "geom:latitude":19.61797,
+    "geom:longitude":100.80651,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Kouk",
+    "gn:country_code":"LA",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664842,
+    "gn:latitude":19.61797,
+    "gn:longitude":100.80651,
+    "gn:modification_date":"2013-11-17",
+    "gn:name":"Ban Kouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Bouk",
+        "Ban Kouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664842
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"713e5e8c5430d931deaf1ab18bc9d5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030503,
+            "locality_id":1243054325,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1243054325,
+    "wof:lastmodified":1537660671,
+    "wof:name":"Ban Kouk",
+    "wof:parent_id":1092030503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.80651,
+    19.61797,
+    100.80651,
+    19.61797
+],
+  "geometry": {"coordinates":[100.80651,19.61797],"type":"Point"}
+}

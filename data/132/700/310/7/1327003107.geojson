@@ -1,0 +1,70 @@
+{
+  "id": 1327003107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.52276,17.26588,105.52276,17.26588",
+    "geom:latitude":17.26588,
+    "geom:longitude":105.52276,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kase",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663350,
+    "gn:latitude":17.26588,
+    "gn:longitude":105.52276,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kas\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kas\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663350
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d470864ec0e245ae686782dc5f7abcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1327003107,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327003107,
+    "wof:lastmodified":1537660574,
+    "wof:name":"Ban Kase",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.52276,
+    17.26588,
+    105.52276,
+    17.26588
+],
+  "geometry": {"coordinates":[105.52276000000001,17.26588],"type":"Point"}
+}

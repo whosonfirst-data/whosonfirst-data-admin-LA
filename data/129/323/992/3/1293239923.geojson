@@ -1,0 +1,71 @@
+{
+  "id": 1293239923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.674,18.30875,102.674,18.30875",
+    "geom:latitude":18.30875,
+    "geom:longitude":102.674,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Napheng",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661227,
+    "gn:latitude":18.30875,
+    "gn:longitude":102.674,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Napheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Naphong",
+        "Ban Napheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661227
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6e1b275e478e1782eb50f3e47c31977d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1293239923,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293239923,
+    "wof:lastmodified":1537660456,
+    "wof:name":"Ban Napheng",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.674,
+    18.30875,
+    102.674,
+    18.30875
+],
+  "geometry": {"coordinates":[102.67400000000001,18.30875],"type":"Point"}
+}

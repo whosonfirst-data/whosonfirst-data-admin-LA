@@ -1,0 +1,71 @@
+{
+  "id": 1293157711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.26117,15.32444,107.26117,15.32444",
+    "geom:latitude":15.32444,
+    "geom:longitude":107.26117,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakchoun",
+    "gn:country_code":"LA",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664650,
+    "gn:latitude":15.32444,
+    "gn:longitude":107.26117,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dakchoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choum",
+        "Ban Dakchoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664650
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"da517889193e6bb2f021ba4f1bfb4487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1293157711,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1293157711,
+    "wof:lastmodified":1537660660,
+    "wof:name":"Ban Dakchoun",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.26117,
+    15.32444,
+    107.26117,
+    15.32444
+],
+  "geometry": {"coordinates":[107.26117000000001,15.32444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242746655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.63785,18.26765,104.63785,18.26765",
+    "geom:latitude":18.26765,
+    "geom:longitude":104.63785,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Vangxao",
+    "gn:country_code":"LA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658212,
+    "gn:latitude":18.26765,
+    "gn:longitude":104.63785,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangxao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sao Va",
+        "Ban Vangxao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658212
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d18c65bd7f3160d7712fdd667ddbe2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1242746655,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1242746655,
+    "wof:lastmodified":1537660282,
+    "wof:name":"Ban Vangxao",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.63785,
+    18.26765,
+    104.63785,
+    18.26765
+],
+  "geometry": {"coordinates":[104.63785,18.26765],"type":"Point"}
+}

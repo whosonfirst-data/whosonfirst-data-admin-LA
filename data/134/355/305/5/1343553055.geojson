@@ -1,0 +1,72 @@
+{
+  "id": 1343553055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.12332,20.80834,102.12332,20.80834",
+    "geom:latitude":20.80834,
+    "geom:longitude":102.12332,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Longya",
+    "gn:country_code":"LA",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655604,
+    "gn:latitude":20.80834,
+    "gn:longitude":102.12332,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Longya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longya",
+        "Lang Ya",
+        "Ban Longya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655604
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e2e5967b2dc5b1dca6d9663653b275b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1343553055,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1343553055,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Longya",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.12332,
+    20.80834,
+    102.12332,
+    20.80834
+],
+  "geometry": {"coordinates":[102.12332000000001,20.80834],"type":"Point"}
+}

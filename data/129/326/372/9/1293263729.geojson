@@ -1,0 +1,71 @@
+{
+  "id": 1293263729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26833,19.41768,102.26833,19.41768",
+    "geom:latitude":19.41768,
+    "geom:longitude":102.26833,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senkhoun",
+    "gn:country_code":"LA",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659317,
+    "gn:latitude":19.41768,
+    "gn:longitude":102.26833,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00e8nkhoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban S\u00e8nkhoun",
+        "Ban S\u00e8n Koune"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659317
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cf82e7d2c59938b755596d3c71d08047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1293263729,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293263729,
+    "wof:lastmodified":1537660345,
+    "wof:name":"Ban Senkhoun",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26833,
+    19.41768,
+    102.26833,
+    19.41768
+],
+  "geometry": {"coordinates":[102.26833000000001,19.41768],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259453483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.23874,17.07805,105.23874,17.07805",
+    "geom:latitude":17.07805,
+    "geom:longitude":105.23874,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Dongtlu",
+    "gn:country_code":"LA",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664435,
+    "gn:latitude":17.07805,
+    "gn:longitude":105.23874,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban D\u00f4ngtlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Dong Tru",
+        "Ban D\u00f4ngtrouy",
+        "Ban D\u00f4ngtlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664435
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"abbb3084217cccf6256ac1a925e295a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1259453483,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1259453483,
+    "wof:lastmodified":1537660646,
+    "wof:name":"Ban Dongtlu",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.23874,
+    17.07805,
+    105.23874,
+    17.07805
+],
+  "geometry": {"coordinates":[105.23874000000001,17.07805],"type":"Point"}
+}

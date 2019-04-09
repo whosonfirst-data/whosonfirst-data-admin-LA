@@ -1,0 +1,71 @@
+{
+  "id": 1209923071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,14.41667,105.85,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":105.85,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nangloy",
+    "gn:country_code":"LA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661339,
+    "gn:latitude":14.41667,
+    "gn:longitude":105.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Nangloy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nag Lo\u00ef",
+        "Ban Nangloy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661339
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"389d37e052e22af71523e8b412f132d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1209923071,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1209923071,
+    "wof:lastmodified":1537660462,
+    "wof:name":"Ban Nangloy",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    14.41667,
+    105.85,
+    14.41667
+],
+  "geometry": {"coordinates":[105.84999999999999,14.41667],"type":"Point"}
+}

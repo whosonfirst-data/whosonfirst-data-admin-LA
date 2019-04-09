@@ -1,0 +1,70 @@
+{
+  "id": 1293261135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.22803,20.3112,101.22803,20.3112",
+    "geom:latitude":20.3112,
+    "geom:longitude":101.22803,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Phougnouak",
+    "gn:country_code":"LA",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953048,
+    "gn:latitude":20.3112,
+    "gn:longitude":101.22803,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Phougnouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phougnouak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953048
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"62578002dc95d143ffe8d58ff6d297de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027657,
+            "locality_id":1293261135,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293261135,
+    "wof:lastmodified":1537660729,
+    "wof:name":"Ban Phougnouak",
+    "wof:parent_id":1092027657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.22803,
+    20.3112,
+    101.22803,
+    20.3112
+],
+  "geometry": {"coordinates":[101.22803,20.3112],"type":"Point"}
+}

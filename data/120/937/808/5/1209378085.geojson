@@ -1,0 +1,64 @@
+{
+  "id": 1209378085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.01521,21.68437,102.01521,21.68437",
+    "geom:latitude":21.68437,
+    "geom:longitude":102.01521,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khounmou-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954093,
+    "gn:latitude":21.68437,
+    "gn:longitude":102.01521,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Khounmou-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khounmou-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954093
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"06a2ad9a480359c918d7b4a6b990e2ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209378085
+        }
+    ],
+    "wof:id":1209378085,
+    "wof:lastmodified":1537660757,
+    "wof:name":"Ban Khounmou-Noy",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.01521,
+    21.68437,
+    102.01521,
+    21.68437
+],
+  "geometry": {"coordinates":[102.01521,21.68437],"type":"Point"}
+}

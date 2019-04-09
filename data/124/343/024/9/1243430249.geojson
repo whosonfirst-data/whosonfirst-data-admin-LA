@@ -1,0 +1,70 @@
+{
+  "id": 1243430249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96247,21.22574,101.96247,21.22574",
+    "geom:latitude":21.22574,
+    "geom:longitude":101.96247,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Palan",
+    "gn:country_code":"LA",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244075,
+    "gn:latitude":21.22574,
+    "gn:longitude":101.96247,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Palan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Palan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244075
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cd32e7d6666b81893ec2785b97cb169c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1243430249,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243430249,
+    "wof:lastmodified":1537660980,
+    "wof:name":"Ban Palan",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96247,
+    21.22574,
+    101.96247,
+    21.22574
+],
+  "geometry": {"coordinates":[101.96247,21.22574],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193236647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.1983,18.15743,105.1983,18.15743",
+    "geom:latitude":18.15743,
+    "geom:longitude":105.1983,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Poungkuak",
+    "gn:country_code":"LA",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233057,
+    "gn:latitude":18.15743,
+    "gn:longitude":105.1983,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Poungkuak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poungkuak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233057
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"20907011d218fc9bd0a8a85462f2d57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1193236647,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1193236647,
+    "wof:lastmodified":1537660935,
+    "wof:name":"Ban Poungkuak",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.1983,
+    18.15743,
+    105.1983,
+    18.15743
+],
+  "geometry": {"coordinates":[105.1983,18.15743],"type":"Point"}
+}

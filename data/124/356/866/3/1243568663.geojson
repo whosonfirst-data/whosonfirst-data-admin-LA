@@ -1,0 +1,70 @@
+{
+  "id": 1243568663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.90548,15.07647,106.90548,15.07647",
+    "geom:latitude":15.07647,
+    "geom:longitude":106.90548,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Alak",
+    "gn:country_code":"LA",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1665008,
+    "gn:latitude":15.07647,
+    "gn:longitude":106.90548,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Alak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Alak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665008
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7dff3741a3d5a0465af9f711b810c10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1243568663,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1243568663,
+    "wof:lastmodified":1537660679,
+    "wof:name":"Ban Alak",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.90548,
+    15.07647,
+    106.90548,
+    15.07647
+],
+  "geometry": {"coordinates":[106.90548,15.07647],"type":"Point"}
+}

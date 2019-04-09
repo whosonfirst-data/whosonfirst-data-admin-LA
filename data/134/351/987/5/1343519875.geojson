@@ -1,0 +1,70 @@
+{
+  "id": 1343519875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22399,18.67782,104.22399,18.67782",
+    "geom:latitude":18.67782,
+    "geom:longitude":104.22399,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Phagnia",
+    "gn:country_code":"LA",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231746,
+    "gn:latitude":18.67782,
+    "gn:longitude":104.22399,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phagnia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phagnia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092029605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231746
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"97618e210b935f9adda937f1b93a9802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029605,
+            "locality_id":1343519875,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1343519875,
+    "wof:lastmodified":1537660918,
+    "wof:name":"Ban Phagnia",
+    "wof:parent_id":1092029605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22399,
+    18.67782,
+    104.22399,
+    18.67782
+],
+  "geometry": {"coordinates":[104.22399,18.67782],"type":"Point"}
+}

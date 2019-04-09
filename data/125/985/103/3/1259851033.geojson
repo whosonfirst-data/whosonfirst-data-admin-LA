@@ -1,0 +1,74 @@
+{
+  "id": 1259851033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76391,20.32712,102.76391,20.32712",
+    "geom:latitude":20.32712,
+    "geom:longitude":102.76391,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Soptiou",
+    "gn:country_code":"LA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653034,
+    "gn:latitude":20.32712,
+    "gn:longitude":102.76391,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00f4ptiou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sop Tioc",
+        "Ban Sop Tioo",
+        "S\u00f4pchok",
+        "Ban Sop Tiok",
+        "Ban S\u00f4ptiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653034
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a8b715e40fcaf6aad0b50ef223e48fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1259851033,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259851033,
+    "wof:lastmodified":1537660201,
+    "wof:name":"Ban Soptiou",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76391,
+    20.32712,
+    102.76391,
+    20.32712
+],
+  "geometry": {"coordinates":[102.76391,20.32712],"type":"Point"}
+}

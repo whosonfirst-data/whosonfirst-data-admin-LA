@@ -1,0 +1,70 @@
+{
+  "id": 1343834491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.50815,19.03986,101.50815,19.03986",
+    "geom:latitude":19.03986,
+    "geom:longitude":101.50815,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Somsavan",
+    "gn:country_code":"LA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221320,
+    "gn:latitude":19.03986,
+    "gn:longitude":101.50815,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban S\u00f4msavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4msavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092031375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221320
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"451d5f697de3731b1ceff56e1cb20513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031375,
+            "locality_id":1343834491,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1343834491,
+    "wof:lastmodified":1537660883,
+    "wof:name":"Ban Somsavan",
+    "wof:parent_id":1092031375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.50815,
+    19.03986,
+    101.50815,
+    19.03986
+],
+  "geometry": {"coordinates":[101.50815,19.03986],"type":"Point"}
+}

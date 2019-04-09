@@ -1,0 +1,70 @@
+{
+  "id": 1226109437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05752,16.06618,107.05752,16.06618",
+    "geom:latitude":16.06618,
+    "geom:longitude":107.05752,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kaleo-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237331,
+    "gn:latitude":16.06618,
+    "gn:longitude":107.05752,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kal\u00e9o-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kal\u00e9o-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237331
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ee5bef94ced5662bf22e23a19e817b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1226109437,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1226109437,
+    "wof:lastmodified":1537660970,
+    "wof:name":"Ban Kaleo-Tai",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05752,
+    16.06618,
+    107.05752,
+    16.06618
+],
+  "geometry": {"coordinates":[107.05752,16.06618],"type":"Point"}
+}

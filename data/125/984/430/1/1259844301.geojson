@@ -1,0 +1,71 @@
+{
+  "id": 1259844301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.13126,16.63168,105.13126,16.63168",
+    "geom:latitude":16.63168,
+    "geom:longitude":105.13126,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nonghai",
+    "gn:country_code":"LA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660835,
+    "gn:latitude":16.63168,
+    "gn:longitude":105.13126,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nonghai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Hay",
+        "Ban Nonghai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660835
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2dad84ff37894c2d49191fd2995dd1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028085,
+            "locality_id":1259844301,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259844301,
+    "wof:lastmodified":1537660432,
+    "wof:name":"Ban Nonghai",
+    "wof:parent_id":1092028085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.13126,
+    16.63168,
+    105.13126,
+    16.63168
+],
+  "geometry": {"coordinates":[105.13126,16.63168],"type":"Point"}
+}

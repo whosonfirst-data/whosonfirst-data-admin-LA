@@ -1,0 +1,71 @@
+{
+  "id": 1209874405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.68764,18.5116,103.68764,18.5116",
+    "geom:latitude":18.5116,
+    "geom:longitude":103.68764,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Hat-It-Et",
+    "gn:country_code":"LA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664169,
+    "gn:latitude":18.5116,
+    "gn:longitude":103.68764,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hat-It-\u00c8t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hat Hiet",
+        "Ban Hat-It-\u00c8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664169
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"11545cb41716860a94fbeba5720573b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":1209874405,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1209874405,
+    "wof:lastmodified":1537660630,
+    "wof:name":"Ban Hat-It-Et",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.68764,
+    18.5116,
+    103.68764,
+    18.5116
+],
+  "geometry": {"coordinates":[103.68764,18.5116],"type":"Point"}
+}

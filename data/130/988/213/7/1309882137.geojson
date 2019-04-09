@@ -1,0 +1,71 @@
+{
+  "id": 1309882137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96255,19.52825,101.96255,19.52825",
+    "geom:latitude":19.52825,
+    "geom:longitude":101.96255,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phanip",
+    "gn:country_code":"LA",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660194,
+    "gn:latitude":19.52825,
+    "gn:longitude":101.96255,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Phanip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pa Nip",
+        "Ban Phanip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660194
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"524077a003c2aad356a29a6e74152a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1309882137,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309882137,
+    "wof:lastmodified":1537660393,
+    "wof:name":"Ban Phanip",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96255,
+    19.52825,
+    101.96255,
+    19.52825
+],
+  "geometry": {"coordinates":[101.96254999999999,19.52825],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343428147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.36907,15.46173,106.36907,15.46173",
+    "geom:latitude":15.46173,
+    "geom:longitude":106.36907,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Pong-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209859,
+    "gn:latitude":15.46173,
+    "gn:longitude":106.36907,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban P\u00f4ng-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban P\u00f4ng-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209859
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"24cbec5a876c2ecd5ecf65bcf682560e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1343428147,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1343428147,
+    "wof:lastmodified":1537660880,
+    "wof:name":"Ban Pong-Tai",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.36907,
+    15.46173,
+    106.36907,
+    15.46173
+],
+  "geometry": {"coordinates":[106.36906999999999,15.46173],"type":"Point"}
+}

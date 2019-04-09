@@ -1,0 +1,72 @@
+{
+  "id": 1243417459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61385,21.09684,102.61385,21.09684",
+    "geom:latitude":21.09684,
+    "geom:longitude":102.61385,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Gnakha",
+    "gn:country_code":"LA",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655015,
+    "gn:latitude":21.09684,
+    "gn:longitude":102.61385,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Gnakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Kha",
+        "Mok Son Luang",
+        "Ban Gnakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655015
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7e12dd41fc202998c4d9c3cd00e8b36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1243417459,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243417459,
+    "wof:lastmodified":1537660224,
+    "wof:name":"Ban Gnakha",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61385,
+    21.09684,
+    102.61385,
+    21.09684
+],
+  "geometry": {"coordinates":[102.61385,21.09684],"type":"Point"}
+}

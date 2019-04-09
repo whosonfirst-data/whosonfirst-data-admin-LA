@@ -1,0 +1,70 @@
+{
+  "id": 1259630945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.3623,18.91244,102.3623,18.91244",
+    "geom:latitude":18.91244,
+    "geom:longitude":102.3623,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nagnao",
+    "gn:country_code":"LA",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662005,
+    "gn:latitude":18.91244,
+    "gn:longitude":102.3623,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nagnao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nagna (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662005
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e42bb564c4d7a9cdcc1de54fd40f3eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":1259630945,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1259630945,
+    "wof:lastmodified":1537660498,
+    "wof:name":"Ban Nagnao",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.3623,
+    18.91244,
+    102.3623,
+    18.91244
+],
+  "geometry": {"coordinates":[102.3623,18.91244],"type":"Point"}
+}

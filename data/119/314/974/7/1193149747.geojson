@@ -1,0 +1,70 @@
+{
+  "id": 1193149747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.80303,14.19583,105.80303,14.19583",
+    "geom:latitude":14.19583,
+    "geom:longitude":105.80303,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khongtaiphoum",
+    "gn:country_code":"LA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202591,
+    "gn:latitude":14.19583,
+    "gn:longitude":105.80303,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Kh\u00f4ngtaiphoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4ngtaiphoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202591
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d78f746870b2f9e503f499c800529e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1193149747,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1193149747,
+    "wof:lastmodified":1537660872,
+    "wof:name":"Ban Khongtaiphoum",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.80303,
+    14.19583,
+    105.80303,
+    14.19583
+],
+  "geometry": {"coordinates":[105.80303000000001,14.19583],"type":"Point"}
+}

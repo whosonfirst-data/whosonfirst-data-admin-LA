@@ -1,0 +1,70 @@
+{
+  "id": 1259485091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98772,20.77901,103.98772,20.77901",
+    "geom:latitude":20.77901,
+    "geom:longitude":103.98772,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Tay",
+    "gn:country_code":"LA",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955133,
+    "gn:latitude":20.77901,
+    "gn:longitude":103.98772,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955133
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7cc9a14fd9efd483e24a1bba828233ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031091,
+            "locality_id":1259485091,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1259485091,
+    "wof:lastmodified":1537660788,
+    "wof:name":"Ban Tay",
+    "wof:parent_id":1092031091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98772,
+    20.77901,
+    103.98772,
+    20.77901
+],
+  "geometry": {"coordinates":[103.98772,20.77901],"type":"Point"}
+}

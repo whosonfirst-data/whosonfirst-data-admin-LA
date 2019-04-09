@@ -1,0 +1,74 @@
+{
+  "id": 1209781979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.44853,21.14627,102.44853,21.14627",
+    "geom:latitude":21.14627,
+    "geom:longitude":102.44853,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Tlon",
+    "gn:country_code":"LA",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658328,
+    "gn:latitude":21.14627,
+    "gn:longitude":102.44853,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Tl\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tl\u00f4n"
+    ],
+    "name:und_x_variant":[
+        "Kok Niou",
+        "Ban Trol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658328
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ab45b740d72a6ddbafb7ddb9a89a0178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1209781979,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209781979,
+    "wof:lastmodified":1537660289,
+    "wof:name":"Ban Tlon",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.44853,
+    21.14627,
+    102.44853,
+    21.14627
+],
+  "geometry": {"coordinates":[102.44853000000001,21.14627],"type":"Point"}
+}

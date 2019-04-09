@@ -1,0 +1,72 @@
+{
+  "id": 1209990883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38066,16.98703,106.38066,16.98703",
+    "geom:latitude":16.98703,
+    "geom:longitude":106.38066,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Laving",
+    "gn:country_code":"LA",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659576,
+    "gn:latitude":16.98703,
+    "gn:longitude":106.38066,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Laving",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Travigne",
+        "Ban Raving",
+        "Ban Laving"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659576
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c69b1bd3681c29d2b0bc79fe3f0c937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1209990883,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1209990883,
+    "wof:lastmodified":1537660360,
+    "wof:name":"Ban Laving",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38066,
+    16.98702999999999,
+    106.38066,
+    16.98702999999999
+],
+  "geometry": {"coordinates":[106.38066000000001,16.98702999999999],"type":"Point"}
+}

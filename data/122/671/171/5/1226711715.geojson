@@ -1,0 +1,71 @@
+{
+  "id": 1226711715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.51643,16.35641,106.51643,16.35641",
+    "geom:latitude":16.35641,
+    "geom:longitude":106.51643,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tang-Alailion-An",
+    "gn:country_code":"LA",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655919,
+    "gn:latitude":16.35641,
+    "gn:longitude":106.51643,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tang-Alailion-An",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tang-Alailion-An"
+    ],
+    "name:und_x_variant":[
+        "L\u00e0ng A Lai Rion Al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655919
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5d21f67fe628a8b0fbf0155c9d90b1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1226711715,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226711715,
+    "wof:lastmodified":1537660247,
+    "wof:name":"Ban Tang-Alailion-An",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51643,
+    16.35641,
+    106.51643,
+    16.35641
+],
+  "geometry": {"coordinates":[106.51643,16.35641],"type":"Point"}
+}

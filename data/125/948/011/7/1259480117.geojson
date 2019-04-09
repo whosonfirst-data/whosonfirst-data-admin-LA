@@ -1,0 +1,70 @@
+{
+  "id": 1259480117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.04549,21.0846,102.04549,21.0846",
+    "geom:latitude":21.0846,
+    "geom:longitude":102.04549,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Khoang",
+    "gn:country_code":"LA",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954973,
+    "gn:latitude":21.0846,
+    "gn:longitude":102.04549,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Khoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954973
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b5f7d3c480a18cc434e031acf82568cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1259480117,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1259480117,
+    "wof:lastmodified":1537660784,
+    "wof:name":"Ban Khoang",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.04549,
+    21.0846,
+    102.04549,
+    21.0846
+],
+  "geometry": {"coordinates":[102.04549,21.0846],"type":"Point"}
+}

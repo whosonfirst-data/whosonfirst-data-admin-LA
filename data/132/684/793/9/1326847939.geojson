@@ -1,0 +1,70 @@
+{
+  "id": 1326847939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.69643,14.63596,106.69643,14.63596",
+    "geom:latitude":14.63596,
+    "geom:longitude":106.69643,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Kengmalai",
+    "gn:country_code":"LA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202465,
+    "gn:latitude":14.63596,
+    "gn:longitude":106.69643,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban K\u00e9ngmalai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00e9ngmalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202465
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1c1f54d0eb4c58d70b390dada8ad6846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1326847939,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1326847939,
+    "wof:lastmodified":1537660871,
+    "wof:name":"Ban Kengmalai",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.69643,
+    14.63596,
+    106.69643,
+    14.63596
+],
+  "geometry": {"coordinates":[106.69643000000001,14.63596],"type":"Point"}
+}

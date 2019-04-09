@@ -1,0 +1,70 @@
+{
+  "id": 1259951425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65922,20.78494,102.65922,20.78494",
+    "geom:latitude":20.78494,
+    "geom:longitude":102.65922,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hatsapheuy",
+    "gn:country_code":"LA",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954480,
+    "gn:latitude":20.78494,
+    "gn:longitude":102.65922,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Hatsapheuy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatsapheuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954480
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"be349df93bec95df4807bad5c3f1bfb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1259951425,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259951425,
+    "wof:lastmodified":1537660767,
+    "wof:name":"Ban Hatsapheuy",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65922,
+    20.78494,
+    102.65922,
+    20.78494
+],
+  "geometry": {"coordinates":[102.65922,20.78494],"type":"Point"}
+}

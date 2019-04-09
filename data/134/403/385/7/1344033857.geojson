@@ -1,0 +1,67 @@
+{
+  "id": 1344033857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35,19.8,102.35,19.8",
+    "geom:latitude":19.8,
+    "geom:longitude":102.35,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pho Set",
+    "gn:country_code":"LA",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659838,
+    "gn:latitude":19.8,
+    "gn:longitude":102.35,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Pho Set",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659838
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a2f3f29bff49b58306493d4640c3d665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1344033857,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1344033857,
+    "wof:lastmodified":1536914554,
+    "wof:name":"Ban Pho Set",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35,
+    19.8,
+    102.35,
+    19.8
+],
+  "geometry": {"coordinates":[102.34999999999999,19.8],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260255675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68909,17.63415,104.68909,17.63415",
+    "geom:latitude":17.63415,
+    "geom:longitude":104.68909,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phonkham",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659940,
+    "gn:latitude":17.63415,
+    "gn:longitude":104.68909,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ph\u00f4nkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659940
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cfa04db8640cf55212d982cb3d4aef09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1260255675,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1260255675,
+    "wof:lastmodified":1537660380,
+    "wof:name":"Ban Phonkham",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68909,
+    17.63415,
+    104.68909,
+    17.63415
+],
+  "geometry": {"coordinates":[104.68908999999999,17.63415],"type":"Point"}
+}

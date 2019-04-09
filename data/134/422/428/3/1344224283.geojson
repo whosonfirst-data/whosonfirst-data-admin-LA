@@ -1,0 +1,70 @@
+{
+  "id": 1344224283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.27616,15.47203,107.27616,15.47203",
+    "geom:latitude":15.47203,
+    "geom:longitude":107.27616,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Ngondon",
+    "gn:country_code":"LA",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200435,
+    "gn:latitude":15.47203,
+    "gn:longitude":107.27616,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Ngondon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ngondon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200435
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4b4b399bd406e06ad13063e9d827ea0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1344224283,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1344224283,
+    "wof:lastmodified":1537660858,
+    "wof:name":"Ban Ngondon",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.27616,
+    15.47203,
+    107.27616,
+    15.47203
+],
+  "geometry": {"coordinates":[107.27616,15.47203],"type":"Point"}
+}

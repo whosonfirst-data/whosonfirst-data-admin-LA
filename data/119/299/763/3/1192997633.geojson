@@ -1,0 +1,70 @@
+{
+  "id": 1192997633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.82577,19.18232,101.82577,19.18232",
+    "geom:latitude":19.18232,
+    "geom:longitude":101.82577,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Hatkeo",
+    "gn:country_code":"LA",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221394,
+    "gn:latitude":19.18232,
+    "gn:longitude":101.82577,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Hatk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatk\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221394
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"25f6a586f6e6f08b4096c9aa3c007e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1192997633,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1192997633,
+    "wof:lastmodified":1537660885,
+    "wof:name":"Ban Hatkeo",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.82577,
+    19.18232,
+    101.82577,
+    19.18232
+],
+  "geometry": {"coordinates":[101.82577000000001,19.18232],"type":"Point"}
+}

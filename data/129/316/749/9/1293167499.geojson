@@ -1,0 +1,70 @@
+{
+  "id": 1293167499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.50587,19.23432,102.50587,19.23432",
+    "geom:latitude":19.23432,
+    "geom:longitude":102.50587,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phatoum",
+    "gn:country_code":"LA",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660138,
+    "gn:latitude":19.23432,
+    "gn:longitude":102.50587,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phatoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phatoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660138
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2034a544c652faf7661e66f6c36bbc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1293167499,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293167499,
+    "wof:lastmodified":1537660390,
+    "wof:name":"Ban Phatoum",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.50587,
+    19.23432,
+    102.50587,
+    19.23432
+],
+  "geometry": {"coordinates":[102.50587,19.23432],"type":"Point"}
+}

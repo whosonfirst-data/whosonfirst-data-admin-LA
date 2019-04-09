@@ -1,0 +1,70 @@
+{
+  "id": 1277083101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94833,14.84182,105.94833,14.84182",
+    "geom:latitude":14.84182,
+    "geom:longitude":105.94833,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Tomo-Nok",
+    "gn:country_code":"LA",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201344,
+    "gn:latitude":14.84182,
+    "gn:longitude":105.94833,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban T\u00f4m\u00f4-Nok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4m\u00f4-Nok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201344
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e85cd9400750a6b4289af0cbd76a6ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1277083101,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1277083101,
+    "wof:lastmodified":1537660866,
+    "wof:name":"Ban Tomo-Nok",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94833,
+    14.84182,
+    105.94833,
+    14.84182
+],
+  "geometry": {"coordinates":[105.94833,14.84182],"type":"Point"}
+}

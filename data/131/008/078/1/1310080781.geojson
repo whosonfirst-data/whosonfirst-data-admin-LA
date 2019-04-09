@@ -1,0 +1,70 @@
+{
+  "id": 1310080781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57387,16.06944,106.57387,16.06944",
+    "geom:latitude":16.06944,
+    "geom:longitude":106.57387,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sala",
+    "gn:country_code":"LA",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659532,
+    "gn:latitude":16.06944,
+    "gn:longitude":106.57387,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Sala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659532
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e174170bae99066c084b3ed9e8c6f8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1310080781,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1310080781,
+    "wof:lastmodified":1537660357,
+    "wof:name":"Ban Sala",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57387,
+    16.06944,
+    106.57387,
+    16.06944
+],
+  "geometry": {"coordinates":[106.57387,16.06944],"type":"Point"}
+}

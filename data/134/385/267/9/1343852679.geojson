@@ -1,0 +1,70 @@
+{
+  "id": 1343852679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.6808,20.3985,101.6808,20.3985",
+    "geom:latitude":20.3985,
+    "geom:longitude":101.6808,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Phougnout",
+    "gn:country_code":"LA",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953847,
+    "gn:latitude":20.3985,
+    "gn:longitude":101.6808,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phougnout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phougnout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953847
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a4dab8ef66da0d540d898abd51f29421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1343852679,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1343852679,
+    "wof:lastmodified":1537660753,
+    "wof:name":"Ban Phougnout",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.6808,
+    20.3985,
+    101.6808,
+    20.3985
+],
+  "geometry": {"coordinates":[101.6808,20.3985],"type":"Point"}
+}

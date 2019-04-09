@@ -1,0 +1,70 @@
+{
+  "id": 1225858031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94743,15.21254,105.94743,15.21254",
+    "geom:latitude":15.21254,
+    "geom:longitude":105.94743,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mouangkhai",
+    "gn:country_code":"LA",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11203132,
+    "gn:latitude":15.21254,
+    "gn:longitude":105.94743,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Mouangkhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Mouangkhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11203132
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"163b0e5b11c89e4631c81aeb5d611f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1225858031,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1225858031,
+    "wof:lastmodified":1537660879,
+    "wof:name":"Ban Mouangkhai",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94743,
+    15.21254,
+    105.94743,
+    15.21254
+],
+  "geometry": {"coordinates":[105.94743,15.21254],"type":"Point"}
+}

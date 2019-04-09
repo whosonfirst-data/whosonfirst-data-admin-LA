@@ -1,0 +1,64 @@
+{
+  "id": 1209426611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.07995,20.049,104.07995,20.049",
+    "geom:latitude":20.049,
+    "geom:longitude":104.07995,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Keu",
+    "gn:country_code":"LA",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663160,
+    "gn:latitude":20.049,
+    "gn:longitude":104.07995,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Keu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Keu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663160
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f569136dbfbc924441c31613b03ab1b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209426611
+        }
+    ],
+    "wof:id":1209426611,
+    "wof:lastmodified":1537660563,
+    "wof:name":"Ban Keu",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.07995,
+    20.049,
+    104.07995,
+    20.049
+],
+  "geometry": {"coordinates":[104.07995,20.049],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276303889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.94424,19.64122,101.94424,19.64122",
+    "geom:latitude":19.64122,
+    "geom:longitude":101.94424,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Tohoy",
+    "gn:country_code":"LA",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954309,
+    "gn:latitude":19.64122,
+    "gn:longitude":101.94424,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban T\u00f4hoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4hoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954309
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7cbda24bbe09baba9c82732d63243256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1276303889,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276303889,
+    "wof:lastmodified":1537660762,
+    "wof:name":"Ban Tohoy",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.94424,
+    19.64122,
+    101.94424,
+    19.64122
+],
+  "geometry": {"coordinates":[101.94423999999999,19.64122],"type":"Point"}
+}

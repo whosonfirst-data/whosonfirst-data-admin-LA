@@ -1,0 +1,70 @@
+{
+  "id": 1343244709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80791,17.3751,104.80791,17.3751",
+    "geom:latitude":17.3751,
+    "geom:longitude":104.80791,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kaollao",
+    "gn:country_code":"LA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233865,
+    "gn:latitude":17.3751,
+    "gn:longitude":104.80791,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kaollao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kaollao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233865
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ed5498d08637de86bfc5e9eb5a9608cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1343244709,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343244709,
+    "wof:lastmodified":1537660942,
+    "wof:name":"Ban Kaollao",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80791,
+    17.3751,
+    104.80791,
+    17.3751
+],
+  "geometry": {"coordinates":[104.80791000000001,17.3751],"type":"Point"}
+}

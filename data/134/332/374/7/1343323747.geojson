@@ -1,0 +1,72 @@
+{
+  "id": 1343323747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.47295,16.01136,105.47295,16.01136",
+    "geom:latitude":16.01136,
+    "geom:longitude":105.47295,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Xenouan",
+    "gn:country_code":"LA",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658079,
+    "gn:latitude":16.01136,
+    "gn:longitude":105.47295,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban X\u00e8nouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Se Nouan",
+        "Ban X\u00e8nouan",
+        "Ban X\u00e9bang-Nouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658079
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"96fec6f222dda96cd248f07e374fa97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026707,
+            "locality_id":1343323747,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343323747,
+    "wof:lastmodified":1537660273,
+    "wof:name":"Ban Xenouan",
+    "wof:parent_id":1092026707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.47295,
+    16.01136,
+    105.47295,
+    16.01136
+],
+  "geometry": {"coordinates":[105.47295,16.01136],"type":"Point"}
+}

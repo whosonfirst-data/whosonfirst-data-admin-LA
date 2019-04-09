@@ -1,0 +1,71 @@
+{
+  "id": 1260190355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2427,20.48342,104.2427,20.48342",
+    "geom:latitude":20.48342,
+    "geom:longitude":104.2427,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Namao",
+    "gn:country_code":"LA",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661579,
+    "gn:latitude":20.48342,
+    "gn:longitude":104.2427,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Namao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nam Hao",
+        "Ban Namao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661579
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"333571f3c0d12ad6b342acfcf9d49a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1260190355,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1260190355,
+    "wof:lastmodified":1537660475,
+    "wof:name":"Ban Namao",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2427,
+    20.48342,
+    104.2427,
+    20.48342
+],
+  "geometry": {"coordinates":[104.2427,20.48342],"type":"Point"}
+}

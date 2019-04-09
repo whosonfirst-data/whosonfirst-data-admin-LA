@@ -1,0 +1,74 @@
+{
+  "id": 1293664331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.52917,16.16835,106.52917,16.16835",
+    "geom:latitude":16.16835,
+    "geom:longitude":106.52917,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Choiaviang",
+    "gn:country_code":"LA",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657734,
+    "gn:latitude":16.16835,
+    "gn:longitude":106.52917,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Choiaviang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Choiaviang"
+    ],
+    "name:und_x_variant":[
+        "Cholavieng",
+        "Choiavieng (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657734
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e2eced6c9c3a2fdc0d759960639916e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1293664331,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293664331,
+    "wof:lastmodified":1537660261,
+    "wof:name":"Ban Choiaviang",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.52917,
+    16.16835,
+    106.52917,
+    16.16835
+],
+  "geometry": {"coordinates":[106.52916999999999,16.16835],"type":"Point"}
+}

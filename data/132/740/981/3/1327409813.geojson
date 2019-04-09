@@ -1,0 +1,72 @@
+{
+  "id": 1327409813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.93529,21.97592,101.93529,21.97592",
+    "geom:latitude":21.97592,
+    "geom:longitude":101.93529,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Laomachai",
+    "gn:country_code":"LA",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1655797,
+    "gn:latitude":21.97592,
+    "gn:longitude":101.93529,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Laomachai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Lai Ma Chai",
+        "Lau Ma Chai",
+        "Ban Laomachai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655797
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2e544970bc07084785ad415b4d805365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1327409813,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1327409813,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Laomachai",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.93529,
+    21.97592,
+    101.93529,
+    21.97592
+],
+  "geometry": {"coordinates":[101.93528999999999,21.97592],"type":"Point"}
+}

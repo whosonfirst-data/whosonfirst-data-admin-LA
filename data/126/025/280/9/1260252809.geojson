@@ -1,0 +1,67 @@
+{
+  "id": 1260252809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.94206,17.26888,104.94206,17.26888",
+    "geom:latitude":17.26888,
+    "geom:longitude":104.94206,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Koutke",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662723,
+    "gn:latitude":17.26888,
+    "gn:longitude":104.94206,
+    "gn:modification_date":"2011-09-10",
+    "gn:name":"Ban Koutk\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662723
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cc21587070406add004e7189b7429c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1260252809,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1260252809,
+    "wof:lastmodified":1536753516,
+    "wof:name":"Ban Koutke",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.94206,
+    17.26888,
+    104.94206,
+    17.26888
+],
+  "geometry": {"coordinates":[104.94206,17.26888],"type":"Point"}
+}

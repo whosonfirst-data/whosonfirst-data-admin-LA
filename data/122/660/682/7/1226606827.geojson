@@ -1,0 +1,70 @@
+{
+  "id": 1226606827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04678,16.53403,106.04678,16.53403",
+    "geom:latitude":16.53403,
+    "geom:longitude":106.04678,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nakhahan",
+    "gn:country_code":"LA",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661833,
+    "gn:latitude":16.53403,
+    "gn:longitude":106.04678,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nakhahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakhahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661833
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e9307c3a86d74fd8db1a6ca442c29723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1226606827,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226606827,
+    "wof:lastmodified":1537660489,
+    "wof:name":"Ban Nakhahan",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04678,
+    16.53403,
+    106.04678,
+    16.53403
+],
+  "geometry": {"coordinates":[106.04678,16.53403],"type":"Point"}
+}

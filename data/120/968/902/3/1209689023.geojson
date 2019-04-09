@@ -1,0 +1,61 @@
+{
+  "id": 1209689023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46667,17.88333,105.46667,17.88333",
+    "geom:latitude":17.88333,
+    "geom:longitude":105.46667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nalam",
+    "gn:country_code":"LA",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661689,
+    "gn:latitude":17.88333,
+    "gn:longitude":105.46667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Nalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661689
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"601b9739f0b0ef2baa39ab2581c9ba5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209689023
+        }
+    ],
+    "wof:id":1209689023,
+    "wof:lastmodified":1536279310,
+    "wof:name":"Ban Nalam",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46667,
+    17.883329999999994,
+    105.46667,
+    17.883329999999994
+],
+  "geometry": {"coordinates":[105.46666999999999,17.88332999999999],"type":"Point"}
+}

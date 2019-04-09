@@ -1,0 +1,64 @@
+{
+  "id": 1209282663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51516,17.99932,102.51516,17.99932",
+    "geom:latitude":17.99932,
+    "geom:longitude":102.51516,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Phosomboun",
+    "gn:country_code":"LA",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233083,
+    "gn:latitude":17.99932,
+    "gn:longitude":102.51516,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4s\u00f4mboun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4s\u00f4mboun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233083
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4aa3fd3dfb86b4a36f4e446c3b9d6182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209282663
+        }
+    ],
+    "wof:id":1209282663,
+    "wof:lastmodified":1537660935,
+    "wof:name":"Ban Phosomboun",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51516,
+    17.99932,
+    102.51516,
+    17.99932
+],
+  "geometry": {"coordinates":[102.51515999999999,17.99932],"type":"Point"}
+}

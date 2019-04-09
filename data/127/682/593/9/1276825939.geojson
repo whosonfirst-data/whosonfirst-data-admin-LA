@@ -1,0 +1,70 @@
+{
+  "id": 1276825939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.02742,15.39806,107.02742,15.39806",
+    "geom:latitude":15.39806,
+    "geom:longitude":107.02742,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Chabok-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200429,
+    "gn:latitude":15.39806,
+    "gn:longitude":107.02742,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Chabok-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chabok-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200429
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b463991686768f13d850853397087670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1276825939,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1276825939,
+    "wof:lastmodified":1537660858,
+    "wof:name":"Ban Chabok-Tai",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.02742,
+    15.39806,
+    107.02742,
+    15.39806
+],
+  "geometry": {"coordinates":[107.02742000000001,15.39806],"type":"Point"}
+}

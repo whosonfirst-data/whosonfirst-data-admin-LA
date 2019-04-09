@@ -1,0 +1,67 @@
+{
+  "id": 1343912731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.03333,15.91667,107.03333,15.91667",
+    "geom:latitude":15.91667,
+    "geom:longitude":107.03333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Amouan",
+    "gn:country_code":"LA",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664989,
+    "gn:latitude":15.91667,
+    "gn:longitude":107.03333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ban Amouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664989
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a2da238c2da185279701f96b70ec3d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1343912731,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1343912731,
+    "wof:lastmodified":1537085823,
+    "wof:name":"Ban Amouan",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.03333,
+    15.91667,
+    107.03333,
+    15.91667
+],
+  "geometry": {"coordinates":[107.03333000000001,15.91667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243025069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.23353,15.47986,107.23353,15.47986",
+    "geom:latitude":15.47986,
+    "geom:longitude":107.23353,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tongxiang-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652086,
+    "gn:latitude":15.47986,
+    "gn:longitude":107.23353,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban T\u00f4ngxiang-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4ngxiang-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Xlang",
+        "Xiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652086
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2176ad87f96630c312a35c5e2399240b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1243025069,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1243025069,
+    "wof:lastmodified":1537660193,
+    "wof:name":"Ban Tongxiang-Gnai",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.23353,
+    15.47986,
+    107.23353,
+    15.47986
+],
+  "geometry": {"coordinates":[107.23353,15.47986],"type":"Point"}
+}

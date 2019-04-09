@@ -1,0 +1,67 @@
+{
+  "id": 1360036333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63333,19.2,102.63333,19.2",
+    "geom:latitude":19.2,
+    "geom:longitude":102.63333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Phiasy Xoumphou",
+    "gn:country_code":"LA",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660078,
+    "gn:latitude":19.2,
+    "gn:longitude":102.63333,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Phiasy Xoumphou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660078
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"80fc67b10f379491a4238b957c47468f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1360036333,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1360036333,
+    "wof:lastmodified":1537015401,
+    "wof:name":"Ban Phiasy Xoumphou",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63333,
+    19.2,
+    102.63333,
+    19.2
+],
+  "geometry": {"coordinates":[102.63333,19.2],"type":"Point"}
+}

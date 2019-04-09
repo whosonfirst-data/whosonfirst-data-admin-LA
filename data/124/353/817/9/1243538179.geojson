@@ -1,0 +1,67 @@
+{
+  "id": 1243538179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.3,19.86667,103.3,19.86667",
+    "geom:latitude":19.86667,
+    "geom:longitude":103.3,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lan Khao",
+    "gn:country_code":"LA",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655880,
+    "gn:latitude":19.86667,
+    "gn:longitude":103.3,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Lan Khao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655880
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2c1a9d1224682a85c56dc3d29093bbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1243538179,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1243538179,
+    "wof:lastmodified":1536673299,
+    "wof:name":"Lan Khao",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.3,
+    19.86667000000001,
+    103.3,
+    19.86667000000001
+],
+  "geometry": {"coordinates":[103.3,19.86667000000001],"type":"Point"}
+}

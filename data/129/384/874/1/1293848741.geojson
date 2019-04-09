@@ -1,0 +1,71 @@
+{
+  "id": 1293848741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26246,16.37438,105.26246,16.37438",
+    "geom:latitude":16.37438,
+    "geom:longitude":105.26246,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Dondeng",
+    "gn:country_code":"LA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664550,
+    "gn:latitude":16.37438,
+    "gn:longitude":105.26246,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Dond\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nong Denne",
+        "Ban Dond\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664550
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"843c26cf0c25078b52c838d63fc5022b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028085,
+            "locality_id":1293848741,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293848741,
+    "wof:lastmodified":1537660654,
+    "wof:name":"Ban Dondeng",
+    "wof:parent_id":1092028085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26246,
+    16.37438,
+    105.26246,
+    16.37438
+],
+  "geometry": {"coordinates":[105.26246,16.37438],"type":"Point"}
+}

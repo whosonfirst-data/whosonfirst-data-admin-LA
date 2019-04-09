@@ -1,0 +1,84 @@
+{
+  "id": 1309769461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.7943,22.29772,101.7943,22.29772",
+    "geom:latitude":22.29772,
+    "geom:longitude":101.7943,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Muang-Ou-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655146,
+    "gn:latitude":22.29772,
+    "gn:longitude":101.7943,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Muang-Ou-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Unua",
+        "Ho Nua",
+        "Ounua",
+        "Houn-neua",
+        "Muang Ou Nua",
+        "Ou Neua",
+        "Muong Hou Neua",
+        "Muong Hu",
+        "Muong Hou Nua",
+        "Muong Ou Neua",
+        "Muong Ou Neva",
+        "Muang Ou Neua",
+        "Muong Hou Neva",
+        "Muongkhoua",
+        "Ban Muang-Ou-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655146
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"30b20cddddff78f4882e161e57f578c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1309769461,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1309769461,
+    "wof:lastmodified":1537660233,
+    "wof:name":"Ban Muang-Ou-Nua",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.7943,
+    22.29772,
+    101.7943,
+    22.29772
+],
+  "geometry": {"coordinates":[101.79430000000001,22.29772],"type":"Point"}
+}

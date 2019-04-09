@@ -1,0 +1,64 @@
+{
+  "id": 1209288215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.13571,19.29676,103.13571,19.29676",
+    "geom:latitude":19.29676,
+    "geom:longitude":103.13571,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Latkhay",
+    "gn:country_code":"LA",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11228047,
+    "gn:latitude":19.29676,
+    "gn:longitude":103.13571,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Latkhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Latkhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228047
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f614f982871b682aa32fe601a46a4400",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209288215
+        }
+    ],
+    "wof:id":1209288215,
+    "wof:lastmodified":1537660909,
+    "wof:name":"Ban Latkhay",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.13571,
+    19.29676,
+    103.13571,
+    19.29676
+],
+  "geometry": {"coordinates":[103.13571,19.29676],"type":"Point"}
+}

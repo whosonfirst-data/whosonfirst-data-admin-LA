@@ -1,0 +1,67 @@
+{
+  "id": 1209180845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25319,19.22926,102.25319,19.22926",
+    "geom:latitude":19.22926,
+    "geom:longitude":102.25319,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Muang Kasi",
+    "gn:country_code":"LA",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1655203,
+    "gn:latitude":19.22926,
+    "gn:longitude":102.25319,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Muang Kasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong Kassy",
+        "Muang Kasi",
+        "Kasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655203,
+        "wk:page":"Muang_Kasi"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c2b38aeb63d97b05cc9cc4abb5d65481",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209180845
+        }
+    ],
+    "wof:id":1209180845,
+    "wof:lastmodified":1537660239,
+    "wof:name":"Muang Kasi",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25319,
+    19.22926,
+    102.25319,
+    19.22926
+],
+  "geometry": {"coordinates":[102.25319,19.22926],"type":"Point"}
+}

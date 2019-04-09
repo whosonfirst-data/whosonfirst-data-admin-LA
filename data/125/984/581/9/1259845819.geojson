@@ -1,0 +1,70 @@
+{
+  "id": 1259845819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.80992,21.56579,102.80992,21.56579",
+    "geom:latitude":21.56579,
+    "geom:longitude":102.80992,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sompoy",
+    "gn:country_code":"LA",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954719,
+    "gn:latitude":21.56579,
+    "gn:longitude":102.80992,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban S\u00f4mpoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4mpoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954719
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6229f0173c9d1b8887e9687cb59f835f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1259845819,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1259845819,
+    "wof:lastmodified":1537660774,
+    "wof:name":"Ban Sompoy",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.80992,
+    21.56579,
+    102.80992,
+    21.56579
+],
+  "geometry": {"coordinates":[102.80992000000001,21.56579],"type":"Point"}
+}

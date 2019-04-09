@@ -1,0 +1,71 @@
+{
+  "id": 1226819365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.62059,17.7441,104.62059,17.7441",
+    "geom:latitude":17.7441,
+    "geom:longitude":104.62059,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nongchang",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660856,
+    "gn:latitude":17.7441,
+    "gn:longitude":104.62059,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Tiang",
+        "Ban Nongchang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660856
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5129627822181082bff01cfa391adb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1226819365,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226819365,
+    "wof:lastmodified":1537660434,
+    "wof:name":"Ban Nongchang",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.62059,
+    17.7441,
+    104.62059,
+    17.7441
+],
+  "geometry": {"coordinates":[104.62059000000001,17.7441],"type":"Point"}
+}

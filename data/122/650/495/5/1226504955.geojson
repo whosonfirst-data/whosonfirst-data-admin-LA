@@ -1,0 +1,73 @@
+{
+  "id": 1226504955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30851,15.96317,106.30851,15.96317",
+    "geom:latitude":15.96317,
+    "geom:longitude":106.30851,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Lachang-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662686,
+    "gn:latitude":15.96317,
+    "gn:longitude":106.30851,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Lachang-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lachang-Noy"
+    ],
+    "name:und_x_variant":[
+        "Ban Lachang Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662686
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51df0ccadc120f110f0519bd0eb2c255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1226504955,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226504955,
+    "wof:lastmodified":1537660535,
+    "wof:name":"Ban Lachang-Noy",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30851,
+    15.96317,
+    106.30851,
+    15.96317
+],
+  "geometry": {"coordinates":[106.30851,15.96317],"type":"Point"}
+}

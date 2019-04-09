@@ -1,0 +1,70 @@
+{
+  "id": 1360150349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45697,15.72462,106.45697,15.72462",
+    "geom:latitude":15.72462,
+    "geom:longitude":106.45697,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Thonpiou",
+    "gn:country_code":"LA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197890,
+    "gn:latitude":15.72462,
+    "gn:longitude":106.45697,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Th\u00f4npiou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4npiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197890
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1bf477de0043dec445e38c2f079ebbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028911,
+            "locality_id":1360150349,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1360150349,
+    "wof:lastmodified":1537660848,
+    "wof:name":"Ban Thonpiou",
+    "wof:parent_id":1092028911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45697,
+    15.72462,
+    106.45697,
+    15.72462
+],
+  "geometry": {"coordinates":[106.45697,15.72462],"type":"Point"}
+}

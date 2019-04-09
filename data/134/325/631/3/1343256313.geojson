@@ -1,0 +1,70 @@
+{
+  "id": 1343256313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2267,20.98575,102.2267,20.98575",
+    "geom:latitude":20.98575,
+    "geom:longitude":102.2267,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Houakeng",
+    "gn:country_code":"LA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954607,
+    "gn:latitude":20.98575,
+    "gn:longitude":102.2267,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Houak\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houak\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954607
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"622c0351f7e90ec3f7ae77fec5417186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1343256313,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1343256313,
+    "wof:lastmodified":1537660770,
+    "wof:name":"Ban Houakeng",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2267,
+    20.98575,
+    102.2267,
+    20.98575
+],
+  "geometry": {"coordinates":[102.22669999999999,20.98575],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259348439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.83263,16.51276,106.83263,16.51276",
+    "geom:latitude":16.51276,
+    "geom:longitude":106.83263,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Taliap-Aho",
+    "gn:country_code":"LA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236562,
+    "gn:latitude":16.51276,
+    "gn:longitude":106.83263,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Taliap-Aho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Taliap-Aho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236562
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e7e5f3e23bcaf83757176a06da2538c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1259348439,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259348439,
+    "wof:lastmodified":1537660961,
+    "wof:name":"Ban Taliap-Aho",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.83263,
+    16.51276,
+    106.83263,
+    16.51276
+],
+  "geometry": {"coordinates":[106.83262999999999,16.51276],"type":"Point"}
+}

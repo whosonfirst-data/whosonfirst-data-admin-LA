@@ -1,0 +1,73 @@
+{
+  "id": 1226813955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,16.71667,106.0,16.71667",
+    "geom:latitude":16.71667,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Laboun",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662691,
+    "gn:latitude":16.71667,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Laboun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Raban",
+        "Ban Phalou",
+        "Ban Laboun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662691
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"74169d86742e675968fa7974b6d09d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1226813955,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226813955,
+    "wof:lastmodified":1537660536,
+    "wof:name":"Ban Laboun",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    16.71667,
+    106.0,
+    16.71667
+],
+  "geometry": {"coordinates":[106.0,16.71667],"type":"Point"}
+}

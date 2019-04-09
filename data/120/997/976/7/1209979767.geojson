@@ -1,0 +1,70 @@
+{
+  "id": 1209979767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.73922,22.43937,101.73922,22.43937",
+    "geom:latitude":22.43937,
+    "geom:longitude":101.73922,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Lantouy-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956120,
+    "gn:latitude":22.43937,
+    "gn:longitude":101.73922,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Lantouy-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Lantouy-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956120
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0689bd51a43b5016118b3ac3dc99f5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1209979767,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209979767,
+    "wof:lastmodified":1537660812,
+    "wof:name":"Ban Lantouy-Gnai",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73922,
+    22.43937,
+    101.73922,
+    22.43937
+],
+  "geometry": {"coordinates":[101.73922,22.43937],"type":"Point"}
+}

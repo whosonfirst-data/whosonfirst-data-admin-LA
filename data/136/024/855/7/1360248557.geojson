@@ -1,0 +1,70 @@
+{
+  "id": 1360248557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18062,20.56211,103.18062,20.56211",
+    "geom:latitude":20.56211,
+    "geom:longitude":103.18062,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Xiansen",
+    "gn:country_code":"LA",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954900,
+    "gn:latitude":20.56211,
+    "gn:longitude":103.18062,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Xians\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xians\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954900
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"05df744dce9fd1d555f57c872a70c9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1360248557,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1360248557,
+    "wof:lastmodified":1537660781,
+    "wof:name":"Ban Xiansen",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18062,
+    20.56211,
+    103.18062,
+    20.56211
+],
+  "geometry": {"coordinates":[103.18062,20.56211],"type":"Point"}
+}

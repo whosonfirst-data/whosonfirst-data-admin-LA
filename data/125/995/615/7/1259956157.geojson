@@ -1,0 +1,70 @@
+{
+  "id": 1259956157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65675,20.0596,102.65675,20.0596",
+    "geom:latitude":20.0596,
+    "geom:longitude":102.65675,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phoutangong",
+    "gn:country_code":"LA",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956622,
+    "gn:latitude":20.0596,
+    "gn:longitude":102.65675,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phoutangong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoutangong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956622
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3a47bd68700fd0f53cfa68bb202bd5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1259956157,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259956157,
+    "wof:lastmodified":1537660826,
+    "wof:name":"Ban Phoutangong",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65675,
+    20.0596,
+    102.65675,
+    20.0596
+],
+  "geometry": {"coordinates":[102.65675,20.0596],"type":"Point"}
+}

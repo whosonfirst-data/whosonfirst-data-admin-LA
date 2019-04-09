@@ -1,0 +1,71 @@
+{
+  "id": 1226244651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91349,20.61638,103.91349,20.61638",
+    "geom:latitude":20.61638,
+    "geom:longitude":103.91349,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nam-I",
+    "gn:country_code":"LA",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661366,
+    "gn:latitude":20.61638,
+    "gn:longitude":103.91349,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Nam-I",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nam Y",
+        "Ban Nam-I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661366
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"12e1360e76f1db6d656d3d8e5eee3c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1226244651,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226244651,
+    "wof:lastmodified":1537660464,
+    "wof:name":"Ban Nam-I",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91349,
+    20.61638,
+    103.91349,
+    20.61638
+],
+  "geometry": {"coordinates":[103.91349,20.61638],"type":"Point"}
+}

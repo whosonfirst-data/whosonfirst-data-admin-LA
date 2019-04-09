@@ -1,0 +1,67 @@
+{
+  "id": 1309888001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21667,20.75,101.21667,20.75",
+    "geom:latitude":20.75,
+    "geom:longitude":101.21667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Con Tagne",
+    "gn:country_code":"LA",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657660,
+    "gn:latitude":20.75,
+    "gn:longitude":101.21667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Con Tagne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657660
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e29ac79c8b20f11e4e193dbb6ba772e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1309888001,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1309888001,
+    "wof:lastmodified":1536812114,
+    "wof:name":"Con Tagne",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21667,
+    20.75,
+    101.21667,
+    20.75
+],
+  "geometry": {"coordinates":[101.21666999999999,20.75],"type":"Point"}
+}

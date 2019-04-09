@@ -1,0 +1,73 @@
+{
+  "id": 1327117341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.8388,17.55151,105.8388,17.55151",
+    "geom:latitude":17.55151,
+    "geom:longitude":105.8388,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Xam-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658124,
+    "gn:latitude":17.55151,
+    "gn:longitude":105.8388,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xam-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xam-Nua"
+    ],
+    "name:und_x_variant":[
+        "Ban Neua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658124
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9043eeb6ad96427d061aee78d4900296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1327117341,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327117341,
+    "wof:lastmodified":1537660276,
+    "wof:name":"Ban Xam-Nua",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.8388,
+    17.55151,
+    105.8388,
+    17.55151
+],
+  "geometry": {"coordinates":[105.83880000000001,17.55151],"type":"Point"}
+}

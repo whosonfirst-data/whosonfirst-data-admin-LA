@@ -1,0 +1,72 @@
+{
+  "id": 1309753697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28745,19.25388,102.28745,19.25388",
+    "geom:latitude":19.25388,
+    "geom:longitude":102.28745,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Naving",
+    "gn:country_code":"LA",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661005,
+    "gn:latitude":19.25388,
+    "gn:longitude":102.28745,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Naving",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Na Vino",
+        "Ban Na Vina",
+        "Ban Naving"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661005
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cb62bec0fe99a7f11f7db32ca8dd0cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027063,
+            "locality_id":1309753697,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1309753697,
+    "wof:lastmodified":1537660443,
+    "wof:name":"Ban Naving",
+    "wof:parent_id":1092027063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28745,
+    19.25388,
+    102.28745,
+    19.25388
+],
+  "geometry": {"coordinates":[102.28745000000001,19.25388],"type":"Point"}
+}

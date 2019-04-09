@@ -1,0 +1,70 @@
+{
+  "id": 1310113351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.91905,20.31592,103.91905,20.31592",
+    "geom:latitude":20.31592,
+    "geom:longitude":103.91905,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Naxam",
+    "gn:country_code":"LA",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954140,
+    "gn:latitude":20.31592,
+    "gn:longitude":103.91905,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Naxam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naxam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954140
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fc8aba98d45af34e6a0e329942a0e206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1310113351,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1310113351,
+    "wof:lastmodified":1537660758,
+    "wof:name":"Ban Naxam",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.91905,
+    20.31592,
+    103.91905,
+    20.31592
+],
+  "geometry": {"coordinates":[103.91905,20.31592],"type":"Point"}
+}

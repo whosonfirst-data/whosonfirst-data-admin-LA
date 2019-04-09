@@ -1,0 +1,72 @@
+{
+  "id": 1344213635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.67889,20.78278,100.67889,20.78278",
+    "geom:latitude":20.78278,
+    "geom:longitude":100.67889,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Thakate",
+    "gn:country_code":"LA",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658726,
+    "gn:latitude":20.78278,
+    "gn:longitude":100.67889,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Thakat\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Ka Tie",
+        "Ban Tha Ka Te",
+        "Ban Thakat\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658726
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a27ee0c323fca77535c8d730bd83596d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1344213635,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1344213635,
+    "wof:lastmodified":1537660312,
+    "wof:name":"Ban Thakate",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.67889,
+    20.78278,
+    100.67889,
+    20.78278
+],
+  "geometry": {"coordinates":[100.67889,20.78278],"type":"Point"}
+}

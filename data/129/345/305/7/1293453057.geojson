@@ -1,0 +1,71 @@
+{
+  "id": 1293453057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.05474,21.62216,102.05474,21.62216",
+    "geom:latitude":21.62216,
+    "geom:longitude":102.05474,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nampong",
+    "gn:country_code":"LA",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654870,
+    "gn:latitude":21.62216,
+    "gn:longitude":102.05474,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Namp\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nam Poung",
+        "Ban Namp\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654870
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"73965667f2a50211a4ad24a0aa87ecef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1293453057,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293453057,
+    "wof:lastmodified":1537660222,
+    "wof:name":"Ban Nampong",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.05474,
+    21.62216,
+    102.05474,
+    21.62216
+],
+  "geometry": {"coordinates":[102.05474,21.62216],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259347627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46672,16.55985,105.46672,16.55985",
+    "geom:latitude":16.55985,
+    "geom:longitude":105.46672,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Xevan",
+    "gn:country_code":"LA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221675,
+    "gn:latitude":16.55985,
+    "gn:longitude":105.46672,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban X\u00e9van",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban X\u00e9van"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221675
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c043f49bc003f7c5323fba4589974c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":1259347627,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1259347627,
+    "wof:lastmodified":1537660888,
+    "wof:name":"Ban Xevan",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46672,
+    16.55985,
+    105.46672,
+    16.55985
+],
+  "geometry": {"coordinates":[105.46672,16.55985],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209216413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48347,20.26181,104.48347,20.26181",
+    "geom:latitude":20.26181,
+    "geom:longitude":104.48347,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nayang",
+    "gn:country_code":"LA",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956904,
+    "gn:latitude":20.26181,
+    "gn:longitude":104.48347,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Nayang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nayang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956904
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"683bad6b021480175e56cfca50e8127a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209216413
+        }
+    ],
+    "wof:id":1209216413,
+    "wof:lastmodified":1537660833,
+    "wof:name":"Ban Nayang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48347,
+    20.26181,
+    104.48347,
+    20.26181
+],
+  "geometry": {"coordinates":[104.48347,20.26181],"type":"Point"}
+}

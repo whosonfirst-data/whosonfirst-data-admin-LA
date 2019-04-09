@@ -1,0 +1,70 @@
+{
+  "id": 1327292305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.54397,19.79926,100.54397,19.79926",
+    "geom:latitude":19.79926,
+    "geom:longitude":100.54397,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Pangxa",
+    "gn:country_code":"LA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941626,
+    "gn:latitude":19.79926,
+    "gn:longitude":100.54397,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Pangxa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pangxa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941626
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d569628cc82b3c63fad8a8140ef2dc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030459,
+            "locality_id":1327292305,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1327292305,
+    "wof:lastmodified":1537660697,
+    "wof:name":"Ban Pangxa",
+    "wof:parent_id":1092030459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.54397,
+    19.79926,
+    100.54397,
+    19.79926
+],
+  "geometry": {"coordinates":[100.54397,19.79926],"type":"Point"}
+}

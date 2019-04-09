@@ -1,0 +1,70 @@
+{
+  "id": 1226214005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.65728,19.64282,102.65728,19.64282",
+    "geom:latitude":19.64282,
+    "geom:longitude":102.65728,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Nakun",
+    "gn:country_code":"LA",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953127,
+    "gn:latitude":19.64282,
+    "gn:longitude":102.65728,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Nakun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953127
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"82b6289191c8280acf1ea23ba07d2e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1226214005,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226214005,
+    "wof:lastmodified":1537660732,
+    "wof:name":"Ban Nakun",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.65728,
+    19.64282,
+    102.65728,
+    19.64282
+],
+  "geometry": {"coordinates":[102.65728,19.64282],"type":"Point"}
+}

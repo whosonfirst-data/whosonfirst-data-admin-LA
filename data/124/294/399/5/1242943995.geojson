@@ -1,0 +1,70 @@
+{
+  "id": 1242943995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.52187,19.26096,103.52187,19.26096",
+    "geom:latitude":19.26096,
+    "geom:longitude":103.52187,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Houapiang",
+    "gn:country_code":"LA",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663975,
+    "gn:latitude":19.26096,
+    "gn:longitude":103.52187,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Houapiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Houapiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663975
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d9d75fa1f68319d54c8fc1cdfbfda10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1242943995,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1242943995,
+    "wof:lastmodified":1537660619,
+    "wof:name":"Ban Houapiang",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.52187,
+    19.26096,
+    103.52187,
+    19.26096
+],
+  "geometry": {"coordinates":[103.52187000000001,19.26096],"type":"Point"}
+}

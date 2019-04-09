@@ -1,0 +1,73 @@
+{
+  "id": 1243605023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61611,18.98722,102.61611,18.98722",
+    "geom:latitude":18.98722,
+    "geom:longitude":102.61611,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Nakoang",
+    "gn:country_code":"LA",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661733,
+    "gn:latitude":18.98722,
+    "gn:longitude":102.61611,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Nakoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khuong",
+        "Ban Na Kouang",
+        "Ban Nakhouang",
+        "Ban Nakoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661733
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"02db6b2dc2263dfbdbebb5f472e6e9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029997,
+            "locality_id":1243605023,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243605023,
+    "wof:lastmodified":1537660483,
+    "wof:name":"Ban Nakoang",
+    "wof:parent_id":1092029997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61611,
+    18.98722,
+    102.61611,
+    18.98722
+],
+  "geometry": {"coordinates":[102.61611000000001,18.98722],"type":"Point"}
+}

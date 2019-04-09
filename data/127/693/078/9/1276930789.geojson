@@ -1,0 +1,70 @@
+{
+  "id": 1276930789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.15235,18.78719,102.15235,18.78719",
+    "geom:latitude":18.78719,
+    "geom:longitude":102.15235,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nongpet",
+    "gn:country_code":"LA",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229575,
+    "gn:latitude":18.78719,
+    "gn:longitude":102.15235,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nongp\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongp\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229575
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2ffac70edc334c1be679925fb0c1d746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1276930789,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1276930789,
+    "wof:lastmodified":1537660914,
+    "wof:name":"Ban Nongpet",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.15235,
+    18.78719,
+    102.15235,
+    18.78719
+],
+  "geometry": {"coordinates":[102.15235,18.78719],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259962737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92114,17.09806,104.92114,17.09806",
+    "geom:latitude":17.09806,
+    "geom:longitude":104.92114,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Naphok-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661233,
+    "gn:latitude":17.09806,
+    "gn:longitude":104.92114,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Naphok-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naphok-Kao"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Pha Khao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661233
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"175940b71a919afba4b19162ea12a657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1259962737,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1259962737,
+    "wof:lastmodified":1537660456,
+    "wof:name":"Ban Naphok-Kao",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92114,
+    17.09806,
+    104.92114,
+    17.09806
+],
+  "geometry": {"coordinates":[104.92113999999999,17.09806],"type":"Point"}
+}

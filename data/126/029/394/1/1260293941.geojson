@@ -1,0 +1,71 @@
+{
+  "id": 1260293941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.54373,15.16666,106.54373,15.16666",
+    "geom:latitude":15.16666,
+    "geom:longitude":106.54373,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongmek",
+    "gn:country_code":"LA",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660749,
+    "gn:latitude":15.16666,
+    "gn:longitude":106.54373,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongm\u00e9k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Met",
+        "Ban Nongm\u00e9k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660749
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"80f733ad4d553b42d76d6a79fab0d7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028479,
+            "locality_id":1260293941,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1260293941,
+    "wof:lastmodified":1537660427,
+    "wof:name":"Ban Nongmek",
+    "wof:parent_id":1092028479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.54373,
+    15.16666,
+    106.54373,
+    15.16666
+],
+  "geometry": {"coordinates":[106.54373,15.16666],"type":"Point"}
+}

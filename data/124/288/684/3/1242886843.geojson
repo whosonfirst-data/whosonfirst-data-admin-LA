@@ -1,0 +1,71 @@
+{
+  "id": 1242886843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86737,15.28882,105.86737,15.28882",
+    "geom:latitude":15.28882,
+    "geom:longitude":105.86737,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Vangmon",
+    "gn:country_code":"LA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658261,
+    "gn:latitude":15.28882,
+    "gn:longitude":105.86737,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Vangm\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Vang M\u00f4ne",
+        "Ban Vangm\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658261
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1009bebd7a7b302219ab444927a9ae80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1242886843,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242886843,
+    "wof:lastmodified":1537660285,
+    "wof:name":"Ban Vangmon",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86737,
+    15.28882,
+    105.86737,
+    15.28882
+],
+  "geometry": {"coordinates":[105.86736999999999,15.28882],"type":"Point"}
+}

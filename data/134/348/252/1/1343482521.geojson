@@ -1,0 +1,70 @@
+{
+  "id": 1343482521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.83376,20.45834,101.83376,20.45834",
+    "geom:latitude":20.45834,
+    "geom:longitude":101.83376,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Napa-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953820,
+    "gn:latitude":20.45834,
+    "gn:longitude":101.83376,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Napa-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Napa-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953820
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eaae270c48dc04a8c1647275845852c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1343482521,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1343482521,
+    "wof:lastmodified":1537660752,
+    "wof:name":"Ban Napa-Nua",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.83376,
+    20.45834,
+    101.83376,
+    20.45834
+],
+  "geometry": {"coordinates":[101.83376,20.45834],"type":"Point"}
+}

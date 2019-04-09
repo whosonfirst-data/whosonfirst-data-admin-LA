@@ -1,0 +1,70 @@
+{
+  "id": 1226322213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.79701,18.94354,101.79701,18.94354",
+    "geom:latitude":18.94354,
+    "geom:longitude":101.79701,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khokfak",
+    "gn:country_code":"LA",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221732,
+    "gn:latitude":18.94354,
+    "gn:longitude":101.79701,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kh\u00f4kfak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4kfak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221732
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0623dc49a6e8f8e485acdccadd417049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1226322213,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226322213,
+    "wof:lastmodified":1537660889,
+    "wof:name":"Ban Khokfak",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.79701,
+    18.94354,
+    101.79701,
+    18.94354
+],
+  "geometry": {"coordinates":[101.79701,18.94354],"type":"Point"}
+}

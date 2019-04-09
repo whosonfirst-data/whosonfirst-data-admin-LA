@@ -1,0 +1,74 @@
+{
+  "id": 1226659029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85066,14.21747,105.85066,14.21747",
+    "geom:latitude":14.21747,
+    "geom:longitude":105.85066,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houaysing",
+    "gn:country_code":"LA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663974,
+    "gn:latitude":14.21747,
+    "gn:longitude":105.85066,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Houaysing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Houaysing"
+    ],
+    "name:und_x_variant":[
+        "Ban Houe\u00ef Sing",
+        "Ban Houasing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663974
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b05db3f98a04db4031a39970cfc763eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1226659029,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226659029,
+    "wof:lastmodified":1537660619,
+    "wof:name":"Ban Houaysing",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85066,
+    14.21747,
+    105.85066,
+    14.21747
+],
+  "geometry": {"coordinates":[105.85066,14.21747],"type":"Point"}
+}

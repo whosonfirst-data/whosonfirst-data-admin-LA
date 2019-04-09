@@ -1,0 +1,74 @@
+{
+  "id": 1343861385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74329,15.29932,105.74329,15.29932",
+    "geom:latitude":15.29932,
+    "geom:longitude":105.74329,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Xonphak",
+    "gn:country_code":"LA",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659125,
+    "gn:latitude":15.29932,
+    "gn:longitude":105.74329,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Xonphak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xonphak"
+    ],
+    "name:und_x_variant":[
+        "Ban Sone Pak",
+        "Ban S\u00f4np\u00e8k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659125
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a46da53b992c4fba60d867ce81c20be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1343861385,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1343861385,
+    "wof:lastmodified":1537660335,
+    "wof:name":"Ban Xonphak",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74329,
+    15.29932,
+    105.74329,
+    15.29932
+],
+  "geometry": {"coordinates":[105.74329,15.29932],"type":"Point"}
+}

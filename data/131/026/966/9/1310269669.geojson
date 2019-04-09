@@ -1,0 +1,74 @@
+{
+  "id": 1310269669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3923,16.74026,106.3923,16.74026",
+    "geom:latitude":16.74026,
+    "geom:longitude":106.3923,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kouan",
+    "gn:country_code":"LA",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662769,
+    "gn:latitude":16.74026,
+    "gn:longitude":106.3923,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kouan"
+    ],
+    "name:und_x_variant":[
+        "Ban Cohon",
+        "Ban K\u00f4on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662769
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"18cac2d786412966ec73e28cc1463e54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1310269669,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310269669,
+    "wof:lastmodified":1537660540,
+    "wof:name":"Ban Kouan",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3923,
+    16.74026,
+    106.3923,
+    16.74026
+],
+  "geometry": {"coordinates":[106.39230000000001,16.74026],"type":"Point"}
+}

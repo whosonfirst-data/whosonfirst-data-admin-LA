@@ -1,0 +1,65 @@
+{
+  "id": 1209398281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89839,19.83897,103.89839,19.83897",
+    "geom:latitude":19.83897,
+    "geom:longitude":103.89839,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phiangpho",
+    "gn:country_code":"LA",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660086,
+    "gn:latitude":19.83897,
+    "gn:longitude":103.89839,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phiangph\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Phieng Pho",
+        "Ban Phiangph\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660086
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"eb01121fdca30776eb675a0028162809",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209398281
+        }
+    ],
+    "wof:id":1209398281,
+    "wof:lastmodified":1537660387,
+    "wof:name":"Ban Phiangpho",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89839,
+    19.83897,
+    103.89839,
+    19.83897
+],
+  "geometry": {"coordinates":[103.89839000000001,19.83897],"type":"Point"}
+}

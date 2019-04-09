@@ -1,0 +1,71 @@
+{
+  "id": 1193111645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.76961,16.34538,106.76961,16.34538",
+    "geom:latitude":16.34538,
+    "geom:longitude":106.76961,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Amoun-Amtang",
+    "gn:country_code":"LA",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1665101,
+    "gn:latitude":16.34538,
+    "gn:longitude":106.76961,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Amoun-Amtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Amoun-Amtang"
+    ],
+    "name:und_x_variant":[
+        "A Mour (3)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665101
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3ec0e8d5b41757fa42815d907101a0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1193111645,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1193111645,
+    "wof:lastmodified":1537660682,
+    "wof:name":"Ban Amoun-Amtang",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.76961,
+    16.34538,
+    106.76961,
+    16.34538
+],
+  "geometry": {"coordinates":[106.76961,16.34538],"type":"Point"}
+}

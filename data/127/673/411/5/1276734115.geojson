@@ -1,0 +1,74 @@
+{
+  "id": 1276734115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.33295,19.74103,102.33295,19.74103",
+    "geom:latitude":19.74103,
+    "geom:longitude":102.33295,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Lasay",
+    "gn:country_code":"LA",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662545,
+    "gn:latitude":19.74103,
+    "gn:longitude":102.33295,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lasay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Lasay"
+    ],
+    "name:und_x_variant":[
+        "Ban La",
+        "Ban Long Koun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662545
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"376d667355b13c8b5399643b10694003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1276734115,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276734115,
+    "wof:lastmodified":1537660528,
+    "wof:name":"Ban Lasay",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.33295,
+    19.74103,
+    102.33295,
+    19.74103
+],
+  "geometry": {"coordinates":[102.33295,19.74103],"type":"Point"}
+}

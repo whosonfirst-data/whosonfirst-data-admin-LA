@@ -1,0 +1,70 @@
+{
+  "id": 1343673399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.11745,20.042,104.11745,20.042",
+    "geom:latitude":20.042,
+    "geom:longitude":104.11745,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Namlem",
+    "gn:country_code":"LA",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956952,
+    "gn:latitude":20.042,
+    "gn:longitude":104.11745,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Naml\u00e8m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naml\u00e8m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956952
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6e16e95ceba887b08fcc7b520585ccd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1343673399,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1343673399,
+    "wof:lastmodified":1537660835,
+    "wof:name":"Ban Namlem",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.11745,
+    20.042,
+    104.11745,
+    20.042
+],
+  "geometry": {"coordinates":[104.11745000000001,20.042],"type":"Point"}
+}

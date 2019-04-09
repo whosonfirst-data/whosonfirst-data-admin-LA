@@ -1,0 +1,70 @@
+{
+  "id": 1243230077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21462,21.44316,102.21462,21.44316",
+    "geom:latitude":21.44316,
+    "geom:longitude":102.21462,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phongkou",
+    "gn:country_code":"LA",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952743,
+    "gn:latitude":21.44316,
+    "gn:longitude":102.21462,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phongkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phongkou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952743
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"962873642e42125906742afb6a4ef790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1243230077,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243230077,
+    "wof:lastmodified":1537660723,
+    "wof:name":"Ban Phongkou",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21462,
+    21.44316,
+    102.21462,
+    21.44316
+],
+  "geometry": {"coordinates":[102.21462,21.44316],"type":"Point"}
+}

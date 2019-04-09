@@ -1,0 +1,70 @@
+{
+  "id": 1225803373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9359,18.38318,103.9359,18.38318",
+    "geom:latitude":18.38318,
+    "geom:longitude":103.9359,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nahinou",
+    "gn:country_code":"LA",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661941,
+    "gn:latitude":18.38318,
+    "gn:longitude":103.9359,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nahinou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Hinu (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661941
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b6467d9807d8659d6d46bcdd70b538b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030835,
+            "locality_id":1225803373,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1225803373,
+    "wof:lastmodified":1537660495,
+    "wof:name":"Ban Nahinou",
+    "wof:parent_id":1092030835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9359,
+    18.38318,
+    103.9359,
+    18.38318
+],
+  "geometry": {"coordinates":[103.9359,18.38318],"type":"Point"}
+}

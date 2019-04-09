@@ -1,0 +1,70 @@
+{
+  "id": 1259976475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.27651,20.94151,102.27651,20.94151",
+    "geom:latitude":20.94151,
+    "geom:longitude":102.27651,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Ano-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954639,
+    "gn:latitude":20.94151,
+    "gn:longitude":102.27651,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban An\u00f4-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban An\u00f4-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954639
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6355e1cebcc3f59d6a6174dae0c81a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1259976475,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1259976475,
+    "wof:lastmodified":1537660771,
+    "wof:name":"Ban Ano-Gnai",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27651,
+    20.94151,
+    102.27651,
+    20.94151
+],
+  "geometry": {"coordinates":[102.27651,20.94151],"type":"Point"}
+}

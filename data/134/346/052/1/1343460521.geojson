@@ -1,0 +1,70 @@
+{
+  "id": 1343460521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.97234,20.82735,103.97234,20.82735",
+    "geom:latitude":20.82735,
+    "geom:longitude":103.97234,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Namat",
+    "gn:country_code":"LA",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955120,
+    "gn:latitude":20.82735,
+    "gn:longitude":103.97234,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955120
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a80821f3e076a702e36f9fdb6085cf86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031091,
+            "locality_id":1343460521,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1343460521,
+    "wof:lastmodified":1537660788,
+    "wof:name":"Ban Namat",
+    "wof:parent_id":1092031091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.97234,
+    20.82735,
+    103.97234,
+    20.82735
+],
+  "geometry": {"coordinates":[103.97234,20.82735],"type":"Point"}
+}

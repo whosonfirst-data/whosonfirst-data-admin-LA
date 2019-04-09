@@ -1,0 +1,73 @@
+{
+  "id": 1293271077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.63333,19.2,103.63333,19.2",
+    "geom:latitude":19.2,
+    "geom:longitude":103.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Xaophay Kao",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658103,
+    "gn:latitude":19.2,
+    "gn:longitude":103.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Xaophay Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sa Phai Cao",
+        "Ban Sa Phai Cae",
+        "Ban Xaophay Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658103
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6d848e2605688c77c8c0faec16ce89be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1293271077,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1293271077,
+    "wof:lastmodified":1537660275,
+    "wof:name":"Ban Xaophay Kao",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.63333,
+    19.2,
+    103.63333,
+    19.2
+],
+  "geometry": {"coordinates":[103.63333,19.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309733039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,20.76667,102.08333,20.76667",
+    "geom:latitude":20.76667,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sala Mok",
+    "gn:country_code":"LA",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653520,
+    "gn:latitude":20.76667,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Sala M\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653520
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"46e25c9f7896e016bc6a7ae665ab9b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1309733039,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1309733039,
+    "wof:lastmodified":1537034541,
+    "wof:name":"Sala Mok",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    20.76667,
+    102.08333,
+    20.76667
+],
+  "geometry": {"coordinates":[102.08333,20.76667],"type":"Point"}
+}

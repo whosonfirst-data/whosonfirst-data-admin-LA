@@ -1,0 +1,67 @@
+{
+  "id": 1260043523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38333,20.13333,102.38333,20.13333",
+    "geom:latitude":20.13333,
+    "geom:longitude":102.38333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pho Khane",
+    "gn:country_code":"LA",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660014,
+    "gn:latitude":20.13333,
+    "gn:longitude":102.38333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Pho Khane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660014
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b9b877527cf64aa8d19827494dcb51ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028205,
+            "locality_id":1260043523,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260043523,
+    "wof:lastmodified":1537043922,
+    "wof:name":"Ban Pho Khane",
+    "wof:parent_id":1092028205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38333,
+    20.13333,
+    102.38333,
+    20.13333
+],
+  "geometry": {"coordinates":[102.38333,20.13333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293106269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.26646,19.95417,104.26646,19.95417",
+    "geom:latitude":19.95417,
+    "geom:longitude":104.26646,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nanghoa",
+    "gn:country_code":"LA",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660867,
+    "gn:latitude":19.95417,
+    "gn:longitude":104.26646,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nanghoa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nongboua",
+        "Ban Nong Hoa",
+        "Ban Nanghoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660867
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"09537ebf67d53bc09d30db675aac86bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1293106269,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293106269,
+    "wof:lastmodified":1537660434,
+    "wof:name":"Ban Nanghoa",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.26646,
+    19.95417,
+    104.26646,
+    19.95417
+],
+  "geometry": {"coordinates":[104.26646,19.95417],"type":"Point"}
+}

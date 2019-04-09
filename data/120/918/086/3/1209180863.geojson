@@ -1,0 +1,65 @@
+{
+  "id": 1209180863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.60089,18.33334,102.60089,18.33334",
+    "geom:latitude":18.33334,
+    "geom:longitude":102.60089,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Namou",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944260,
+    "gn:latitude":18.33334,
+    "gn:longitude":102.60089,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Namou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nanou",
+        "Ban Namou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944260
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2c56547aea72b92af5a20d460ce82bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209180863
+        }
+    ],
+    "wof:id":1209180863,
+    "wof:lastmodified":1537660703,
+    "wof:name":"Ban Namou",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.60089,
+    18.33334,
+    102.60089,
+    18.33334
+],
+  "geometry": {"coordinates":[102.60089000000001,18.33334],"type":"Point"}
+}

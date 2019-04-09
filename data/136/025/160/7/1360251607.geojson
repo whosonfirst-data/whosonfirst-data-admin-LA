@@ -1,0 +1,70 @@
+{
+  "id": 1360251607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06255,18.62719,102.06255,18.62719",
+    "geom:latitude":18.62719,
+    "geom:longitude":102.06255,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Phonthon",
+    "gn:country_code":"LA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231831,
+    "gn:latitude":18.62719,
+    "gn:longitude":102.06255,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nthon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nthon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231831
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7d83e818aca7261dbb67bd878e407f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1360251607,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1360251607,
+    "wof:lastmodified":1537660919,
+    "wof:name":"Ban Phonthon",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06255,
+    18.62719,
+    102.06255,
+    18.62719
+],
+  "geometry": {"coordinates":[102.06255,18.62719],"type":"Point"}
+}

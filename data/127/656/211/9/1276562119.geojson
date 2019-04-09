@@ -1,0 +1,71 @@
+{
+  "id": 1276562119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.12854,15.18279,107.12854,15.18279",
+    "geom:latitude":15.18279,
+    "geom:longitude":107.12854,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Daklon-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664639,
+    "gn:latitude":15.18279,
+    "gn:longitude":107.12854,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Daklon-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lone Neua",
+        "Ban Daklon-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664639
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b376dec3a3a348db3f3f288799c9608d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1276562119,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1276562119,
+    "wof:lastmodified":1537660659,
+    "wof:name":"Ban Daklon-Noy",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.12854,
+    15.18279,
+    107.12854,
+    15.18279
+],
+  "geometry": {"coordinates":[107.12854,15.18279],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192989845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45,19.96667,102.45,19.96667",
+    "geom:latitude":19.96667,
+    "geom:longitude":102.45,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Man Noi",
+    "gn:country_code":"LA",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662320,
+    "gn:latitude":19.96667,
+    "gn:longitude":102.45,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Man Noi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662320
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3505db0639c4b842f4e08368b4388621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028703,
+            "locality_id":1192989845,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1192989845,
+    "wof:lastmodified":1536382090,
+    "wof:name":"Ban Man Noi",
+    "wof:parent_id":1092028703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45,
+    19.96667,
+    102.45,
+    19.96667
+],
+  "geometry": {"coordinates":[102.45,19.96667],"type":"Point"}
+}

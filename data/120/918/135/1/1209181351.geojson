@@ -1,0 +1,64 @@
+{
+  "id": 1209181351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.6287,15.30826,107.6287,15.30826",
+    "geom:latitude":15.30826,
+    "geom:longitude":107.6287,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Daklao-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201213,
+    "gn:latitude":15.30826,
+    "gn:longitude":107.6287,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Daklao-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Daklao-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201213
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"697814240b268c18a10ee9d4803bd4c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209181351
+        }
+    ],
+    "wof:id":1209181351,
+    "wof:lastmodified":1537660864,
+    "wof:name":"Ban Daklao-Mai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.6287,
+    15.30826,
+    107.6287,
+    15.30826
+],
+  "geometry": {"coordinates":[107.62869999999999,15.30826],"type":"Point"}
+}

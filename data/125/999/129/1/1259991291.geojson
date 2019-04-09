@@ -1,0 +1,70 @@
+{
+  "id": 1259991291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.976,20.3192,103.976,20.3192",
+    "geom:latitude":20.3192,
+    "geom:longitude":103.976,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Lian",
+    "gn:country_code":"LA",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662475,
+    "gn:latitude":20.3192,
+    "gn:longitude":103.976,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Lian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Liane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662475
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8781e166243a05752e79321836bbd65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1259991291,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1259991291,
+    "wof:lastmodified":1537660524,
+    "wof:name":"Ban Lian",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.976,
+    20.3192,
+    103.976,
+    20.3192
+],
+  "geometry": {"coordinates":[103.976,20.3192],"type":"Point"}
+}

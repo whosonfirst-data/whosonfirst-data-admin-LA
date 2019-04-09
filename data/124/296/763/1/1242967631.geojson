@@ -1,0 +1,70 @@
+{
+  "id": 1242967631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.93443,21.14343,101.93443,21.14343",
+    "geom:latitude":21.14343,
+    "geom:longitude":101.93443,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Ano",
+    "gn:country_code":"LA",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244071,
+    "gn:latitude":21.14343,
+    "gn:longitude":101.93443,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban An\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban An\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244071
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"95cf7c5412dd1416950a5980b8a4e739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1242967631,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242967631,
+    "wof:lastmodified":1537660979,
+    "wof:name":"Ban Ano",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.93443,
+    21.14343,
+    101.93443,
+    21.14343
+],
+  "geometry": {"coordinates":[101.93443000000001,21.14343],"type":"Point"}
+}

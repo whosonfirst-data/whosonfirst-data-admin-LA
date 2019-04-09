@@ -1,0 +1,70 @@
+{
+  "id": 1193091401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11667,18.64364,102.11667,18.64364",
+    "geom:latitude":18.64364,
+    "geom:longitude":102.11667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Houaykhamxai",
+    "gn:country_code":"LA",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231846,
+    "gn:latitude":18.64364,
+    "gn:longitude":102.11667,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Houaykhamxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaykhamxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231846
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a021a6bbae48a2d86845188d72d5fb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027093,
+            "locality_id":1193091401,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1193091401,
+    "wof:lastmodified":1537660919,
+    "wof:name":"Ban Houaykhamxai",
+    "wof:parent_id":1092027093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11667,
+    18.64364,
+    102.11667,
+    18.64364
+],
+  "geometry": {"coordinates":[102.11667,18.64364],"type":"Point"}
+}

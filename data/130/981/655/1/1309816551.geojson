@@ -1,0 +1,70 @@
+{
+  "id": 1309816551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77861,14.60697,105.77861,14.60697",
+    "geom:latitude":14.60697,
+    "geom:longitude":105.77861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Laohua",
+    "gn:country_code":"LA",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662601,
+    "gn:latitude":14.60697,
+    "gn:longitude":105.77861,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Laohua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Laohua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662601
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6efebd9ef55809429ad63ee1d25305ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1309816551,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1309816551,
+    "wof:lastmodified":1537660531,
+    "wof:name":"Ban Laohua",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77861,
+    14.60697,
+    105.77861,
+    14.60697
+],
+  "geometry": {"coordinates":[105.77861,14.60697],"type":"Point"}
+}

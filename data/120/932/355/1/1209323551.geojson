@@ -1,0 +1,67 @@
+{
+  "id": 1209323551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9063,14.29091,105.9063,14.29091",
+    "geom:latitude":14.29091,
+    "geom:longitude":105.9063,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Mai",
+    "gn:country_code":"LA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662352,
+    "gn:latitude":14.29091,
+    "gn:longitude":105.9063,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Mai"
+    ],
+    "name:und_x_variant":[
+        "Ban Mai (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662352
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d11e6048150aed7d2e3f4673a532b3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209323551
+        }
+    ],
+    "wof:id":1209323551,
+    "wof:lastmodified":1537660518,
+    "wof:name":"Ban Mai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9063,
+    14.29091,
+    105.9063,
+    14.29091
+],
+  "geometry": {"coordinates":[105.9063,14.29091],"type":"Point"}
+}

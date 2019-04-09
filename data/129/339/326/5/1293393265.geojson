@@ -1,0 +1,75 @@
+{
+  "id": 1293393265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.60962,14.75876,105.60962,14.75876",
+    "geom:latitude":14.75876,
+    "geom:longitude":105.60962,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nondeng-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660909,
+    "gn:latitude":14.75876,
+    "gn:longitude":105.60962,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban N\u00f4nd\u00e8ng-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban N\u00f4nd\u00e8ng-Nua"
+    ],
+    "name:und_x_variant":[
+        "Bai Nong Deng",
+        "Ban Nong Deng",
+        "Ban N\u00f4deng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660909
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"818f5d023bffdeb7ba7a2f5629304a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1293393265,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293393265,
+    "wof:lastmodified":1537660437,
+    "wof:name":"Ban Nondeng-Nua",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.60962,
+    14.75876,
+    105.60962,
+    14.75876
+],
+  "geometry": {"coordinates":[105.60962000000001,14.75876],"type":"Point"}
+}

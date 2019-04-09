@@ -1,0 +1,70 @@
+{
+  "id": 1242679591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70969,20.01127,103.70969,20.01127",
+    "geom:latitude":20.01127,
+    "geom:longitude":103.70969,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Tinkong",
+    "gn:country_code":"LA",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954272,
+    "gn:latitude":20.01127,
+    "gn:longitude":103.70969,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Tink\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tink\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954272
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2baa7180bee18a6e78b0d99b72bbdd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1242679591,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1242679591,
+    "wof:lastmodified":1537660761,
+    "wof:name":"Ban Tinkong",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70969,
+    20.01127,
+    103.70969,
+    20.01127
+],
+  "geometry": {"coordinates":[103.70968999999999,20.01127],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209089255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81035,17.52821,105.81035,17.52821",
+    "geom:latitude":17.52821,
+    "geom:longitude":105.81035,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nongno-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234113,
+    "gn:latitude":17.52821,
+    "gn:longitude":105.81035,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nongn\u00f4-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongn\u00f4-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234113
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"38eb07c6c31a153f9f7014737923f348",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209089255
+        }
+    ],
+    "wof:id":1209089255,
+    "wof:lastmodified":1537660945,
+    "wof:name":"Ban Nongno-Tai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81035,
+    17.52821,
+    105.81035,
+    17.52821
+],
+  "geometry": {"coordinates":[105.81035,17.52821],"type":"Point"}
+}

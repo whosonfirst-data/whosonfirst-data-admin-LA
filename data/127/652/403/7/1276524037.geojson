@@ -1,0 +1,70 @@
+{
+  "id": 1276524037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.28045,19.86751,102.28045,19.86751",
+    "geom:latitude":19.86751,
+    "geom:longitude":102.28045,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houayse-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957186,
+    "gn:latitude":19.86751,
+    "gn:longitude":102.28045,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Houays\u00e8-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houays\u00e8-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957186
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ffd3f48ef0a9e1bcae2aee545913b370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":1276524037,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276524037,
+    "wof:lastmodified":1537660840,
+    "wof:name":"Ban Houayse-Nua",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.28045,
+    19.86751,
+    102.28045,
+    19.86751
+],
+  "geometry": {"coordinates":[102.28045,19.86751],"type":"Point"}
+}

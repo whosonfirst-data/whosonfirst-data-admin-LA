@@ -1,0 +1,71 @@
+{
+  "id": 1242978279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.48928,19.87565,104.48928,19.87565",
+    "geom:latitude":19.87565,
+    "geom:longitude":104.48928,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Vangthoun",
+    "gn:country_code":"LA",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658218,
+    "gn:latitude":19.87565,
+    "gn:longitude":104.48928,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangthoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Vang Thun",
+        "Ban Vangthoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658218
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"452006f2d3c4e0d1087127461d4a7a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1242978279,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1242978279,
+    "wof:lastmodified":1537660282,
+    "wof:name":"Ban Vangthoun",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.48928,
+    19.87565,
+    104.48928,
+    19.87565
+],
+  "geometry": {"coordinates":[104.48927999999999,19.87565],"type":"Point"}
+}

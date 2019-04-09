@@ -1,0 +1,73 @@
+{
+  "id": 1327433543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31667,20.45,103.31667,20.45",
+    "geom:latitude":20.45,
+    "geom:longitude":103.31667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Muang Xon",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655072,
+    "gn:latitude":20.45,
+    "gn:longitude":103.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Muang Xon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong Son",
+        "Muang Xon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092029649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655072,
+        "wk:page":"Muang_Xon"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a463e694821e9c6550b4ed5877dff362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029649,
+            "locality_id":1327433543,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1327433543,
+    "wof:lastmodified":1537660226,
+    "wof:name":"Muang Xon",
+    "wof:parent_id":1092029649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31667,
+    20.45,
+    103.31667,
+    20.45
+],
+  "geometry": {"coordinates":[103.31667,20.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293106211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.21667,20.65,104.21667,20.65",
+    "geom:latitude":20.65,
+    "geom:longitude":104.21667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Meo",
+    "gn:country_code":"LA",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662302,
+    "gn:latitude":20.65,
+    "gn:longitude":104.21667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban M\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662302
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1d82689ab358c9a84dbb54610518b337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":1293106211,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293106211,
+    "wof:lastmodified":1536838676,
+    "wof:name":"Ban Meo",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.21667,
+    20.65,
+    104.21667,
+    20.65
+],
+  "geometry": {"coordinates":[104.21666999999999,20.65],"type":"Point"}
+}

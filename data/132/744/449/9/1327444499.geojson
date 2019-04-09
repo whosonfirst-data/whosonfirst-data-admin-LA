@@ -1,0 +1,74 @@
+{
+  "id": 1327444499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.77388,15.06363,105.77388,15.06363",
+    "geom:latitude":15.06363,
+    "geom:longitude":105.77388,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Natakdet",
+    "gn:country_code":"LA",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661129,
+    "gn:latitude":15.06363,
+    "gn:longitude":105.77388,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Natakdet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Natakdet"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Tak D\u00e8te",
+        "Ban Natakd\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661129
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"414591d8875b802abd222c4a6e896357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028663,
+            "locality_id":1327444499,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1327444499,
+    "wof:lastmodified":1537660450,
+    "wof:name":"Ban Natakdet",
+    "wof:parent_id":1092028663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.77388,
+    15.06363,
+    105.77388,
+    15.06363
+],
+  "geometry": {"coordinates":[105.77388000000001,15.06363],"type":"Point"}
+}

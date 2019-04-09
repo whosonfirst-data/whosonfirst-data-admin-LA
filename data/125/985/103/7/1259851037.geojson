@@ -1,0 +1,70 @@
+{
+  "id": 1259851037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41635,19.50802,102.41635,19.50802",
+    "geom:latitude":19.50802,
+    "geom:longitude":102.41635,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phakeng",
+    "gn:country_code":"LA",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952510,
+    "gn:latitude":19.50802,
+    "gn:longitude":102.41635,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phak\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phak\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952510
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e7ef1c7a7185f2562278e114732f6872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1259851037,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1259851037,
+    "wof:lastmodified":1537660721,
+    "wof:name":"Ban Phakeng",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41635,
+    19.50802,
+    102.41635,
+    19.50802
+],
+  "geometry": {"coordinates":[102.41634999999999,19.50802],"type":"Point"}
+}

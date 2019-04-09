@@ -1,0 +1,72 @@
+{
+  "id": 1293855425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43716,19.44273,102.43716,19.44273",
+    "geom:latitude":19.44273,
+    "geom:longitude":102.43716,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sanxiangla",
+    "gn:country_code":"LA",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659406,
+    "gn:latitude":19.44273,
+    "gn:longitude":102.43716,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sanxiangla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Sangkiang",
+        "Ban San Xieng La",
+        "Ban Sanxiangla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659406
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9765590819dccf0d07b9cb91e357401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1293855425,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293855425,
+    "wof:lastmodified":1537660350,
+    "wof:name":"Ban Sanxiangla",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43716,
+    19.44273,
+    102.43716,
+    19.44273
+],
+  "geometry": {"coordinates":[102.43716000000001,19.44273],"type":"Point"}
+}

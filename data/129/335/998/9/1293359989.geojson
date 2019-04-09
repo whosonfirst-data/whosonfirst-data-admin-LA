@@ -1,0 +1,70 @@
+{
+  "id": 1293359989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4189,20.95085,101.4189,20.95085",
+    "geom:latitude":20.95085,
+    "geom:longitude":101.4189,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Poung",
+    "gn:country_code":"LA",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957207,
+    "gn:latitude":20.95085,
+    "gn:longitude":101.4189,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Poung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957207
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b7798555573d5b69d5b4d1d8a837c783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027341,
+            "locality_id":1293359989,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1293359989,
+    "wof:lastmodified":1537660840,
+    "wof:name":"Ban Poung",
+    "wof:parent_id":1092027341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4189,
+    20.95085,
+    101.4189,
+    20.95085
+],
+  "geometry": {"coordinates":[101.41889999999999,20.95085],"type":"Point"}
+}

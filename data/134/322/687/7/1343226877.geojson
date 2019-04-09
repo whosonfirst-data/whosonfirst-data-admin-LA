@@ -1,0 +1,73 @@
+{
+  "id": 1343226877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.02145,16.33839,105.02145,16.33839",
+    "geom:latitude":16.33839,
+    "geom:longitude":105.02145,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phonsomhong",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659881,
+    "gn:latitude":16.33839,
+    "gn:longitude":105.02145,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ph\u00f4ns\u00f4mh\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4ns\u00f4mh\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Phone Somhong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659881
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"928d7eebe7566ab1de72eda880f267e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030959,
+            "locality_id":1343226877,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343226877,
+    "wof:lastmodified":1537660376,
+    "wof:name":"Ban Phonsomhong",
+    "wof:parent_id":1092030959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.02145,
+    16.33839,
+    105.02145,
+    16.33839
+],
+  "geometry": {"coordinates":[105.02145,16.33839],"type":"Point"}
+}

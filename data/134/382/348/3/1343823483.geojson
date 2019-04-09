@@ -1,0 +1,73 @@
+{
+  "id": 1343823483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.65647,15.81926,106.65647,15.81926",
+    "geom:latitude":15.81926,
+    "geom:longitude":106.65647,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Toungpaxouhai",
+    "gn:country_code":"LA",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658339,
+    "gn:latitude":15.81926,
+    "gn:longitude":106.65647,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Toungpaxouhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Toungpaxouhai"
+    ],
+    "name:und_x_variant":[
+        "Ban Toungpaxou Hai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658339
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"785ed3f7d38c596c703bfbf588ee8f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1343823483,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1343823483,
+    "wof:lastmodified":1537660290,
+    "wof:name":"Ban Toungpaxouhai",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.65647,
+    15.81926,
+    106.65647,
+    15.81926
+],
+  "geometry": {"coordinates":[106.65647,15.81926],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242839183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04012,16.34072,106.04012,16.34072",
+    "geom:latitude":16.34072,
+    "geom:longitude":106.04012,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Gnang-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664304,
+    "gn:latitude":16.34072,
+    "gn:longitude":106.04012,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Gnang-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nhang",
+        "Ban Gnang",
+        "Ban Gnang-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664304
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c51bb0d003c008681441a2bbfd047e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1242839183,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1242839183,
+    "wof:lastmodified":1537660638,
+    "wof:name":"Ban Gnang-Tai",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04012,
+    16.34072,
+    106.04012,
+    16.34072
+],
+  "geometry": {"coordinates":[106.04012,16.34072],"type":"Point"}
+}

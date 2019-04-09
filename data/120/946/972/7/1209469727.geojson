@@ -1,0 +1,68 @@
+{
+  "id": 1209469727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.46645,15.39699,107.46645,15.39699",
+    "geom:latitude":15.39699,
+    "geom:longitude":107.46645,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakliang",
+    "gn:country_code":"LA",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664640,
+    "gn:latitude":15.39699,
+    "gn:longitude":107.46645,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dakliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Dakliang"
+    ],
+    "name:und_x_variant":[
+        "Dak Liang",
+        "Ban Dak Liang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664640
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9f8298b3088cc7a3dc2ec0fe70cc260a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209469727
+        }
+    ],
+    "wof:id":1209469727,
+    "wof:lastmodified":1537660659,
+    "wof:name":"Ban Dakliang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.46645,
+    15.39699,
+    107.46645,
+    15.39699
+],
+  "geometry": {"coordinates":[107.46644999999999,15.39699],"type":"Point"}
+}

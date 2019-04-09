@@ -1,0 +1,70 @@
+{
+  "id": 1243415613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.96799,18.53778,102.96799,18.53778",
+    "geom:latitude":18.53778,
+    "geom:longitude":102.96799,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Nongmouang",
+    "gn:country_code":"LA",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401329,
+    "gn:latitude":18.53778,
+    "gn:longitude":102.96799,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ban Nongmouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongmouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401329
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3a49e1cc7b579d209d63e91eb01f1eeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027153,
+            "locality_id":1243415613,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1243415613,
+    "wof:lastmodified":1537660987,
+    "wof:name":"Ban Nongmouang",
+    "wof:parent_id":1092027153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.96799,
+    18.53778,
+    102.96799,
+    18.53778
+],
+  "geometry": {"coordinates":[102.96799,18.53778],"type":"Point"}
+}

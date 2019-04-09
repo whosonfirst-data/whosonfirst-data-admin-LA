@@ -1,0 +1,72 @@
+{
+  "id": 1243420625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17795,21.3766,102.17795,21.3766",
+    "geom:latitude":21.3766,
+    "geom:longitude":102.17795,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Achobannoy",
+    "gn:country_code":"LA",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1665141,
+    "gn:latitude":21.3766,
+    "gn:longitude":102.17795,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Achobannoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "A Cho Ban N\u00f4i",
+        "Ban Achobannoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665141,
+        "wk:page":"A_Cho_Ban_N%C3%B4i"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ee9e69e0bdd8848f0e65c5fa4044d80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1243420625,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243420625,
+    "wof:lastmodified":1537660683,
+    "wof:name":"Ban Achobannoy",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17795,
+    21.3766,
+    102.17795,
+    21.3766
+],
+  "geometry": {"coordinates":[102.17795,21.3766],"type":"Point"}
+}

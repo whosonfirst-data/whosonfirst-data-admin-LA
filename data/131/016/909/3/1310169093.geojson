@@ -1,0 +1,70 @@
+{
+  "id": 1310169093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29521,19.7222,102.29521,19.7222",
+    "geom:latitude":19.7222,
+    "geom:longitude":102.29521,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sapheun",
+    "gn:country_code":"LA",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223839,
+    "gn:latitude":19.7222,
+    "gn:longitude":102.29521,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Sapheun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sapheun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223839
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"631ad3b99016a4c477b32c15f44daef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1310169093,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1310169093,
+    "wof:lastmodified":1537660902,
+    "wof:name":"Ban Sapheun",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29521,
+    19.7222,
+    102.29521,
+    19.7222
+],
+  "geometry": {"coordinates":[102.29521,19.7222],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293177365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.40187,19.69333,101.40187,19.69333",
+    "geom:latitude":19.69333,
+    "geom:longitude":101.40187,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Napong",
+    "gn:country_code":"LA",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660923,
+    "gn:latitude":19.69333,
+    "gn:longitude":101.40187,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Napong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nga Paung",
+        "Ban Nha Pong",
+        "Ban Napong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092027837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660923
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"94b33af25f26710529dda5108ef79a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027837,
+            "locality_id":1293177365,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1293177365,
+    "wof:lastmodified":1537660437,
+    "wof:name":"Ban Napong",
+    "wof:parent_id":1092027837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.40187,
+    19.69333,
+    101.40187,
+    19.69333
+],
+  "geometry": {"coordinates":[101.40187,19.69333],"type":"Point"}
+}

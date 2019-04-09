@@ -1,0 +1,71 @@
+{
+  "id": 1343944069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.12881,17.71346,101.12881,17.71346",
+    "geom:latitude":17.71346,
+    "geom:longitude":101.12881,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nuleng",
+    "gn:country_code":"LA",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660602,
+    "gn:latitude":17.71346,
+    "gn:longitude":101.12881,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Nul\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Daeng",
+        "Ban Nul\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660602
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c749f70fa1816a87d6fe66ca75cbfe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026237,
+            "locality_id":1343944069,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1343944069,
+    "wof:lastmodified":1537660418,
+    "wof:name":"Ban Nuleng",
+    "wof:parent_id":1092026237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.12881,
+    17.71346,
+    101.12881,
+    17.71346
+],
+  "geometry": {"coordinates":[101.12881,17.71346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343736047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.9,19.03333,103.9,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":103.9,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pha Gnao",
+    "gn:country_code":"LA",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654145,
+    "gn:latitude":19.03333,
+    "gn:longitude":103.9,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Pha Gnao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654145
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9281453d3df56a264848b71bab8c38ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027549,
+            "locality_id":1343736047,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343736047,
+    "wof:lastmodified":1536845076,
+    "wof:name":"Pha Gnao",
+    "wof:parent_id":1092027549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.9,
+    19.03333,
+    103.9,
+    19.03333
+],
+  "geometry": {"coordinates":[103.90000000000001,19.03333],"type":"Point"}
+}

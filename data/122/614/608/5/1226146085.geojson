@@ -1,0 +1,71 @@
+{
+  "id": 1226146085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.92254,14.00378,105.92254,14.00378",
+    "geom:latitude":14.00378,
+    "geom:longitude":105.92254,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nakasang",
+    "gn:country_code":"LA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379120,
+    "gn:latitude":14.00378,
+    "gn:longitude":105.92254,
+    "gn:modification_date":"2012-08-28",
+    "gn:name":"Ban Nakasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nakasong",
+        "Nakasong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379120
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a693125a22aec748c9adc82e02c6405f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1226146085,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226146085,
+    "wof:lastmodified":1537660843,
+    "wof:name":"Ban Nakasang",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.92253999999998,
+    14.00378,
+    105.92253999999998,
+    14.00378
+],
+  "geometry": {"coordinates":[105.92253999999998,14.00378],"type":"Point"}
+}

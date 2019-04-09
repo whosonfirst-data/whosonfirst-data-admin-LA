@@ -1,0 +1,70 @@
+{
+  "id": 1293854199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0752,17.28147,105.0752,17.28147",
+    "geom:latitude":17.28147,
+    "geom:longitude":105.0752,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Khoktong",
+    "gn:country_code":"LA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662942,
+    "gn:latitude":17.28147,
+    "gn:longitude":105.0752,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kh\u00f4ktong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4ktong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662942
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d0ba9f964e090a57b387b2b340a8b699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1293854199,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293854199,
+    "wof:lastmodified":1537660550,
+    "wof:name":"Ban Khoktong",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0752,
+    17.28147,
+    105.0752,
+    17.28147
+],
+  "geometry": {"coordinates":[105.0752,17.28147],"type":"Point"}
+}

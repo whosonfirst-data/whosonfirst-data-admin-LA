@@ -1,0 +1,72 @@
+{
+  "id": 1242936303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.37454,21.28253,102.37454,21.28253",
+    "geom:latitude":21.28253,
+    "geom:longitude":102.37454,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hatnga-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664164,
+    "gn:latitude":21.28253,
+    "gn:longitude":102.37454,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Hatnga-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hat Kha",
+        "Ban Hat Kha",
+        "Ban Hatnga-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664164
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"348aff972f61650adbd9e84804d0df64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1242936303,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242936303,
+    "wof:lastmodified":1537660630,
+    "wof:name":"Ban Hatnga-Nua",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.37454,
+    21.28253,
+    102.37454,
+    21.28253
+],
+  "geometry": {"coordinates":[102.37454,21.28253],"type":"Point"}
+}

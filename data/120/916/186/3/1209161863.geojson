@@ -1,0 +1,64 @@
+{
+  "id": 1209161863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.95604,19.01613,102.95604,19.01613",
+    "geom:latitude":19.01613,
+    "geom:longitude":102.95604,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Nam-Yen",
+    "gn:country_code":"LA",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401184,
+    "gn:latitude":19.01613,
+    "gn:longitude":102.95604,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ban Nam-Y\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nam-Y\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401184
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"252fc24b48a5f3678fb313d9ea1e4613",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209161863
+        }
+    ],
+    "wof:id":1209161863,
+    "wof:lastmodified":1537660984,
+    "wof:name":"Ban Nam-Yen",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.95604,
+    19.01613,
+    102.95604,
+    19.01613
+],
+  "geometry": {"coordinates":[102.95604,19.01613],"type":"Point"}
+}

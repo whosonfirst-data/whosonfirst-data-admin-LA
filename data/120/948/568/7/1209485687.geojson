@@ -1,0 +1,64 @@
+{
+  "id": 1209485687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.40228,17.66182,105.40228,17.66182",
+    "geom:latitude":17.66182,
+    "geom:longitude":105.40228,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Maloy",
+    "gn:country_code":"LA",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662331,
+    "gn:latitude":17.66182,
+    "gn:longitude":105.40228,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Maloy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Maloi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662331
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c6f847857ecd8ec2c31f53b3444f6aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209485687
+        }
+    ],
+    "wof:id":1209485687,
+    "wof:lastmodified":1537660516,
+    "wof:name":"Ban Maloy",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.40228,
+    17.66182000000001,
+    105.40228,
+    17.66182000000001
+],
+  "geometry": {"coordinates":[105.40228,17.66182000000001],"type":"Point"}
+}

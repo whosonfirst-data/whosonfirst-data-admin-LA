@@ -1,0 +1,71 @@
+{
+  "id": 1293092845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08333,20.95,102.08333,20.95",
+    "geom:latitude":20.95,
+    "geom:longitude":102.08333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Hatpot",
+    "gn:country_code":"LA",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664127,
+    "gn:latitude":20.95,
+    "gn:longitude":102.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban Hatpot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hat Pot",
+        "Ban Hatpot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664127
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b4fa46964f8d2be9e8f1954081092b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1293092845,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293092845,
+    "wof:lastmodified":1537660628,
+    "wof:name":"Ban Hatpot",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08333,
+    20.95,
+    102.08333,
+    20.95
+],
+  "geometry": {"coordinates":[102.08333,20.95],"type":"Point"}
+}

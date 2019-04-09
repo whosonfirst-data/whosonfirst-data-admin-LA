@@ -1,0 +1,70 @@
+{
+  "id": 1226107067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.56074,16.24166,105.56074,16.24166",
+    "geom:latitude":16.24166,
+    "geom:longitude":105.56074,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Savu",
+    "gn:country_code":"LA",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222493,
+    "gn:latitude":16.24166,
+    "gn:longitude":105.56074,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Savu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Savu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222493
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"620eaa485a010533703adccfa5bb2692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":1226107067,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226107067,
+    "wof:lastmodified":1537660898,
+    "wof:name":"Ban Savu",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.56074,
+    16.24166,
+    105.56074,
+    16.24166
+],
+  "geometry": {"coordinates":[105.56074,16.24166],"type":"Point"}
+}

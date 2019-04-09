@@ -1,0 +1,68 @@
+{
+  "id": 1226207271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6232,16.52902,106.6232,16.52902",
+    "geom:latitude":16.52902,
+    "geom:longitude":106.6232,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Axing-Na",
+    "gn:country_code":"LA",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236538,
+    "gn:latitude":16.52902,
+    "gn:longitude":106.6232,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Axing-Na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Axing-Na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236538
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"612c275bc9d52f70f89208eab955be9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1226207271,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226207271,
+    "wof:lastmodified":1537660960,
+    "wof:name":"Ban Axing-Na",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6232,
+    16.52902000000001,
+    106.6232,
+    16.52902000000001
+],
+  "geometry": {"coordinates":[106.6232,16.52902000000001],"type":"Point"}
+}

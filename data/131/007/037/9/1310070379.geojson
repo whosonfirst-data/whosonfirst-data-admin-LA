@@ -1,0 +1,75 @@
+{
+  "id": 1310070379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43151,16.65806,106.43151,16.65806",
+    "geom:latitude":16.65806,
+    "geom:longitude":106.43151,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Delang-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660328,
+    "gn:latitude":16.65806,
+    "gn:longitude":106.43151,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban D\u00e9lang-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban D\u00e9lang-Noy"
+    ],
+    "name:und_x_variant":[
+        "Lang Pe Rang Noi",
+        "Lang Pe Rang",
+        "Ban P\u00e9rang Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660328
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"03425872d9f0b6b6e53df764fc334c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1310070379,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310070379,
+    "wof:lastmodified":1537660401,
+    "wof:name":"Ban Delang-Noy",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43151,
+    16.65806,
+    106.43151,
+    16.65806
+],
+  "geometry": {"coordinates":[106.43151,16.65806],"type":"Point"}
+}

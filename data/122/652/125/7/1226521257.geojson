@@ -1,0 +1,70 @@
+{
+  "id": 1226521257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.37443,19.32746,103.37443,19.32746",
+    "geom:latitude":19.32746,
+    "geom:longitude":103.37443,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phiavat",
+    "gn:country_code":"LA",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660074,
+    "gn:latitude":19.32746,
+    "gn:longitude":103.37443,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phiavat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phiavat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660074
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e3199e1bf11252a79077fc6149cfbefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1226521257,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1226521257,
+    "wof:lastmodified":1537660387,
+    "wof:name":"Ban Phiavat",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.37443,
+    19.32746,
+    103.37443,
+    19.32746
+],
+  "geometry": {"coordinates":[103.37443,19.32746],"type":"Point"}
+}

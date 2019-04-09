@@ -1,0 +1,64 @@
+{
+  "id": 1209089285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.88787,17.11517,104.88787,17.11517",
+    "geom:latitude":17.11517,
+    "geom:longitude":104.88787,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Laokhoung",
+    "gn:country_code":"LA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662597,
+    "gn:latitude":17.11517,
+    "gn:longitude":104.88787,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Laokhoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laokhoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662597
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ba1adf024c2356c10597c5d7c3a136a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209089285
+        }
+    ],
+    "wof:id":1209089285,
+    "wof:lastmodified":1537660531,
+    "wof:name":"Ban Laokhoung",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.88787,
+    17.11517000000001,
+    104.88787,
+    17.11517000000001
+],
+  "geometry": {"coordinates":[104.88787000000001,17.11517000000001],"type":"Point"}
+}

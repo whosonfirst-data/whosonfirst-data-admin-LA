@@ -1,0 +1,70 @@
+{
+  "id": 1293255461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.06869,22.32437,102.06869,22.32437",
+    "geom:latitude":22.32437,
+    "geom:longitude":102.06869,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Thongpa",
+    "gn:country_code":"LA",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956214,
+    "gn:latitude":22.32437,
+    "gn:longitude":102.06869,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Th\u00f4ngpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956214
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8705d9a7cd9ff134ba2400585588aabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1293255461,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293255461,
+    "wof:lastmodified":1537660814,
+    "wof:name":"Ban Thongpa",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.06869,
+    22.32437,
+    102.06869,
+    22.32437
+],
+  "geometry": {"coordinates":[102.06869,22.32437],"type":"Point"}
+}

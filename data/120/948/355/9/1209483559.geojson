@@ -1,0 +1,64 @@
+{
+  "id": 1209483559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66348,17.90522,102.66348,17.90522",
+    "geom:latitude":17.90522,
+    "geom:longitude":102.66348,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Dongbanxang",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233107,
+    "gn:latitude":17.90522,
+    "gn:longitude":102.66348,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban D\u00f4ngbanxang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00f4ngbanxang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233107
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c39c7d96128a0d29d6f91847615aa8d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209483559
+        }
+    ],
+    "wof:id":1209483559,
+    "wof:lastmodified":1537660936,
+    "wof:name":"Ban Dongbanxang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66348,
+    17.90522,
+    102.66348,
+    17.90522
+],
+  "geometry": {"coordinates":[102.66348000000001,17.90522],"type":"Point"}
+}

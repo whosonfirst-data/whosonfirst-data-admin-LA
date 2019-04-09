@@ -1,0 +1,67 @@
+{
+  "id": 1276738633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98333,21.16667,101.98333,21.16667",
+    "geom:latitude":21.16667,
+    "geom:longitude":101.98333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban La Sa Kham",
+    "gn:country_code":"LA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662554,
+    "gn:latitude":21.16667,
+    "gn:longitude":101.98333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban La Sa Kham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662554
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a8588c935718dadd5d2d238e37500631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1276738633,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276738633,
+    "wof:lastmodified":1536733069,
+    "wof:name":"Ban La Sa Kham",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98333,
+    21.16667,
+    101.98333,
+    21.16667
+],
+  "geometry": {"coordinates":[101.98333,21.16667],"type":"Point"}
+}

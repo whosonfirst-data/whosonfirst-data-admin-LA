@@ -1,0 +1,74 @@
+{
+  "id": 1360150315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.63832,16.03549,106.63832,16.03549",
+    "geom:latitude":16.03549,
+    "geom:longitude":106.63832,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sabongphoham",
+    "gn:country_code":"LA",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659557,
+    "gn:latitude":16.03549,
+    "gn:longitude":106.63832,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sab\u00f4ngphoham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sab\u00f4ngphoham"
+    ],
+    "name:und_x_variant":[
+        "Ban Sbongphoham",
+        "Ban Sabong-Phoham (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659557
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3be9e43c831d7cb7cb0b843ea9c712dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1360150315,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1360150315,
+    "wof:lastmodified":1537660359,
+    "wof:name":"Ban Sabongphoham",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.63832,
+    16.03549,
+    106.63832,
+    16.03549
+],
+  "geometry": {"coordinates":[106.63831999999999,16.03549],"type":"Point"}
+}

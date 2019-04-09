@@ -1,0 +1,70 @@
+{
+  "id": 1243551327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30785,20.77445,102.30785,20.77445",
+    "geom:latitude":20.77445,
+    "geom:longitude":102.30785,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Chakchang",
+    "gn:country_code":"LA",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954708,
+    "gn:latitude":20.77445,
+    "gn:longitude":102.30785,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Chakchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chakchang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954708
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9f2f2ce870438c666ddf3f19b7d11d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1243551327,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1243551327,
+    "wof:lastmodified":1537660774,
+    "wof:name":"Ban Chakchang",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30785,
+    20.77445,
+    102.30785,
+    20.77445
+],
+  "geometry": {"coordinates":[102.30785,20.77445],"type":"Point"}
+}

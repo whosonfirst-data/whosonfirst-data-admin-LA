@@ -1,0 +1,70 @@
+{
+  "id": 1226711723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.45987,16.63692,106.45987,16.63692",
+    "geom:latitude":16.63692,
+    "geom:longitude":106.45987,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Chakiphin",
+    "gn:country_code":"LA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11236099,
+    "gn:latitude":16.63692,
+    "gn:longitude":106.45987,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Chakiphin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Chakiphin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236099
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b22fd365ffbf893389177765f82fe5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1226711723,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226711723,
+    "wof:lastmodified":1537660958,
+    "wof:name":"Ban Chakiphin",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.45987,
+    16.63692,
+    106.45987,
+    16.63692
+],
+  "geometry": {"coordinates":[106.45987,16.63692],"type":"Point"}
+}

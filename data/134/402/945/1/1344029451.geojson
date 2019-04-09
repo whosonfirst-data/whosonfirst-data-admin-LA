@@ -1,0 +1,67 @@
+{
+  "id": 1344029451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.48333,20.15,102.48333,20.15",
+    "geom:latitude":20.15,
+    "geom:longitude":102.48333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sen Kham Sakdy",
+    "gn:country_code":"LA",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659331,
+    "gn:latitude":20.15,
+    "gn:longitude":102.48333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban S\u00e8n Kham Sakdy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092028407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659331
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"504c185145f5c5945ac83b4bf01bf491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028407,
+            "locality_id":1344029451,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1344029451,
+    "wof:lastmodified":1536921122,
+    "wof:name":"Ban Sen Kham Sakdy",
+    "wof:parent_id":1092028407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.48333,
+    20.15,
+    102.48333,
+    20.15
+],
+  "geometry": {"coordinates":[102.48333,20.15],"type":"Point"}
+}

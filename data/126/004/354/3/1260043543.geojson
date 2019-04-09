@@ -1,0 +1,71 @@
+{
+  "id": 1260043543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.42347,19.45693,102.42347,19.45693",
+    "geom:latitude":19.45693,
+    "geom:longitude":102.42347,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phangeun",
+    "gn:country_code":"LA",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660200,
+    "gn:latitude":19.45693,
+    "gn:longitude":102.42347,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phangeun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pha Ngeum",
+        "Ban Phangeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660200
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bdccfc7a26051cb69941d2e51122dba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1260043543,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260043543,
+    "wof:lastmodified":1537660394,
+    "wof:name":"Ban Phangeun",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.42347,
+    19.45693,
+    102.42347,
+    19.45693
+],
+  "geometry": {"coordinates":[102.42346999999999,19.45693],"type":"Point"}
+}

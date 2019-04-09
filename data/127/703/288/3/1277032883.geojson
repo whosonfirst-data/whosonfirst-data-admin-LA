@@ -1,0 +1,70 @@
+{
+  "id": 1277032883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73565,18.43397,104.73565,18.43397",
+    "geom:latitude":18.43397,
+    "geom:longitude":104.73565,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Phondou",
+    "gn:country_code":"LA",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232452,
+    "gn:latitude":18.43397,
+    "gn:longitude":104.73565,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phondou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phondou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232452
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"daa81b2979dc310e1b96f582b8f62dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1277032883,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1277032883,
+    "wof:lastmodified":1537660928,
+    "wof:name":"Ban Phondou",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73565,
+    18.43397,
+    104.73565,
+    18.43397
+],
+  "geometry": {"coordinates":[104.73565000000001,18.43397],"type":"Point"}
+}

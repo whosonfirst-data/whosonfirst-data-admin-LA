@@ -1,0 +1,73 @@
+{
+  "id": 1259746369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90365,21.61241,101.90365,21.61241",
+    "geom:latitude":21.61241,
+    "geom:longitude":101.90365,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nale",
+    "gn:country_code":"LA",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654997,
+    "gn:latitude":21.61241,
+    "gn:longitude":101.90365,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Nal\u00e8",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nal\u00e8"
+    ],
+    "name:und_x_variant":[
+        "Na L\u00e8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654997
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ec338bb9fc4182f16a486735ab581ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1259746369,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1259746369,
+    "wof:lastmodified":1537660224,
+    "wof:name":"Ban Nale",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90365,
+    21.61241,
+    101.90365,
+    21.61241
+],
+  "geometry": {"coordinates":[101.90365,21.61241],"type":"Point"}
+}

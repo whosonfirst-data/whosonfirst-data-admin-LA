@@ -1,0 +1,70 @@
+{
+  "id": 1226616167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.59008,17.48285,105.59008,17.48285",
+    "geom:latitude":17.48285,
+    "geom:longitude":105.59008,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Kacham",
+    "gn:country_code":"LA",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663455,
+    "gn:latitude":17.48285,
+    "gn:longitude":105.59008,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Kacham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kacham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663455
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8a08811e80d81d4445f55158a9e3b976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":1226616167,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226616167,
+    "wof:lastmodified":1537660580,
+    "wof:name":"Ban Kacham",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.59008,
+    17.48285,
+    105.59008,
+    17.48285
+],
+  "geometry": {"coordinates":[105.59008,17.48285],"type":"Point"}
+}

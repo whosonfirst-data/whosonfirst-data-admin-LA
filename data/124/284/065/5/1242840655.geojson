@@ -1,0 +1,74 @@
+{
+  "id": 1242840655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40344,21.01365,102.40344,21.01365",
+    "geom:latitude":21.01365,
+    "geom:longitude":102.40344,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Kiou",
+    "gn:country_code":"LA",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653236,
+    "gn:latitude":21.01365,
+    "gn:longitude":102.40344,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kiou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kiou"
+    ],
+    "name:und_x_variant":[
+        "Sen Loung",
+        "Sen Luong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653236
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8608a50bd6cf7de4b69d642b60d118d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1242840655,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242840655,
+    "wof:lastmodified":1537660206,
+    "wof:name":"Ban Kiou",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40344,
+    21.01365,
+    102.40344,
+    21.01365
+],
+  "geometry": {"coordinates":[102.40344,21.01365],"type":"Point"}
+}

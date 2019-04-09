@@ -1,0 +1,67 @@
+{
+  "id": 1226755037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.88333,20.66667,103.88333,20.66667",
+    "geom:latitude":20.66667,
+    "geom:longitude":103.88333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Ta Pha",
+    "gn:country_code":"LA",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658833,
+    "gn:latitude":20.66667,
+    "gn:longitude":103.88333,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Ta Pha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658833
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b257fcba03b797eb379dafef259ec821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031091,
+            "locality_id":1226755037,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226755037,
+    "wof:lastmodified":1536702353,
+    "wof:name":"Ban Ta Pha",
+    "wof:parent_id":1092031091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.88333,
+    20.66667,
+    103.88333,
+    20.66667
+],
+  "geometry": {"coordinates":[103.88333,20.66667],"type":"Point"}
+}

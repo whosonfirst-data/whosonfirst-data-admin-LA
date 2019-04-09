@@ -1,0 +1,73 @@
+{
+  "id": 1209792005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35505,19.78213,102.35505,19.78213",
+    "geom:latitude":19.78213,
+    "geom:longitude":102.35505,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phasoum",
+    "gn:country_code":"LA",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660157,
+    "gn:latitude":19.78213,
+    "gn:longitude":102.35505,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phasoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phasoum"
+    ],
+    "name:und_x_variant":[
+        "Ban Pho Soum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660157
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f8fb645b3996c2376e990f33bba323d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1209792005,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1209792005,
+    "wof:lastmodified":1537660391,
+    "wof:name":"Ban Phasoum",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35505,
+    19.78213,
+    102.35505,
+    19.78213
+],
+  "geometry": {"coordinates":[102.35505000000001,19.78213],"type":"Point"}
+}

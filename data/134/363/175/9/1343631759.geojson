@@ -1,0 +1,70 @@
+{
+  "id": 1343631759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.53292,17.62505,104.53292,17.62505",
+    "geom:latitude":17.62505,
+    "geom:longitude":104.53292,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Houaykhaomin-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242170,
+    "gn:latitude":17.62505,
+    "gn:longitude":104.53292,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Houaykhaomin-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Bangkok",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaykhaomin-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242170
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fff72e11ee902041b9c851c80112a20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1343631759,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1343631759,
+    "wof:lastmodified":1537660977,
+    "wof:name":"Ban Houaykhaomin-Gnai",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.53292,
+    17.62505,
+    104.53292,
+    17.62505
+],
+  "geometry": {"coordinates":[104.53292,17.62505],"type":"Point"}
+}

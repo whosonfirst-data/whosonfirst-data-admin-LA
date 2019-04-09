@@ -1,0 +1,71 @@
+{
+  "id": 1226204147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.28892,16.66493,106.28892,16.66493",
+    "geom:latitude":16.66493,
+    "geom:longitude":106.28892,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Muangchan",
+    "gn:country_code":"LA",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662182,
+    "gn:latitude":16.66493,
+    "gn:longitude":106.28892,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Muangchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muong Chanh",
+        "Ban Muangchan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662182
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e0f461898ad0acd3f53b410c4e916e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1226204147,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1226204147,
+    "wof:lastmodified":1537660508,
+    "wof:name":"Ban Muangchan",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.28892,
+    16.66493,
+    106.28892,
+    16.66493
+],
+  "geometry": {"coordinates":[106.28892,16.66493],"type":"Point"}
+}

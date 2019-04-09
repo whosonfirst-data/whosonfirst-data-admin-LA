@@ -1,0 +1,74 @@
+{
+  "id": 1310510397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05886,14.81515,106.05886,14.81515",
+    "geom:latitude":14.81515,
+    "geom:longitude":106.05886,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Sounot",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659463,
+    "gn:latitude":14.81515,
+    "gn:longitude":106.05886,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Soun\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Soun\u00f4t"
+    ],
+    "name:und_x_variant":[
+        "Ban Sanot",
+        "Ban San"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659463
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f1bee583c00502f948c3279001b46595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1310510397,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310510397,
+    "wof:lastmodified":1537660353,
+    "wof:name":"Ban Sounot",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05886,
+    14.81515,
+    106.05886,
+    14.81515
+],
+  "geometry": {"coordinates":[106.05886,14.81515],"type":"Point"}
+}

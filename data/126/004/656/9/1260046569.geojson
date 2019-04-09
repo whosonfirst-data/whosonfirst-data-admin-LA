@@ -1,0 +1,70 @@
+{
+  "id": 1260046569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45462,18.58532,102.45462,18.58532",
+    "geom:latitude":18.58532,
+    "geom:longitude":102.45462,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Poungsomdi",
+    "gn:country_code":"LA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231914,
+    "gn:latitude":18.58532,
+    "gn:longitude":102.45462,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Poungs\u00f4mdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poungs\u00f4mdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231914
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4d0c058c0044a935214b6ca13aff7b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":1260046569,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1260046569,
+    "wof:lastmodified":1537660922,
+    "wof:name":"Ban Poungsomdi",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45462,
+    18.58532,
+    102.45462,
+    18.58532
+],
+  "geometry": {"coordinates":[102.45462000000001,18.58532],"type":"Point"}
+}

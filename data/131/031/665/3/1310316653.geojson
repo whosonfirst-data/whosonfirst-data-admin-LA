@@ -1,0 +1,70 @@
+{
+  "id": 1310316653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.36119,19.78427,104.36119,19.78427",
+    "geom:latitude":19.78427,
+    "geom:longitude":104.36119,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Sopchoum",
+    "gn:country_code":"LA",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659117,
+    "gn:latitude":19.78427,
+    "gn:longitude":104.36119,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00f4pchoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4pchoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659117
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"29ea4b3b22eae311531ec78b4f33747a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1310316653,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1310316653,
+    "wof:lastmodified":1537660335,
+    "wof:name":"Ban Sopchoum",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.36119,
+    19.78427000000001,
+    104.36119,
+    19.78427000000001
+],
+  "geometry": {"coordinates":[104.36118999999999,19.78427000000001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226736145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51166,19.67596,100.51166,19.67596",
+    "geom:latitude":19.67596,
+    "geom:longitude":100.51166,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Mouang",
+    "gn:country_code":"LA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655190,
+    "gn:latitude":19.67596,
+    "gn:longitude":100.51166,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Mouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muang Khop",
+        "Ban Mouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655190
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"30b43ef82c285532b831d771b316b817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026391,
+            "locality_id":1226736145,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226736145,
+    "wof:lastmodified":1537660238,
+    "wof:name":"Ban Mouang",
+    "wof:parent_id":1092026391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51166,
+    19.67596,
+    100.51166,
+    19.67596
+],
+  "geometry": {"coordinates":[100.51166000000001,19.67596],"type":"Point"}
+}

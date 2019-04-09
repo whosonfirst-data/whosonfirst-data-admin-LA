@@ -1,0 +1,72 @@
+{
+  "id": 1293095507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74967,19.93836,100.74967,19.93836",
+    "geom:latitude":19.93836,
+    "geom:longitude":100.74967,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Tatangdou",
+    "gn:country_code":"LA",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941640,
+    "gn:latitude":19.93836,
+    "gn:longitude":100.74967,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Tatangdou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Talangdou",
+        "Ban Tatangdou",
+        "Ban Tatangdou (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092028245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941640
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"008eca11f2917178aece808d905b06dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028245,
+            "locality_id":1293095507,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293095507,
+    "wof:lastmodified":1537660697,
+    "wof:name":"Ban Tatangdou",
+    "wof:parent_id":1092028245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74967,
+    19.93836,
+    100.74967,
+    19.93836
+],
+  "geometry": {"coordinates":[100.74966999999999,19.93836],"type":"Point"}
+}

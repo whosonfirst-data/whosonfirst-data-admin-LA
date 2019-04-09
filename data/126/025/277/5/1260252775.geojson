@@ -1,0 +1,70 @@
+{
+  "id": 1260252775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.12291,17.75246,105.12291,17.75246",
+    "geom:latitude":17.75246,
+    "geom:longitude":105.12291,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nakay-Kang",
+    "gn:country_code":"LA",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233725,
+    "gn:latitude":17.75246,
+    "gn:longitude":105.12291,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nakay-Kang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakay-Kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233725
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"91033e05441d290b20c99a80dda214ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1260252775,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1260252775,
+    "wof:lastmodified":1537660940,
+    "wof:name":"Ban Nakay-Kang",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.12291,
+    17.75246,
+    105.12291,
+    17.75246
+],
+  "geometry": {"coordinates":[105.12291,17.75246],"type":"Point"}
+}

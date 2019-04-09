@@ -1,0 +1,73 @@
+{
+  "id": 1226617487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21432,18.37887,101.21432,18.37887",
+    "geom:latitude":18.37887,
+    "geom:longitude":101.21432,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Nanongpet",
+    "gn:country_code":"LA",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941601,
+    "gn:latitude":18.37887,
+    "gn:longitude":101.21432,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Nanongp\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nanongp\u00e9t (2)"
+    ],
+    "name:lao_x_variant":[
+        "Ban Nanongp\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941601
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b3a9e1e2102baa4ac9803eaf72e4b958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030537,
+            "locality_id":1226617487,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226617487,
+    "wof:lastmodified":1537660696,
+    "wof:name":"Ban Nanongpet",
+    "wof:parent_id":1092030537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21432,
+    18.37887000000001,
+    101.21432,
+    18.37887000000001
+],
+  "geometry": {"coordinates":[101.21432,18.37887000000001],"type":"Point"}
+}

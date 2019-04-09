@@ -1,0 +1,64 @@
+{
+  "id": 1209279277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26489,16.4941,105.26489,16.4941",
+    "geom:latitude":16.4941,
+    "geom:longitude":105.26489,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nadou",
+    "gn:country_code":"LA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662032,
+    "gn:latitude":16.4941,
+    "gn:longitude":105.26489,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nadou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nadou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662032
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ac4ffa50732de07338cfffeb79f9433e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209279277
+        }
+    ],
+    "wof:id":1209279277,
+    "wof:lastmodified":1537660500,
+    "wof:name":"Ban Nadou",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26489,
+    16.4941,
+    105.26489,
+    16.4941
+],
+  "geometry": {"coordinates":[105.26488999999999,16.4941],"type":"Point"}
+}

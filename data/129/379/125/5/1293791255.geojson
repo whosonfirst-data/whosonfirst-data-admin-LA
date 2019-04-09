@@ -1,0 +1,71 @@
+{
+  "id": 1293791255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.32483,20.45523,104.32483,20.45523",
+    "geom:latitude":20.45523,
+    "geom:longitude":104.32483,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nadua",
+    "gn:country_code":"LA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662054,
+    "gn:latitude":20.45523,
+    "gn:longitude":104.32483,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Nadua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Deua",
+        "Ban Nadua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662054
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d4d2bf269e3b7e5858d5e39b2fb2f2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1293791255,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293791255,
+    "wof:lastmodified":1537660501,
+    "wof:name":"Ban Nadua",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.32483,
+    20.45523,
+    104.32483,
+    20.45523
+],
+  "geometry": {"coordinates":[104.32483000000001,20.45523],"type":"Point"}
+}

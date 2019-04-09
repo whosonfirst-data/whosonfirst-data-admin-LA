@@ -1,0 +1,64 @@
+{
+  "id": 1209287579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.33774,17.48626,105.33774,17.48626",
+    "geom:latitude":17.48626,
+    "geom:longitude":105.33774,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nongkok",
+    "gn:country_code":"LA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234026,
+    "gn:latitude":17.48626,
+    "gn:longitude":105.33774,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nongkok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongkok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234026
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2c89a3a8bc09f5bef625dafd97d54bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209287579
+        }
+    ],
+    "wof:id":1209287579,
+    "wof:lastmodified":1537660944,
+    "wof:name":"Ban Nongkok",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.33774,
+    17.48626,
+    105.33774,
+    17.48626
+],
+  "geometry": {"coordinates":[105.33774,17.48626],"type":"Point"}
+}

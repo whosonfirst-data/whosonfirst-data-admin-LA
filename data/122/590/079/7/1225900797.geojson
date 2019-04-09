@@ -1,0 +1,70 @@
+{
+  "id": 1225900797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66917,20.29611,100.66917,20.29611",
+    "geom:latitude":20.29611,
+    "geom:longitude":100.66917,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Leng",
+    "gn:country_code":"LA",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662488,
+    "gn:latitude":20.29611,
+    "gn:longitude":100.66917,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban L\u00e9ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban L\u00e9ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092031167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662488
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"53229d180e4279bc0ca56af700a73ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031167,
+            "locality_id":1225900797,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1225900797,
+    "wof:lastmodified":1537660525,
+    "wof:name":"Ban Leng",
+    "wof:parent_id":1092031167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66917,
+    20.29611,
+    100.66917,
+    20.29611
+],
+  "geometry": {"coordinates":[100.66916999999999,20.29611],"type":"Point"}
+}

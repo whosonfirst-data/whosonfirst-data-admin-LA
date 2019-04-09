@@ -1,0 +1,70 @@
+{
+  "id": 1293559449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.99065,17.1872,105.99065,17.1872",
+    "geom:latitude":17.1872,
+    "geom:longitude":105.99065,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Naphianglan",
+    "gn:country_code":"LA",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11214126,
+    "gn:latitude":17.1872,
+    "gn:longitude":105.99065,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Naphianglan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naphianglan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11214126
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ac66b39e62fd315f9ae64df50869b55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1293559449,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293559449,
+    "wof:lastmodified":1537660881,
+    "wof:name":"Ban Naphianglan",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.99065,
+    17.1872,
+    105.99065,
+    17.1872
+],
+  "geometry": {"coordinates":[105.99065,17.1872],"type":"Point"}
+}

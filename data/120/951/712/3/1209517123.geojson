@@ -1,0 +1,64 @@
+{
+  "id": 1209517123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.78208,20.03514,103.78208,20.03514",
+    "geom:latitude":20.03514,
+    "geom:longitude":103.78208,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Hatkai",
+    "gn:country_code":"LA",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954260,
+    "gn:latitude":20.03514,
+    "gn:longitude":103.78208,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Hatkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Hatkai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954260
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f320f207debb99c3eabffca89edc0f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209517123
+        }
+    ],
+    "wof:id":1209517123,
+    "wof:lastmodified":1537660761,
+    "wof:name":"Ban Hatkai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.78208,
+    20.03514,
+    103.78208,
+    20.03514
+],
+  "geometry": {"coordinates":[103.78207999999999,20.03514],"type":"Point"}
+}

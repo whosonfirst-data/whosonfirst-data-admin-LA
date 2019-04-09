@@ -1,0 +1,72 @@
+{
+  "id": 1209982693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.98772,22.12019,101.98772,22.12019",
+    "geom:latitude":22.12019,
+    "geom:longitude":101.98772,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Laomeochai",
+    "gn:country_code":"LA",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655853,
+    "gn:latitude":22.12019,
+    "gn:longitude":101.98772,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Laom\u00e9ochai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lao M\u00e9o Cha",
+        "Lao M\u00e9o Chai",
+        "Ban Laom\u00e9ochai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655853
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8c4039b31d2fc1c832740570c9a09a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1209982693,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209982693,
+    "wof:lastmodified":1537660246,
+    "wof:name":"Ban Laomeochai",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.98772,
+    22.12019,
+    101.98772,
+    22.12019
+],
+  "geometry": {"coordinates":[101.98772,22.12019],"type":"Point"}
+}

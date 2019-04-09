@@ -1,0 +1,70 @@
+{
+  "id": 1310178383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.86204,17.89787,104.86204,17.89787",
+    "geom:latitude":17.89787,
+    "geom:longitude":104.86204,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nathon",
+    "gn:country_code":"LA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661070,
+    "gn:latitude":17.89787,
+    "gn:longitude":104.86204,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nath\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nath\u00f4n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661070
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cf08b550c71df4b78c0ea146752d9570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1310178383,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310178383,
+    "wof:lastmodified":1537660447,
+    "wof:name":"Ban Nathon",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.86204,
+    17.89787,
+    104.86204,
+    17.89787
+],
+  "geometry": {"coordinates":[104.86203999999999,17.89787],"type":"Point"}
+}

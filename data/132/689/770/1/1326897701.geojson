@@ -1,0 +1,70 @@
+{
+  "id": 1326897701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.09815,16.08243,107.09815,16.08243",
+    "geom:latitude":16.08243,
+    "geom:longitude":107.09815,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Tahit",
+    "gn:country_code":"LA",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237347,
+    "gn:latitude":16.08243,
+    "gn:longitude":107.09815,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tahit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tahit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237347
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"556a1167047b18700ed6170f74645519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1326897701,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1326897701,
+    "wof:lastmodified":1537660971,
+    "wof:name":"Ban Tahit",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.09815,
+    16.08243,
+    107.09815,
+    16.08243
+],
+  "geometry": {"coordinates":[107.09815,16.08243],"type":"Point"}
+}

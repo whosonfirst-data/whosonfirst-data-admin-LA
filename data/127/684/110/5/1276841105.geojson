@@ -1,0 +1,70 @@
+{
+  "id": 1276841105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79648,19.88718,103.79648,19.88718",
+    "geom:latitude":19.88718,
+    "geom:longitude":103.79648,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phaka",
+    "gn:country_code":"LA",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11225022,
+    "gn:latitude":19.88718,
+    "gn:longitude":103.79648,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phaka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225022
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d79bfdd0c9b441b5cc666691a86bf8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1276841105,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1276841105,
+    "wof:lastmodified":1537660904,
+    "wof:name":"Ban Phaka",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79648,
+    19.88718,
+    103.79648,
+    19.88718
+],
+  "geometry": {"coordinates":[103.79648,19.88718],"type":"Point"}
+}

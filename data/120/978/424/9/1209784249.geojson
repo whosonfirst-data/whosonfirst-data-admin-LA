@@ -1,0 +1,71 @@
+{
+  "id": 1209784249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13833,18.65718,104.13833,18.65718",
+    "geom:latitude":18.65718,
+    "geom:longitude":104.13833,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Xiangsen",
+    "gn:country_code":"LA",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658031,
+    "gn:latitude":18.65718,
+    "gn:longitude":104.13833,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Xiangs\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Xieng Sang",
+        "Ban Xiangs\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092029605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658031
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1ce2154c3c826da08e01c0df665cd517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029605,
+            "locality_id":1209784249,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1209784249,
+    "wof:lastmodified":1537660269,
+    "wof:name":"Ban Xiangsen",
+    "wof:parent_id":1092029605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13833,
+    18.65718,
+    104.13833,
+    18.65718
+],
+  "geometry": {"coordinates":[104.13833,18.65718],"type":"Point"}
+}

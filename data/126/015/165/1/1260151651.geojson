@@ -1,0 +1,70 @@
+{
+  "id": 1260151651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.06758,19.44971,104.06758,19.44971",
+    "geom:latitude":19.44971,
+    "geom:longitude":104.06758,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Dendin",
+    "gn:country_code":"LA",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227446,
+    "gn:latitude":19.44971,
+    "gn:longitude":104.06758,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban D\u00e8ndin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00e8ndin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227446
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"699714fca76393f590521c9bb12f7591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1260151651,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1260151651,
+    "wof:lastmodified":1537660907,
+    "wof:name":"Ban Dendin",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.06758,
+    19.44971,
+    104.06758,
+    19.44971
+],
+  "geometry": {"coordinates":[104.06758000000001,19.44971],"type":"Point"}
+}

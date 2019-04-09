@@ -1,0 +1,76 @@
+{
+  "id": 1293852491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73119,18.22572,104.73119,18.22572",
+    "geom:latitude":18.22572,
+    "geom:longitude":104.73119,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Muang Khamkeut",
+    "gn:country_code":"LA",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1656547,
+    "gn:latitude":18.22572,
+    "gn:longitude":104.73119,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Muang Khamkeut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ph\u00f4nmuang",
+        "Kam Kert",
+        "Kham Kheut",
+        "Kam Keut",
+        "Khamkeut",
+        "Kham-Ko\u2019t",
+        "Muang Khamkeut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1656547
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7093514475149d271f2da0f2157f4af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1293852491,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1293852491,
+    "wof:lastmodified":1537660252,
+    "wof:name":"Muang Khamkeut",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73119,
+    18.22572000000001,
+    104.73119,
+    18.22572000000001
+],
+  "geometry": {"coordinates":[104.73119,18.22572000000001],"type":"Point"}
+}

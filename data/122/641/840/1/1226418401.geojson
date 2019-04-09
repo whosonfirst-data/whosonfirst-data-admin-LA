@@ -1,0 +1,70 @@
+{
+  "id": 1226418401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85632,21.35436,101.85632,21.35436",
+    "geom:latitude":21.35436,
+    "geom:longitude":101.85632,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Soppa",
+    "gn:country_code":"LA",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237470,
+    "gn:latitude":21.35436,
+    "gn:longitude":101.85632,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban S\u00f4ppa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00f4ppa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237470
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6a70deb5e1da488b6e2c1ee5e3ddceff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1226418401,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226418401,
+    "wof:lastmodified":1537660975,
+    "wof:name":"Ban Soppa",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85632,
+    21.35436,
+    101.85632,
+    21.35436
+],
+  "geometry": {"coordinates":[101.85632,21.35436],"type":"Point"}
+}

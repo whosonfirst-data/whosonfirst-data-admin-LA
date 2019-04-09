@@ -1,0 +1,74 @@
+{
+  "id": 1260191521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83606,14.05995,105.83606,14.05995",
+    "geom:latitude":14.05995,
+    "geom:longitude":105.83606,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Donphimanphon",
+    "gn:country_code":"LA",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663976,
+    "gn:latitude":14.05995,
+    "gn:longitude":105.83606,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Donphimanph\u00f4n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Donphimanph\u00f4n"
+    ],
+    "name:und_x_variant":[
+        "Ban Houa Puman",
+        "Ban Houaphouman (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663976
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bbda34d4974b8d6ba629ffb9a495b00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1260191521,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1260191521,
+    "wof:lastmodified":1537660619,
+    "wof:name":"Ban Donphimanphon",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83606,
+    14.05995,
+    105.83606,
+    14.05995
+],
+  "geometry": {"coordinates":[105.83606,14.05995],"type":"Point"}
+}

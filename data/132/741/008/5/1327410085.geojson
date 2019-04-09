@@ -1,0 +1,70 @@
+{
+  "id": 1327410085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38778,19.50213,102.38778,19.50213",
+    "geom:latitude":19.50213,
+    "geom:longitude":102.38778,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Nampho",
+    "gn:country_code":"LA",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952513,
+    "gn:latitude":19.50213,
+    "gn:longitude":102.38778,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Nampho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nampho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952513
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"35a8f1ef3494167ff030da13c52f6c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1327410085,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1327410085,
+    "wof:lastmodified":1537660721,
+    "wof:name":"Ban Nampho",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38778,
+    19.50213,
+    102.38778,
+    19.50213
+],
+  "geometry": {"coordinates":[102.38778000000001,19.50213],"type":"Point"}
+}

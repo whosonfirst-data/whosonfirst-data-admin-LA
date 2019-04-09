@@ -1,0 +1,70 @@
+{
+  "id": 1260054525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.21904,16.68004,106.21904,16.68004",
+    "geom:latitude":16.68004,
+    "geom:longitude":106.21904,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phosida",
+    "gn:country_code":"LA",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659834,
+    "gn:latitude":16.68004,
+    "gn:longitude":106.21904,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phosida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phosida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659834
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"22e236e8d9f5ac9d316b9a3ef7157c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1260054525,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1260054525,
+    "wof:lastmodified":1537660373,
+    "wof:name":"Ban Phosida",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.21904,
+    16.68004,
+    106.21904,
+    16.68004
+],
+  "geometry": {"coordinates":[106.21904000000001,16.68004],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209995941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.26685,17.84442,101.26685,17.84442",
+    "geom:latitude":17.84442,
+    "geom:longitude":101.26685,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Kokhaikham",
+    "gn:country_code":"LA",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941388,
+    "gn:latitude":17.84442,
+    "gn:longitude":101.26685,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban K\u00f4khaikham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban K\u00f4khaikham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941388
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"92514799d59af0dc2bc591e9282d7cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1209995941,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1209995941,
+    "wof:lastmodified":1537660694,
+    "wof:name":"Ban Kokhaikham",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.26685,
+    17.84442,
+    101.26685,
+    17.84442
+],
+  "geometry": {"coordinates":[101.26685000000001,17.84442],"type":"Point"}
+}

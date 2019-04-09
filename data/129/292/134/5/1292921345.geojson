@@ -1,0 +1,75 @@
+{
+  "id": 1292921345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11681,14.59005,107.11681,14.59005",
+    "geom:latitude":14.59005,
+    "geom:longitude":107.11681,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Daklay",
+    "gn:country_code":"LA",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664641,
+    "gn:latitude":14.59005,
+    "gn:longitude":107.11681,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Daklay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Daklay"
+    ],
+    "name:und_x_variant":[
+        "Dak Lay",
+        "Ban Dak-Lay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664641,
+        "wk:page":"Ban_Dak-Lay"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6549918e4609a453fc60a45bb2bc935b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1292921345,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1292921345,
+    "wof:lastmodified":1537660659,
+    "wof:name":"Ban Daklay",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11681000000002,
+    14.59005,
+    107.11681000000002,
+    14.59005
+],
+  "geometry": {"coordinates":[107.11681000000002,14.59005],"type":"Point"}
+}

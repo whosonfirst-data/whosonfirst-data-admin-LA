@@ -1,0 +1,70 @@
+{
+  "id": 1293352999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.7898,16.24541,106.7898,16.24541",
+    "geom:latitude":16.24541,
+    "geom:longitude":106.7898,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tounglaio",
+    "gn:country_code":"LA",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236776,
+    "gn:latitude":16.24541,
+    "gn:longitude":106.7898,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tounglaio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tounglaio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236776
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2395b3fb037825cb07e19f88cd925a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1293352999,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1293352999,
+    "wof:lastmodified":1537660967,
+    "wof:name":"Ban Tounglaio",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.7898,
+    16.24541,
+    106.7898,
+    16.24541
+],
+  "geometry": {"coordinates":[106.7898,16.24541],"type":"Point"}
+}

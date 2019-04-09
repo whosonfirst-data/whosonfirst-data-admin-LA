@@ -1,0 +1,71 @@
+{
+  "id": 1226629731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67142,19.59164,103.67142,19.59164",
+    "geom:latitude":19.59164,
+    "geom:longitude":103.67142,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nagnong",
+    "gn:country_code":"LA",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661993,
+    "gn:latitude":19.59164,
+    "gn:longitude":103.67142,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nagnong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nhong",
+        "Ban Nagnong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661993
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"07cfdc26a17844e739deb99e328e0ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1226629731,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1226629731,
+    "wof:lastmodified":1537660498,
+    "wof:name":"Ban Nagnong",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67142,
+    19.59164,
+    103.67142,
+    19.59164
+],
+  "geometry": {"coordinates":[103.67142,19.59164],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343532775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.20334,20.05312,102.20334,20.05312",
+    "geom:latitude":20.05312,
+    "geom:longitude":102.20334,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Mouangkeo",
+    "gn:country_code":"LA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662223,
+    "gn:latitude":20.05312,
+    "gn:longitude":102.20334,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Mouangk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Muong",
+        "Ban Mouang",
+        "Ban Mouong",
+        "Ban Mouangk\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662223
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"720353fd4ad508015f93c76827ce4360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027381,
+            "locality_id":1343532775,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1343532775,
+    "wof:lastmodified":1537660511,
+    "wof:name":"Ban Mouangkeo",
+    "wof:parent_id":1092027381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.20334,
+    20.05312,
+    102.20334,
+    20.05312
+],
+  "geometry": {"coordinates":[102.20334,20.05312],"type":"Point"}
+}

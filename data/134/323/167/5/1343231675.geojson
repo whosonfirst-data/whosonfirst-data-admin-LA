@@ -1,0 +1,73 @@
+{
+  "id": 1343231675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.89235,20.77606,100.89235,20.77606",
+    "geom:latitude":20.77606,
+    "geom:longitude":100.89235,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Mousua",
+    "gn:country_code":"LA",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662192,
+    "gn:latitude":20.77606,
+    "gn:longitude":100.89235,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Mousua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Mousua"
+    ],
+    "name:und_x_variant":[
+        "Ban Mou Seu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662192
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c9ced49d9708508aaa34ebd6fde43fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1343231675,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1343231675,
+    "wof:lastmodified":1537660509,
+    "wof:name":"Ban Mousua",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.89235,
+    20.77606,
+    100.89235,
+    20.77606
+],
+  "geometry": {"coordinates":[100.89234999999999,20.77606],"type":"Point"}
+}

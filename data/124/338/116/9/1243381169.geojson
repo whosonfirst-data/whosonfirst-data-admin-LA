@@ -1,0 +1,68 @@
+{
+  "id": 1243381169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.17649,14.56728,107.17649,14.56728",
+    "geom:latitude":14.56728,
+    "geom:longitude":107.17649,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Phiapang",
+    "gn:country_code":"LA",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660083,
+    "gn:latitude":14.56728,
+    "gn:longitude":107.17649,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phiapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660083,
+        "wk:page":"Ban_Phiapang"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3ffcd08dd8b2a559aa900c965e84bb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1243381169,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1243381169,
+    "wof:lastmodified":1537567843,
+    "wof:name":"Ban Phiapang",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.17649,
+    14.56728,
+    107.17649,
+    14.56728
+],
+  "geometry": {"coordinates":[107.17649,14.56728],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259852771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5846,17.74495,104.5846,17.74495",
+    "geom:latitude":17.74495,
+    "geom:longitude":104.5846,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Hinkhan",
+    "gn:country_code":"LA",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664076,
+    "gn:latitude":17.74495,
+    "gn:longitude":104.5846,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hinkhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta Hin Khane",
+        "Ban Hinkhane",
+        "Ban Hinkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664076
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"118d3eb1736d352a19e3fe88eebed4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1259852771,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1259852771,
+    "wof:lastmodified":1537660625,
+    "wof:name":"Ban Hinkhan",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5846,
+    17.74495,
+    104.5846,
+    17.74495
+],
+  "geometry": {"coordinates":[104.58459999999999,17.74495],"type":"Point"}
+}

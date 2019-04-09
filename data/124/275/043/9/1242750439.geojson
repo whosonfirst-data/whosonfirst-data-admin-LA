@@ -1,0 +1,70 @@
+{
+  "id": 1242750439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.238,20.34076,101.238,20.34076",
+    "geom:latitude":20.34076,
+    "geom:longitude":101.238,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phoukho",
+    "gn:country_code":"LA",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956392,
+    "gn:latitude":20.34076,
+    "gn:longitude":101.238,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Phoukho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoukho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956392
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0d57c88662212d213d1184c752644ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":1242750439,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1242750439,
+    "wof:lastmodified":1537660820,
+    "wof:name":"Ban Phoukho",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.238,
+    20.34076,
+    101.238,
+    20.34076
+],
+  "geometry": {"coordinates":[101.238,20.34076],"type":"Point"}
+}

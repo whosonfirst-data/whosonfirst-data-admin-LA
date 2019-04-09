@@ -1,0 +1,71 @@
+{
+  "id": 1276952713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75403,16.41903,106.75403,16.41903",
+    "geom:latitude":16.41903,
+    "geom:longitude":106.75403,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Soukoum",
+    "gn:country_code":"LA",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1653184,
+    "gn:latitude":16.41903,
+    "gn:longitude":106.75403,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Soukoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Soukoum"
+    ],
+    "name:und_x_variant":[
+        "Shei Shou Koum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653184
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f5527515492e2bb081c251ba9ade783b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1276952713,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276952713,
+    "wof:lastmodified":1537660204,
+    "wof:name":"Ban Soukoum",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75403,
+    16.41903,
+    106.75403,
+    16.41903
+],
+  "geometry": {"coordinates":[106.75403,16.41903],"type":"Point"}
+}

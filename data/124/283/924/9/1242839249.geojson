@@ -1,0 +1,72 @@
+{
+  "id": 1242839249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.51708,16.91562,106.51708,16.91562",
+    "geom:latitude":16.91562,
+    "geom:longitude":106.51708,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Tapoy",
+    "gn:country_code":"LA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658821,
+    "gn:latitude":16.91562,
+    "gn:longitude":106.51708,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Tapoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Tapo\u00ef",
+        "Ban Tapou",
+        "Ban Tapoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658821
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"36a08912d02d05e0b481a2ad4b82a941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1242839249,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1242839249,
+    "wof:lastmodified":1537660318,
+    "wof:name":"Ban Tapoy",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.51708,
+    16.91562,
+    106.51708,
+    16.91562
+],
+  "geometry": {"coordinates":[106.51708000000001,16.91562],"type":"Point"}
+}

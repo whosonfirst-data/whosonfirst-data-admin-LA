@@ -1,0 +1,70 @@
+{
+  "id": 1276943649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13008,21.42559,102.13008,21.42559",
+    "geom:latitude":21.42559,
+    "geom:longitude":102.13008,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Samphanxai",
+    "gn:country_code":"LA",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952746,
+    "gn:latitude":21.42559,
+    "gn:longitude":102.13008,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Samphanxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Samphanxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952746
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"77175c59a329adb63b76d40150195b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1276943649,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276943649,
+    "wof:lastmodified":1537660724,
+    "wof:name":"Ban Samphanxai",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13008,
+    21.42559,
+    102.13008,
+    21.42559
+],
+  "geometry": {"coordinates":[102.13008000000001,21.42559],"type":"Point"}
+}

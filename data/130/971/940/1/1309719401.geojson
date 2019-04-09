@@ -1,0 +1,67 @@
+{
+  "id": 1309719401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.56667,19.86667,104.56667,19.86667",
+    "geom:latitude":19.86667,
+    "geom:longitude":104.56667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Namong",
+    "gn:country_code":"LA",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661473,
+    "gn:latitude":19.86667,
+    "gn:longitude":104.56667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Namong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661473
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"31a05dd33cf1473e29cce1ebc8c8e63a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1309719401,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1309719401,
+    "wof:lastmodified":1537053302,
+    "wof:name":"Ban Namong",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.56667,
+    19.86667000000001,
+    104.56667,
+    19.86667000000001
+],
+  "geometry": {"coordinates":[104.56667,19.86667000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344021293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18519,21.83225,102.18519,21.83225",
+    "geom:latitude":21.83225,
+    "geom:longitude":102.18519,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Peuhinsang",
+    "gn:country_code":"LA",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954062,
+    "gn:latitude":21.83225,
+    "gn:longitude":102.18519,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Peuhinsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Peuhinsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954062
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"755c8f8756a9ef533587a05048defa5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1344021293,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1344021293,
+    "wof:lastmodified":1537660756,
+    "wof:name":"Ban Peuhinsang",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18519,
+    21.83225,
+    102.18519,
+    21.83225
+],
+  "geometry": {"coordinates":[102.18519000000001,21.83225],"type":"Point"}
+}

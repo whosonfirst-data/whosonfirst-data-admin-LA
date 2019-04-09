@@ -1,0 +1,70 @@
+{
+  "id": 1242642169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.25668,16.80128,105.25668,16.80128",
+    "geom:latitude":16.80128,
+    "geom:longitude":105.25668,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Naphek-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11226041,
+    "gn:latitude":16.80128,
+    "gn:longitude":105.25668,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Naph\u00e8k-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naph\u00e8k-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092031025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11226041
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"81dbc1d895b3dd2494434a3eb75365ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031025,
+            "locality_id":1242642169,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1242642169,
+    "wof:lastmodified":1537660905,
+    "wof:name":"Ban Naphek-Nua",
+    "wof:parent_id":1092031025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.25668,
+    16.80128,
+    105.25668,
+    16.80128
+],
+  "geometry": {"coordinates":[105.25668,16.80128],"type":"Point"}
+}

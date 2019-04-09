@@ -1,0 +1,64 @@
+{
+  "id": 1209370675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.7595,17.98924,102.7595,17.98924",
+    "geom:latitude":17.98924,
+    "geom:longitude":102.7595,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Nano",
+    "gn:country_code":"LA",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233143,
+    "gn:latitude":17.98924,
+    "gn:longitude":102.7595,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nan\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nan\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233143
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5dc1d252616339f1d62f4bfdc5f03d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209370675
+        }
+    ],
+    "wof:id":1209370675,
+    "wof:lastmodified":1537660938,
+    "wof:name":"Ban Nano",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.7595,
+    17.98924,
+    102.7595,
+    17.98924
+],
+  "geometry": {"coordinates":[102.7595,17.98924],"type":"Point"}
+}

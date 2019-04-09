@@ -1,0 +1,70 @@
+{
+  "id": 1293059487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.80691,18.22435,104.80691,18.22435",
+    "geom:latitude":18.22435,
+    "geom:longitude":104.80691,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Khouasoung",
+    "gn:country_code":"LA",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662896,
+    "gn:latitude":18.22435,
+    "gn:longitude":104.80691,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Khouasoung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Khouasoung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662896
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1e4e0d42696b588d45082fb32fa631d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1293059487,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1293059487,
+    "wof:lastmodified":1537660548,
+    "wof:name":"Ban Khouasoung",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.80691,
+    18.22435,
+    104.80691,
+    18.22435
+],
+  "geometry": {"coordinates":[104.80691,18.22435],"type":"Point"}
+}

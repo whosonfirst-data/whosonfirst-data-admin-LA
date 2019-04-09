@@ -1,0 +1,70 @@
+{
+  "id": 1209773909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11998,18.14387,105.11998,18.14387",
+    "geom:latitude":18.14387,
+    "geom:longitude":105.11998,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Gnoyhai",
+    "gn:country_code":"LA",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233047,
+    "gn:latitude":18.14387,
+    "gn:longitude":105.11998,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Gnoyhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Gnoyhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233047
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7784829c779af278fe347a1833701178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1209773909,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1209773909,
+    "wof:lastmodified":1537660935,
+    "wof:name":"Ban Gnoyhai",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11998,
+    18.14387,
+    105.11998,
+    18.14387
+],
+  "geometry": {"coordinates":[105.11998,18.14387],"type":"Point"}
+}

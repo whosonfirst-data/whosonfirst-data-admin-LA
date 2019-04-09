@@ -1,0 +1,70 @@
+{
+  "id": 1310077091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13921,19.70645,102.13921,19.70645",
+    "geom:latitude":19.70645,
+    "geom:longitude":102.13921,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phonsavang Lek Si",
+    "gn:country_code":"LA",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223780,
+    "gn:latitude":19.70645,
+    "gn:longitude":102.13921,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nsavang Lek Si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nsavang Lek Si"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223780
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ce28fb3c6547a04060f9390abb36960f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1310077091,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1310077091,
+    "wof:lastmodified":1537660901,
+    "wof:name":"Ban Phonsavang Lek Si",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13921,
+    19.70645,
+    102.13921,
+    19.70645
+],
+  "geometry": {"coordinates":[102.13921000000001,19.70645],"type":"Point"}
+}

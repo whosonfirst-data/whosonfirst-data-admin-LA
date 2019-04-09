@@ -1,0 +1,70 @@
+{
+  "id": 1309871953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.83424,21.70609,102.83424,21.70609",
+    "geom:latitude":21.70609,
+    "geom:longitude":102.83424,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nakhoua",
+    "gn:country_code":"LA",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247270,
+    "gn:latitude":21.70609,
+    "gn:longitude":102.83424,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Nakhoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakhoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247270
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"befc208fb404f1367e1ef57b034affbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":1309871953,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1309871953,
+    "wof:lastmodified":1537660983,
+    "wof:name":"Ban Nakhoua",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.83424,
+    21.70609,
+    102.83424,
+    21.70609
+],
+  "geometry": {"coordinates":[102.83423999999999,21.70609],"type":"Point"}
+}

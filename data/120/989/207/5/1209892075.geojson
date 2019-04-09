@@ -1,0 +1,70 @@
+{
+  "id": 1209892075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18123,21.94606,102.18123,21.94606",
+    "geom:latitude":21.94606,
+    "geom:longitude":102.18123,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Siaochai",
+    "gn:country_code":"LA",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954037,
+    "gn:latitude":21.94606,
+    "gn:longitude":102.18123,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Siaochai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Siaochai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954037
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fe606d0a061538173321618f958ee610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1209892075,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1209892075,
+    "wof:lastmodified":1537660756,
+    "wof:name":"Ban Siaochai",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18123,
+    21.94606,
+    102.18123,
+    21.94606
+],
+  "geometry": {"coordinates":[102.18123,21.94606],"type":"Point"}
+}

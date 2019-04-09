@@ -1,0 +1,70 @@
+{
+  "id": 1293656413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.77116,15.76698,106.77116,15.76698",
+    "geom:latitude":15.76698,
+    "geom:longitude":106.77116,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Kaloung",
+    "gn:country_code":"LA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199759,
+    "gn:latitude":15.76698,
+    "gn:longitude":106.77116,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Kaloung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kaloung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199759
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fdad058f111eaa66bb1f53ae01897df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1293656413,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1293656413,
+    "wof:lastmodified":1537660848,
+    "wof:name":"Ban Kaloung",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.77116,
+    15.76698,
+    106.77116,
+    15.76698
+],
+  "geometry": {"coordinates":[106.77115999999999,15.76698],"type":"Point"}
+}

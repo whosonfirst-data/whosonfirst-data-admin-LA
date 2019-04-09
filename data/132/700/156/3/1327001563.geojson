@@ -1,0 +1,70 @@
+{
+  "id": 1327001563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.02537,19.95516,102.02537,19.95516",
+    "geom:latitude":19.95516,
+    "geom:longitude":102.02537,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Chok",
+    "gn:country_code":"LA",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957100,
+    "gn:latitude":19.95516,
+    "gn:longitude":102.02537,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Ch\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ch\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957100
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"12965a784d89a924dd0a76a86f99b137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027381,
+            "locality_id":1327001563,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1327001563,
+    "wof:lastmodified":1537660838,
+    "wof:name":"Ban Chok",
+    "wof:parent_id":1092027381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.02537,
+    19.95516,
+    102.02537,
+    19.95516
+],
+  "geometry": {"coordinates":[102.02537,19.95516],"type":"Point"}
+}

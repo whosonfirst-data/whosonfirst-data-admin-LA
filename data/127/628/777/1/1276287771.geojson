@@ -1,0 +1,71 @@
+{
+  "id": 1276287771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.3488,20.73811,100.3488,20.73811",
+    "geom:latitude":20.73811,
+    "geom:longitude":100.3488,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Senphonuang",
+    "gn:country_code":"LA",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659553,
+    "gn:latitude":20.73811,
+    "gn:longitude":100.3488,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban S\u00e8nphonuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Saen Pho Nuang",
+        "Ban S\u00e8nphonuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659553
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c50b4bc4d46026c9983b16383958afa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1276287771,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1276287771,
+    "wof:lastmodified":1537660358,
+    "wof:name":"Ban Senphonuang",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.3488,
+    20.73811,
+    100.3488,
+    20.73811
+],
+  "geometry": {"coordinates":[100.3488,20.73811],"type":"Point"}
+}

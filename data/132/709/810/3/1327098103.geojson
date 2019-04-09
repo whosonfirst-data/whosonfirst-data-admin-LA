@@ -1,0 +1,70 @@
+{
+  "id": 1327098103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.00942,19.47573,102.00942,19.47573",
+    "geom:latitude":19.47573,
+    "geom:longitude":102.00942,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pongdua",
+    "gn:country_code":"LA",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952517,
+    "gn:latitude":19.47573,
+    "gn:longitude":102.00942,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban P\u00f4ngdua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban P\u00f4ngdua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952517
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ca0007336c511fe961b0534edf13b285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1327098103,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1327098103,
+    "wof:lastmodified":1537660721,
+    "wof:name":"Ban Pongdua",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.00942,
+    19.47573,
+    102.00942,
+    19.47573
+],
+  "geometry": {"coordinates":[102.00942000000001,19.47573],"type":"Point"}
+}

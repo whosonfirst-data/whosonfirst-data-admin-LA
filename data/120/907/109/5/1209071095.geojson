@@ -1,0 +1,64 @@
+{
+  "id": 1209071095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35898,16.51973,106.35898,16.51973",
+    "geom:latitude":16.51973,
+    "geom:longitude":106.35898,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Palong",
+    "gn:country_code":"LA",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956502,
+    "gn:latitude":16.51973,
+    "gn:longitude":106.35898,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Palong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Palong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956502
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ff5a4aeda79cd2b1a1d7c58b6aa8f28f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209071095
+        }
+    ],
+    "wof:id":1209071095,
+    "wof:lastmodified":1537660822,
+    "wof:name":"Ban Palong",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35898,
+    16.51973,
+    106.35898,
+    16.51973
+],
+  "geometry": {"coordinates":[106.35898,16.51973],"type":"Point"}
+}

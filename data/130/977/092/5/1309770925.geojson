@@ -1,0 +1,73 @@
+{
+  "id": 1309770925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.97353,16.6048,105.97353,16.6048",
+    "geom:latitude":16.6048,
+    "geom:longitude":105.97353,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Aong",
+    "gn:country_code":"LA",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236005,
+    "gn:latitude":16.6048,
+    "gn:longitude":105.97353,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Aong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Aong"
+    ],
+    "name:lao_x_variant":[
+        "Thin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236005
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b82f8164fcfec15c0a39d4a32d6f8fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029057,
+            "locality_id":1309770925,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1309770925,
+    "wof:lastmodified":1537660958,
+    "wof:name":"Ban Aong",
+    "wof:parent_id":1092029057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.97353,
+    16.6048,
+    105.97353,
+    16.6048
+],
+  "geometry": {"coordinates":[105.97353,16.6048],"type":"Point"}
+}

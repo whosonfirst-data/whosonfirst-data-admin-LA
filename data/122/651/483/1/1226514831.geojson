@@ -1,0 +1,70 @@
+{
+  "id": 1226514831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.61177,20.91835,100.61177,20.91835",
+    "geom:latitude":20.91835,
+    "geom:longitude":100.61177,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Poungxay",
+    "gn:country_code":"LA",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907066,
+    "gn:latitude":20.91835,
+    "gn:longitude":100.61177,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Poungxay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poungxay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907066
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"af2f39163c20f32b2756632db6b40496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1226514831,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1226514831,
+    "wof:lastmodified":1537660693,
+    "wof:name":"Ban Poungxay",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.61177,
+    20.91835,
+    100.61177,
+    20.91835
+],
+  "geometry": {"coordinates":[100.61177000000001,20.91835],"type":"Point"}
+}

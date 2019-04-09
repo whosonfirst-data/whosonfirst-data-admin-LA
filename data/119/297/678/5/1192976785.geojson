@@ -1,0 +1,71 @@
+{
+  "id": 1192976785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71162,18.42908,103.71162,18.42908",
+    "geom:latitude":18.42908,
+    "geom:longitude":103.71162,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Patxoum",
+    "gn:country_code":"LA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660354,
+    "gn:latitude":18.42908,
+    "gn:longitude":103.71162,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Patxoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pat Choum",
+        "Ban Patxoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092028315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660354
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fce1f2be39386b861b70dc00a594bc0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028315,
+            "locality_id":1192976785,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1192976785,
+    "wof:lastmodified":1537660402,
+    "wof:name":"Ban Patxoum",
+    "wof:parent_id":1092028315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71162,
+    18.42908,
+    103.71162,
+    18.42908
+],
+  "geometry": {"coordinates":[103.71162,18.42908],"type":"Point"}
+}

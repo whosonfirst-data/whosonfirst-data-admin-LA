@@ -1,0 +1,71 @@
+{
+  "id": 1243377775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99197,14.57138,106.99197,14.57138",
+    "geom:latitude":14.57138,
+    "geom:longitude":106.99197,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Phiaseuk",
+    "gn:country_code":"LA",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660081,
+    "gn:latitude":14.57138,
+    "gn:longitude":106.99197,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phiaseuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Pi Seuk",
+        "Ban Phiaseuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092029819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660081
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2ede12afc0cd65c7ef778c1713d240cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029819,
+            "locality_id":1243377775,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1243377775,
+    "wof:lastmodified":1537660387,
+    "wof:name":"Ban Phiaseuk",
+    "wof:parent_id":1092029819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99197,
+    14.57138,
+    106.99197,
+    14.57138
+],
+  "geometry": {"coordinates":[106.99196999999999,14.57138],"type":"Point"}
+}

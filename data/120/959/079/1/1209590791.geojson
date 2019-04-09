@@ -1,0 +1,65 @@
+{
+  "id": 1209590791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.90575,15.69427,105.90575,15.69427",
+    "geom:latitude":15.69427,
+    "geom:longitude":105.90575,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Khonsay",
+    "gn:country_code":"LA",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662915,
+    "gn:latitude":15.69427,
+    "gn:longitude":105.90575,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ban Khonsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Khone Say",
+        "Ban Khonsay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662915
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9ef175dcd154cda2d765ee30c0999800",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209590791
+        }
+    ],
+    "wof:id":1209590791,
+    "wof:lastmodified":1537660549,
+    "wof:name":"Ban Khonsay",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.90575,
+    15.69427,
+    105.90575,
+    15.69427
+],
+  "geometry": {"coordinates":[105.90575,15.69427],"type":"Point"}
+}

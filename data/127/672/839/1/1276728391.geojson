@@ -1,0 +1,70 @@
+{
+  "id": 1276728391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38157,21.43608,102.38157,21.43608",
+    "geom:latitude":21.43608,
+    "geom:longitude":102.38157,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Saxai",
+    "gn:country_code":"LA",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952747,
+    "gn:latitude":21.43608,
+    "gn:longitude":102.38157,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Saxai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Saxai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952747
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"596f69fc69135f03692c7d44d4d4c05d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1276728391,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276728391,
+    "wof:lastmodified":1537660724,
+    "wof:name":"Ban Saxai",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38157,
+    21.43608,
+    102.38157,
+    21.43608
+],
+  "geometry": {"coordinates":[102.38157,21.43608],"type":"Point"}
+}

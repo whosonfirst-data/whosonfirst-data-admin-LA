@@ -1,0 +1,70 @@
+{
+  "id": 1225812389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.33369,15.442,107.33369,15.442",
+    "geom:latitude":15.442,
+    "geom:longitude":107.33369,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Nohgvial",
+    "gn:country_code":"LA",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200472,
+    "gn:latitude":15.442,
+    "gn:longitude":107.33369,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Nohgvial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nohgvial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200472
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3fd6a15feba03421d711faa378b39e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1225812389,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1225812389,
+    "wof:lastmodified":1537660860,
+    "wof:name":"Ban Nohgvial",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.33369,
+    15.442,
+    107.33369,
+    15.442
+],
+  "geometry": {"coordinates":[107.33369,15.442],"type":"Point"}
+}

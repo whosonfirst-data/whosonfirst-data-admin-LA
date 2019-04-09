@@ -1,0 +1,71 @@
+{
+  "id": 1293758089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.08117,17.02846,106.08117,17.02846",
+    "geom:latitude":17.02846,
+    "geom:longitude":106.08117,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Malo",
+    "gn:country_code":"LA",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1662333,
+    "gn:latitude":17.02846,
+    "gn:longitude":106.08117,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Mal\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Mal\u00f4t",
+        "Ban Mal\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092029691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662333
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"59001a4249151f21ac730a40bc177849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029691,
+            "locality_id":1293758089,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293758089,
+    "wof:lastmodified":1537660517,
+    "wof:name":"Ban Malo",
+    "wof:parent_id":1092029691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.08117,
+    17.02846,
+    106.08117,
+    17.02846
+],
+  "geometry": {"coordinates":[106.08117,17.02846],"type":"Point"}
+}

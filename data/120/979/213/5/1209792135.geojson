@@ -1,0 +1,71 @@
+{
+  "id": 1209792135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.86235,19.82426,100.86235,19.82426",
+    "geom:latitude":19.82426,
+    "geom:longitude":100.86235,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Kioukhen",
+    "gn:country_code":"LA",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953475,
+    "gn:latitude":19.82426,
+    "gn:longitude":100.86235,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Kioukh\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kioukh\u00e8n",
+        "Ban Kioukh\u00e8n (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953475
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"884b2f454de7c262a1bdd2c1d1e5d2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030503,
+            "locality_id":1209792135,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1209792135,
+    "wof:lastmodified":1537660741,
+    "wof:name":"Ban Kioukhen",
+    "wof:parent_id":1092030503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.86235,
+    19.82426,
+    100.86235,
+    19.82426
+],
+  "geometry": {"coordinates":[100.86235000000001,19.82426],"type":"Point"}
+}

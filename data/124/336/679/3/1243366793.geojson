@@ -1,0 +1,72 @@
+{
+  "id": 1243366793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.05931,15.41079,106.05931,15.41079",
+    "geom:latitude":15.41079,
+    "geom:longitude":106.05931,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khenlay",
+    "gn:country_code":"LA",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663016,
+    "gn:latitude":15.41079,
+    "gn:longitude":106.05931,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Kh\u00e8nlay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Kh\u00e8ne Lai",
+        "Ban Kh\u00e8nla",
+        "Ban Kh\u00e8nlay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663016
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6a669cab5d88dc15e734464e4ca01b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":1243366793,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1243366793,
+    "wof:lastmodified":1537660555,
+    "wof:name":"Ban Khenlay",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.05931,
+    15.41079,
+    106.05931,
+    15.41079
+],
+  "geometry": {"coordinates":[106.05931,15.41079],"type":"Point"}
+}

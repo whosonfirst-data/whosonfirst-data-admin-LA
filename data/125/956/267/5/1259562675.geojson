@@ -1,0 +1,71 @@
+{
+  "id": 1259562675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.10539,19.65548,101.10539,19.65548",
+    "geom:latitude":19.65548,
+    "geom:longitude":101.10539,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Phiangam",
+    "gn:country_code":"LA",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660092,
+    "gn:latitude":19.65548,
+    "gn:longitude":101.10539,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Phiangam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pheng Ngam",
+        "Ban Phiangam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660092
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"18de6a7fe042fec19da1c6672ec81840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1259562675,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1259562675,
+    "wof:lastmodified":1537660388,
+    "wof:name":"Ban Phiangam",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.10539,
+    19.65548,
+    101.10539,
+    19.65548
+],
+  "geometry": {"coordinates":[101.10539,19.65548],"type":"Point"}
+}

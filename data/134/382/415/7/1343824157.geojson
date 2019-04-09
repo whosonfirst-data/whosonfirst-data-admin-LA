@@ -1,0 +1,70 @@
+{
+  "id": 1343824157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.27952,21.8317,102.27952,21.8317",
+    "geom:latitude":21.8317,
+    "geom:longitude":102.27952,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Senkham",
+    "gn:country_code":"LA",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659334,
+    "gn:latitude":21.8317,
+    "gn:longitude":102.27952,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e8nkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659334
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ebffb2226ac837eb9de7b1910438d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1343824157,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1343824157,
+    "wof:lastmodified":1537660346,
+    "wof:name":"Ban Senkham",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.27952,
+    21.8317,
+    102.27952,
+    21.8317
+],
+  "geometry": {"coordinates":[102.27952000000001,21.8317],"type":"Point"}
+}

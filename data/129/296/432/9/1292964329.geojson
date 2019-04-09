@@ -1,0 +1,70 @@
+{
+  "id": 1292964329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.64846,20.48508,102.64846,20.48508",
+    "geom:latitude":20.48508,
+    "geom:longitude":102.64846,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phatoup-Nai",
+    "gn:country_code":"LA",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954459,
+    "gn:latitude":20.48508,
+    "gn:longitude":102.64846,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phatoup-Nai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phatoup-Nai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954459
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bac645927cf1fc5478cd0e3c9507226c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1292964329,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1292964329,
+    "wof:lastmodified":1537660766,
+    "wof:name":"Ban Phatoup-Nai",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.64846,
+    20.48508,
+    102.64846,
+    20.48508
+],
+  "geometry": {"coordinates":[102.64846,20.48508],"type":"Point"}
+}

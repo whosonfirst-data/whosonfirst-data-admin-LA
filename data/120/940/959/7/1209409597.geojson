@@ -1,0 +1,64 @@
+{
+  "id": 1209409597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.73263,19.95363,101.73263,19.95363",
+    "geom:latitude":19.95363,
+    "geom:longitude":101.73263,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Houayyen",
+    "gn:country_code":"LA",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953878,
+    "gn:latitude":19.95363,
+    "gn:longitude":101.73263,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Houayy\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayy\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953878
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6ec6eef6b203f27f3b7a22f7af2f1239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209409597
+        }
+    ],
+    "wof:id":1209409597,
+    "wof:lastmodified":1537660753,
+    "wof:name":"Ban Houayyen",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.73263,
+    19.95363,
+    101.73263,
+    19.95363
+],
+  "geometry": {"coordinates":[101.73263,19.95363],"type":"Point"}
+}

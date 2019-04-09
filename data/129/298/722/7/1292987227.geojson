@@ -1,0 +1,70 @@
+{
+  "id": 1292987227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.91669,19.80107,100.91669,19.80107",
+    "geom:latitude":19.80107,
+    "geom:longitude":100.91669,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Sitong",
+    "gn:country_code":"LA",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953473,
+    "gn:latitude":19.80107,
+    "gn:longitude":100.91669,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Sit\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sit\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953473
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"79db0729a71fbbd7ad8f3a377e11af07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030503,
+            "locality_id":1292987227,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1292987227,
+    "wof:lastmodified":1537660741,
+    "wof:name":"Ban Sitong",
+    "wof:parent_id":1092030503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.91669,
+    19.80107000000001,
+    100.91669,
+    19.80107000000001
+],
+  "geometry": {"coordinates":[100.91669,19.80107000000001],"type":"Point"}
+}

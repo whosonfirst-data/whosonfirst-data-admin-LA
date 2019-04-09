@@ -1,0 +1,73 @@
+{
+  "id": 1293671963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.3786,17.22091,105.3786,17.22091",
+    "geom:latitude":17.22091,
+    "geom:longitude":105.3786,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nampiat-Thong",
+    "gn:country_code":"LA",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661428,
+    "gn:latitude":17.22091,
+    "gn:longitude":105.3786,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nampiat-Th\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nampiat-Th\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Ban Nam Piet Tong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661428
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"11f5afddc61a57e24f57a6359fcf08d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1293671963,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293671963,
+    "wof:lastmodified":1537660467,
+    "wof:name":"Ban Nampiat-Thong",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.3786,
+    17.22091,
+    105.3786,
+    17.22091
+],
+  "geometry": {"coordinates":[105.37860000000001,17.22091],"type":"Point"}
+}

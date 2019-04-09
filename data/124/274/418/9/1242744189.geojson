@@ -1,0 +1,70 @@
+{
+  "id": 1242744189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.0311,21.6866,102.0311,21.6866",
+    "geom:latitude":21.6866,
+    "geom:longitude":102.0311,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khounmoulouang",
+    "gn:country_code":"LA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954094,
+    "gn:latitude":21.6866,
+    "gn:longitude":102.0311,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Khounmoulouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khounmoulouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954094
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f684aebcfab7634aa83b6735fbdc0517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1242744189,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242744189,
+    "wof:lastmodified":1537660757,
+    "wof:name":"Ban Khounmoulouang",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.0311,
+    21.6866,
+    102.0311,
+    21.6866
+],
+  "geometry": {"coordinates":[102.0311,21.6866],"type":"Point"}
+}

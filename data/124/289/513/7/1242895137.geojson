@@ -1,0 +1,71 @@
+{
+  "id": 1242895137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.53411,20.7444,101.53411,20.7444",
+    "geom:latitude":20.7444,
+    "geom:longitude":101.53411,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Sakoua",
+    "gn:country_code":"LA",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659538,
+    "gn:latitude":20.7444,
+    "gn:longitude":101.53411,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Sakoua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Sa Khoua Ngno",
+        "Ban Sakoua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092031207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659538
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2df8e1b7510afe71d058f46eb97b5977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031207,
+            "locality_id":1242895137,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1242895137,
+    "wof:lastmodified":1537660357,
+    "wof:name":"Ban Sakoua",
+    "wof:parent_id":1092031207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.53411,
+    20.7444,
+    101.53411,
+    20.7444
+],
+  "geometry": {"coordinates":[101.53411,20.7444],"type":"Point"}
+}

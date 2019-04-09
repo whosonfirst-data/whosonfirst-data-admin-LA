@@ -1,0 +1,70 @@
+{
+  "id": 1260136277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.79875,18.63514,103.79875,18.63514",
+    "geom:latitude":18.63514,
+    "geom:longitude":103.79875,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Hatkipheung",
+    "gn:country_code":"LA",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664157,
+    "gn:latitude":18.63514,
+    "gn:longitude":103.79875,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hatkipheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Hatkhipheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664157
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bb470d5f1faa87fe2e32583962ed24f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":1260136277,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1260136277,
+    "wof:lastmodified":1537660629,
+    "wof:name":"Ban Hatkipheung",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.79875,
+    18.63514,
+    103.79875,
+    18.63514
+],
+  "geometry": {"coordinates":[103.79875,18.63514],"type":"Point"}
+}

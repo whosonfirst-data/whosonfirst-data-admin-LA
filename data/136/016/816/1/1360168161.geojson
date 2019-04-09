@@ -1,0 +1,70 @@
+{
+  "id": 1360168161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31557,19.19207,103.31557,19.19207",
+    "geom:latitude":19.19207,
+    "geom:longitude":103.31557,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Senlouang",
+    "gn:country_code":"LA",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659300,
+    "gn:latitude":19.19207,
+    "gn:longitude":103.31557,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban S\u00e8nlouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nlouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659300
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"34aaf2bd89be79d7af3e9fd0d884fbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":1360168161,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1360168161,
+    "wof:lastmodified":1537660345,
+    "wof:name":"Ban Senlouang",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31557,
+    19.19207,
+    103.31557,
+    19.19207
+],
+  "geometry": {"coordinates":[103.31556999999999,19.19207],"type":"Point"}
+}

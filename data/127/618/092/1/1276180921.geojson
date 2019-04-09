@@ -1,0 +1,73 @@
+{
+  "id": 1276180921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.21955,20.45664,100.21955,20.45664",
+    "geom:latitude":20.45664,
+    "geom:longitude":100.21955,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Beusong",
+    "gn:country_code":"LA",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904366,
+    "gn:latitude":20.45664,
+    "gn:longitude":100.21955,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Beusong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Beusong"
+    ],
+    "name:und_x_variant":[
+        "Ban Bausong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092026785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904366
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4c7bc90375571424abf596ff485ee43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026785,
+            "locality_id":1276180921,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1276180921,
+    "wof:lastmodified":1537660684,
+    "wof:name":"Ban Beusong",
+    "wof:parent_id":1092026785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.21955,
+    20.45664,
+    100.21955,
+    20.45664
+],
+  "geometry": {"coordinates":[100.21955,20.45664],"type":"Point"}
+}

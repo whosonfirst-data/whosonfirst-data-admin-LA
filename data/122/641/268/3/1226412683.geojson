@@ -1,0 +1,70 @@
+{
+  "id": 1226412683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.63974,17.08497,105.63974,17.08497",
+    "geom:latitude":17.08497,
+    "geom:longitude":105.63974,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phousouangman",
+    "gn:country_code":"LA",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659751,
+    "gn:latitude":17.08497,
+    "gn:longitude":105.63974,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phousouangman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phousouangman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659751
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"08f5690d36668ccce0b9776d2fa75405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1226412683,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226412683,
+    "wof:lastmodified":1537660369,
+    "wof:name":"Ban Phousouangman",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.63974,
+    17.08497,
+    105.63974,
+    17.08497
+],
+  "geometry": {"coordinates":[105.63974,17.08497],"type":"Point"}
+}

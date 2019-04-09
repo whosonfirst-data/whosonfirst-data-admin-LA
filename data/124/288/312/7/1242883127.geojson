@@ -1,0 +1,70 @@
+{
+  "id": 1242883127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79098,15.34742,105.79098,15.34742",
+    "geom:latitude":15.34742,
+    "geom:longitude":105.79098,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongkham",
+    "gn:country_code":"LA",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660793,
+    "gn:latitude":15.34742,
+    "gn:longitude":105.79098,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nongkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092030991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660793
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"feaf0e83f68716886cf19ac819eb586e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030991,
+            "locality_id":1242883127,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242883127,
+    "wof:lastmodified":1537660429,
+    "wof:name":"Ban Nongkham",
+    "wof:parent_id":1092030991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79098,
+    15.34742,
+    105.79098,
+    15.34742
+],
+  "geometry": {"coordinates":[105.79098,15.34742],"type":"Point"}
+}

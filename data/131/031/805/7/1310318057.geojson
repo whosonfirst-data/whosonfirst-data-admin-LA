@@ -1,0 +1,72 @@
+{
+  "id": 1310318057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.62321,14.13321,105.62321,14.13321",
+    "geom:latitude":14.13321,
+    "geom:longitude":105.62321,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Hinlat",
+    "gn:country_code":"LA",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664073,
+    "gn:latitude":14.13321,
+    "gn:longitude":105.62321,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Hinlat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hin Lai",
+        "Ban Hinlat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664073,
+        "wk:page":"Ban_Hinlat"
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"71bbeed9999b981aefe08944e9986a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1310318057,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1310318057,
+    "wof:lastmodified":1537660624,
+    "wof:name":"Ban Hinlat",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.62321,
+    14.13321,
+    105.62321,
+    14.13321
+],
+  "geometry": {"coordinates":[105.62321,14.13321],"type":"Point"}
+}

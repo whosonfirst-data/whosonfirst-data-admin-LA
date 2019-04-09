@@ -1,0 +1,71 @@
+{
+  "id": 1343462811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.38449,15.13398,107.38449,15.13398",
+    "geom:latitude":15.13398,
+    "geom:longitude":107.38449,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Thakplanongfa",
+    "gn:country_code":"LA",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658701,
+    "gn:latitude":15.13398,
+    "gn:longitude":107.38449,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Thakplanongfa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dac Bla",
+        "Ban Thakplanongfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658701
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d1666bb0c7a499a93bcc4b9df9632963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1343462811,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1343462811,
+    "wof:lastmodified":1537660310,
+    "wof:name":"Ban Thakplanongfa",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.38449,
+    15.13398,
+    107.38449,
+    15.13398
+],
+  "geometry": {"coordinates":[107.38449,15.13398],"type":"Point"}
+}

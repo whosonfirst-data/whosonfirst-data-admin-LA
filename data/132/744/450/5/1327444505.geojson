@@ -1,0 +1,75 @@
+{
+  "id": 1327444505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.91885,13.95924,105.91885,13.95924",
+    "geom:latitude":13.95924,
+    "geom:longitude":105.91885,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khon-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662914,
+    "gn:latitude":13.95924,
+    "gn:longitude":105.91885,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khon-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khon-Tai"
+    ],
+    "name:und_x_variant":[
+        "Khone Suo",
+        "Khone Sua",
+        "Kh\u00f4ne Sud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662914
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"57bca79832b24d5b25fe59cbd35fea51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1327444505,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1327444505,
+    "wof:lastmodified":1537660549,
+    "wof:name":"Ban Khon-Tai",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.91885,
+    13.95924,
+    105.91885,
+    13.95924
+],
+  "geometry": {"coordinates":[105.91885000000001,13.95924],"type":"Point"}
+}

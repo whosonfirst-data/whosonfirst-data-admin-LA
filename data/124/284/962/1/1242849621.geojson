@@ -1,0 +1,73 @@
+{
+  "id": 1242849621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.86783,16.3032,106.86783,16.3032",
+    "geom:latitude":16.3032,
+    "geom:longitude":106.86783,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Va-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653606,
+    "gn:latitude":16.3032,
+    "gn:longitude":106.86783,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Va-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Va-Tai"
+    ],
+    "name:und_x_variant":[
+        "R\u2019va (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653606
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"728f94d9ebdd2317764fa8dee8fb6f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1242849621,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242849621,
+    "wof:lastmodified":1537660209,
+    "wof:name":"Ban Va-Tai",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.86783,
+    16.3032,
+    106.86783,
+    16.3032
+],
+  "geometry": {"coordinates":[106.86783,16.3032],"type":"Point"}
+}

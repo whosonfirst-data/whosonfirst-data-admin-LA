@@ -1,0 +1,74 @@
+{
+  "id": 1360197697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.7789,14.64696,105.7789,14.64696",
+    "geom:latitude":14.64696,
+    "geom:longitude":105.7789,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Phonpheung",
+    "gn:country_code":"LA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660616,
+    "gn:latitude":14.64696,
+    "gn:longitude":105.7789,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Ph\u00f4npheung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4npheung"
+    ],
+    "name:und_x_variant":[
+        "Ban None Pheung",
+        "Ban N\u00f4pheung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660616
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"78ce06bdf2020a8297e1e104a02557f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1360197697,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1360197697,
+    "wof:lastmodified":1537660418,
+    "wof:name":"Ban Phonpheung",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.7789,
+    14.64696,
+    105.7789,
+    14.64696
+],
+  "geometry": {"coordinates":[105.77889999999999,14.64696],"type":"Point"}
+}

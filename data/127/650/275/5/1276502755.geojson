@@ -1,0 +1,71 @@
+{
+  "id": 1276502755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41123,18.45229,103.41123,18.45229",
+    "geom:latitude":18.45229,
+    "geom:longitude":103.41123,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Nongkeun",
+    "gn:country_code":"LA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660796,
+    "gn:latitude":18.45229,
+    "gn:longitude":103.41123,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nongkeun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Nong Kheune",
+        "Ban Nongkeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092031501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660796
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"004ff9c2c4188a387c7f91e6e9628684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031501,
+            "locality_id":1276502755,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1276502755,
+    "wof:lastmodified":1537660430,
+    "wof:name":"Ban Nongkeun",
+    "wof:parent_id":1092031501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41123,
+    18.45229,
+    103.41123,
+    18.45229
+],
+  "geometry": {"coordinates":[103.41123,18.45229],"type":"Point"}
+}

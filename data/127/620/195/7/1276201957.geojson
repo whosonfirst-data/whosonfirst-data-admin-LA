@@ -1,0 +1,70 @@
+{
+  "id": 1276201957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.08214,21.08509,102.08214,21.08509",
+    "geom:latitude":21.08509,
+    "geom:longitude":102.08214,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phousathi",
+    "gn:country_code":"LA",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954972,
+    "gn:latitude":21.08509,
+    "gn:longitude":102.08214,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Phousathi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phousathi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954972
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f81bf1b72c1cb82cf589dcdd05490a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1276201957,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1276201957,
+    "wof:lastmodified":1537660784,
+    "wof:name":"Ban Phousathi",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.08214,
+    21.08509,
+    102.08214,
+    21.08509
+],
+  "geometry": {"coordinates":[102.08214,21.08509],"type":"Point"}
+}

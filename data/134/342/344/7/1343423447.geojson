@@ -1,0 +1,73 @@
+{
+  "id": 1343423447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.2339,15.47386,106.2339,15.47386",
+    "geom:latitude":15.47386,
+    "geom:longitude":106.2339,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Mouanteup",
+    "gn:country_code":"LA",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662206,
+    "gn:latitude":15.47386,
+    "gn:longitude":106.2339,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Mouanteup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Mouanteup"
+    ],
+    "name:und_x_variant":[
+        "Ban Mouantup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662206
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a8aa8755a19930ed0ae3996018bc3f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1343423447,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1343423447,
+    "wof:lastmodified":1537660510,
+    "wof:name":"Ban Mouanteup",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.2339,
+    15.47386,
+    106.2339,
+    15.47386
+],
+  "geometry": {"coordinates":[106.23390000000001,15.47386],"type":"Point"}
+}

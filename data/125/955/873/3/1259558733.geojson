@@ -1,0 +1,71 @@
+{
+  "id": 1259558733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9245,15.57998,105.9245,15.57998",
+    "geom:latitude":15.57998,
+    "geom:longitude":105.9245,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Thongsoum",
+    "gn:country_code":"LA",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658466,
+    "gn:latitude":15.57998,
+    "gn:longitude":105.9245,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Th\u00f4ngsoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Thong Soun",
+        "Ban Th\u00f4ngsoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658466
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6e832393a001b51c53f3b650174d2508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029441,
+            "locality_id":1259558733,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1259558733,
+    "wof:lastmodified":1537660297,
+    "wof:name":"Ban Thongsoum",
+    "wof:parent_id":1092029441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9245,
+    15.57998,
+    105.9245,
+    15.57998
+],
+  "geometry": {"coordinates":[105.92449999999999,15.57998],"type":"Point"}
+}

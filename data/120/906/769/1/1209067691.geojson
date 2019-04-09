@@ -1,0 +1,61 @@
+{
+  "id": 1209067691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.71667,18.51667,102.71667,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":102.71667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Lang Houn",
+    "gn:country_code":"LA",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662639,
+    "gn:latitude":18.51667,
+    "gn:longitude":102.71667,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Lang Houn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662639
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"071e75f20e09f0d05ace02231bc8b3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209067691
+        }
+    ],
+    "wof:id":1209067691,
+    "wof:lastmodified":1536298749,
+    "wof:name":"Ban Lang Houn",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.71667,
+    18.51667,
+    102.71667,
+    18.51667
+],
+  "geometry": {"coordinates":[102.71666999999999,18.51667],"type":"Point"}
+}

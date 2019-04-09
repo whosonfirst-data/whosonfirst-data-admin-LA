@@ -1,0 +1,70 @@
+{
+  "id": 1243517621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.84754,22.30233,101.84754,22.30233",
+    "geom:latitude":22.30233,
+    "geom:longitude":101.84754,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Thet",
+    "gn:country_code":"LA",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953748,
+    "gn:latitude":22.30233,
+    "gn:longitude":101.84754,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Th\u00e9t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00e9t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953748
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c2437e5d0619eb1704440dc68b99fb9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1243517621,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1243517621,
+    "wof:lastmodified":1537660750,
+    "wof:name":"Ban Thet",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.84754,
+    22.30233,
+    101.84754,
+    22.30233
+],
+  "geometry": {"coordinates":[101.84754,22.30233],"type":"Point"}
+}

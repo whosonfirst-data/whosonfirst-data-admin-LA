@@ -1,0 +1,70 @@
+{
+  "id": 1276723741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9679,16.55821,104.9679,16.55821",
+    "geom:latitude":16.55821,
+    "geom:longitude":104.9679,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nakoy",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661705,
+    "gn:latitude":16.55821,
+    "gn:longitude":104.9679,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nakoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661705
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d8300c18407b040a62edea7dfcee85e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026527,
+            "locality_id":1276723741,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276723741,
+    "wof:lastmodified":1537660482,
+    "wof:name":"Ban Nakoy",
+    "wof:parent_id":1092026527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9679,
+    16.55821,
+    104.9679,
+    16.55821
+],
+  "geometry": {"coordinates":[104.9679,16.55821],"type":"Point"}
+}

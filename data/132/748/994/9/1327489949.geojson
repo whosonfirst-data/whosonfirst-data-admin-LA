@@ -1,0 +1,70 @@
+{
+  "id": 1327489949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.22683,20.36352,100.22683,20.36352",
+    "geom:latitude":20.36352,
+    "geom:longitude":100.22683,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Houaypoun",
+    "gn:country_code":"LA",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904381,
+    "gn:latitude":20.36352,
+    "gn:longitude":100.22683,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Houaypoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Houaypoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092026785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904381
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aac954ea0c17ea8b2894f19b349bc722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026785,
+            "locality_id":1327489949,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1327489949,
+    "wof:lastmodified":1537660685,
+    "wof:name":"Houaypoun",
+    "wof:parent_id":1092026785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.22683,
+    20.36352,
+    100.22683,
+    20.36352
+],
+  "geometry": {"coordinates":[100.22683000000001,20.36352],"type":"Point"}
+}

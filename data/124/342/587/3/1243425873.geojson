@@ -1,0 +1,70 @@
+{
+  "id": 1243425873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.92663,19.48914,101.92663,19.48914",
+    "geom:latitude":19.48914,
+    "geom:longitude":101.92663,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phagnouak",
+    "gn:country_code":"LA",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954350,
+    "gn:latitude":19.48914,
+    "gn:longitude":101.92663,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Phagnouak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phagnouak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954350
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"40268a8989ace1925cf14c3662a2fe1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027721,
+            "locality_id":1243425873,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1243425873,
+    "wof:lastmodified":1537660763,
+    "wof:name":"Ban Phagnouak",
+    "wof:parent_id":1092027721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.92663,
+    19.48914,
+    101.92663,
+    19.48914
+],
+  "geometry": {"coordinates":[101.92663,19.48914],"type":"Point"}
+}

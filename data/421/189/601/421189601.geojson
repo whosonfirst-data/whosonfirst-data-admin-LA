@@ -1,0 +1,76 @@
+{
+  "id": 421189601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.63889,17.83389,102.63889,17.83389",
+    "geom:latitude":17.83389,
+    "geom:longitude":102.63889,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1664044,
+    "qs:gn_pop":0,
+    "qs:name":"Ban Hom",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Viangchan",
+    "qs:photos":262,
+    "qs:photos_1k":53,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":262,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1114894,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1133569,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092026285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664044,
+        "gp:id":1133569,
+        "qs:id":1114894
+    },
+    "wof:country":"LA",
+    "wof:created":1459009630,
+    "wof:geomhash":"569fbcf54cf498d5b5d54401c9110f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026285,
+            "locality_id":421189601,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":421189601,
+    "wof:lastmodified":1500012932,
+    "wof:name":"Ban Hom",
+    "wof:parent_id":1092026285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.63889,
+    17.83389,
+    102.63889,
+    17.83389
+],
+  "geometry": {"coordinates":[102.63889,17.83389],"type":"Point"}
+}

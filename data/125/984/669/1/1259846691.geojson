@@ -1,0 +1,67 @@
+{
+  "id": 1259846691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.28333,15.48333,107.28333,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":107.28333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakvan",
+    "gn:country_code":"LA",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664625,
+    "gn:latitude":15.48333,
+    "gn:longitude":107.28333,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ban Dakvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664625
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e373940bc5c9e7d67b5b59a1bd41b8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1259846691,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1259846691,
+    "wof:lastmodified":1536831260,
+    "wof:name":"Ban Dakvan",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.28333,
+    15.48333,
+    107.28333,
+    15.48333
+],
+  "geometry": {"coordinates":[107.28333000000001,15.48333],"type":"Point"}
+}

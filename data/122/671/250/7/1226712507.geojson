@@ -1,0 +1,73 @@
+{
+  "id": 1226712507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23508,15.96785,106.23508,15.96785",
+    "geom:latitude":15.96785,
+    "geom:longitude":106.23508,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Napho-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661252,
+    "gn:latitude":15.96785,
+    "gn:longitude":106.23508,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Naph\u00f4-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Naph\u00f4-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Naph\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661252
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6eea5bcc42e3c092f15988c448ba445a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1226712507,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226712507,
+    "wof:lastmodified":1537660457,
+    "wof:name":"Ban Napho-Gnai",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23508,
+    15.96785,
+    106.23508,
+    15.96785
+],
+  "geometry": {"coordinates":[106.23508,15.96785],"type":"Point"}
+}

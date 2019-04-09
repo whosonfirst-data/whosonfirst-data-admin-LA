@@ -1,0 +1,70 @@
+{
+  "id": 1310070349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.4279,16.02213,105.4279,16.02213",
+    "geom:latitude":16.02213,
+    "geom:longitude":105.4279,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nakhagnom",
+    "gn:country_code":"LA",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222256,
+    "gn:latitude":16.02213,
+    "gn:longitude":105.4279,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nakhagnom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakhagnom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222256
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a342c8850a1b94c0a9f84245630bcb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026707,
+            "locality_id":1310070349,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310070349,
+    "wof:lastmodified":1537660895,
+    "wof:name":"Ban Nakhagnom",
+    "wof:parent_id":1092026707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.4279,
+    16.02212999999999,
+    105.4279,
+    16.02212999999999
+],
+  "geometry": {"coordinates":[105.42789999999999,16.02212999999999],"type":"Point"}
+}

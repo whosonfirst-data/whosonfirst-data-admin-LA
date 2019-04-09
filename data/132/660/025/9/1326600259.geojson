@@ -1,0 +1,72 @@
+{
+  "id": 1326600259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.46667,17.28333,105.46667,17.28333",
+    "geom:latitude":17.28333,
+    "geom:longitude":105.46667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Dong Tai",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664442,
+    "gn:latitude":17.28333,
+    "gn:longitude":105.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban D\u00f4ng Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Dong Tay",
+        "Ban D\u00f4ng Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664442
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a7a43aa6fd2973207f53bafaeb058525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1326600259,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1326600259,
+    "wof:lastmodified":1537660647,
+    "wof:name":"Ban Dong Tai",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.46667,
+    17.28333,
+    105.46667,
+    17.28333
+],
+  "geometry": {"coordinates":[105.46666999999999,17.28333],"type":"Point"}
+}

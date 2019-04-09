@@ -1,0 +1,70 @@
+{
+  "id": 1277134725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.57492,18.05937,102.57492,18.05937",
+    "geom:latitude":18.05937,
+    "geom:longitude":102.57492,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Phonkeo",
+    "gn:country_code":"LA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955900,
+    "gn:latitude":18.05937,
+    "gn:longitude":102.57492,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Ph\u00f4nk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nk\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092027795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955900
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5d3c3b4175e39c7b630163f914346a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027795,
+            "locality_id":1277134725,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1277134725,
+    "wof:lastmodified":1537660806,
+    "wof:name":"Ban Phonkeo",
+    "wof:parent_id":1092027795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.57492,
+    18.05937,
+    102.57492,
+    18.05937
+],
+  "geometry": {"coordinates":[102.57492000000001,18.05937],"type":"Point"}
+}

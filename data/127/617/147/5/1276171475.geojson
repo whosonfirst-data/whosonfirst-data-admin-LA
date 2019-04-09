@@ -1,0 +1,72 @@
+{
+  "id": 1276171475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55264,18.3361,102.55264,18.3361",
+    "geom:latitude":18.3361,
+    "geom:longitude":102.55264,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Boungphao",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664822,
+    "gn:latitude":18.3361,
+    "gn:longitude":102.55264,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Boungphao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Bounphao",
+        "Ban Boung Pao",
+        "Ban Boungphao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664822
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c8f26f614d61b62aa65941e6de133c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1276171475,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1276171475,
+    "wof:lastmodified":1537660669,
+    "wof:name":"Ban Boungphao",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55264,
+    18.3361,
+    102.55264,
+    18.3361
+],
+  "geometry": {"coordinates":[102.55264,18.3361],"type":"Point"}
+}

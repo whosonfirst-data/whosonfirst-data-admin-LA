@@ -1,0 +1,72 @@
+{
+  "id": 1327100701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17397,21.52536,102.17397,21.52536",
+    "geom:latitude":21.52536,
+    "geom:longitude":102.17397,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Chakhamlu",
+    "gn:country_code":"LA",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657842,
+    "gn:latitude":21.52536,
+    "gn:longitude":102.17397,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chakhamlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cha Kam Lu\u2019",
+        "Cha Kham Lu",
+        "Ban Chakhamlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657842
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"739f5eb6467d836df540eda5156c56f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1327100701,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1327100701,
+    "wof:lastmodified":1537660262,
+    "wof:name":"Ban Chakhamlu",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17397,
+    21.52536,
+    102.17397,
+    21.52536
+],
+  "geometry": {"coordinates":[102.17397,21.52536],"type":"Point"}
+}

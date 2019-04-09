@@ -1,0 +1,70 @@
+{
+  "id": 1292905459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.3388,20.84783,104.3388,20.84783",
+    "geom:latitude":20.84783,
+    "geom:longitude":104.3388,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Pasom",
+    "gn:country_code":"LA",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956061,
+    "gn:latitude":20.84783,
+    "gn:longitude":104.3388,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Pas\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pas\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956061
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"113fa0d5792304f6c30ffbf3354b26e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1292905459,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1292905459,
+    "wof:lastmodified":1537660811,
+    "wof:name":"Ban Pasom",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.3388,
+    20.84783,
+    104.3388,
+    20.84783
+],
+  "geometry": {"coordinates":[104.33880000000001,20.84783],"type":"Point"}
+}

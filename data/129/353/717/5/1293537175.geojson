@@ -1,0 +1,67 @@
+{
+  "id": 1293537175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51278,18.54028,102.51278,18.54028",
+    "geom:latitude":18.54028,
+    "geom:longitude":102.51278,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Hat Xay Ngam",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1944297,
+    "gn:latitude":18.54028,
+    "gn:longitude":102.51278,
+    "gn:modification_date":"1999-12-06",
+    "gn:name":"Ban Hat Xay Ngam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1944297
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1e06b6c23771c5cb28967282ac6ac0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":1293537175,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293537175,
+    "wof:lastmodified":1536715853,
+    "wof:name":"Ban Hat Xay Ngam",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51278,
+    18.54028,
+    102.51278,
+    18.54028
+],
+  "geometry": {"coordinates":[102.51278000000001,18.54028],"type":"Point"}
+}

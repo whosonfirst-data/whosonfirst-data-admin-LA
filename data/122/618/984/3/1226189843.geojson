@@ -1,0 +1,70 @@
+{
+  "id": 1226189843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.54314,18.39603,102.54314,18.39603",
+    "geom:latitude":18.39603,
+    "geom:longitude":102.54314,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Donkouat",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231987,
+    "gn:latitude":18.39603,
+    "gn:longitude":102.54314,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Donkouat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Donkouat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231987
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"45a86fd783e660ad1ee346f06284a202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029489,
+            "locality_id":1226189843,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1226189843,
+    "wof:lastmodified":1537660924,
+    "wof:name":"Ban Donkouat",
+    "wof:parent_id":1092029489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.54314,
+    18.39603,
+    102.54314,
+    18.39603
+],
+  "geometry": {"coordinates":[102.54313999999999,18.39603],"type":"Point"}
+}

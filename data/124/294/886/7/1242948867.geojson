@@ -1,0 +1,74 @@
+{
+  "id": 1242948867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.12976,21.43798,102.12976,21.43798",
+    "geom:latitude":21.43798,
+    "geom:longitude":102.12976,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Hoykhung",
+    "gn:country_code":"LA",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1657192,
+    "gn:latitude":21.43798,
+    "gn:longitude":102.12976,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Hoykhung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Hoykhung"
+    ],
+    "name:und_x_variant":[
+        "Ban Hoyhung",
+        "H\u00f4i Khung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657192
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0cb3939d400006546ba95fd1ae17a537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1242948867,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1242948867,
+    "wof:lastmodified":1537660257,
+    "wof:name":"Ban Hoykhung",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.12976,
+    21.43798,
+    102.12976,
+    21.43798
+],
+  "geometry": {"coordinates":[102.12976,21.43798],"type":"Point"}
+}

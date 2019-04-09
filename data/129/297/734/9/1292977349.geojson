@@ -1,0 +1,67 @@
+{
+  "id": 1292977349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.11127,17.85496,101.11127,17.85496",
+    "geom:latitude":17.85496,
+    "geom:longitude":101.11127,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khonken",
+    "gn:country_code":"LA",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941400,
+    "gn:latitude":17.85496,
+    "gn:longitude":101.11127,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ban Khonk\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941400
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"988c10f8411bf700e1acd05062808b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026237,
+            "locality_id":1292977349,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1292977349,
+    "wof:lastmodified":1537024407,
+    "wof:name":"Ban Khonken",
+    "wof:parent_id":1092026237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.11127,
+    17.85496000000001,
+    101.11127,
+    17.85496000000001
+],
+  "geometry": {"coordinates":[101.11127,17.85496000000001],"type":"Point"}
+}

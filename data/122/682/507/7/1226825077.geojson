@@ -1,0 +1,71 @@
+{
+  "id": 1226825077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.78233,22.43785,101.78233,22.43785",
+    "geom:latitude":22.43785,
+    "geom:longitude":101.78233,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Longtang",
+    "gn:country_code":"LA",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655607,
+    "gn:latitude":22.43785,
+    "gn:longitude":101.78233,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Longtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Long Tang",
+        "Ban Longtang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655607
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"04910cd19c96dee2819be7b1e61235a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026193,
+            "locality_id":1226825077,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226825077,
+    "wof:lastmodified":1537660244,
+    "wof:name":"Ban Longtang",
+    "wof:parent_id":1092026193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.78233,
+    22.43785,
+    101.78233,
+    22.43785
+],
+  "geometry": {"coordinates":[101.78233,22.43785],"type":"Point"}
+}

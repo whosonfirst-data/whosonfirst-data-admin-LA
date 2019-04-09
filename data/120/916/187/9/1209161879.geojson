@@ -1,0 +1,64 @@
+{
+  "id": 1209161879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.81271,18.84487,103.81271,18.84487",
+    "geom:latitude":18.84487,
+    "geom:longitude":103.81271,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ban Thasi",
+    "gn:country_code":"LA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658585,
+    "gn:latitude":18.84487,
+    "gn:longitude":103.81271,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ban Thasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658585
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"839e08fcd39e94e61f98535010bc9992",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209161879
+        }
+    ],
+    "wof:id":1209161879,
+    "wof:lastmodified":1537660305,
+    "wof:name":"Ban Thasi",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.81271,
+    18.84487,
+    103.81271,
+    18.84487
+],
+  "geometry": {"coordinates":[103.81271,18.84487],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276187269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88527,16.19095,106.88527,16.19095",
+    "geom:latitude":16.19095,
+    "geom:longitude":106.88527,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tala-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236815,
+    "gn:latitude":16.19095,
+    "gn:longitude":106.88527,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Tala-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tala-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236815
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b848603e8c552c0194239cf6cf5776b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1276187269,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1276187269,
+    "wof:lastmodified":1537660969,
+    "wof:name":"Ban Tala-Tai",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88527,
+    16.19095,
+    106.88527,
+    16.19095
+],
+  "geometry": {"coordinates":[106.88527000000001,16.19095],"type":"Point"}
+}

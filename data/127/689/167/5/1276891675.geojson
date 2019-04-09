@@ -1,0 +1,70 @@
+{
+  "id": 1276891675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.07291,14.85707,107.07291,14.85707",
+    "geom:latitude":14.85707,
+    "geom:longitude":107.07291,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Tatkoum",
+    "gn:country_code":"LA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201975,
+    "gn:latitude":14.85707,
+    "gn:longitude":107.07291,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Tatkoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tatkoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673469,
+        1092026661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201975
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5151e8c482683963dabbfaae717ec300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026661,
+            "locality_id":1276891675,
+            "region_id":85673469
+        }
+    ],
+    "wof:id":1276891675,
+    "wof:lastmodified":1537660869,
+    "wof:name":"Ban Tatkoum",
+    "wof:parent_id":1092026661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.07291,
+    14.85707,
+    107.07291,
+    14.85707
+],
+  "geometry": {"coordinates":[107.07290999999999,14.85707],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309679229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.55852,15.40941,106.55852,15.40941",
+    "geom:latitude":15.40941,
+    "geom:longitude":106.55852,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Thon-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658461,
+    "gn:latitude":15.40941,
+    "gn:longitude":106.55852,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Th\u00f4n-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4n-Noy"
+    ],
+    "name:und_x_variant":[
+        "Ban Th\u00f4n Noy (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092031539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658461
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7cb0b18d8b350a50c6c06072bbe56b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031539,
+            "locality_id":1309679229,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1309679229,
+    "wof:lastmodified":1537660297,
+    "wof:name":"Ban Thon-Noy",
+    "wof:parent_id":1092031539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.55852,
+    15.40941,
+    106.55852,
+    15.40941
+],
+  "geometry": {"coordinates":[106.55852,15.40941],"type":"Point"}
+}

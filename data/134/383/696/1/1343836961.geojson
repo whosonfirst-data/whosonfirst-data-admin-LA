@@ -1,0 +1,71 @@
+{
+  "id": 1343836961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.23161,19.88688,103.23161,19.88688",
+    "geom:latitude":19.88688,
+    "geom:longitude":103.23161,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Sopkhao",
+    "gn:country_code":"LA",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653056,
+    "gn:latitude":19.88688,
+    "gn:longitude":103.23161,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Sopkhao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f4pkhao",
+        "Ban Sopkhao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653056
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d074b262e4c1799c2d016665d4459ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1343836961,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343836961,
+    "wof:lastmodified":1537660202,
+    "wof:name":"Ban Sopkhao",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.23161,
+    19.88688,
+    103.23161,
+    19.88688
+],
+  "geometry": {"coordinates":[103.23161,19.88688],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259356159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0632,17.65505,105.0632,17.65505",
+    "geom:latitude":17.65505,
+    "geom:longitude":105.0632,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Vangyiam",
+    "gn:country_code":"LA",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658207,
+    "gn:latitude":17.65505,
+    "gn:longitude":105.0632,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangyiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangyiam"
+    ],
+    "name:und_x_variant":[
+        "Ban Van Yeng",
+        "Ban Van Veng",
+        "Ban Vang Yiam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658207
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b143afc764ebd694b5ec5ab60cd555f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1259356159,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1259356159,
+    "wof:lastmodified":1537660282,
+    "wof:name":"Ban Vangyiam",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0632,
+    17.65505,
+    105.0632,
+    17.65505
+],
+  "geometry": {"coordinates":[105.06319999999999,17.65505],"type":"Point"}
+}

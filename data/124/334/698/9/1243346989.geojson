@@ -1,0 +1,70 @@
+{
+  "id": 1243346989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.00116,19.82071,103.00116,19.82071",
+    "geom:latitude":19.82071,
+    "geom:longitude":103.00116,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Densavan",
+    "gn:country_code":"LA",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952389,
+    "gn:latitude":19.82071,
+    "gn:longitude":103.00116,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban D\u00e8nsavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00e8nsavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092029955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952389
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5a8b6826c9b18830962f79a9e6bacaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029955,
+            "locality_id":1243346989,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1243346989,
+    "wof:lastmodified":1537660716,
+    "wof:name":"Ban Densavan",
+    "wof:parent_id":1092029955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.00116,
+    19.82071,
+    103.00116,
+    19.82071
+],
+  "geometry": {"coordinates":[103.00116,19.82071],"type":"Point"}
+}

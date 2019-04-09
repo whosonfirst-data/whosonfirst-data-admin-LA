@@ -1,0 +1,71 @@
+{
+  "id": 1327012777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.38028,17.08957,105.38028,17.08957",
+    "geom:latitude":17.08957,
+    "geom:longitude":105.38028,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Dongvaydin",
+    "gn:country_code":"LA",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664432,
+    "gn:latitude":17.08957,
+    "gn:longitude":105.38028,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban D\u00f4ngvaydin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Dong Naodine",
+        "Ban D\u00f4ngvaydin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664432
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e8c51a255f668f63767a7ba3482f5ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1327012777,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327012777,
+    "wof:lastmodified":1537660646,
+    "wof:name":"Ban Dongvaydin",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.38028,
+    17.08957,
+    105.38028,
+    17.08957
+],
+  "geometry": {"coordinates":[105.38028,17.08957],"type":"Point"}
+}

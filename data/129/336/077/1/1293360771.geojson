@@ -1,0 +1,71 @@
+{
+  "id": 1293360771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5421,17.85034,105.5421,17.85034",
+    "geom:latitude":17.85034,
+    "geom:longitude":105.5421,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Buk",
+    "gn:country_code":"LA",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664807,
+    "gn:latitude":17.85034,
+    "gn:longitude":105.5421,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Buk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Beuc",
+        "Ban Buk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664807
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e868e87e01db009c3b26616c18cdc6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1293360771,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293360771,
+    "wof:lastmodified":1537660668,
+    "wof:name":"Ban Buk",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5421,
+    17.85034,
+    105.5421,
+    17.85034
+],
+  "geometry": {"coordinates":[105.5421,17.85034],"type":"Point"}
+}

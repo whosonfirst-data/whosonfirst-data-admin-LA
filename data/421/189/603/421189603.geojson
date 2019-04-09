@@ -1,0 +1,79 @@
+{
+  "id": 421189603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.9839,19.79306,101.9839,19.79306",
+    "geom:latitude":19.79306,
+    "geom:longitude":101.9839,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mung Khay"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1662171,
+    "qs:gn_pop":0,
+    "qs:name":"Ban Muang Khay",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Louangphabang",
+    "qs:photos":896,
+    "qs:photos_1k":182,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":896,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1114895,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1135339,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662171,
+        "gp:id":1135339,
+        "qs:id":1114895
+    },
+    "wof:country":"LA",
+    "wof:created":1459009630,
+    "wof:geomhash":"9b6cd5bfb599fb5116df57bbc76f35e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":421189603,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":421189603,
+    "wof:lastmodified":1501221413,
+    "wof:name":"Ban Muang Khay",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.9839,
+    19.79306,
+    101.9839,
+    19.79306
+],
+  "geometry": {"coordinates":[101.98390000000001,19.79306],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276628205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.10673,17.08077,105.10673,17.08077",
+    "geom:latitude":17.08077,
+    "geom:longitude":105.10673,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nathan",
+    "gn:country_code":"LA",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661100,
+    "gn:latitude":17.08077,
+    "gn:longitude":105.10673,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nathan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nathan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661100
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"48fbe1480b5a520490b4da80286f5590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1276628205,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1276628205,
+    "wof:lastmodified":1537660449,
+    "wof:name":"Ban Nathan",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.10673,
+    17.08077,
+    105.10673,
+    17.08077
+],
+  "geometry": {"coordinates":[105.10673,17.08077],"type":"Point"}
+}

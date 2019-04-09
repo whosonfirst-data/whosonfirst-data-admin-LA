@@ -1,0 +1,72 @@
+{
+  "id": 1309780383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9491,17.0028,104.9491,17.0028",
+    "geom:latitude":17.0028,
+    "geom:longitude":104.9491,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nadeng",
+    "gn:country_code":"LA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660629,
+    "gn:latitude":17.0028,
+    "gn:longitude":104.9491,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nad\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Deng",
+        "Ban N\u00f4nnad\u00e8ng (1)",
+        "Ban Nad\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092027059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660629
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c94447ffe9b6f5c673f1d3bbc976287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027059,
+            "locality_id":1309780383,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1309780383,
+    "wof:lastmodified":1537660419,
+    "wof:name":"Ban Nadeng",
+    "wof:parent_id":1092027059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9491,
+    17.0028,
+    104.9491,
+    17.0028
+],
+  "geometry": {"coordinates":[104.9491,17.0028],"type":"Point"}
+}

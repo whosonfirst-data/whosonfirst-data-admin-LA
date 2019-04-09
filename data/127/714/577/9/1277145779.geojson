@@ -1,0 +1,70 @@
+{
+  "id": 1277145779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.70614,20.27524,100.70614,20.27524",
+    "geom:latitude":20.27524,
+    "geom:longitude":100.70614,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Hatsaphoun",
+    "gn:country_code":"LA",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664120,
+    "gn:latitude":20.27524,
+    "gn:longitude":100.70614,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Hatsaphoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Hatsaphoun (1)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092028549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664120
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f360e8df2e8f5a6dbeaf9a1820928f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028549,
+            "locality_id":1277145779,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1277145779,
+    "wof:lastmodified":1537660627,
+    "wof:name":"Ban Hatsaphoun",
+    "wof:parent_id":1092028549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.70614,
+    20.27524,
+    100.70614,
+    20.27524
+],
+  "geometry": {"coordinates":[100.70614,20.27524],"type":"Point"}
+}

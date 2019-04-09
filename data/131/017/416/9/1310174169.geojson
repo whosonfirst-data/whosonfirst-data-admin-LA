@@ -1,0 +1,70 @@
+{
+  "id": 1310174169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.52588,20.81267,100.52588,20.81267",
+    "geom:latitude":20.81267,
+    "geom:longitude":100.52588,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Xiangdao",
+    "gn:country_code":"LA",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907075,
+    "gn:latitude":20.81267,
+    "gn:longitude":100.52588,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Xiangdao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Xiangdao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907075
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2dca45010d2f930c29daee9711276748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030707,
+            "locality_id":1310174169,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1310174169,
+    "wof:lastmodified":1537660693,
+    "wof:name":"Ban Xiangdao",
+    "wof:parent_id":1092030707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.52588,
+    20.81267,
+    100.52588,
+    20.81267
+],
+  "geometry": {"coordinates":[100.52588,20.81267],"type":"Point"}
+}

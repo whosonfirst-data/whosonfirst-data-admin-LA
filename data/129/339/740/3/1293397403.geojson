@@ -1,0 +1,71 @@
+{
+  "id": 1293397403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.37761,20.14969,104.37761,20.14969",
+    "geom:latitude":20.14969,
+    "geom:longitude":104.37761,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Xiangvan",
+    "gn:country_code":"LA",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1652059,
+    "gn:latitude":20.14969,
+    "gn:longitude":104.37761,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Xiangvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xieng Ba",
+        "Ban Xiangvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652059
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0bbe95ee618a8e187021503aa4adaab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026829,
+            "locality_id":1293397403,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293397403,
+    "wof:lastmodified":1537660192,
+    "wof:name":"Ban Xiangvan",
+    "wof:parent_id":1092026829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.37761,
+    20.14969,
+    104.37761,
+    20.14969
+],
+  "geometry": {"coordinates":[104.37761,20.14969],"type":"Point"}
+}

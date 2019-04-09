@@ -1,0 +1,67 @@
+{
+  "id": 1293263623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.26667,17.8,101.26667,17.8",
+    "geom:latitude":17.8,
+    "geom:longitude":101.26667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Pak Nam Pene",
+    "gn:country_code":"LA",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660489,
+    "gn:latitude":17.8,
+    "gn:longitude":101.26667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ban Pak Nam P\u00e9ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660489
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8400837ce1f721ad8f79daa87885bece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030663,
+            "locality_id":1293263623,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1293263623,
+    "wof:lastmodified":1536610212,
+    "wof:name":"Ban Pak Nam Pene",
+    "wof:parent_id":1092030663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.26667,
+    17.8,
+    101.26667,
+    17.8
+],
+  "geometry": {"coordinates":[101.26667,17.8],"type":"Point"}
+}

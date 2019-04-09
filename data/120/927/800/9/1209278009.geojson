@@ -1,0 +1,64 @@
+{
+  "id": 1209278009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45442,19.57019,102.45442,19.57019",
+    "geom:latitude":19.57019,
+    "geom:longitude":102.45442,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pha-Ai-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952471,
+    "gn:latitude":19.57019,
+    "gn:longitude":102.45442,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Pha-Ai-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pha-Ai-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952471
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8710597021d5a47fbe6ba35f51619c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209278009
+        }
+    ],
+    "wof:id":1209278009,
+    "wof:lastmodified":1537660719,
+    "wof:name":"Ban Pha-Ai-Tai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45442,
+    19.57019,
+    102.45442,
+    19.57019
+],
+  "geometry": {"coordinates":[102.45442,19.57019],"type":"Point"}
+}

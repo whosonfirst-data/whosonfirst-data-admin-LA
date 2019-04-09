@@ -1,0 +1,70 @@
+{
+  "id": 1226614015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66615,18.06646,102.66615,18.06646",
+    "geom:latitude":18.06646,
+    "geom:longitude":102.66615,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Dontiou",
+    "gn:country_code":"LA",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955910,
+    "gn:latitude":18.06646,
+    "gn:longitude":102.66615,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Dontiou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dontiou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092030043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955910
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"983d01cd388c1982cd1bbf04f638eeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030043,
+            "locality_id":1226614015,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1226614015,
+    "wof:lastmodified":1537660806,
+    "wof:name":"Ban Dontiou",
+    "wof:parent_id":1092030043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66615,
+    18.06646,
+    102.66615,
+    18.06646
+],
+  "geometry": {"coordinates":[102.66615,18.06646],"type":"Point"}
+}

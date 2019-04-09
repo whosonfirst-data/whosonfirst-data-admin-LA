@@ -1,0 +1,74 @@
+{
+  "id": 1343765109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.88403,14.32818,105.88403,14.32818",
+    "geom:latitude":14.32818,
+    "geom:longitude":105.88403,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Channoy",
+    "gn:country_code":"LA",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664738,
+    "gn:latitude":14.32818,
+    "gn:longitude":105.88403,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Channoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Channoy"
+    ],
+    "name:und_x_variant":[
+        "Ban Tian Noi",
+        "Ban Chane No\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664738
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ee3e401ff9eb123e598224870c1c6652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1343765109,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1343765109,
+    "wof:lastmodified":1537660665,
+    "wof:name":"Ban Channoy",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.88403,
+    14.32818,
+    105.88403,
+    14.32818
+],
+  "geometry": {"coordinates":[105.88403,14.32818],"type":"Point"}
+}

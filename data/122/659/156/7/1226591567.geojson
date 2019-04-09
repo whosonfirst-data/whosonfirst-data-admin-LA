@@ -1,0 +1,74 @@
+{
+  "id": 1226591567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43682,19.14299,102.43682,19.14299",
+    "geom:latitude":19.14299,
+    "geom:longitude":102.43682,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Soumphai",
+    "gn:country_code":"LA",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659031,
+    "gn:latitude":19.14299,
+    "gn:longitude":102.43682,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Soumphai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Soumphai"
+    ],
+    "name:und_x_variant":[
+        "Soum Phai",
+        "Ban Soumphai (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659031
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c9d7f46a2229e6c1f8a5b22a68bf513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":1226591567,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1226591567,
+    "wof:lastmodified":1537660330,
+    "wof:name":"Ban Soumphai",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43682,
+    19.14299,
+    102.43682,
+    19.14299
+],
+  "geometry": {"coordinates":[102.43682,19.14299],"type":"Point"}
+}

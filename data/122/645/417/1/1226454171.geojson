@@ -1,0 +1,70 @@
+{
+  "id": 1226454171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.67527,20.32319,104.67527,20.32319",
+    "geom:latitude":20.32319,
+    "geom:longitude":104.67527,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Naham",
+    "gn:country_code":"LA",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655025,
+    "gn:latitude":20.32319,
+    "gn:longitude":104.67527,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Ban Naham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Ham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655025
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8bd0ad3212b313af2ac9426d7c809821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":1226454171,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226454171,
+    "wof:lastmodified":1537660224,
+    "wof:name":"Ban Naham",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.67527,
+    20.32319,
+    104.67527,
+    20.32319
+],
+  "geometry": {"coordinates":[104.67527,20.32319],"type":"Point"}
+}

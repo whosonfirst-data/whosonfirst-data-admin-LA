@@ -1,0 +1,72 @@
+{
+  "id": 1226518243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81402,21.82214,101.81402,21.82214",
+    "geom:latitude":21.82214,
+    "geom:longitude":101.81402,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Khapousa-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663032,
+    "gn:latitude":21.82214,
+    "gn:longitude":101.81402,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Khapousa-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Kha Pou",
+        "Ban Kha Pou Sa Noi",
+        "Ban Khapousa-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663032
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"37d15ba77787e0f0209ecf439258b3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1226518243,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226518243,
+    "wof:lastmodified":1537660556,
+    "wof:name":"Ban Khapousa-Noy",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81402,
+    21.82214,
+    101.81402,
+    21.82214
+],
+  "geometry": {"coordinates":[101.81402,21.82214],"type":"Point"}
+}

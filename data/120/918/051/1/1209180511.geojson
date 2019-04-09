@@ -1,0 +1,64 @@
+{
+  "id": 1209180511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.37174,20.97924,102.37174,20.97924",
+    "geom:latitude":20.97924,
+    "geom:longitude":102.37174,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Latvan",
+    "gn:country_code":"LA",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954609,
+    "gn:latitude":20.97924,
+    "gn:longitude":102.37174,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Latvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Latvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954609
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ac2764991b7e8679b5f22ecdc3691a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209180511
+        }
+    ],
+    "wof:id":1209180511,
+    "wof:lastmodified":1537660770,
+    "wof:name":"Ban Latvan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.37174,
+    20.97924,
+    102.37174,
+    20.97924
+],
+  "geometry": {"coordinates":[102.37174,20.97924],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226305399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.23915,15.99168,106.23915,15.99168",
+    "geom:latitude":15.99168,
+    "geom:longitude":106.23915,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Takdat",
+    "gn:country_code":"LA",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197834,
+    "gn:latitude":15.99168,
+    "gn:longitude":106.23915,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Takdat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Takdat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197834
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f322fd5c50d457ae8c18e11e46d21cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029279,
+            "locality_id":1226305399,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1226305399,
+    "wof:lastmodified":1537660846,
+    "wof:name":"Ban Takdat",
+    "wof:parent_id":1092029279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.23915,
+    15.99168,
+    106.23915,
+    15.99168
+],
+  "geometry": {"coordinates":[106.23915,15.99168],"type":"Point"}
+}

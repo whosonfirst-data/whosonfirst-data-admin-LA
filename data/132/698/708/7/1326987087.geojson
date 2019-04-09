@@ -1,0 +1,70 @@
+{
+  "id": 1326987087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.99391,15.98539,106.99391,15.98539",
+    "geom:latitude":15.98539,
+    "geom:longitude":106.99391,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Talouy-Kong",
+    "gn:country_code":"LA",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199762,
+    "gn:latitude":15.98539,
+    "gn:longitude":106.99391,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Talouy-Kong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Talouy-Kong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199762
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4c19bf8094833bbc1b1c2edcd781b737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1326987087,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1326987087,
+    "wof:lastmodified":1537660848,
+    "wof:name":"Ban Talouy-Kong",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.99391,
+    15.98539,
+    106.99391,
+    15.98539
+],
+  "geometry": {"coordinates":[106.99391,15.98539],"type":"Point"}
+}

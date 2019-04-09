@@ -1,0 +1,73 @@
+{
+  "id": 1293643425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.50435,18.55118,102.50435,18.55118",
+    "geom:latitude":18.55118,
+    "geom:longitude":102.50435,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Nampot",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660460,
+    "gn:latitude":18.55118,
+    "gn:longitude":102.50435,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Namp\u00f4t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namp\u00f4t"
+    ],
+    "name:und_x_variant":[
+        "Ban Pak Pot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660460
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8b201a6d5d7060df70406d7d01d08af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":1293643425,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1293643425,
+    "wof:lastmodified":1537660409,
+    "wof:name":"Ban Nampot",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.50435,
+    18.55118,
+    102.50435,
+    18.55118
+],
+  "geometry": {"coordinates":[102.50435,18.55118],"type":"Point"}
+}

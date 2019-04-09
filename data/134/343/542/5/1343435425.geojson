@@ -1,0 +1,68 @@
+{
+  "id": 1343435425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.4353,16.47994,106.4353,16.47994",
+    "geom:latitude":16.47994,
+    "geom:longitude":106.4353,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Palouay",
+    "gn:country_code":"LA",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956541,
+    "gn:latitude":16.47994,
+    "gn:longitude":106.4353,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Palouay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Palouay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956541
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a85d34394c40bbace203d3b87a62a740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1343435425,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343435425,
+    "wof:lastmodified":1537660824,
+    "wof:name":"Ban Palouay",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.4353,
+    16.47994,
+    106.4353,
+    16.47994
+],
+  "geometry": {"coordinates":[106.4353,16.47994],"type":"Point"}
+}

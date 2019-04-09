@@ -1,0 +1,73 @@
+{
+  "id": 1226199305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.21375,15.60562,107.21375,15.60562",
+    "geom:latitude":15.60562,
+    "geom:longitude":107.21375,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Dakchabong",
+    "gn:country_code":"LA",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657642,
+    "gn:latitude":15.60562,
+    "gn:longitude":107.21375,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Dakchab\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Dakchab\u00f4ng"
+    ],
+    "name:und_x_variant":[
+        "Dak Kabong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657642
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"31d3166a4758085b98970f05f9af6be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1226199305,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1226199305,
+    "wof:lastmodified":1537660260,
+    "wof:name":"Ban Dakchabong",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.21375,
+    15.60562,
+    107.21375,
+    15.60562
+],
+  "geometry": {"coordinates":[107.21375,15.60562],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209589327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.1,19.23333,103.1,19.23333",
+    "geom:latitude":19.23333,
+    "geom:longitude":103.1,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Keokoang",
+    "gn:cc2":"LA",
+    "gn:country_code":"LA",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663180,
+    "gn:latitude":19.23333,
+    "gn:longitude":103.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban K\u00e8okoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kheo Khoang",
+        "Ban K\u00e8okoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663180
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7d885408fb5f65ec0d7bbeafb5128fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209589327
+        }
+    ],
+    "wof:id":1209589327,
+    "wof:lastmodified":1537660564,
+    "wof:name":"Ban Keokoang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.1,
+    19.23333,
+    103.1,
+    19.23333
+],
+  "geometry": {"coordinates":[103.09999999999999,19.23333],"type":"Point"}
+}

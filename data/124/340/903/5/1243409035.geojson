@@ -1,0 +1,73 @@
+{
+  "id": 1243409035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.05769,15.76879,107.05769,15.76879",
+    "geom:latitude":15.76879,
+    "geom:longitude":107.05769,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Talanglang",
+    "gn:country_code":"LA",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658331,
+    "gn:latitude":15.76879,
+    "gn:longitude":107.05769,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Talanglang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Talanglang"
+    ],
+    "name:und_x_variant":[
+        "Ban Tranglang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658331
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b5b1701b7999edc5f215dd002eb0f48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026315,
+            "locality_id":1243409035,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1243409035,
+    "wof:lastmodified":1537660289,
+    "wof:name":"Ban Talanglang",
+    "wof:parent_id":1092026315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.05769,
+    15.76879,
+    107.05769,
+    15.76879
+],
+  "geometry": {"coordinates":[107.05768999999999,15.76879],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242781141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.94881,14.03593,105.94881,14.03593",
+    "geom:latitude":14.03593,
+    "geom:longitude":105.94881,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Setphonkadao",
+    "gn:country_code":"LA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659237,
+    "gn:latitude":14.03593,
+    "gn:longitude":105.94881,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban S\u00e9tph\u00f4nkadao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00e9tph\u00f4nkadao"
+    ],
+    "name:und_x_variant":[
+        "Ban Set Phone",
+        "Ban Set Phone Kad\u00e9o",
+        "Ban S\u00e9t-Ph\u00f4nkadao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659237
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a340b39bc9ded0babfaa60bf4f5e05f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1242781141,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242781141,
+    "wof:lastmodified":1537660342,
+    "wof:name":"Ban Setphonkadao",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.94881,
+    14.03593,
+    105.94881,
+    14.03593
+],
+  "geometry": {"coordinates":[105.94880999999999,14.03593],"type":"Point"}
+}

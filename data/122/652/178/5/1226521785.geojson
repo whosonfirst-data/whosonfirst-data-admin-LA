@@ -1,0 +1,72 @@
+{
+  "id": 1226521785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.53799,19.60504,100.53799,19.60504",
+    "geom:latitude":19.60504,
+    "geom:longitude":100.53799,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Sop-Louang",
+    "gn:country_code":"LA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659055,
+    "gn:latitude":19.60504,
+    "gn:longitude":100.53799,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban S\u00f4p-Louang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban S\u00f4ptouang",
+        "Ban Sop Toin",
+        "Ban S\u00f4p-Louang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659055
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"04df8d0d93fea96c875152b19961a504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026391,
+            "locality_id":1226521785,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226521785,
+    "wof:lastmodified":1537660331,
+    "wof:name":"Ban Sop-Louang",
+    "wof:parent_id":1092026391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.53799,
+    19.60504,
+    100.53799,
+    19.60504
+],
+  "geometry": {"coordinates":[100.53798999999999,19.60504],"type":"Point"}
+}

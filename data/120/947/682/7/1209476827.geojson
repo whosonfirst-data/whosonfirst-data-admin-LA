@@ -1,0 +1,64 @@
+{
+  "id": 1209476827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.26981,16.15557,105.26981,16.15557",
+    "geom:latitude":16.15557,
+    "geom:longitude":105.26981,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Khummouan",
+    "gn:country_code":"LA",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222206,
+    "gn:latitude":16.15557,
+    "gn:longitude":105.26981,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Khummouan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khummouan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222206
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"20a6be323fccc5714d04471f3616a283",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209476827
+        }
+    ],
+    "wof:id":1209476827,
+    "wof:lastmodified":1537660894,
+    "wof:name":"Ban Khummouan",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.26981,
+    16.15557,
+    105.26981,
+    16.15557
+],
+  "geometry": {"coordinates":[105.26981000000001,16.15557],"type":"Point"}
+}

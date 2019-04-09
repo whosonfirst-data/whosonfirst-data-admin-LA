@@ -1,0 +1,71 @@
+{
+  "id": 1292964371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.56033,20.60172,102.56033,20.60172",
+    "geom:latitude":20.60172,
+    "geom:longitude":102.56033,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Lakhon",
+    "gn:country_code":"LA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661759,
+    "gn:latitude":20.60172,
+    "gn:longitude":102.56033,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Lakhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Khon",
+        "Ban Lakhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661759
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"57489a55ca768a1e6b362685c5acddd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1292964371,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1292964371,
+    "wof:lastmodified":1537660485,
+    "wof:name":"Ban Lakhon",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.56033,
+    20.60172,
+    102.56033,
+    20.60172
+],
+  "geometry": {"coordinates":[102.56032999999999,20.60172],"type":"Point"}
+}

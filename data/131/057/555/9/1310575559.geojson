@@ -1,0 +1,71 @@
+{
+  "id": 1310575559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.32625,16.6552,105.32625,16.6552",
+    "geom:latitude":16.6552,
+    "geom:longitude":105.32625,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phonsavang",
+    "gn:country_code":"LA",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659889,
+    "gn:latitude":16.6552,
+    "gn:longitude":105.32625,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ph\u00f4nsavang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ch\u00e9lamong Neua",
+        "Ban Ph\u00f4nsavang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092031025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659889
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5ef6921e9bc3a97e5b401dffc9dc57c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031025,
+            "locality_id":1310575559,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310575559,
+    "wof:lastmodified":1537660376,
+    "wof:name":"Ban Phonsavang",
+    "wof:parent_id":1092031025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.32625,
+    16.6552,
+    105.32625,
+    16.6552
+],
+  "geometry": {"coordinates":[105.32625,16.6552],"type":"Point"}
+}

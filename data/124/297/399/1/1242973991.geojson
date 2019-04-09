@@ -1,0 +1,70 @@
+{
+  "id": 1242973991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.68503,14.59083,105.68503,14.59083",
+    "geom:latitude":14.59083,
+    "geom:longitude":105.68503,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nasamliam",
+    "gn:country_code":"LA",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202145,
+    "gn:latitude":14.59083,
+    "gn:longitude":105.68503,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Nasamliam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nasamliam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092029015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202145
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b40e8559bf75b7d7b862d29ee5eba67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029015,
+            "locality_id":1242973991,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242973991,
+    "wof:lastmodified":1537660870,
+    "wof:name":"Ban Nasamliam",
+    "wof:parent_id":1092029015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.68503,
+    14.59083,
+    105.68503,
+    14.59083
+],
+  "geometry": {"coordinates":[105.68503,14.59083],"type":"Point"}
+}

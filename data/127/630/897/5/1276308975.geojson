@@ -1,0 +1,70 @@
+{
+  "id": 1276308975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.52988,20.7929,102.52988,20.7929",
+    "geom:latitude":20.7929,
+    "geom:longitude":102.52988,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Khan-Theung",
+    "gn:country_code":"LA",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954494,
+    "gn:latitude":20.7929,
+    "gn:longitude":102.52988,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Khan-Theung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khan-Theung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954494
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f6984cca7ffea5e93aecf7745a096b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1276308975,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276308975,
+    "wof:lastmodified":1537660767,
+    "wof:name":"Ban Khan-Theung",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.52988,
+    20.7929,
+    102.52988,
+    20.7929
+],
+  "geometry": {"coordinates":[102.52988000000001,20.7929],"type":"Point"}
+}

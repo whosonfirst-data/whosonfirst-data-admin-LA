@@ -1,0 +1,70 @@
+{
+  "id": 1226755167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.25843,20.75781,104.25843,20.75781",
+    "geom:latitude":20.75781,
+    "geom:longitude":104.25843,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nakham",
+    "gn:country_code":"LA",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661816,
+    "gn:latitude":20.75781,
+    "gn:longitude":104.25843,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Nakham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nakham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661816
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"09b9eb3b96d80e68d061759fd24a19a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026965,
+            "locality_id":1226755167,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226755167,
+    "wof:lastmodified":1537660489,
+    "wof:name":"Ban Nakham",
+    "wof:parent_id":1092026965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.25843,
+    20.75781,
+    104.25843,
+    20.75781
+],
+  "geometry": {"coordinates":[104.25843,20.75781],"type":"Point"}
+}

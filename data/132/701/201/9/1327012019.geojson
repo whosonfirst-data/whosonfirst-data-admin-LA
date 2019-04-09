@@ -1,0 +1,70 @@
+{
+  "id": 1327012019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.19371,21.36275,101.19371,21.36275",
+    "geom:latitude":21.36275,
+    "geom:longitude":101.19371,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Youan-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237394,
+    "gn:latitude":21.36275,
+    "gn:longitude":101.19371,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Youan-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Youan-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092030925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237394
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"418b91ac5a6117057168ce64baf80c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030925,
+            "locality_id":1327012019,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1327012019,
+    "wof:lastmodified":1537660972,
+    "wof:name":"Ban Youan-Tai",
+    "wof:parent_id":1092030925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.19371,
+    21.36275,
+    101.19371,
+    21.36275
+],
+  "geometry": {"coordinates":[101.19371,21.36275],"type":"Point"}
+}

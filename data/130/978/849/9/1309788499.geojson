@@ -1,0 +1,74 @@
+{
+  "id": 1309788499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.28962,17.28736,105.28962,17.28736",
+    "geom:latitude":17.28736,
+    "geom:longitude":105.28962,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Panam-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660398,
+    "gn:latitude":17.28736,
+    "gn:longitude":105.28962,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Panam-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Panam-Mai"
+    ],
+    "name:und_x_variant":[
+        "Ban Pa Nane",
+        "Ban Panam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660398
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3c9fb808bbcd479aef6e4f9d4d820129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":1309788499,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1309788499,
+    "wof:lastmodified":1537660405,
+    "wof:name":"Ban Panam-Mai",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.28962,
+    17.28736,
+    105.28962,
+    17.28736
+],
+  "geometry": {"coordinates":[105.28962,17.28736],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326941805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84314,20.34444,103.84314,20.34444",
+    "geom:latitude":20.34444,
+    "geom:longitude":103.84314,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Nonhon",
+    "gn:country_code":"LA",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660638,
+    "gn:latitude":20.34444,
+    "gn:longitude":103.84314,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban N\u00f4nhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban N\u00f4nhon",
+        "Ban Non Holle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660638
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c9ec1ff2e17259297c3286b8b7d617a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1326941805,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1326941805,
+    "wof:lastmodified":1537660420,
+    "wof:name":"Ban Nonhon",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84314,
+    20.34444,
+    103.84314,
+    20.34444
+],
+  "geometry": {"coordinates":[103.84314000000001,20.34444],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360032861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.55865,18.29091,102.55865,18.29091",
+    "geom:latitude":18.29091,
+    "geom:longitude":102.55865,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Cheng",
+    "gn:country_code":"LA",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664724,
+    "gn:latitude":18.29091,
+    "gn:longitude":102.55865,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Ch\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ch\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664724
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2131f938125bd0912005c41af6e02a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029245,
+            "locality_id":1360032861,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1360032861,
+    "wof:lastmodified":1537660664,
+    "wof:name":"Ban Cheng",
+    "wof:parent_id":1092029245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.55865,
+    18.29091,
+    102.55865,
+    18.29091
+],
+  "geometry": {"coordinates":[102.55865,18.29091],"type":"Point"}
+}

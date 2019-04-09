@@ -1,0 +1,82 @@
+{
+  "id": 421173149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.17891,19.75532,102.17891,19.75532",
+    "geom:latitude":19.75532,
+    "geom:longitude":102.17891,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:lao_x_preferred":[
+        "Ban Xiang-Ngeun"
+    ],
+    "name:unk_x_variant":[
+        "Xieng Ngeun"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1655073,
+    "qs:gn_pop":0,
+    "qs:name":"Xiang Ngeun",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Louangphabang",
+    "qs:photos":278,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":278,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":492691,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1140609,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655073,
+        "gp:id":1140609,
+        "qs:id":492691
+    },
+    "wof:country":"LA",
+    "wof:created":1459008972,
+    "wof:geomhash":"84e87a45f7d39a4555da2a3a193f15a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":421173149,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":421173149,
+    "wof:lastmodified":1501221325,
+    "wof:name":"Xiang Ngeun",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.17891,
+    19.75532,
+    102.17891,
+    19.75532
+],
+  "geometry": {"coordinates":[102.17891,19.75532],"type":"Point"}
+}

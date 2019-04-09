@@ -1,0 +1,71 @@
+{
+  "id": 1326612367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96835,20.57423,100.96835,20.57423",
+    "geom:latitude":20.57423,
+    "geom:longitude":100.96835,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Phoulan",
+    "gn:country_code":"LA",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653708,
+    "gn:latitude":20.57423,
+    "gn:longitude":100.96835,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Phoulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pou Lan",
+        "Ban Phoulan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653708
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7694891769f968953b602a5ab0ea227e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1326612367,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1326612367,
+    "wof:lastmodified":1537660211,
+    "wof:name":"Ban Phoulan",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96835,
+    20.57423,
+    100.96835,
+    20.57423
+],
+  "geometry": {"coordinates":[100.96835,20.57423],"type":"Point"}
+}

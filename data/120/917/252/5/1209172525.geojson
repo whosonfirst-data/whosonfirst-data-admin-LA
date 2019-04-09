@@ -1,0 +1,64 @@
+{
+  "id": 1209172525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.43001,20.34447,100.43001,20.34447",
+    "geom:latitude":20.34447,
+    "geom:longitude":100.43001,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Houahouaytat-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1904416,
+    "gn:latitude":20.34447,
+    "gn:longitude":100.43001,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Houahouaytat-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houahouaytat-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1904416
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ba6af362c2cb0a04f23d9a31ad685cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209172525
+        }
+    ],
+    "wof:id":1209172525,
+    "wof:lastmodified":1537660686,
+    "wof:name":"Ban Houahouaytat-Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.43001,
+    20.34447,
+    100.43001,
+    20.34447
+],
+  "geometry": {"coordinates":[100.43001,20.34447],"type":"Point"}
+}

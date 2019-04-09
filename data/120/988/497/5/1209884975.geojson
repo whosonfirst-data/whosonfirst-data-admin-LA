@@ -1,0 +1,71 @@
+{
+  "id": 1209884975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71904,20.14705,100.71904,20.14705",
+    "geom:latitude":20.14705,
+    "geom:longitude":100.71904,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Pakhat",
+    "gn:country_code":"LA",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660523,
+    "gn:latitude":20.14705,
+    "gn:longitude":100.71904,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Pakhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Mak Mad",
+        "Ban Pakhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092028549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660523
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"dbae7450706364d6ce47ce52265703ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028549,
+            "locality_id":1209884975,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1209884975,
+    "wof:lastmodified":1537660413,
+    "wof:name":"Ban Pakhat",
+    "wof:parent_id":1092028549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71904,
+    20.14705,
+    100.71904,
+    20.14705
+],
+  "geometry": {"coordinates":[100.71904000000001,20.14705],"type":"Point"}
+}

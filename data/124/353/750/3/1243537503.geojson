@@ -1,0 +1,71 @@
+{
+  "id": 1243537503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05696,17.84906,105.05696,17.84906",
+    "geom:latitude":17.84906,
+    "geom:longitude":105.05696,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Signo",
+    "gn:country_code":"LA",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659226,
+    "gn:latitude":17.84906,
+    "gn:longitude":105.05696,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Signo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Si Nho",
+        "Ban Signo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659226
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4b899f4c067baca462297fbe9401c2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1243537503,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1243537503,
+    "wof:lastmodified":1537660341,
+    "wof:name":"Ban Signo",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05696,
+    17.84906,
+    105.05696,
+    17.84906
+],
+  "geometry": {"coordinates":[105.05696,17.84906],"type":"Point"}
+}

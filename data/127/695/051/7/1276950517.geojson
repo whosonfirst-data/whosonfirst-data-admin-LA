@@ -1,0 +1,70 @@
+{
+  "id": 1276950517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.73704,21.05037,100.73704,21.05037",
+    "geom:latitude":21.05037,
+    "geom:longitude":100.73704,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Chabouakham",
+    "gn:country_code":"LA",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237425,
+    "gn:latitude":21.05037,
+    "gn:longitude":100.73704,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Chabouakham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chabouakham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092026435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237425
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8e48db975095811d28cbacd067d0e042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026435,
+            "locality_id":1276950517,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1276950517,
+    "wof:lastmodified":1537660973,
+    "wof:name":"Ban Chabouakham",
+    "wof:parent_id":1092026435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.73704,
+    21.05037,
+    100.73704,
+    21.05037
+],
+  "geometry": {"coordinates":[100.73703999999999,21.05037],"type":"Point"}
+}

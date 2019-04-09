@@ -1,0 +1,73 @@
+{
+  "id": 1242659765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.01149,20.36168,101.01149,20.36168",
+    "geom:latitude":20.36168,
+    "geom:longitude":101.01149,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ban Namsathou",
+    "gn:country_code":"LA",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1654861,
+    "gn:latitude":20.36168,
+    "gn:longitude":101.01149,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ban Namsathou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Namsathou"
+    ],
+    "name:und_x_variant":[
+        "Nam Sa Thou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673413,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654861
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"86795f526e8130059047fd7d74e21714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":1242659765,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":1242659765,
+    "wof:lastmodified":1537660222,
+    "wof:name":"Ban Namsathou",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.01149,
+    20.36168,
+    101.01149,
+    20.36168
+],
+  "geometry": {"coordinates":[101.01148999999999,20.36168],"type":"Point"}
+}

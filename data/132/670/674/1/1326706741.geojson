@@ -1,0 +1,70 @@
+{
+  "id": 1326706741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.84421,18.78022,101.84421,18.78022",
+    "geom:latitude":18.78022,
+    "geom:longitude":101.84421,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Khokthak",
+    "gn:country_code":"LA",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11221742,
+    "gn:latitude":18.78022,
+    "gn:longitude":101.84421,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kh\u00f4kthak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4kthak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221742
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0ffe2a412cb8a582f5f94d4d7edfc201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027449,
+            "locality_id":1326706741,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1326706741,
+    "wof:lastmodified":1537660890,
+    "wof:name":"Ban Khokthak",
+    "wof:parent_id":1092027449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.84421,
+    18.78022,
+    101.84421,
+    18.78022
+],
+  "geometry": {"coordinates":[101.84421,18.78022],"type":"Point"}
+}

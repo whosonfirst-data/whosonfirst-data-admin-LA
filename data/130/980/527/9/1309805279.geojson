@@ -1,0 +1,67 @@
+{
+  "id": 1309805279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94472,20.00306,103.94472,20.00306",
+    "geom:latitude":20.00306,
+    "geom:longitude":103.94472,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Maignan",
+    "gn:country_code":"LA",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954275,
+    "gn:latitude":20.00306,
+    "gn:longitude":103.94472,
+    "gn:modification_date":"2001-05-31",
+    "gn:name":"Ban Maignan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954275
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3dec16f9c2f45662034d78ed44a82cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1309805279,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1309805279,
+    "wof:lastmodified":1536932532,
+    "wof:name":"Ban Maignan",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94472,
+    20.00306,
+    103.94472,
+    20.00306
+],
+  "geometry": {"coordinates":[103.94472,20.00306],"type":"Point"}
+}

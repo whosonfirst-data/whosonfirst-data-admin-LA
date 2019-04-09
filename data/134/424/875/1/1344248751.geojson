@@ -1,0 +1,70 @@
+{
+  "id": 1344248751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.87665,20.3615,101.87665,20.3615",
+    "geom:latitude":20.3615,
+    "geom:longitude":101.87665,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Namka-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953862,
+    "gn:latitude":20.3615,
+    "gn:longitude":101.87665,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namka-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namka-Nua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953862
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6477b0063eebdeed2bcb233ce0a9ad43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1344248751,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1344248751,
+    "wof:lastmodified":1537660753,
+    "wof:name":"Ban Namka-Nua",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.87665,
+    20.3615,
+    101.87665,
+    20.3615
+],
+  "geometry": {"coordinates":[101.87665,20.3615],"type":"Point"}
+}

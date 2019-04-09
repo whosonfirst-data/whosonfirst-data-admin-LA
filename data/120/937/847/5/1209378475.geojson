@@ -1,0 +1,67 @@
+{
+  "id": 1209378475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.36748,19.70629,102.36748,19.70629",
+    "geom:latitude":19.70629,
+    "geom:longitude":102.36748,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Samouy-Nua",
+    "gn:country_code":"LA",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662551,
+    "gn:latitude":19.70629,
+    "gn:longitude":102.36748,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Samouy-Nua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Samouy-Nua"
+    ],
+    "name:und_x_variant":[
+        "Ban La Sa Mouy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662551
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c72eab6ca193a8fc7265b8488ec36c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209378475
+        }
+    ],
+    "wof:id":1209378475,
+    "wof:lastmodified":1537660528,
+    "wof:name":"Ban Samouy-Nua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.36748,
+    19.70629,
+    102.36748,
+    19.70629
+],
+  "geometry": {"coordinates":[102.36748,19.70629],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226011055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61667,21.01667,102.61667,21.01667",
+    "geom:latitude":21.01667,
+    "geom:longitude":102.61667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ham Kok",
+    "gn:country_code":"LA",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657379,
+    "gn:latitude":21.01667,
+    "gn:longitude":102.61667,
+    "gn:modification_date":"1994-01-25",
+    "gn:name":"Ham Kok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657379
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0966ee91dcd2a8ddb1bb34dc63b7fcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1226011055,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1226011055,
+    "wof:lastmodified":1536775902,
+    "wof:name":"Ham Kok",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61667,
+    21.01667,
+    102.61667,
+    21.01667
+],
+  "geometry": {"coordinates":[102.61667,21.01667],"type":"Point"}
+}

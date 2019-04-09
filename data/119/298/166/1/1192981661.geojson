@@ -1,0 +1,73 @@
+{
+  "id": 1192981661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.53406,20.90267,102.53406,20.90267",
+    "geom:latitude":20.90267,
+    "geom:longitude":102.53406,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Nambout",
+    "gn:country_code":"LA",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657092,
+    "gn:latitude":20.90267,
+    "gn:longitude":102.53406,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Nambout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nambout"
+    ],
+    "name:und_x_variant":[
+        "Houay But Tay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657092
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5271722cc477a5c196090a11034c329a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1192981661,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1192981661,
+    "wof:lastmodified":1537660256,
+    "wof:name":"Ban Nambout",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.53406,
+    20.90267,
+    102.53406,
+    20.90267
+],
+  "geometry": {"coordinates":[102.53406,20.90267],"type":"Point"}
+}

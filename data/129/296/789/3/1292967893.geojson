@@ -1,0 +1,70 @@
+{
+  "id": 1292967893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.32601,15.54505,107.32601,15.54505",
+    "geom:latitude":15.54505,
+    "geom:longitude":107.32601,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ban Poay-O-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200471,
+    "gn:latitude":15.54505,
+    "gn:longitude":107.32601,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ban Poay-O-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poay-O-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200471
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"400c06c82440c4743427103b23fa88a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1292967893,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1292967893,
+    "wof:lastmodified":1537660859,
+    "wof:name":"Ban Poay-O-Tai",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.32601,
+    15.54505,
+    107.32601,
+    15.54505
+],
+  "geometry": {"coordinates":[107.32601,15.54505],"type":"Point"}
+}

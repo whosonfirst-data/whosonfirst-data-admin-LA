@@ -1,0 +1,71 @@
+{
+  "id": 1226151775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.84133,14.45945,105.84133,14.45945",
+    "geom:latitude":14.45945,
+    "geom:longitude":105.84133,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thasang",
+    "gn:country_code":"LA",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658587,
+    "gn:latitude":14.45945,
+    "gn:longitude":105.84133,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Thasang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Tha Nong",
+        "Ban Thasang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658587
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"083606c8eed95fcbb7481d0687df3d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1226151775,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1226151775,
+    "wof:lastmodified":1537660305,
+    "wof:name":"Ban Thasang",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.84133,
+    14.45945,
+    105.84133,
+    14.45945
+],
+  "geometry": {"coordinates":[105.84133,14.45945],"type":"Point"}
+}

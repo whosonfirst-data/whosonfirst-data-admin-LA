@@ -1,0 +1,70 @@
+{
+  "id": 1310584151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.21844,17.18486,105.21844,17.18486",
+    "geom:latitude":17.18486,
+    "geom:longitude":105.21844,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Khokkhimin-Mai",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235004,
+    "gn:latitude":17.18486,
+    "gn:longitude":105.21844,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Kh\u00f4kkhimin-Mai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kh\u00f4kkhimin-Mai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235004
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a6d0f678bc9c0c454eca35597eb4f709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1310584151,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1310584151,
+    "wof:lastmodified":1537660948,
+    "wof:name":"Ban Khokkhimin-Mai",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.21844,
+    17.18486,
+    105.21844,
+    17.18486
+],
+  "geometry": {"coordinates":[105.21844,17.18486],"type":"Point"}
+}

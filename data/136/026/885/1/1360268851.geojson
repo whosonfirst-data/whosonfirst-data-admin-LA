@@ -1,0 +1,70 @@
+{
+  "id": 1360268851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.19734,19.21433,103.19734,19.21433",
+    "geom:latitude":19.21433,
+    "geom:longitude":103.19734,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Phiangdi",
+    "gn:country_code":"LA",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11228365,
+    "gn:latitude":19.21433,
+    "gn:longitude":103.19734,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Phiangdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phiangdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11228365
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"db37111a49497d01f1d14ee5dade08d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031349,
+            "locality_id":1360268851,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1360268851,
+    "wof:lastmodified":1537660910,
+    "wof:name":"Ban Phiangdi",
+    "wof:parent_id":1092031349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.19734,
+    19.21433,
+    103.19734,
+    19.21433
+],
+  "geometry": {"coordinates":[103.19734,19.21433],"type":"Point"}
+}

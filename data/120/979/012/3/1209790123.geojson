@@ -1,0 +1,70 @@
+{
+  "id": 1209790123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.33694,16.84503,106.33694,16.84503",
+    "geom:latitude":16.84503,
+    "geom:longitude":106.33694,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Lou",
+    "gn:country_code":"LA",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659568,
+    "gn:latitude":16.84503,
+    "gn:longitude":106.33694,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Rou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659568
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8a1c87e9ca13f1502bfaa1bcb85db065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1209790123,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1209790123,
+    "wof:lastmodified":1537660359,
+    "wof:name":"Ban Lou",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.33693999999998,
+    16.84503,
+    106.33693999999998,
+    16.84503
+],
+  "geometry": {"coordinates":[106.33693999999998,16.84503],"type":"Point"}
+}

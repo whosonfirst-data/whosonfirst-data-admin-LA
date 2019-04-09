@@ -1,0 +1,69 @@
+{
+  "id": 1209524349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86206,14.57972,105.86206,14.57972",
+    "geom:latitude":14.57972,
+    "geom:longitude":105.86206,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Thakoang",
+    "gn:country_code":"LA",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658704,
+    "gn:latitude":14.57972,
+    "gn:longitude":105.86206,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Thakoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Thakoang"
+    ],
+    "name:und_x_variant":[
+        "Ban Tha Kuang",
+        "Ban Tap Que",
+        "Ban Thakouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658704
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"79bf561eb008cab743340998ced3b606",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209524349
+        }
+    ],
+    "wof:id":1209524349,
+    "wof:lastmodified":1537660311,
+    "wof:name":"Ban Thakoang",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86206,
+    14.57972,
+    105.86206,
+    14.57972
+],
+  "geometry": {"coordinates":[105.86206,14.57972],"type":"Point"}
+}

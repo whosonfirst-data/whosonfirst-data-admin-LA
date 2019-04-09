@@ -1,0 +1,64 @@
+{
+  "id": 1209477599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71757,16.00936,106.71757,16.00936",
+    "geom:latitude":16.00936,
+    "geom:longitude":106.71757,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Palo",
+    "gn:country_code":"LA",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236790,
+    "gn:latitude":16.00936,
+    "gn:longitude":106.71757,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Pal\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pal\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236790
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cfab999167e3e20fabab681d02a7059a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209477599
+        }
+    ],
+    "wof:id":1209477599,
+    "wof:lastmodified":1537660968,
+    "wof:name":"Ban Palo",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71757,
+    16.00936,
+    106.71757,
+    16.00936
+],
+  "geometry": {"coordinates":[106.71756999999999,16.00936],"type":"Point"}
+}

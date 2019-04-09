@@ -1,0 +1,74 @@
+{
+  "id": 1226759191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.06858,20.59513,104.06858,20.59513",
+    "geom:latitude":20.59513,
+    "geom:longitude":104.06858,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Khotdin",
+    "gn:country_code":"LA",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653682,
+    "gn:latitude":20.59513,
+    "gn:longitude":104.06858,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Khotdin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khotdin"
+    ],
+    "name:und_x_variant":[
+        "Poung Thinh",
+        "Same Din"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653682
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"94a086da241bbd74259a3718ab1efed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1226759191,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1226759191,
+    "wof:lastmodified":1537660210,
+    "wof:name":"Ban Khotdin",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.06858,
+    20.59513,
+    104.06858,
+    20.59513
+],
+  "geometry": {"coordinates":[104.06858,20.59513],"type":"Point"}
+}

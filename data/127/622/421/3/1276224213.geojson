@@ -1,0 +1,70 @@
+{
+  "id": 1276224213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.56799,20.28164,101.56799,20.28164",
+    "geom:latitude":20.28164,
+    "geom:longitude":101.56799,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Namheng",
+    "gn:country_code":"LA",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953523,
+    "gn:latitude":20.28164,
+    "gn:longitude":101.56799,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namh\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namh\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953523
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b64ff5624a193d96ffaf8653b56c91b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027619,
+            "locality_id":1276224213,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1276224213,
+    "wof:lastmodified":1537660743,
+    "wof:name":"Ban Namheng",
+    "wof:parent_id":1092027619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.56799,
+    20.28164,
+    101.56799,
+    20.28164
+],
+  "geometry": {"coordinates":[101.56798999999999,20.28164],"type":"Point"}
+}

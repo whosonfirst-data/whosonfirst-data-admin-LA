@@ -1,0 +1,71 @@
+{
+  "id": 1242686567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.51221,14.37132,105.51221,14.37132",
+    "geom:latitude":14.37132,
+    "geom:longitude":105.51221,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Paksong",
+    "gn:country_code":"LA",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660452,
+    "gn:latitude":14.37132,
+    "gn:longitude":105.51221,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Paksong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pah Song",
+        "Ban Paksong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092026577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660452
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b931341771366f49efa490c207810cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026577,
+            "locality_id":1242686567,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1242686567,
+    "wof:lastmodified":1537660408,
+    "wof:name":"Ban Paksong",
+    "wof:parent_id":1092026577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.51221,
+    14.37132,
+    105.51221,
+    14.37132
+],
+  "geometry": {"coordinates":[105.51221,14.37132],"type":"Point"}
+}

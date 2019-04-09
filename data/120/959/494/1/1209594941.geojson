@@ -1,0 +1,64 @@
+{
+  "id": 1209594941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.74582,19.59153,100.74582,19.59153",
+    "geom:latitude":19.59153,
+    "geom:longitude":100.74582,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Poungpen",
+    "gn:country_code":"LA",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941870,
+    "gn:latitude":19.59153,
+    "gn:longitude":100.74582,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Poungp\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Poungp\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941870
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f0eceea00b69a37b881c1bbc7c744b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209594941
+        }
+    ],
+    "wof:id":1209594941,
+    "wof:lastmodified":1537660700,
+    "wof:name":"Ban Poungpen",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.74582,
+    19.59153,
+    100.74582,
+    19.59153
+],
+  "geometry": {"coordinates":[100.74581999999999,19.59153],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226209079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.24482,18.50598,102.24482,18.50598",
+    "geom:latitude":18.50598,
+    "geom:longitude":102.24482,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Koua",
+    "gn:country_code":"LA",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231867,
+    "gn:latitude":18.50598,
+    "gn:longitude":102.24482,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Koua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Koua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092027061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231867
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5e6ca0b804f54f0a7a2eb90d01cbf6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027061,
+            "locality_id":1226209079,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":1226209079,
+    "wof:lastmodified":1537660920,
+    "wof:name":"Ban Koua",
+    "wof:parent_id":1092027061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.24482,
+    18.50598,
+    102.24482,
+    18.50598
+],
+  "geometry": {"coordinates":[102.24482,18.50598],"type":"Point"}
+}

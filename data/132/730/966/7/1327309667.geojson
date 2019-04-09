@@ -1,0 +1,70 @@
+{
+  "id": 1327309667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.88518,21.56884,101.88518,21.56884",
+    "geom:latitude":21.56884,
+    "geom:longitude":101.88518,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sentham",
+    "gn:country_code":"LA",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237481,
+    "gn:latitude":21.56884,
+    "gn:longitude":101.88518,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban S\u00e8ntham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8ntham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092031055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237481
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"889bed1a9eaf268bbd84ca0e98979809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031055,
+            "locality_id":1327309667,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1327309667,
+    "wof:lastmodified":1537660976,
+    "wof:name":"Ban Sentham",
+    "wof:parent_id":1092031055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.88518,
+    21.56884,
+    101.88518,
+    21.56884
+],
+  "geometry": {"coordinates":[101.88518000000001,21.56884],"type":"Point"}
+}

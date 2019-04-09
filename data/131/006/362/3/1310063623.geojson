@@ -1,0 +1,70 @@
+{
+  "id": 1310063623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66818,17.96352,102.66818,17.96352",
+    "geom:latitude":17.96352,
+    "geom:longitude":102.66818,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Soun-Nakhoay",
+    "gn:country_code":"LA",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233098,
+    "gn:latitude":17.96352,
+    "gn:longitude":102.66818,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Soun-Nakhoay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Soun-Nakhoay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092029925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233098
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7e4259d1229e0416a3aa0c47b85227a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029925,
+            "locality_id":1310063623,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1310063623,
+    "wof:lastmodified":1537660936,
+    "wof:name":"Ban Soun-Nakhoay",
+    "wof:parent_id":1092029925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66818,
+    17.96352000000001,
+    102.66818,
+    17.96352000000001
+],
+  "geometry": {"coordinates":[102.66818000000001,17.96352000000001],"type":"Point"}
+}

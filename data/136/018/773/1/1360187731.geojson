@@ -1,0 +1,71 @@
+{
+  "id": 1360187731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61667,15.0,106.61667,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":106.61667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Oupaxa",
+    "gn:country_code":"LA",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660576,
+    "gn:latitude":15.0,
+    "gn:longitude":106.61667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Ban Oupaxa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Ou Ka Sat",
+        "Ban Oupaxa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092028479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660576
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"80ce3343b7d122c6ffe8d3e7f4729f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028479,
+            "locality_id":1360187731,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1360187731,
+    "wof:lastmodified":1537660416,
+    "wof:name":"Ban Oupaxa",
+    "wof:parent_id":1092028479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61667,
+    15.0,
+    106.61667,
+    15.0
+],
+  "geometry": {"coordinates":[106.61667,15.0],"type":"Point"}
+}

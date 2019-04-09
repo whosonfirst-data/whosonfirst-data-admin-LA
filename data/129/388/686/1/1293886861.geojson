@@ -1,0 +1,73 @@
+{
+  "id": 1293886861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.70406,14.89635,105.70406,14.89635",
+    "geom:latitude":14.89635,
+    "geom:longitude":105.70406,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nongte",
+    "gn:country_code":"LA",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660667,
+    "gn:latitude":14.89635,
+    "gn:longitude":105.70406,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nongte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nong T\u00ea",
+        "Ban Nangte",
+        "Ban Nangie",
+        "Ban Nongte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092027043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660667
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"53542252a2b27edce6e4f23d32eda460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027043,
+            "locality_id":1293886861,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1293886861,
+    "wof:lastmodified":1537660422,
+    "wof:name":"Ban Nongte",
+    "wof:parent_id":1092027043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.70406,
+    14.89635,
+    105.70406,
+    14.89635
+],
+  "geometry": {"coordinates":[105.70406,14.89635],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327137297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83999,14.08131,105.83999,14.08131",
+    "geom:latitude":14.08131,
+    "geom:longitude":105.83999,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Houay",
+    "gn:country_code":"LA",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663964,
+    "gn:latitude":14.08131,
+    "gn:longitude":105.83999,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Ban Houay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Houei",
+        "Ban Houay",
+        "Ban Houa",
+        "Ban Huay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663964
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4d100f80b464111ff85e8edd37bceee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1327137297,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1327137297,
+    "wof:lastmodified":1537660618,
+    "wof:name":"Ban Houay",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83999,
+    14.08131,
+    105.83999,
+    14.08131
+],
+  "geometry": {"coordinates":[105.83999,14.08131],"type":"Point"}
+}

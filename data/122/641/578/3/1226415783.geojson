@@ -1,0 +1,74 @@
+{
+  "id": 1226415783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29224,17.1351,105.29224,17.1351",
+    "geom:latitude":17.1351,
+    "geom:longitude":105.29224,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Nauat",
+    "gn:country_code":"LA",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661032,
+    "gn:latitude":17.1351,
+    "gn:longitude":105.29224,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nauat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nauat"
+    ],
+    "name:und_x_variant":[
+        "Ban Na Euat",
+        "Ban Na Eut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661032
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"751c312e36984ac0037044b3214c326c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030339,
+            "locality_id":1226415783,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226415783,
+    "wof:lastmodified":1537660444,
+    "wof:name":"Ban Nauat",
+    "wof:parent_id":1092030339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29224,
+    17.1351,
+    105.29224,
+    17.1351
+],
+  "geometry": {"coordinates":[105.29224000000001,17.1351],"type":"Point"}
+}

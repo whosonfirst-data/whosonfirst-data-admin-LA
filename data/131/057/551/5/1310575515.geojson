@@ -1,0 +1,72 @@
+{
+  "id": 1310575515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.32409,16.48119,106.32409,16.48119",
+    "geom:latitude":16.48119,
+    "geom:longitude":106.32409,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Lakoun",
+    "gn:country_code":"LA",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1659583,
+    "gn:latitude":16.48119,
+    "gn:longitude":106.32409,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Lakoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Lakoun"
+    ],
+    "name:und_x_variant":[
+        "Ban Re Koun",
+        "Ban Rakoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659583
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7256fde89ea155aeda9424b9544061b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1310575515,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1310575515,
+    "wof:lastmodified":1537660360,
+    "wof:name":"Ban Lakoun",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.32408999999998,
+    16.48119,
+    106.32408999999998,
+    16.48119
+],
+  "geometry": {"coordinates":[106.32408999999998,16.48119],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193112465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95371,16.26401,106.95371,16.26401",
+    "geom:latitude":16.26401,
+    "geom:longitude":106.95371,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Atouk",
+    "gn:country_code":"LA",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665051,
+    "gn:latitude":16.26401,
+    "gn:longitude":106.95371,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Atouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Atouk"
+    ],
+    "name:und_x_variant":[
+        "A Tuc",
+        "Atouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665051
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"10ba2dcd4d014e85115f52463564d556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1193112465,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1193112465,
+    "wof:lastmodified":1537660681,
+    "wof:name":"Ban Atouk",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95371000000002,
+    16.26401,
+    106.95371000000002,
+    16.26401
+],
+  "geometry": {"coordinates":[106.95371000000002,16.26401],"type":"Point"}
+}

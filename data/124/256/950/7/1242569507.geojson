@@ -1,0 +1,67 @@
+{
+  "id": 1242569507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81667,20.55,101.81667,20.55",
+    "geom:latitude":20.55,
+    "geom:longitude":101.81667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Kam",
+    "gn:country_code":"LA",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663417,
+    "gn:latitude":20.55,
+    "gn:longitude":101.81667,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Ban Kam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663417
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f1685f634c0b5082bbfa45bf0732c59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1242569507,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1242569507,
+    "wof:lastmodified":1537072221,
+    "wof:name":"Ban Kam",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81667,
+    20.55,
+    101.81667,
+    20.55
+],
+  "geometry": {"coordinates":[101.81667,20.55],"type":"Point"}
+}

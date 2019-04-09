@@ -1,0 +1,70 @@
+{
+  "id": 1327207067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.48491,17.90145,105.48491,17.90145",
+    "geom:latitude":17.90145,
+    "geom:longitude":105.48491,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Khot",
+    "gn:country_code":"LA",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662909,
+    "gn:latitude":17.90145,
+    "gn:longitude":105.48491,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Khot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662909
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"51f7810f1421816a331e0f499a11ec4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030791,
+            "locality_id":1327207067,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1327207067,
+    "wof:lastmodified":1537660548,
+    "wof:name":"Ban Khot",
+    "wof:parent_id":1092030791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.48491,
+    17.90145,
+    105.48491,
+    17.90145
+],
+  "geometry": {"coordinates":[105.48491,17.90145],"type":"Point"}
+}

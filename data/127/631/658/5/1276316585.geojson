@@ -1,0 +1,70 @@
+{
+  "id": 1276316585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67958,19.60758,103.67958,19.60758",
+    "geom:latitude":19.60758,
+    "geom:longitude":103.67958,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Nacheng",
+    "gn:country_code":"LA",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11227174,
+    "gn:latitude":19.60758,
+    "gn:longitude":103.67958,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Nach\u00e8ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nach\u00e8ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227174
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9585a8c262288353f99636446d812f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1276316585,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1276316585,
+    "wof:lastmodified":1537660906,
+    "wof:name":"Ban Nacheng",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67958,
+    19.60758,
+    103.67958,
+    19.60758
+],
+  "geometry": {"coordinates":[103.67958,19.60758],"type":"Point"}
+}

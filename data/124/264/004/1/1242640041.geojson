@@ -1,0 +1,71 @@
+{
+  "id": 1242640041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.71761,15.5092,105.71761,15.5092",
+    "geom:latitude":15.5092,
+    "geom:longitude":105.71761,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Nakok",
+    "gn:country_code":"LA",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661729,
+    "gn:latitude":15.5092,
+    "gn:longitude":105.71761,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nakok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Kot",
+        "Ban Nakok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661729
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"62f3c5e72272665e0ff61708adcf58a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029399,
+            "locality_id":1242640041,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1242640041,
+    "wof:lastmodified":1537660483,
+    "wof:name":"Ban Nakok",
+    "wof:parent_id":1092029399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.71761,
+    15.5092,
+    105.71761,
+    15.5092
+],
+  "geometry": {"coordinates":[105.71760999999999,15.5092],"type":"Point"}
+}

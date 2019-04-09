@@ -1,0 +1,70 @@
+{
+  "id": 1360141015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.89772,18.32691,103.89772,18.32691",
+    "geom:latitude":18.32691,
+    "geom:longitude":103.89772,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Phonsavan",
+    "gn:country_code":"LA",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232807,
+    "gn:latitude":18.32691,
+    "gn:longitude":103.89772,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nsavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nsavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092028315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232807
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b3f5883a2120de54c069eda0c5baef44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028315,
+            "locality_id":1360141015,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1360141015,
+    "wof:lastmodified":1537660932,
+    "wof:name":"Ban Phonsavan",
+    "wof:parent_id":1092028315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.89772,
+    18.32691,
+    103.89772,
+    18.32691
+],
+  "geometry": {"coordinates":[103.89772000000001,18.32691],"type":"Point"}
+}

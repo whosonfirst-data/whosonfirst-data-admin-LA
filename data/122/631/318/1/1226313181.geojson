@@ -1,0 +1,71 @@
+{
+  "id": 1226313181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81737,17.08018,105.81737,17.08018",
+    "geom:latitude":17.08018,
+    "geom:longitude":105.81737,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Namsaa",
+    "gn:country_code":"LA",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661415,
+    "gn:latitude":17.08018,
+    "gn:longitude":105.81737,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Namsaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nam Sa",
+        "Ban Namsaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092026869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661415
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d48289c767ae364f1af8fdc9689c1918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026869,
+            "locality_id":1226313181,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1226313181,
+    "wof:lastmodified":1537660466,
+    "wof:name":"Ban Namsaa",
+    "wof:parent_id":1092026869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81737,
+    17.08018,
+    105.81737,
+    17.08018
+],
+  "geometry": {"coordinates":[105.81737,17.08018],"type":"Point"}
+}

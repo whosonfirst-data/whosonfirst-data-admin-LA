@@ -1,0 +1,70 @@
+{
+  "id": 1243384931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.18386,20.54749,102.18386,20.54749",
+    "geom:latitude":20.54749,
+    "geom:longitude":102.18386,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Laova",
+    "gn:country_code":"LA",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954814,
+    "gn:latitude":20.54749,
+    "gn:longitude":102.18386,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Laova",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092029739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954814
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"63d38564d225957a56be4a7bcea84c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029739,
+            "locality_id":1243384931,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1243384931,
+    "wof:lastmodified":1537660778,
+    "wof:name":"Ban Laova",
+    "wof:parent_id":1092029739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.18386,
+    20.54749,
+    102.18386,
+    20.54749
+],
+  "geometry": {"coordinates":[102.18386,20.54749],"type":"Point"}
+}

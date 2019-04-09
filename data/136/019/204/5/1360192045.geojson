@@ -1,0 +1,73 @@
+{
+  "id": 1360192045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.86704,20.51403,103.86704,20.51403",
+    "geom:latitude":20.51403,
+    "geom:longitude":103.86704,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Houayngou",
+    "gn:country_code":"LA",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1663706,
+    "gn:latitude":20.51403,
+    "gn:longitude":103.86704,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houayngou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Houayngou"
+    ],
+    "name:und_x_variant":[
+        "Ban Houei Ngou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663706
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2443a569bb856dc84c04e7e3e2eca675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030087,
+            "locality_id":1360192045,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1360192045,
+    "wof:lastmodified":1537660598,
+    "wof:name":"Ban Houayngou",
+    "wof:parent_id":1092030087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.86704,
+    20.51403,
+    103.86704,
+    20.51403
+],
+  "geometry": {"coordinates":[103.86704,20.51403],"type":"Point"}
+}

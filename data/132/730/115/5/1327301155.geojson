@@ -1,0 +1,67 @@
+{
+  "id": 1327301155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.2,15.45,107.2,15.45",
+    "geom:latitude":15.45,
+    "geom:longitude":107.2,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dyi",
+    "gn:country_code":"LA",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1657496,
+    "gn:latitude":15.45,
+    "gn:longitude":107.2,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673473,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657496
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d2a8d2a52aec9312e0ad9c91d4324eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":1327301155,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":1327301155,
+    "wof:lastmodified":1536869319,
+    "wof:name":"Dyi",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.2,
+    15.45,
+    107.2,
+    15.45
+],
+  "geometry": {"coordinates":[107.2,15.45],"type":"Point"}
+}

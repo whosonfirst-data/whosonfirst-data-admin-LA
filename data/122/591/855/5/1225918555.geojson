@@ -1,0 +1,70 @@
+{
+  "id": 1225918555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.40797,16.66427,106.40797,16.66427",
+    "geom:latitude":16.66427,
+    "geom:longitude":106.40797,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Pelang-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11236100,
+    "gn:latitude":16.66427,
+    "gn:longitude":106.40797,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban P\u00e9lang-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban P\u00e9lang-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236100
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9e8c01a246c1770561f0baa8a1b43f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1225918555,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1225918555,
+    "wof:lastmodified":1537660958,
+    "wof:name":"Ban Pelang-Noy",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.40797,
+    16.66427,
+    106.40797,
+    16.66427
+],
+  "geometry": {"coordinates":[106.40797000000001,16.66427],"type":"Point"}
+}

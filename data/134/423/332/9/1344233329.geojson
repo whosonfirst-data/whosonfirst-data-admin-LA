@@ -1,0 +1,70 @@
+{
+  "id": 1344233329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.22771,19.58678,102.22771,19.58678",
+    "geom:latitude":19.58678,
+    "geom:longitude":102.22771,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Kioutloun-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952465,
+    "gn:latitude":19.58678,
+    "gn:longitude":102.22771,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Kioutloun-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kioutloun-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952465
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"499dbd0c58f62735409a3dc60914f228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1344233329,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1344233329,
+    "wof:lastmodified":1537660719,
+    "wof:name":"Ban Kioutloun-Gnai",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.22771,
+    19.58678,
+    102.22771,
+    19.58678
+],
+  "geometry": {"coordinates":[102.22771,19.58678],"type":"Point"}
+}

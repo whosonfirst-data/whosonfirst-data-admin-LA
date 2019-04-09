@@ -1,0 +1,70 @@
+{
+  "id": 1293749873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.34476,21.35544,102.34476,21.35544",
+    "geom:latitude":21.35544,
+    "geom:longitude":102.34476,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Honghian Matthagnom",
+    "gn:country_code":"LA",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247354,
+    "gn:latitude":21.35544,
+    "gn:longitude":102.34476,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Honghian Matthagn\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Honghian Matthagn\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247354
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"58de12b65de672a3f8d815109e412929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1293749873,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293749873,
+    "wof:lastmodified":1537660983,
+    "wof:name":"Honghian Matthagnom",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.34476,
+    21.35544,
+    102.34476,
+    21.35544
+],
+  "geometry": {"coordinates":[102.34475999999999,21.35544],"type":"Point"}
+}

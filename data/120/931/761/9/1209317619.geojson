@@ -1,0 +1,68 @@
+{
+  "id": 1209317619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.74174,14.59647,105.74174,14.59647",
+    "geom:latitude":14.59647,
+    "geom:longitude":105.74174,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Nankhoum",
+    "gn:country_code":"LA",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660632,
+    "gn:latitude":14.59647,
+    "gn:longitude":105.74174,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Nankhoum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Nankhoum"
+    ],
+    "name:und_x_variant":[
+        "Ban N\u00f4ne Khoum",
+        "Ban N\u00f4nkhoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660632
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b9eba660fcfde40f65430abef2027d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209317619
+        }
+    ],
+    "wof:id":1209317619,
+    "wof:lastmodified":1537660420,
+    "wof:name":"Ban Nankhoum",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.74174,
+    14.59647,
+    105.74174,
+    14.59647
+],
+  "geometry": {"coordinates":[105.74173999999999,14.59647],"type":"Point"}
+}

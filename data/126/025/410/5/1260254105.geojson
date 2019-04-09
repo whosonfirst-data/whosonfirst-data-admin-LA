@@ -1,0 +1,70 @@
+{
+  "id": 1260254105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.16881,20.47772,102.16881,20.47772",
+    "geom:latitude":20.47772,
+    "geom:longitude":102.16881,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Tongtou-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954849,
+    "gn:latitude":20.47772,
+    "gn:longitude":102.16881,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban T\u00f4ngtou-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban T\u00f4ngtou-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954849
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6736192a4922a052a17bc9ebae3512ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1260254105,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1260254105,
+    "wof:lastmodified":1537660779,
+    "wof:name":"Ban Tongtou-Noy",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.16881,
+    20.47772,
+    102.16881,
+    20.47772
+],
+  "geometry": {"coordinates":[102.16880999999999,20.47772],"type":"Point"}
+}

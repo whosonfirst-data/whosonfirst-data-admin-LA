@@ -1,0 +1,70 @@
+{
+  "id": 1360160905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51614,20.31319,102.51614,20.31319",
+    "geom:latitude":20.31319,
+    "geom:longitude":102.51614,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Sang-In-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956464,
+    "gn:latitude":20.31319,
+    "gn:longitude":102.51614,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Sang-In-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sang-In-Gnai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956464
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c6dd43c00d3695f28a7a119d91c0e77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1360160905,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1360160905,
+    "wof:lastmodified":1537660821,
+    "wof:name":"Ban Sang-In-Gnai",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51614,
+    20.31319,
+    102.51614,
+    20.31319
+],
+  "geometry": {"coordinates":[102.51613999999999,20.31319],"type":"Point"}
+}

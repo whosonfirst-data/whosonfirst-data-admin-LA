@@ -1,0 +1,71 @@
+{
+  "id": 1326486243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5075,18.10622,102.5075,18.10622",
+    "geom:latitude":18.10622,
+    "geom:longitude":102.5075,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ban Naxon",
+    "gn:country_code":"LA",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1661147,
+    "gn:latitude":18.10622,
+    "gn:longitude":102.5075,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Naxon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Na Son",
+        "Ban Naxon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673433,
+        1092027795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661147
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6be844c94353e0f410ab00f56098c683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027795,
+            "locality_id":1326486243,
+            "region_id":85673433
+        }
+    ],
+    "wof:id":1326486243,
+    "wof:lastmodified":1537660451,
+    "wof:name":"Ban Naxon",
+    "wof:parent_id":1092027795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5075,
+    18.10622,
+    102.5075,
+    18.10622
+],
+  "geometry": {"coordinates":[102.50749999999999,18.10622],"type":"Point"}
+}

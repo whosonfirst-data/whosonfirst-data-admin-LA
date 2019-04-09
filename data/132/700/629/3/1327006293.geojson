@@ -1,0 +1,70 @@
+{
+  "id": 1327006293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41532,19.54455,102.41532,19.54455",
+    "geom:latitude":19.54455,
+    "geom:longitude":102.41532,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phoulouang",
+    "gn:country_code":"LA",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952490,
+    "gn:latitude":19.54455,
+    "gn:longitude":102.41532,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phoulouang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phoulouang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952490
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7e7ff8f4efb166d1026aea8bfa7c452f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1327006293,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1327006293,
+    "wof:lastmodified":1537660720,
+    "wof:name":"Ban Phoulouang",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41532,
+    19.54455,
+    102.41532,
+    19.54455
+],
+  "geometry": {"coordinates":[102.41531999999999,19.54455],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209581215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.08154,16.15759,107.08154,16.15759",
+    "geom:latitude":16.15759,
+    "geom:longitude":107.08154,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Ano",
+    "gn:country_code":"LA",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664979,
+    "gn:latitude":16.15759,
+    "gn:longitude":107.08154,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban An\u00f4",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban A Yene",
+        "Ban An\u00f4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664979
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6e765e01557dc70511e8e01b114e610d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209581215
+        }
+    ],
+    "wof:id":1209581215,
+    "wof:lastmodified":1537660678,
+    "wof:name":"Ban Ano",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.08154,
+    16.15759,
+    107.08154,
+    16.15759
+],
+  "geometry": {"coordinates":[107.08154,16.15759],"type":"Point"}
+}

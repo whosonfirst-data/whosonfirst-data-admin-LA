@@ -1,0 +1,73 @@
+{
+  "id": 1326606241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.68867,20.82608,102.68867,20.82608",
+    "geom:latitude":20.82608,
+    "geom:longitude":102.68867,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Hatkham",
+    "gn:country_code":"LA",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663498,
+    "gn:latitude":20.82608,
+    "gn:longitude":102.68867,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Hatkham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Hat Ta Khane",
+        "Ban Houei Ta Kanne",
+        "Ban Houei Ta Khane",
+        "Ban Hatkham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663498
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4a7ae8f649dfefce6bcdc764c58535f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1326606241,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1326606241,
+    "wof:lastmodified":1537660583,
+    "wof:name":"Ban Hatkham",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.68867,
+    20.82608,
+    102.68867,
+    20.82608
+],
+  "geometry": {"coordinates":[102.68867,20.82608],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276679895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.70266,19.92854,101.70266,19.92854",
+    "geom:latitude":19.92854,
+    "geom:longitude":101.70266,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Hatteu",
+    "gn:country_code":"LA",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664110,
+    "gn:latitude":19.92854,
+    "gn:longitude":101.70266,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Hatteu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Haiteu",
+        "Ban Hatteu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664110
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"06b8ce61c13246336c3603b57c9b27e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1276679895,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1276679895,
+    "wof:lastmodified":1537660627,
+    "wof:name":"Ban Hatteu",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.70266,
+    19.92854,
+    101.70266,
+    19.92854
+],
+  "geometry": {"coordinates":[101.70265999999999,19.92854],"type":"Point"}
+}

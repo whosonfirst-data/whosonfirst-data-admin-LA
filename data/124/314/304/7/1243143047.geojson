@@ -1,0 +1,70 @@
+{
+  "id": 1243143047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08192,19.4728,104.08192,19.4728",
+    "geom:latitude":19.4728,
+    "geom:longitude":104.08192,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Dan Xayden",
+    "gn:country_code":"LA",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227450,
+    "gn:latitude":19.4728,
+    "gn:longitude":104.08192,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Dan Xayd\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Dan Xayd\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227450
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a08db9d4a4578cd5749aaddbd5901129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1243143047,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1243143047,
+    "wof:lastmodified":1537660907,
+    "wof:name":"Dan Xayden",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08192,
+    19.4728,
+    104.08192,
+    19.4728
+],
+  "geometry": {"coordinates":[104.08192,19.4728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193001175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58046,17.1027,105.58046,17.1027",
+    "geom:latitude":17.1027,
+    "geom:longitude":105.58046,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phakhat",
+    "gn:country_code":"LA",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660269,
+    "gn:latitude":17.1027,
+    "gn:longitude":105.58046,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phakhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Phad Khad",
+        "Ban Phakhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660269
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"5b22b417e50b723e5895aafa0ef08913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030373,
+            "locality_id":1193001175,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1193001175,
+    "wof:lastmodified":1537660398,
+    "wof:name":"Ban Phakhat",
+    "wof:parent_id":1092030373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58046000000002,
+    17.1027,
+    105.58046000000002,
+    17.1027
+],
+  "geometry": {"coordinates":[105.58046000000002,17.1027],"type":"Point"}
+}

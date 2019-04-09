@@ -1,0 +1,64 @@
+{
+  "id": 1209601589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.68962,19.83725,101.68962,19.83725",
+    "geom:latitude":19.83725,
+    "geom:longitude":101.68962,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Phianou",
+    "gn:country_code":"LA",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953905,
+    "gn:latitude":19.83725,
+    "gn:longitude":101.68962,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Phianou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phianou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953905
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3dadd7b5dd1c4d273a44ce908d18f23f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209601589
+        }
+    ],
+    "wof:id":1209601589,
+    "wof:lastmodified":1537660754,
+    "wof:name":"Ban Phianou",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.68962,
+    19.83725,
+    101.68962,
+    19.83725
+],
+  "geometry": {"coordinates":[101.68962000000001,19.83725],"type":"Point"}
+}

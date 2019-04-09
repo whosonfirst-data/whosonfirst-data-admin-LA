@@ -1,0 +1,70 @@
+{
+  "id": 1225910545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.31757,21.65709,102.31757,21.65709",
+    "geom:latitude":21.65709,
+    "geom:longitude":102.31757,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sala-Theung",
+    "gn:country_code":"LA",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952645,
+    "gn:latitude":21.65709,
+    "gn:longitude":102.31757,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Sala-Theung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sala-Theung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952645
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"94d1d74b4ccbb62033955e5e4ebdf736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1225910545,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1225910545,
+    "wof:lastmodified":1537660722,
+    "wof:name":"Ban Sala-Theung",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.31757,
+    21.65709,
+    102.31757,
+    21.65709
+],
+  "geometry": {"coordinates":[102.31757,21.65709],"type":"Point"}
+}

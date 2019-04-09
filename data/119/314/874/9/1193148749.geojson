@@ -1,0 +1,71 @@
+{
+  "id": 1193148749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.24075,20.71227,104.24075,20.71227",
+    "geom:latitude":20.71227,
+    "geom:longitude":104.24075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Kongkhoun",
+    "gn:country_code":"LA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664663,
+    "gn:latitude":20.71227,
+    "gn:longitude":104.24075,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Kongkhoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Cong Khoum",
+        "Ban Kongkhoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664663
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8a1f9c4a31b6163923873b9c218940f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":1193148749,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1193148749,
+    "wof:lastmodified":1537660661,
+    "wof:name":"Ban Kongkhoun",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.24075,
+    20.71227,
+    104.24075,
+    20.71227
+],
+  "geometry": {"coordinates":[104.24075000000001,20.71227],"type":"Point"}
+}

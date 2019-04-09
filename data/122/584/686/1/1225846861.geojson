@@ -1,0 +1,70 @@
+{
+  "id": 1225846861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.00708,19.96306,104.00708,19.96306",
+    "geom:latitude":19.96306,
+    "geom:longitude":104.00708,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phousamsao",
+    "gn:country_code":"LA",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952762,
+    "gn:latitude":19.96306,
+    "gn:longitude":104.00708,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Phousamsao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phousamsao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952762
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c23bfb225e23ccd8c707e907a50f1e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1225846861,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1225846861,
+    "wof:lastmodified":1537660724,
+    "wof:name":"Ban Phousamsao",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.00708,
+    19.96306,
+    104.00708,
+    19.96306
+],
+  "geometry": {"coordinates":[104.00708,19.96306],"type":"Point"}
+}

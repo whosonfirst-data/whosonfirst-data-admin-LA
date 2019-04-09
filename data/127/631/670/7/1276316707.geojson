@@ -1,0 +1,70 @@
+{
+  "id": 1276316707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.84989,19.81513,103.84989,19.81513",
+    "geom:latitude":19.81513,
+    "geom:longitude":103.84989,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Keoming",
+    "gn:country_code":"LA",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11225037,
+    "gn:latitude":19.81513,
+    "gn:longitude":103.84989,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban K\u00e8oming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban K\u00e8oming"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092027197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225037
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c0d904e003b2a123eb800bc11ca90399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027197,
+            "locality_id":1276316707,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1276316707,
+    "wof:lastmodified":1537660904,
+    "wof:name":"Ban Keoming",
+    "wof:parent_id":1092027197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.84989,
+    19.81513,
+    103.84989,
+    19.81513
+],
+  "geometry": {"coordinates":[103.84989,19.81513],"type":"Point"}
+}

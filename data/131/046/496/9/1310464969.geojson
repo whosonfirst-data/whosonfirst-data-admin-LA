@@ -1,0 +1,71 @@
+{
+  "id": 1310464969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.43085,21.08894,102.43085,21.08894",
+    "geom:latitude":21.08894,
+    "geom:longitude":102.43085,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Omlouk",
+    "gn:country_code":"LA",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1654516,
+    "gn:latitude":21.08894,
+    "gn:longitude":102.43085,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Omlouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Om Louk",
+        "Ban Omlouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654516
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6063db3ffb8be9493f210ce1bdff356f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1310464969,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310464969,
+    "wof:lastmodified":1537660219,
+    "wof:name":"Ban Omlouk",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.43085,
+    21.08894,
+    102.43085,
+    21.08894
+],
+  "geometry": {"coordinates":[102.43085000000001,21.08894],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209373345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51292,20.30791,100.51292,20.30791",
+    "geom:latitude":20.30791,
+    "geom:longitude":100.51292,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Phousen",
+    "gn:country_code":"LA",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1907039,
+    "gn:latitude":20.30791,
+    "gn:longitude":100.51292,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Phous\u00e8n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phous\u00e8n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1907039
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ed9190533f8acaefa5e40dde837ead7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209373345
+        }
+    ],
+    "wof:id":1209373345,
+    "wof:lastmodified":1537660692,
+    "wof:name":"Ban Phousen",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51292,
+    20.30791,
+    100.51292,
+    20.30791
+],
+  "geometry": {"coordinates":[100.51291999999999,20.30791],"type":"Point"}
+}

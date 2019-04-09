@@ -1,0 +1,70 @@
+{
+  "id": 1344233467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.46453,19.39028,101.46453,19.39028",
+    "geom:latitude":19.39028,
+    "geom:longitude":101.46453,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Kiouti",
+    "gn:country_code":"LA",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941734,
+    "gn:latitude":19.39028,
+    "gn:longitude":101.46453,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Kiouti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Kiouti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941734
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ae143cb7d4fec313b87795e54071f30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030249,
+            "locality_id":1344233467,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1344233467,
+    "wof:lastmodified":1537660698,
+    "wof:name":"Ban Kiouti",
+    "wof:parent_id":1092030249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.46453,
+    19.39028,
+    101.46453,
+    19.39028
+],
+  "geometry": {"coordinates":[101.46453,19.39028],"type":"Point"}
+}

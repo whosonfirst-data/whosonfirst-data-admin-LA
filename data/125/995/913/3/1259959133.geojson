@@ -1,0 +1,71 @@
+{
+  "id": 1259959133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.47068,18.5791,101.47068,18.5791",
+    "geom:latitude":18.5791,
+    "geom:longitude":101.47068,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Phonsak",
+    "gn:country_code":"LA",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653544,
+    "gn:latitude":18.5791,
+    "gn:longitude":101.47068,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Ban Ph\u00f4nsak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sala",
+        "Ban Ph\u00f4nsak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092031375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653544
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aeb5dd78978f0d614eb2d1f109cad102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031375,
+            "locality_id":1259959133,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1259959133,
+    "wof:lastmodified":1537660209,
+    "wof:name":"Ban Phonsak",
+    "wof:parent_id":1092031375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.47068,
+    18.5791,
+    101.47068,
+    18.5791
+],
+  "geometry": {"coordinates":[101.47068,18.5791],"type":"Point"}
+}

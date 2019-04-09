@@ -1,0 +1,76 @@
+{
+  "id": 1326691905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.29815,16.25987,105.29815,16.25987",
+    "geom:latitude":16.25987,
+    "geom:longitude":105.29815,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Songkhon",
+    "gn:country_code":"LA",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1655105,
+    "gn:latitude":16.25987,
+    "gn:longitude":105.29815,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Songkhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Songkhon"
+    ],
+    "name:und_x_variant":[
+        "Song Khone",
+        "Muong Song Khone",
+        "Muong Songhon",
+        "Muang Songkhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655105
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3b21ba711123042001760bb46bc1bbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026707,
+            "locality_id":1326691905,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1326691905,
+    "wof:lastmodified":1537660229,
+    "wof:name":"Ban Songkhon",
+    "wof:parent_id":1092026707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.29815,
+    16.25987000000001,
+    105.29815,
+    16.25987000000001
+],
+  "geometry": {"coordinates":[105.29815000000001,16.25987000000001],"type":"Point"}
+}

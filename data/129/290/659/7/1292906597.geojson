@@ -1,0 +1,70 @@
+{
+  "id": 1292906597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11666,14.80176,106.11666,14.80176",
+    "geom:latitude":14.80176,
+    "geom:longitude":106.11666,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Saming",
+    "gn:country_code":"LA",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659483,
+    "gn:latitude":14.80176,
+    "gn:longitude":106.11666,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Saming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Saming"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659483
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"305822549cd0e0c88caf5f3108fd8c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1292906597,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1292906597,
+    "wof:lastmodified":1537660354,
+    "wof:name":"Ban Saming",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11666,
+    14.80176,
+    106.11666,
+    14.80176
+],
+  "geometry": {"coordinates":[106.11666,14.80176],"type":"Point"}
+}

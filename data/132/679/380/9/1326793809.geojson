@@ -1,0 +1,70 @@
+{
+  "id": 1326793809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.96582,21.16988,101.96582,21.16988",
+    "geom:latitude":21.16988,
+    "geom:longitude":101.96582,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Gna-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244072,
+    "gn:latitude":21.16988,
+    "gn:longitude":101.96582,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ban Gna-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Gna-Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244072
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"45964e97df00113d120421471c0964b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1326793809,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1326793809,
+    "wof:lastmodified":1537660979,
+    "wof:name":"Ban Gna-Kao",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.96582,
+    21.16988,
+    101.96582,
+    21.16988
+],
+  "geometry": {"coordinates":[101.96581999999999,21.16988],"type":"Point"}
+}

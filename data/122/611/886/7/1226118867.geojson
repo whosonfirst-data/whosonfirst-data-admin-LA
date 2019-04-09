@@ -1,0 +1,71 @@
+{
+  "id": 1226118867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.07671,17.50573,101.07671,17.50573",
+    "geom:latitude":17.50573,
+    "geom:longitude":101.07671,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Muangphra",
+    "gn:country_code":"LA",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941446,
+    "gn:latitude":17.50573,
+    "gn:longitude":101.07671,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Muangphra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Muang Phrae",
+        "Ban Muangphra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092026237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941446
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"91e626513c2ef2ee91c01ae6a169d5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026237,
+            "locality_id":1226118867,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1226118867,
+    "wof:lastmodified":1537660695,
+    "wof:name":"Ban Muangphra",
+    "wof:parent_id":1092026237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.07671,
+    17.50573,
+    101.07671,
+    17.50573
+],
+  "geometry": {"coordinates":[101.07671000000001,17.50573],"type":"Point"}
+}

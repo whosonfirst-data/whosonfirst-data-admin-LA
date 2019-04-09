@@ -1,0 +1,70 @@
+{
+  "id": 1243533911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06687,19.84239,101.06687,19.84239",
+    "geom:latitude":19.84239,
+    "geom:longitude":101.06687,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ban Pakkhen",
+    "gn:country_code":"LA",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1953193,
+    "gn:latitude":19.84239,
+    "gn:longitude":101.06687,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Ban Pakkh\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pakkh\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673417,
+        1092030215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1953193
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"16873a498f0bce24ac00cb4d857badcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030215,
+            "locality_id":1243533911,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":1243533911,
+    "wof:lastmodified":1537660734,
+    "wof:name":"Ban Pakkhen",
+    "wof:parent_id":1092030215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06687,
+    19.84239,
+    101.06687,
+    19.84239
+],
+  "geometry": {"coordinates":[101.06686999999999,19.84239],"type":"Point"}
+}

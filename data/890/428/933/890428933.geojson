@@ -1,0 +1,66 @@
+{
+  "id": 890428933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.17999,19.45907,103.17999,19.45907",
+    "geom:latitude":19.45907,
+    "geom:longitude":103.17999,
+    "gn:country":"LA",
+    "gn:fcode":"PPL",
+    "gn:pop":37507,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ban Ph\u00f4nsavan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092028523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952156,
+        "gp:id":12514561,
+        "qs:id":90246
+    },
+    "wof:country":"LA",
+    "wof:created":1469051781,
+    "wof:geomhash":"2af599e044648983641f6c1a95bed78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028523,
+            "locality_id":890428933,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":890428933,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Ban Ph\u00f4nsavan",
+    "wof:parent_id":1092028523,
+    "wof:placetype":"locality",
+    "wof:population":37507,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.17999,
+    19.45907,
+    103.17999,
+    19.45907
+],
+  "geometry": {"coordinates":[103.17999,19.45907],"type":"Point"}
+}

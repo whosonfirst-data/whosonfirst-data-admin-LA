@@ -1,0 +1,71 @@
+{
+  "id": 1293221955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97941,20.49148,101.97941,20.49148",
+    "geom:latitude":20.49148,
+    "geom:longitude":101.97941,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Hong-Gnankao",
+    "gn:country_code":"LA",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664038,
+    "gn:latitude":20.49148,
+    "gn:longitude":101.97941,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban H\u00f4ng-Gnankao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Hoang Nhan Kao",
+        "Ban H\u00f4ng-Gnankao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664038
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"60ffd0710ffef64c694c86bae22d67e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027867,
+            "locality_id":1293221955,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1293221955,
+    "wof:lastmodified":1537660623,
+    "wof:name":"Ban Hong-Gnankao",
+    "wof:parent_id":1092027867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97941,
+    20.49148,
+    101.97941,
+    20.49148
+],
+  "geometry": {"coordinates":[101.97941,20.49148],"type":"Point"}
+}

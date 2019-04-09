@@ -1,0 +1,73 @@
+{
+  "id": 1260045543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.04121,15.52172,106.04121,15.52172",
+    "geom:latitude":15.52172,
+    "geom:longitude":106.04121,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Gnan",
+    "gn:country_code":"LA",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664306,
+    "gn:latitude":15.52172,
+    "gn:longitude":106.04121,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Gnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Niane",
+        "Ban Nhiane",
+        "Ban Nhane",
+        "Ban Gnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664306
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f0eadee6aeed7c69c3c08bea5ab0d12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1260045543,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1260045543,
+    "wof:lastmodified":1537660638,
+    "wof:name":"Ban Gnan",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.04121,
+    15.52172,
+    106.04121,
+    15.52172
+],
+  "geometry": {"coordinates":[106.04121000000001,15.52172],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226817707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.23124,17.97955,104.23124,17.97955",
+    "geom:latitude":17.97955,
+    "geom:longitude":104.23124,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Boungkoang",
+    "gn:country_code":"LA",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1664824,
+    "gn:latitude":17.97955,
+    "gn:longitude":104.23124,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Boungkoang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Boung Quang",
+        "Ban Boungkhoang",
+        "Ban Bung Kwang",
+        "Ban Boungkoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664824
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"42d8fb04994d5c94eea30f12408c095d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030835,
+            "locality_id":1226817707,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1226817707,
+    "wof:lastmodified":1537660670,
+    "wof:name":"Ban Boungkoang",
+    "wof:parent_id":1092030835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.23124,
+    17.97955,
+    104.23124,
+    17.97955
+],
+  "geometry": {"coordinates":[104.23124,17.97955],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293560661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.61165,19.73175,102.61165,19.73175",
+    "geom:latitude":19.73175,
+    "geom:longitude":102.61165,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Singkeo",
+    "gn:country_code":"LA",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660023,
+    "gn:latitude":19.73175,
+    "gn:longitude":102.61165,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Singk\u00e8o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Singk\u00e8o"
+    ],
+    "name:und_x_variant":[
+        "Ban Pho K\u00e8o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092029323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660023
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f077262f38c9b958e126590869d62281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029323,
+            "locality_id":1293560661,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293560661,
+    "wof:lastmodified":1537660384,
+    "wof:name":"Ban Singkeo",
+    "wof:parent_id":1092029323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.61165,
+    19.73175,
+    102.61165,
+    19.73175
+],
+  "geometry": {"coordinates":[102.61165,19.73175],"type":"Point"}
+}

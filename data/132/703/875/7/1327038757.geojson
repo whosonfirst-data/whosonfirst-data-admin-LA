@@ -1,0 +1,70 @@
+{
+  "id": 1327038757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.83902,14.21199,105.83902,14.21199",
+    "geom:latitude":14.21199,
+    "geom:longitude":105.83902,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Senlam",
+    "gn:country_code":"LA",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202599,
+    "gn:latitude":14.21199,
+    "gn:longitude":105.83902,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban S\u00e8nlam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban S\u00e8nlam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202599
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f7e469611834f0fabe806516f1a0bfa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1327038757,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1327038757,
+    "wof:lastmodified":1537660872,
+    "wof:name":"Ban Senlam",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.83902,
+    14.21199,
+    105.83902,
+    14.21199
+],
+  "geometry": {"coordinates":[105.83902,14.21199],"type":"Point"}
+}

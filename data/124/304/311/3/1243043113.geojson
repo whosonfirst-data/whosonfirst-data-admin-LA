@@ -1,0 +1,73 @@
+{
+  "id": 1243043113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16357,15.3715,106.16357,15.3715",
+    "geom:latitude":15.3715,
+    "geom:longitude":106.16357,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Sixiangmai",
+    "gn:country_code":"LA",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659196,
+    "gn:latitude":15.3715,
+    "gn:longitude":106.16357,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Sixiangmai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Sixiangmai"
+    ],
+    "name:und_x_variant":[
+        "Ban Sisieng May"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659196
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ddf180011013cc8b3fdb512d094b1c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1243043113,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243043113,
+    "wof:lastmodified":1537660339,
+    "wof:name":"Ban Sixiangmai",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16357,
+    15.3715,
+    106.16357,
+    15.3715
+],
+  "geometry": {"coordinates":[106.16357000000001,15.3715],"type":"Point"}
+}

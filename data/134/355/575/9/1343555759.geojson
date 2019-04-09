@@ -1,0 +1,70 @@
+{
+  "id": 1343555759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.15436,20.96639,102.15436,20.96639",
+    "geom:latitude":20.96639,
+    "geom:longitude":102.15436,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ban Pangsom-Noy",
+    "gn:country_code":"LA",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954624,
+    "gn:latitude":20.96639,
+    "gn:longitude":102.15436,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Pangs\u00f4m-Noy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pangs\u00f4m-Noy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673453,
+        1092027299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954624
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"cc7f9691eaa692a95140df0f74be3522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027299,
+            "locality_id":1343555759,
+            "region_id":85673453
+        }
+    ],
+    "wof:id":1343555759,
+    "wof:lastmodified":1537660771,
+    "wof:name":"Ban Pangsom-Noy",
+    "wof:parent_id":1092027299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.15436,
+    20.96639,
+    102.15436,
+    20.96639
+],
+  "geometry": {"coordinates":[102.15436,20.96639],"type":"Point"}
+}

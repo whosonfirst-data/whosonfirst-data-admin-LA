@@ -1,0 +1,73 @@
+{
+  "id": 1242837929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.89465,19.70232,101.89465,19.70232",
+    "geom:latitude":19.70232,
+    "geom:longitude":101.89465,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Senkhalok",
+    "gn:country_code":"LA",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658074,
+    "gn:latitude":19.70232,
+    "gn:longitude":101.89465,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban S\u00e8nkhal\u00f4k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban X\u00e8nkhal\u00f4k",
+        "Ban Sen Kalok",
+        "Ban Sangkhal\u00f4k",
+        "Ban S\u00e8nkhal\u00f4k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658074
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f414ecde815a3a09b8b6811a5c2fd770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027403,
+            "locality_id":1242837929,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1242837929,
+    "wof:lastmodified":1537660272,
+    "wof:name":"Ban Senkhalok",
+    "wof:parent_id":1092027403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.89465,
+    19.70232,
+    101.89465,
+    19.70232
+],
+  "geometry": {"coordinates":[101.89465,19.70232],"type":"Point"}
+}

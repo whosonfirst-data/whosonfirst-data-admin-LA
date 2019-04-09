@@ -1,0 +1,70 @@
+{
+  "id": 1293850255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.30226,21.17189,102.30226,21.17189",
+    "geom:latitude":21.17189,
+    "geom:longitude":102.30226,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Chala-Kao",
+    "gn:country_code":"LA",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954956,
+    "gn:latitude":21.17189,
+    "gn:longitude":102.30226,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Chala-Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Chala-Kao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954956
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b4a5fff947cbc140a96c17584ed4b42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1293850255,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1293850255,
+    "wof:lastmodified":1537660783,
+    "wof:name":"Ban Chala-Kao",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.30226,
+    21.17189,
+    102.30226,
+    21.17189
+],
+  "geometry": {"coordinates":[102.30226,21.17189],"type":"Point"}
+}

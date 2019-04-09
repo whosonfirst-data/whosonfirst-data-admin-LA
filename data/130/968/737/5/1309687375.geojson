@@ -1,0 +1,74 @@
+{
+  "id": 1309687375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.6355,15.82559,106.6355,15.82559",
+    "geom:latitude":15.82559,
+    "geom:longitude":106.6355,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Tioubat",
+    "gn:country_code":"LA",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1652477,
+    "gn:latitude":15.82559,
+    "gn:longitude":106.6355,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Tioubat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Tioubat"
+    ],
+    "name:und_x_variant":[
+        "Tie Bah",
+        "Tic Bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652477
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d18afb58b731b6be90ed42e41b738212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1309687375,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1309687375,
+    "wof:lastmodified":1537660195,
+    "wof:name":"Ban Tioubat",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.6355,
+    15.82559,
+    106.6355,
+    15.82559
+],
+  "geometry": {"coordinates":[106.63549999999999,15.82559],"type":"Point"}
+}

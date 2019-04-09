@@ -1,0 +1,74 @@
+{
+  "id": 1259883029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.17185,14.73089,106.17185,14.73089",
+    "geom:latitude":14.73089,
+    "geom:longitude":106.17185,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Khonthout",
+    "gn:country_code":"LA",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662885,
+    "gn:latitude":14.73089,
+    "gn:longitude":106.17185,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Khonthout",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Khonthout"
+    ],
+    "name:und_x_variant":[
+        "Ban Kaut Hou",
+        "Ban Khout-Hout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1092031293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662885
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"004730b71d9e014b01dea0cbea4057f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031293,
+            "locality_id":1259883029,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1259883029,
+    "wof:lastmodified":1537660547,
+    "wof:name":"Ban Khonthout",
+    "wof:parent_id":1092031293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.17185,
+    14.73089,
+    106.17185,
+    14.73089
+],
+  "geometry": {"coordinates":[106.17185000000001,14.73089],"type":"Point"}
+}

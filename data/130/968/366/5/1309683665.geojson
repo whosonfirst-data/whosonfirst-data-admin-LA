@@ -1,0 +1,70 @@
+{
+  "id": 1309683665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.82641,21.11804,102.82641,21.11804",
+    "geom:latitude":21.11804,
+    "geom:longitude":102.82641,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Houaytha",
+    "gn:country_code":"LA",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663571,
+    "gn:latitude":21.11804,
+    "gn:longitude":102.82641,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Houaytha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houaytha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663571
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"b1be4879a2713c9f4eca0931d69131fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1309683665,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1309683665,
+    "wof:lastmodified":1537660588,
+    "wof:name":"Ban Houaytha",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.82641,
+    21.11804,
+    102.82641,
+    21.11804
+],
+  "geometry": {"coordinates":[102.82641,21.11804],"type":"Point"}
+}

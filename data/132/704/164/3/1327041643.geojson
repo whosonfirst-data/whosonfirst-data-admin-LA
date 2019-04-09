@@ -1,0 +1,67 @@
+{
+  "id": 1327041643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.13861,20.04194,104.13861,20.04194",
+    "geom:latitude":20.04194,
+    "geom:longitude":104.13861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Keoding",
+    "gn:country_code":"LA",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956953,
+    "gn:latitude":20.04194,
+    "gn:longitude":104.13861,
+    "gn:modification_date":"2001-08-27",
+    "gn:name":"Ban K\u00e8oding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956953
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"bb0aee4868fbc73b4e1094f20b7f4ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1327041643,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1327041643,
+    "wof:lastmodified":1536746824,
+    "wof:name":"Ban Keoding",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.13861,
+    20.04194,
+    104.13861,
+    20.04194
+],
+  "geometry": {"coordinates":[104.13861,20.04194],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259541733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.0189,18.73558,104.0189,18.73558",
+    "geom:latitude":18.73558,
+    "geom:longitude":104.0189,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Vanhom",
+    "gn:country_code":"LA",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1658206,
+    "gn:latitude":18.73558,
+    "gn:longitude":104.0189,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vanhom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Vanhom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658206
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a40c402c4cea004248ee152e831c968b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":1259541733,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1259541733,
+    "wof:lastmodified":1537660281,
+    "wof:name":"Ban Vanhom",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.0189,
+    18.73558,
+    104.0189,
+    18.73558
+],
+  "geometry": {"coordinates":[104.0189,18.73558],"type":"Point"}
+}

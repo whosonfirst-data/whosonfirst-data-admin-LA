@@ -1,0 +1,71 @@
+{
+  "id": 1343727025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39652,16.63524,106.39652,16.63524",
+    "geom:latitude":16.63524,
+    "geom:longitude":106.39652,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Kenglong",
+    "gn:country_code":"LA",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1663293,
+    "gn:latitude":16.63524,
+    "gn:longitude":106.39652,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban K\u00e8nglong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban K\u00e8ng",
+        "Ban K\u00e8nglong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663293
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0b59e5bcfa1149420b7d773daf2dcd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1343727025,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1343727025,
+    "wof:lastmodified":1537660571,
+    "wof:name":"Ban Kenglong",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39652,
+    16.63524,
+    106.39652,
+    16.63524
+],
+  "geometry": {"coordinates":[106.39652,16.63524],"type":"Point"}
+}

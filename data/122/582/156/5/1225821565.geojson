@@ -1,0 +1,70 @@
+{
+  "id": 1225821565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.40302,20.46243,102.40302,20.46243",
+    "geom:latitude":20.46243,
+    "geom:longitude":102.40302,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Moklak",
+    "gn:country_code":"LA",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1955565,
+    "gn:latitude":20.46243,
+    "gn:longitude":102.40302,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban M\u00f4klak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban M\u00f4klak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955565
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7e4d7845990cb1c6b1722cd9b5cd1e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027683,
+            "locality_id":1225821565,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1225821565,
+    "wof:lastmodified":1537660796,
+    "wof:name":"Ban Moklak",
+    "wof:parent_id":1092027683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.40302,
+    20.46243,
+    102.40302,
+    20.46243
+],
+  "geometry": {"coordinates":[102.40302,20.46243],"type":"Point"}
+}

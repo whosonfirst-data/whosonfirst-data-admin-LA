@@ -1,0 +1,70 @@
+{
+  "id": 1243529679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88703,16.40261,106.88703,16.40261",
+    "geom:latitude":16.40261,
+    "geom:longitude":106.88703,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Laxao",
+    "gn:country_code":"LA",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11236565,
+    "gn:latitude":16.40261,
+    "gn:longitude":106.88703,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Laxao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laxao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11236565
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"a1bcf84dbbe6d00b9cc928d5828d2299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028745,
+            "locality_id":1243529679,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1243529679,
+    "wof:lastmodified":1537660961,
+    "wof:name":"Ban Laxao",
+    "wof:parent_id":1092028745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88703,
+    16.40261,
+    106.88703,
+    16.40261
+],
+  "geometry": {"coordinates":[106.88703,16.40261],"type":"Point"}
+}

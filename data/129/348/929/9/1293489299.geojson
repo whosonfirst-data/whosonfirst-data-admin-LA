@@ -1,0 +1,70 @@
+{
+  "id": 1293489299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.70665,20.12141,103.70665,20.12141",
+    "geom:latitude":20.12141,
+    "geom:longitude":103.70665,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ban Phakgna",
+    "gn:country_code":"LA",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1660275,
+    "gn:latitude":20.12141,
+    "gn:longitude":103.70665,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phakgna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Phakgna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673447,
+        1092030635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660275
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"58b0a1d3dae5ae1d34fe671ac1ba8079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030635,
+            "locality_id":1293489299,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":1293489299,
+    "wof:lastmodified":1537660398,
+    "wof:name":"Ban Phakgna",
+    "wof:parent_id":1092030635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.70665,
+    20.12141,
+    103.70665,
+    20.12141
+],
+  "geometry": {"coordinates":[103.70665,20.12141],"type":"Point"}
+}

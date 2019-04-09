@@ -1,0 +1,73 @@
+{
+  "id": 1243337923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.19272,16.79565,105.19272,16.79565",
+    "geom:latitude":16.79565,
+    "geom:longitude":105.19272,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Nachanhoi",
+    "gn:country_code":"LA",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1662074,
+    "gn:latitude":16.79565,
+    "gn:longitude":105.19272,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Nachanhoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Nachanhoi"
+    ],
+    "name:und_x_variant":[
+        "Ban Nachane Hoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092031025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1662074
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6e4852f1cf9fd078ec76654f3a79b821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031025,
+            "locality_id":1243337923,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1243337923,
+    "wof:lastmodified":1537660502,
+    "wof:name":"Ban Nachanhoi",
+    "wof:parent_id":1092031025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.19272,
+    16.79565,
+    105.19272,
+    16.79565
+],
+  "geometry": {"coordinates":[105.19271999999999,16.79565],"type":"Point"}
+}

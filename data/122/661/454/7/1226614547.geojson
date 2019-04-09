@@ -1,0 +1,70 @@
+{
+  "id": 1226614547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.94056,20.38056,100.94056,20.38056",
+    "geom:latitude":20.38056,
+    "geom:longitude":100.94056,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Pang",
+    "gn:country_code":"LA",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1906987,
+    "gn:latitude":20.38056,
+    "gn:longitude":100.94056,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ban Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Pang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092028549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1906987
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"567217069d0ce2cc5a8f6c2904d7bceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028549,
+            "locality_id":1226614547,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1226614547,
+    "wof:lastmodified":1537660689,
+    "wof:name":"Ban Pang",
+    "wof:parent_id":1092028549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.94056,
+    20.38056,
+    100.94056,
+    20.38056
+],
+  "geometry": {"coordinates":[100.94056,20.38056],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310171651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13515,21.57331,102.13515,21.57331",
+    "geom:latitude":21.57331,
+    "geom:longitude":102.13515,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Chapu",
+    "gn:country_code":"LA",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1657784,
+    "gn:latitude":21.57331,
+    "gn:longitude":102.13515,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Chapu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Cha Pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657784
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4a04a3706de88e6cc16c41e0e0f5e69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1310171651,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310171651,
+    "wof:lastmodified":1537660261,
+    "wof:name":"Ban Chapu",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13515,
+    21.57331,
+    102.13515,
+    21.57331
+],
+  "geometry": {"coordinates":[102.13515,21.57331],"type":"Point"}
+}

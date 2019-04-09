@@ -1,0 +1,71 @@
+{
+  "id": 1293162679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.61971,16.43607,106.61971,16.43607",
+    "geom:latitude":16.43607,
+    "geom:longitude":106.61971,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Paliangkhoun",
+    "gn:country_code":"LA",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654221,
+    "gn:latitude":16.43607,
+    "gn:longitude":106.61971,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Paliangkhoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Paliangkhoun"
+    ],
+    "name:und_x_variant":[
+        "Pe Riang (3)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654221
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2384e23159009df2c991e3f75ae0d2bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "locality_id":1293162679,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293162679,
+    "wof:lastmodified":1537660215,
+    "wof:name":"Ban Paliangkhoun",
+    "wof:parent_id":85673429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.61971,
+    16.43607,
+    106.61971,
+    16.43607
+],
+  "geometry": {"coordinates":[106.61971,16.43607],"type":"Point"}
+}

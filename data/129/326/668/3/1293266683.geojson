@@ -1,0 +1,71 @@
+{
+  "id": 1293266683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11916,16.88805,106.11916,16.88805",
+    "geom:latitude":16.88805,
+    "geom:longitude":106.11916,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Namchakan",
+    "gn:country_code":"LA",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1661599,
+    "gn:latitude":16.88805,
+    "gn:longitude":106.11916,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Namchakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nam Cha Kao",
+        "Ban Namchakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1661599
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"42f5f5b65bdbf46aba3947395065bb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1293266683,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1293266683,
+    "wof:lastmodified":1537660477,
+    "wof:name":"Ban Namchakan",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11916,
+    16.88805,
+    106.11916,
+    16.88805
+],
+  "geometry": {"coordinates":[106.11915999999999,16.88805],"type":"Point"}
+}

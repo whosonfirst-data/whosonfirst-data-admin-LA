@@ -1,0 +1,73 @@
+{
+  "id": 1293462879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.58477,18.06238,104.58477,18.06238",
+    "geom:latitude":18.06238,
+    "geom:longitude":104.58477,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Vang",
+    "gn:country_code":"LA",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658233,
+    "gn:latitude":18.06238,
+    "gn:longitude":104.58477,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Pong Pia",
+        "Ban Vang",
+        "Ban Vangpia",
+        "Ban Vang (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092029559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658233
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ba1f2dc11b9d447c7cb29e2dcc2fbe5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029559,
+            "locality_id":1293462879,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293462879,
+    "wof:lastmodified":1537660283,
+    "wof:name":"Ban Vang",
+    "wof:parent_id":1092029559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.58477,
+    18.06238,
+    104.58477,
+    18.06238
+],
+  "geometry": {"coordinates":[104.58477000000001,18.06238],"type":"Point"}
+}

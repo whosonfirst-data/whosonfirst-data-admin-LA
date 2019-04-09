@@ -1,0 +1,70 @@
+{
+  "id": 1276404349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.0702,16.83766,105.0702,16.83766",
+    "geom:latitude":16.83766,
+    "geom:longitude":105.0702,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Phonmakgna",
+    "gn:country_code":"LA",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225966,
+    "gn:latitude":16.83766,
+    "gn:longitude":105.0702,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nmakgna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nmakgna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092028047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225966
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"3b24f902e2139d42269bce502b28b078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028047,
+            "locality_id":1276404349,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1276404349,
+    "wof:lastmodified":1537660904,
+    "wof:name":"Ban Phonmakgna",
+    "wof:parent_id":1092028047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.0702,
+    16.83766,
+    105.0702,
+    16.83766
+],
+  "geometry": {"coordinates":[105.0702,16.83766],"type":"Point"}
+}

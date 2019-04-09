@@ -1,0 +1,70 @@
+{
+  "id": 1259988341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89125,13.9946,105.89125,13.9946",
+    "geom:latitude":13.9946,
+    "geom:longitude":105.89125,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ban Veunsom",
+    "gn:country_code":"LA",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202860,
+    "gn:latitude":13.9946,
+    "gn:longitude":105.89125,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Ban Veuns\u00f4m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Veuns\u00f4m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673423,
+        1108411849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202860
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8e01d8141fbff59a9d875e30f9a6a6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1108411849,
+            "locality_id":1259988341,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":1259988341,
+    "wof:lastmodified":1537660874,
+    "wof:name":"Ban Veunsom",
+    "wof:parent_id":1108411849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89125,
+    13.9946,
+    105.89125,
+    13.9946
+],
+  "geometry": {"coordinates":[105.89125,13.9946],"type":"Point"}
+}

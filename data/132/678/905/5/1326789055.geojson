@@ -1,0 +1,70 @@
+{
+  "id": 1326789055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.51865,19.87171,100.51865,19.87171",
+    "geom:latitude":19.87171,
+    "geom:longitude":100.51865,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ban Tinpha",
+    "gn:country_code":"LA",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1941623,
+    "gn:latitude":19.87171,
+    "gn:longitude":100.51865,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ban Tinpha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Tinpha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673409,
+        1092030459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1941623
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1a030b531d148febd3db3f9f155e92bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030459,
+            "locality_id":1326789055,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":1326789055,
+    "wof:lastmodified":1537660697,
+    "wof:name":"Ban Tinpha",
+    "wof:parent_id":1092030459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.51865,
+    19.87171,
+    100.51865,
+    19.87171
+],
+  "geometry": {"coordinates":[100.51864999999999,19.87171],"type":"Point"}
+}

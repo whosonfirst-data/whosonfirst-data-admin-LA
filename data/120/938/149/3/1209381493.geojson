@@ -1,0 +1,64 @@
+{
+  "id": 1209381493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.95835,18.76464,101.95835,18.76464",
+    "geom:latitude":18.76464,
+    "geom:longitude":101.95835,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ban Laochai",
+    "gn:country_code":"LA",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221749,
+    "gn:latitude":18.76464,
+    "gn:longitude":101.95835,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Laochai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laochai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221749
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"746a4d624d05c335099f367f3be15d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209381493
+        }
+    ],
+    "wof:id":1209381493,
+    "wof:lastmodified":1537660890,
+    "wof:name":"Ban Laochai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.95835,
+    18.76464,
+    101.95835,
+    18.76464
+],
+  "geometry": {"coordinates":[101.95835,18.76464],"type":"Point"}
+}

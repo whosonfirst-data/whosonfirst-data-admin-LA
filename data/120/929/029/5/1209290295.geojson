@@ -1,0 +1,64 @@
+{
+  "id": 1209290295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.35432,21.55209,102.35432,21.55209",
+    "geom:latitude":21.55209,
+    "geom:longitude":102.35432,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Namhai",
+    "gn:country_code":"LA",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952663,
+    "gn:latitude":21.55209,
+    "gn:longitude":102.35432,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Namhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952663
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"1a4d01ddc1051eedea2201a93b62eaec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209290295
+        }
+    ],
+    "wof:id":1209290295,
+    "wof:lastmodified":1537660722,
+    "wof:name":"Ban Namhai",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.35432,
+    21.55209,
+    102.35432,
+    21.55209
+],
+  "geometry": {"coordinates":[102.35432,21.55209],"type":"Point"}
+}

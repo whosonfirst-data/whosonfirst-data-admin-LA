@@ -1,0 +1,70 @@
+{
+  "id": 1276833169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.10851,20.22486,103.10851,20.22486",
+    "geom:latitude":20.22486,
+    "geom:longitude":103.10851,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Paphai",
+    "gn:country_code":"LA",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956826,
+    "gn:latitude":20.22486,
+    "gn:longitude":103.10851,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Paphai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ban Paphai (2)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956826
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"720270b13f3ffc3ebb241dd9f125781e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1276833169,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1276833169,
+    "wof:lastmodified":1537660831,
+    "wof:name":"Ban Paphai",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.10851,
+    20.22486,
+    103.10851,
+    20.22486
+],
+  "geometry": {"coordinates":[103.10851,20.22486],"type":"Point"}
+}

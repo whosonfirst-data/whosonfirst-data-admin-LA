@@ -1,0 +1,73 @@
+{
+  "id": 1226820583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.67071,20.92042,102.67071,20.92042",
+    "geom:latitude":20.92042,
+    "geom:longitude":102.67071,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Pha-Ong",
+    "gn:country_code":"LA",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1654141,
+    "gn:latitude":20.92042,
+    "gn:longitude":102.67071,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Pha-Ong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Pha-Ong"
+    ],
+    "name:und_x_variant":[
+        "Pha Hong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092027961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654141
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"93af8fcff8cf07dca053ef4ff755e635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027961,
+            "locality_id":1226820583,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1226820583,
+    "wof:lastmodified":1537660215,
+    "wof:name":"Ban Pha-Ong",
+    "wof:parent_id":1092027961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.67071,
+    20.92042,
+    102.67071,
+    20.92042
+],
+  "geometry": {"coordinates":[102.67071,20.92042],"type":"Point"}
+}

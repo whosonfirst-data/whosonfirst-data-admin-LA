@@ -1,0 +1,70 @@
+{
+  "id": 1344218835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09795,16.3517,105.09795,16.3517",
+    "geom:latitude":16.3517,
+    "geom:longitude":105.09795,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Dongkhagnang",
+    "gn:country_code":"LA",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221578,
+    "gn:latitude":16.3517,
+    "gn:longitude":105.09795,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban D\u00f4ngkhagnang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban D\u00f4ngkhagnang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092030959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221578
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6f33c9bf55a12ca4b5f00b0500c7e3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030959,
+            "locality_id":1344218835,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1344218835,
+    "wof:lastmodified":1537660886,
+    "wof:name":"Ban Dongkhagnang",
+    "wof:parent_id":1092030959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09795,
+    16.3517,
+    105.09795,
+    16.3517
+],
+  "geometry": {"coordinates":[105.09795,16.3517],"type":"Point"}
+}

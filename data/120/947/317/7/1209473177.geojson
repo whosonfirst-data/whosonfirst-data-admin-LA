@@ -1,0 +1,64 @@
+{
+  "id": 1209473177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.19846,18.6535,104.19846,18.6535",
+    "geom:latitude":18.6535,
+    "geom:longitude":104.19846,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Vangdua",
+    "gn:country_code":"LA",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658306,
+    "gn:latitude":18.6535,
+    "gn:longitude":104.19846,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Vangdua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Vangdua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658306
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6d88fe020cb4b015793fb29945b36f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209473177
+        }
+    ],
+    "wof:id":1209473177,
+    "wof:lastmodified":1537660288,
+    "wof:name":"Ban Vangdua",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.19846,
+    18.6535,
+    104.19846,
+    18.6535
+],
+  "geometry": {"coordinates":[104.19846,18.6535],"type":"Point"}
+}

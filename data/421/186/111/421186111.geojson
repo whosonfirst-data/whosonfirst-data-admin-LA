@@ -1,0 +1,79 @@
+{
+  "id": 421186111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.49702,18.79212,102.49702,18.79212",
+    "geom:latitude":18.79212,
+    "geom:longitude":102.49702,
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ban Houei Pa Mome"
+    ],
+    "qs:gn_country":"LA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1663682,
+    "qs:gn_pop":0,
+    "qs:name":"Ban Houay Pamon",
+    "qs:name_adm0":"Laos",
+    "qs:name_adm1":"Viangchan",
+    "qs:photos":119,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":119,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":910240,
+    "qs:woe_adm0":23424872,
+    "qs:woe_id":1140440,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673437,
+        1092029367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1663682,
+        "gp:id":1140440,
+        "qs:id":910240
+    },
+    "wof:country":"LA",
+    "wof:created":1459009465,
+    "wof:geomhash":"4254dd18d4ab42f8e9547317c8c29da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029367,
+            "locality_id":421186111,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":421186111,
+    "wof:lastmodified":1501221413,
+    "wof:name":"Ban Houay Pamon",
+    "wof:parent_id":1092029367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.49702,
+    18.79212,
+    102.49702,
+    18.79212
+],
+  "geometry": {"coordinates":[102.49702000000001,18.79212],"type":"Point"}
+}

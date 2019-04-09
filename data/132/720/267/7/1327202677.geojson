@@ -1,0 +1,67 @@
+{
+  "id": 1327202677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9767,17.9646,104.9767,17.9646",
+    "geom:latitude":17.9646,
+    "geom:longitude":104.9767,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Sop Hia village",
+    "gn:country_code":"LA",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101976,
+    "gn:latitude":17.9646,
+    "gn:longitude":104.9767,
+    "gn:modification_date":"2016-03-18",
+    "gn:name":"Sop Hia village",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092030753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101976
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"255f357750692ee960e594eea89e7495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030753,
+            "locality_id":1327202677,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1327202677,
+    "wof:lastmodified":1537011928,
+    "wof:name":"Sop Hia village",
+    "wof:parent_id":1092030753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9767,
+    17.9646,
+    104.9767,
+    17.9646
+],
+  "geometry": {"coordinates":[104.97669999999999,17.9646],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209673729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.67145,18.48246,103.67145,18.48246",
+    "geom:latitude":18.48246,
+    "geom:longitude":103.67145,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Veunsouk",
+    "gn:country_code":"LA",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232243,
+    "gn:latitude":18.48246,
+    "gn:longitude":103.67145,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Veunsouk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Veunsouk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232243
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ba2510a791adaaef7b2cce4d579f1af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209673729
+        }
+    ],
+    "wof:id":1209673729,
+    "wof:lastmodified":1537660925,
+    "wof:name":"Ban Veunsouk",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.67145,
+    18.48246,
+    103.67145,
+    18.48246
+],
+  "geometry": {"coordinates":[103.67144999999999,18.48246],"type":"Point"}
+}

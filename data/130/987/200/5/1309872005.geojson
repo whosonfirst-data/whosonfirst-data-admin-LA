@@ -1,0 +1,71 @@
+{
+  "id": 1309872005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.21832,21.37983,102.21832,21.37983",
+    "geom:latitude":21.37983,
+    "geom:longitude":102.21832,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Aomokong",
+    "gn:country_code":"LA",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1654528,
+    "gn:latitude":21.37983,
+    "gn:longitude":102.21832,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Aom\u00f4k\u00f4ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Aom\u00f4k\u00f4ng",
+        "Oa M\u00f4 C\u00f4ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654528
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ebce0f6d04a4c706891d20c35437088e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1309872005,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1309872005,
+    "wof:lastmodified":1537660219,
+    "wof:name":"Ban Aomokong",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.21832,
+    21.37983,
+    102.21832,
+    21.37983
+],
+  "geometry": {"coordinates":[102.21832000000001,21.37983],"type":"Point"}
+}

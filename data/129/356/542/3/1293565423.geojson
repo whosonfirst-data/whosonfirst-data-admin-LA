@@ -1,0 +1,73 @@
+{
+  "id": 1293565423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.37131,19.61663,102.37131,19.61663",
+    "geom:latitude":19.61663,
+    "geom:longitude":102.37131,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Phokhamking",
+    "gn:country_code":"LA",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660015,
+    "gn:latitude":19.61663,
+    "gn:longitude":102.37131,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Phokhamking",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban Phokhamking"
+    ],
+    "name:und_x_variant":[
+        "Ban Pho Khain King"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660015
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"268a3d4e65adbf6b9771bbd80ea91c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":1293565423,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1293565423,
+    "wof:lastmodified":1537660384,
+    "wof:name":"Ban Phokhamking",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.37131,
+    19.61663,
+    102.37131,
+    19.61663
+],
+  "geometry": {"coordinates":[102.37130999999999,19.61663],"type":"Point"}
+}

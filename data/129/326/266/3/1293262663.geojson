@@ -1,0 +1,70 @@
+{
+  "id": 1293262663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.81174,17.36729,104.81174,17.36729",
+    "geom:latitude":17.36729,
+    "geom:longitude":104.81174,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ban Phonsavan-Tai",
+    "gn:country_code":"LA",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233905,
+    "gn:latitude":17.36729,
+    "gn:longitude":104.81174,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ban Ph\u00f4nsavan-Tai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Ph\u00f4nsavan-Tai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673467,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233905
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"684ca41407271d22f421f01436db91b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":1293262663,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":1293262663,
+    "wof:lastmodified":1537660943,
+    "wof:name":"Ban Phonsavan-Tai",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.81174,
+    17.36729,
+    104.81174,
+    17.36729
+],
+  "geometry": {"coordinates":[104.81174,17.36729],"type":"Point"}
+}

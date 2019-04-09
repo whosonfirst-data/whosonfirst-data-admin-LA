@@ -1,0 +1,70 @@
+{
+  "id": 1193243177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.30544,16.6627,106.30544,16.6627",
+    "geom:latitude":16.6627,
+    "geom:longitude":106.30544,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ban Houayla",
+    "gn:country_code":"LA",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1956398,
+    "gn:latitude":16.6627,
+    "gn:longitude":106.30544,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Houayla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Houayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673429,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1956398
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"face1c6659be111f739571ff19145545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":1193243177,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":1193243177,
+    "wof:lastmodified":1537660820,
+    "wof:name":"Ban Houayla",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.30544,
+    16.6627,
+    106.30544,
+    16.6627
+],
+  "geometry": {"coordinates":[106.30544,16.6627],"type":"Point"}
+}

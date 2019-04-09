@@ -1,0 +1,70 @@
+{
+  "id": 1310564469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41582,20.92164,102.41582,20.92164",
+    "geom:latitude":20.92164,
+    "geom:longitude":102.41582,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Makmong",
+    "gn:country_code":"LA",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954649,
+    "gn:latitude":20.92164,
+    "gn:longitude":102.41582,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Makmong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Makmong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954649
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6a04cd639b627bd23c7e3eafe619ccf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":1310564469,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310564469,
+    "wof:lastmodified":1537660772,
+    "wof:name":"Ban Makmong",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41582,
+    20.92164,
+    102.41582,
+    20.92164
+],
+  "geometry": {"coordinates":[102.41582,20.92164],"type":"Point"}
+}

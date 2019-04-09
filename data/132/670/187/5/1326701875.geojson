@@ -1,0 +1,70 @@
+{
+  "id": 1326701875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8823,20.48809,102.8823,20.48809",
+    "geom:latitude":20.48809,
+    "geom:longitude":102.8823,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Bouamban",
+    "gn:country_code":"LA",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954454,
+    "gn:latitude":20.48809,
+    "gn:longitude":102.8823,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Bouamban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Bouamban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673451,
+        1092031583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954454
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"08d60c5ac8ee0c4840a7b01b8370ecd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031583,
+            "locality_id":1326701875,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":1326701875,
+    "wof:lastmodified":1537660766,
+    "wof:name":"Ban Bouamban",
+    "wof:parent_id":1092031583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8823,
+    20.48809,
+    102.8823,
+    20.48809
+],
+  "geometry": {"coordinates":[102.8823,20.48809],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225910519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.04412,21.43027,102.04412,21.43027",
+    "geom:latitude":21.43027,
+    "geom:longitude":102.04412,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Phiaxcu",
+    "gn:country_code":"LA",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1653806,
+    "gn:latitude":21.43027,
+    "gn:longitude":102.04412,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban Phiaxcu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019ia Su",
+        "Ban Phiaxcu",
+        "Ban Phaixou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092027265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653806
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ecab29fbf5a0aba177e91952c0eb7698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027265,
+            "locality_id":1225910519,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1225910519,
+    "wof:lastmodified":1537660211,
+    "wof:name":"Ban Phiaxcu",
+    "wof:parent_id":1092027265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.04412,
+    21.43027,
+    102.04412,
+    21.43027
+],
+  "geometry": {"coordinates":[102.04412000000001,21.43027],"type":"Point"}
+}

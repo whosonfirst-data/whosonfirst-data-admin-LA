@@ -1,0 +1,64 @@
+{
+  "id": 1209679295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.47904,19.53476,102.47904,19.53476",
+    "geom:latitude":19.53476,
+    "geom:longitude":102.47904,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ban Namsa",
+    "gn:country_code":"LA",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1952492,
+    "gn:latitude":19.53476,
+    "gn:longitude":102.47904,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ban Namsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Namsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1952492
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"472d4a89a88b25c774bd971aebb70e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632241,
+            "locality_id":1209679295
+        }
+    ],
+    "wof:id":1209679295,
+    "wof:lastmodified":1537660720,
+    "wof:name":"Ban Namsa",
+    "wof:parent_id":85632241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.47904,
+    19.53476,
+    102.47904,
+    19.53476
+],
+  "geometry": {"coordinates":[102.47904,19.53476],"type":"Point"}
+}

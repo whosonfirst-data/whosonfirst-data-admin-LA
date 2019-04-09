@@ -1,0 +1,73 @@
+{
+  "id": 1326793147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.16324,15.44066,106.16324,15.44066",
+    "geom:latitude":15.44066,
+    "geom:longitude":106.16324,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Thongko-Gnai",
+    "gn:country_code":"LA",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1658486,
+    "gn:latitude":15.44066,
+    "gn:longitude":106.16324,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ban Th\u00f4ngk\u00f4-Gnai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Th\u00f4ngk\u00f4-Gnai"
+    ],
+    "name:und_x_variant":[
+        "Ban Thong Ko Nhiai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092028441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1658486
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"31351e5788c1c5110a18cbc9f3cac62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028441,
+            "locality_id":1326793147,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1326793147,
+    "wof:lastmodified":1537660299,
+    "wof:name":"Ban Thongko-Gnai",
+    "wof:parent_id":1092028441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.16324,
+    15.44066,
+    106.16324,
+    15.44066
+],
+  "geometry": {"coordinates":[106.16324,15.44066],"type":"Point"}
+}

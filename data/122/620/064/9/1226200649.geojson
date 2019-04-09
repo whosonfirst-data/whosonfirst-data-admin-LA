@@ -1,0 +1,71 @@
+{
+  "id": 1226200649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.08924,18.68633,104.08924,18.68633",
+    "geom:latitude":18.68633,
+    "geom:longitude":104.08924,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ban Hatpan",
+    "gn:country_code":"LA",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1664133,
+    "gn:latitude":18.68633,
+    "gn:longitude":104.08924,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Hatpan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Hat Pei",
+        "Ban Hatpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673463,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1664133
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"ca6553f2985c52a026c7c2dea0e196b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":1226200649,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":1226200649,
+    "wof:lastmodified":1537660628,
+    "wof:name":"Ban Hatpan",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.08924,
+    18.68633,
+    104.08924,
+    18.68633
+],
+  "geometry": {"coordinates":[104.08924,18.68633],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209881679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43416,16.07461,106.43416,16.07461",
+    "geom:latitude":16.07461,
+    "geom:longitude":106.43416,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ban Soytam",
+    "gn:country_code":"LA",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1659020,
+    "gn:latitude":16.07461,
+    "gn:longitude":106.43416,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Soytam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Soytam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673427,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1659020
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"174cdf8a78c1b3c5f48cfe073b7f1092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":1209881679,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":1209881679,
+    "wof:lastmodified":1537660329,
+    "wof:name":"Ban Soytam",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43416,
+    16.07461,
+    106.43416,
+    16.07461
+],
+  "geometry": {"coordinates":[106.43416000000001,16.07461],"type":"Point"}
+}

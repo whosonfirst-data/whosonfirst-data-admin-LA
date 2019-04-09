@@ -1,0 +1,73 @@
+{
+  "id": 1310465057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.03987,21.49953,102.03987,21.49953",
+    "geom:latitude":21.49953,
+    "geom:longitude":102.03987,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Sen-Inta",
+    "gn:country_code":"LA",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1653251,
+    "gn:latitude":21.49953,
+    "gn:longitude":102.03987,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ban S\u00e9n-Inta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lao_x_preferred":[
+        "Ban S\u00e9n-Inta"
+    ],
+    "name:und_x_variant":[
+        "Sen In Ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092026617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1653251
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"97670ca83db1f4e45294fb7391ce66bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026617,
+            "locality_id":1310465057,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310465057,
+    "wof:lastmodified":1537660206,
+    "wof:name":"Ban Sen-Inta",
+    "wof:parent_id":1092026617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.03987,
+    21.49953,
+    102.03987,
+    21.49953
+],
+  "geometry": {"coordinates":[102.03986999999999,21.49953],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310564453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.29896,21.30998,102.29896,21.30998",
+    "geom:latitude":21.30998,
+    "geom:longitude":102.29896,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ban Laolep",
+    "gn:country_code":"LA",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1954948,
+    "gn:latitude":21.30998,
+    "gn:longitude":102.29896,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ban Laol\u00e9p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:lao_x_preferred":[
+        "Ban Laol\u00e9p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673459,
+        1092030879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1954948
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"33e06552cacd23cc7bd318af7f55927f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030879,
+            "locality_id":1310564453,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":1310564453,
+    "wof:lastmodified":1537660783,
+    "wof:name":"Ban Laolep",
+    "wof:parent_id":1092030879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.29896,
+    21.30998,
+    102.29896,
+    21.30998
+],
+  "geometry": {"coordinates":[102.29895999999999,21.30998],"type":"Point"}
+}

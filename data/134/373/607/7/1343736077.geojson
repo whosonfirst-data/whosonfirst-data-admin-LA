@@ -1,0 +1,71 @@
+{
+  "id": 1343736077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.14603,19.68952,104.14603,19.68952",
+    "geom:latitude":19.68952,
+    "geom:longitude":104.14603,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ban Gnansong",
+    "gn:country_code":"LA",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1660924,
+    "gn:latitude":19.68952,
+    "gn:longitude":104.14603,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ban Gnansong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Vientiane",
+    "iso:country":"LA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Ban Nhan Song",
+        "Ban Gnansong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632241,
+        85673441,
+        1092031243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1660924
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aedcad96fa3cbc47f1bdc3d9fad19e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031243,
+            "locality_id":1343736077,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":1343736077,
+    "wof:lastmodified":1537660437,
+    "wof:name":"Ban Gnansong",
+    "wof:parent_id":1092031243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.14603,
+    19.68952,
+    104.14603,
+    19.68952
+],
+  "geometry": {"coordinates":[104.14603,19.68952],"type":"Point"}
+}
