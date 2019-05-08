@@ -10,6 +10,12 @@
     "geom:latitude":17.97749,
     "geom:longitude":102.692645,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xaisettha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.978436,
     "lbl:longitude":102.691113,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092029925,
-    "wof:lastmodified":1536615100,
+    "wof:lastmodified":1553718052,
     "wof:name":"Xaisettha",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

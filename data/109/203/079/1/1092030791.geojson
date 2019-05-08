@@ -10,6 +10,12 @@
     "geom:latitude":17.872332,
     "geom:longitude":105.285302,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Nakay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.89737,
     "lbl:longitude":105.35942,
     "meso:admin1_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030791,
-    "wof:lastmodified":1536615101,
+    "wof:lastmodified":1553718054,
     "wof:name":"Nakay",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

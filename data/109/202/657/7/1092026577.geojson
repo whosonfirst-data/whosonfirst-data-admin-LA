@@ -10,6 +10,12 @@
     "geom:latitude":14.291716,
     "geom:longitude":105.566639,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Mounlapamok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.309797,
     "lbl:longitude":105.5602,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026577,
-    "wof:lastmodified":1536615095,
+    "wof:lastmodified":1553718049,
     "wof:name":"Mounlapamok",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":19.93672,
     "geom:longitude":104.534208,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xam-Tai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.916857,
     "lbl:longitude":104.526046,
     "meso:admin1_loc":"\u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026829,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1553718049,
     "wof:name":"Xam-Tai",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

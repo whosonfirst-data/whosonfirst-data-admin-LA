@@ -10,6 +10,12 @@
     "geom:latitude":20.386231,
     "geom:longitude":103.93591,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xam-Nua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.427736,
     "lbl:longitude":103.942617,
     "meso:admin1_loc":"\u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030087,
-    "wof:lastmodified":1536615100,
+    "wof:lastmodified":1553718052,
     "wof:name":"Xam-Nua",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":16.698827,
     "geom:longitude":105.606264,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Phalanxai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.706477,
     "lbl:longitude":105.589082,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028591,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718051,
     "wof:name":"Phalanxai",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":19.565984,
     "geom:longitude":103.911404,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Nonghet District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.543874,
     "lbl:longitude":103.906793,
     "meso:admin1_loc":"\u0e8a\u0ebd\u0e87\u0e82\u0ea7\u0eb2\u0e87",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1092031243,
-    "wof:lastmodified":1536615102,
+    "wof:lastmodified":1555220361,
     "wof:name":"Nonghet",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

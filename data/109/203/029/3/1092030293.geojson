@@ -10,6 +10,12 @@
     "geom:latitude":17.409067,
     "geom:longitude":104.868244,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Thakhek District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.41736,
     "lbl:longitude":104.895423,
     "meso:admin1_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030293,
-    "wof:lastmodified":1536615101,
+    "wof:lastmodified":1553718052,
     "wof:name":"Thakhek",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

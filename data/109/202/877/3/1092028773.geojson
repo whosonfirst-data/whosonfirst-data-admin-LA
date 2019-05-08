@@ -10,6 +10,12 @@
     "geom:latitude":14.928939,
     "geom:longitude":106.790718,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Samakkhixai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.8162,
     "lbl:longitude":106.78404,
     "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028773,
-    "wof:lastmodified":1536615099,
+    "wof:lastmodified":1553718051,
     "wof:name":"Samakkhixai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

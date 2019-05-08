@@ -10,6 +10,12 @@
     "geom:latitude":18.131894,
     "geom:longitude":102.973404,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Pak-Ngum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.126455,
     "lbl:longitude":102.9757,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028157,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718050,
     "wof:name":"Pak-Ngum",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

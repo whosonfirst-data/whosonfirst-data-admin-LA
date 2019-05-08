@@ -10,6 +10,12 @@
     "geom:latitude":17.888538,
     "geom:longitude":104.583715,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Hinboun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.909256,
     "lbl:longitude":104.559193,
     "meso:admin1_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092029559,
-    "wof:lastmodified":1536615100,
+    "wof:lastmodified":1553718052,
     "wof:name":"Hinboun",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

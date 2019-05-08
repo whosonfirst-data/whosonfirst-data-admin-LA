@@ -10,6 +10,12 @@
     "geom:latitude":18.976657,
     "geom:longitude":102.929457,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xaisomboun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.980881,
     "lbl:longitude":102.929432,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092029997,
-    "wof:lastmodified":1536615100,
+    "wof:lastmodified":1553718053,
     "wof:name":"Xaisomboun",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

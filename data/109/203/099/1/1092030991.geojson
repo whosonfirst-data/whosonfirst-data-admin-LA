@@ -10,6 +10,12 @@
     "geom:latitude":15.342497,
     "geom:longitude":105.738187,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xanasomboun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.343896,
     "lbl:longitude":105.734222,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030991,
-    "wof:lastmodified":1536615102,
+    "wof:lastmodified":1553718054,
     "wof:name":"Xanasomboun",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

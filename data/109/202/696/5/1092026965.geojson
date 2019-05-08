@@ -10,6 +10,12 @@
     "geom:latitude":20.82023,
     "geom:longitude":104.18623,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xiangkho District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.817875,
     "lbl:longitude":104.189849,
     "meso:admin1_loc":"\u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026965,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1553718048,
     "wof:name":"Xiangkho",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":20.169268,
     "geom:longitude":102.322362,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Pak-Ou District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.18386,
     "lbl:longitude":102.309507,
     "meso:admin1_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0ea3\u0eb0\u0e9a\u0eb2\u0e87",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028205,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718050,
     "wof:name":"Pak-Ou",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.135397,
     "geom:longitude":105.819892,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Pakxe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.139418,
     "lbl:longitude":105.833944,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028367,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718050,
     "wof:name":"Pakxe",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

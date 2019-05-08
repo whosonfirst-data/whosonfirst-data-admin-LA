@@ -10,6 +10,12 @@
     "geom:latitude":20.90545,
     "geom:longitude":101.727658,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Namo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.903061,
     "lbl:longitude":101.747226,
     "meso:admin1_loc":"\u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092031207,
-    "wof:lastmodified":1536615102,
+    "wof:lastmodified":1553718055,
     "wof:name":"Namo",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

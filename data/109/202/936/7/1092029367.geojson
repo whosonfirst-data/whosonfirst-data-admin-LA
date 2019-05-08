@@ -10,6 +10,12 @@
     "geom:latitude":18.943523,
     "geom:longitude":102.463027,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Vangvieng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.978755,
     "lbl:longitude":102.42648,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1092029367,
-    "wof:lastmodified":1536615099,
+    "wof:lastmodified":1555220360,
     "wof:name":"Vangvieng",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":17.301073,
     "geom:longitude":105.941158,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Boualapha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.231004,
     "lbl:longitude":105.971947,
     "meso:admin1_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026869,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1553718048,
     "wof:name":"Boualapha",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

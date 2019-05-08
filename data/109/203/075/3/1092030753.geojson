@@ -10,6 +10,12 @@
     "geom:latitude":18.35831,
     "geom:longitude":104.92151,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Khamkeut District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.296949,
     "lbl:longitude":104.91467,
     "meso:admin1_loc":"\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030753,
-    "wof:lastmodified":1536615101,
+    "wof:lastmodified":1553718054,
     "wof:name":"Khamkeut",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

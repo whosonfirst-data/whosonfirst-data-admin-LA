@@ -10,6 +10,12 @@
     "geom:latitude":16.387974,
     "geom:longitude":105.545251,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xonbouri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.385061,
     "lbl:longitude":105.545271,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030585,
-    "wof:lastmodified":1536615101,
+    "wof:lastmodified":1553718053,
     "wof:name":"Xonbouri",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

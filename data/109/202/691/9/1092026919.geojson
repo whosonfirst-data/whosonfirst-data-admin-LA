@@ -10,6 +10,12 @@
     "geom:latitude":16.7662,
     "geom:longitude":106.334723,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xepon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.768753,
     "lbl:longitude":106.340721,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026919,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1553718048,
     "wof:name":"Xepon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

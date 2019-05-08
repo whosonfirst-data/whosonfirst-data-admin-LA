@@ -10,6 +10,12 @@
     "geom:latitude":19.138899,
     "geom:longitude":102.155399,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Kasi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.157963,
     "lbl:longitude":102.155427,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1092027063,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1555220360,
     "wof:name":"Kasi",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

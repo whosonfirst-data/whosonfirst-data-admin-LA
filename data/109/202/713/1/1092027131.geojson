@@ -10,6 +10,12 @@
     "geom:latitude":18.564583,
     "geom:longitude":102.564328,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Keo-Oudom District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.562562,
     "lbl:longitude":102.595391,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1092027131,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1555220360,
     "wof:name":"Keo-Oudom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

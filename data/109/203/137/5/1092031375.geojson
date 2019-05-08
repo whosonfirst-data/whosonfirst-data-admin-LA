@@ -10,6 +10,12 @@
     "geom:latitude":18.876897,
     "geom:longitude":101.467779,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Phiang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.816259,
     "lbl:longitude":101.488305,
     "meso:admin1_loc":"\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092031375,
-    "wof:lastmodified":1536615102,
+    "wof:lastmodified":1553718055,
     "wof:name":"Phiang",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

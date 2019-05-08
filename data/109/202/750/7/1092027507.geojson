@@ -10,6 +10,12 @@
     "geom:latitude":18.689866,
     "geom:longitude":103.765689,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Borikhan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.669378,
     "lbl:longitude":103.67633,
     "meso:admin1_loc":"\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027507,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1553718049,
     "wof:name":"Borikhan",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":18.396248,
     "geom:longitude":101.48161,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Paklai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.406042,
     "lbl:longitude":101.458158,
     "meso:admin1_loc":"\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028273,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718050,
     "wof:name":"Paklai",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

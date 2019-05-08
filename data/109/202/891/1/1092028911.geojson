@@ -10,6 +10,12 @@
     "geom:latitude":15.720911,
     "geom:longitude":106.368565,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Saravan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.702787,
     "lbl:longitude":106.363149,
     "meso:admin1_loc":"\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028911,
-    "wof:lastmodified":1536615099,
+    "wof:lastmodified":1553718051,
     "wof:name":"Saravan",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

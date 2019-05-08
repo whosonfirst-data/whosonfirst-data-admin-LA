@@ -10,6 +10,12 @@
     "geom:latitude":16.153301,
     "geom:longitude":105.311877,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Songkhon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.150683,
     "lbl:longitude":105.316044,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026707,
-    "wof:lastmodified":1536615095,
+    "wof:lastmodified":1553718048,
     "wof:name":"Songkhon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":19.948674,
     "geom:longitude":101.067701,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Pakbeng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.953338,
     "lbl:longitude":101.033272,
     "meso:admin1_loc":"\u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028245,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718050,
     "wof:name":"Pakbeng",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

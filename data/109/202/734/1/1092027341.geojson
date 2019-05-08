@@ -10,6 +10,12 @@
     "geom:latitude":21.020038,
     "geom:longitude":101.44606,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Luangnamtha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.034003,
     "lbl:longitude":101.440181,
     "meso:admin1_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e99\u0ecd\u0ec9\u0eb2\u0e97\u0eb2",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027341,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1553718049,
     "wof:name":"Luangnamtha",
     "wof:parent_id":85673413,
     "wof:placetype":"county",

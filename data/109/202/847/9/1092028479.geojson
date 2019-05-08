@@ -10,6 +10,12 @@
     "geom:latitude":15.104219,
     "geom:longitude":106.436506,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Pakxong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.166835,
     "lbl:longitude":106.436496,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028479,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718051,
     "wof:name":"Pakxong",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

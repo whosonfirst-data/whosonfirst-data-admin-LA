@@ -10,6 +10,12 @@
     "geom:latitude":20.362589,
     "geom:longitude":101.71637,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Beng District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":20.317716,
     "lbl:longitude":101.683793,
     "meso:admin1_loc":"\u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027619,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1553718049,
     "wof:name":"Beng",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

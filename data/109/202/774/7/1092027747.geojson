@@ -10,6 +10,12 @@
     "geom:latitude":18.000474,
     "geom:longitude":102.609186,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Chanthabouri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.011178,
     "lbl:longitude":102.608806,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027747,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1553718049,
     "wof:name":"Chanthabouri",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

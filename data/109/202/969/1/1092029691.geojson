@@ -10,6 +10,12 @@
     "geom:latitude":16.940322,
     "geom:longitude":105.931556,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Vilabouri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.90238,
     "lbl:longitude":105.878848,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092029691,
-    "wof:lastmodified":1536615100,
+    "wof:lastmodified":1553718052,
     "wof:name":"Vilabouri",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

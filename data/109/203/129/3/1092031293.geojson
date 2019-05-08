@@ -10,6 +10,12 @@
     "geom:latitude":14.691286,
     "geom:longitude":106.066316,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Pathoumphon District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.598117,
     "lbl:longitude":106.061453,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092031293,
-    "wof:lastmodified":1536615102,
+    "wof:lastmodified":1553718055,
     "wof:name":"Pathoumphon",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

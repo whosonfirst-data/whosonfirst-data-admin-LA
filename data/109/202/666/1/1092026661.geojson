@@ -10,6 +10,12 @@
     "geom:latitude":15.016646,
     "geom:longitude":107.215998,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Sanxai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.007523,
     "lbl:longitude":107.209775,
     "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026661,
-    "wof:lastmodified":1536615095,
+    "wof:lastmodified":1553718048,
     "wof:name":"Sanxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

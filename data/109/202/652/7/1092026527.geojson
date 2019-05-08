@@ -10,6 +10,12 @@
     "geom:latitude":16.583256,
     "geom:longitude":104.855997,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Kaysone Phomvihane District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.57522,
     "lbl:longitude":104.844885,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026527,
-    "wof:lastmodified":1536615095,
+    "wof:lastmodified":1553718047,
     "wof:name":"Kaysone Phomvihane",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

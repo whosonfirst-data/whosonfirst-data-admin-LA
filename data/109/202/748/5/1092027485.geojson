@@ -10,6 +10,12 @@
     "geom:latitude":18.24614,
     "geom:longitude":101.897984,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Meun District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.249512,
     "lbl:longitude":101.90098,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1092027485,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1555220360,
     "wof:name":"Meun",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

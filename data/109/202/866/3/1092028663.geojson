@@ -10,6 +10,12 @@
     "geom:latitude":15.109422,
     "geom:longitude":105.650622,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Phonthong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.100481,
     "lbl:longitude":105.647652,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028663,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718051,
     "wof:name":"Phonthong",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

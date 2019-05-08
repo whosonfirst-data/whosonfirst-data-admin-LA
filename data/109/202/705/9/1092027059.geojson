@@ -10,6 +10,12 @@
     "geom:latitude":16.943718,
     "geom:longitude":104.923381,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xaibouri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":16.972337,
     "lbl:longitude":104.920008,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027059,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1553718049,
     "wof:name":"Xaibouri",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

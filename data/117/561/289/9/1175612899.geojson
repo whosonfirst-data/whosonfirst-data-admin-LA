@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":318254.693493,
+    "geom:area_square_m":814749.794032,
     "geom:bbox":"106.511231688,14.588794868,106.543946452,14.5970047063",
     "geom:latitude":14.593346,
     "geom:longitude":106.528153,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Sanamxai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.592369,
     "lbl:longitude":106.513952,
     "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1175612899,
-    "wof:lastmodified":1534985957,
+    "wof:lastmodified":1555220452,
     "wof:name":"Sanamxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

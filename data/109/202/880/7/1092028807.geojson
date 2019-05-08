@@ -10,6 +10,12 @@
     "geom:latitude":14.740523,
     "geom:longitude":106.416374,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Sanamxai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":14.724932,
     "lbl:longitude":106.389599,
     "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1092028807,
-    "wof:lastmodified":1536615099,
+    "wof:lastmodified":1555220360,
     "wof:name":"Sanamxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

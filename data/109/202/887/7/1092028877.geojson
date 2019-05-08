@@ -10,6 +10,12 @@
     "geom:latitude":15.410144,
     "geom:longitude":106.805678,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Laman District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.432888,
     "lbl:longitude":106.785695,
     "meso:admin1_loc":"\u0ec0\u0e8a\u0e81\u0ead\u0e87",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028877,
-    "wof:lastmodified":1536615099,
+    "wof:lastmodified":1553718051,
     "wof:name":"Laman",
     "wof:parent_id":85673473,
     "wof:placetype":"county",

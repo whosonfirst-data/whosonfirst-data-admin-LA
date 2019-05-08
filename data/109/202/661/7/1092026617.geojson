@@ -10,6 +10,12 @@
     "geom:latitude":21.852821,
     "geom:longitude":102.182637,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Phongsali District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.866396,
     "lbl:longitude":102.21306,
     "meso:admin1_loc":"\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026617,
-    "wof:lastmodified":1536615095,
+    "wof:lastmodified":1553718047,
     "wof:name":"Phongsali",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":21.581554,
     "geom:longitude":102.405029,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Samphan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.495536,
     "lbl:longitude":102.361781,
     "meso:admin1_loc":"\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030879,
-    "wof:lastmodified":1536615102,
+    "wof:lastmodified":1553718054,
     "wof:name":"Samphan",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

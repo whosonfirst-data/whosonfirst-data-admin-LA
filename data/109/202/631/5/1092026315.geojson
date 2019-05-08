@@ -10,6 +10,12 @@
     "geom:latitude":15.867263,
     "geom:longitude":107.034324,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Karum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.817537,
     "lbl:longitude":106.966689,
     "meso:admin1_loc":"\u0ec0\u0e8a\u0e81\u0ead\u0e87",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092026315,
-    "wof:lastmodified":1536615095,
+    "wof:lastmodified":1553718048,
     "wof:name":"Karum",
     "wof:parent_id":85673473,
     "wof:placetype":"county",

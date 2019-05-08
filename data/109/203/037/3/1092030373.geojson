@@ -10,6 +10,12 @@
     "geom:latitude":17.180074,
     "geom:longitude":105.545656,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Xaibouathong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":17.177242,
     "lbl:longitude":105.541439,
     "meso:admin1_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092030373,
-    "wof:lastmodified":1536615101,
+    "wof:lastmodified":1553718053,
     "wof:name":"Xaibouathong",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

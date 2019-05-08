@@ -10,6 +10,12 @@
     "geom:latitude":19.892508,
     "geom:longitude":101.959673,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Chomphet District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.892007,
     "lbl:longitude":101.934141,
     "meso:admin1_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0ea3\u0eb0\u0e9a\u0eb2\u0e87",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027381,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1553718049,
     "wof:name":"Chomphet",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

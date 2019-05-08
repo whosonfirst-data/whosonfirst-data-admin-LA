@@ -10,6 +10,12 @@
     "geom:latitude":18.269835,
     "geom:longitude":102.16917,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Sangthong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":18.312178,
     "lbl:longitude":102.157868,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028841,
-    "wof:lastmodified":1536615099,
+    "wof:lastmodified":1553718051,
     "wof:name":"Sangthong",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

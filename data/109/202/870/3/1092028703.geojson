@@ -10,6 +10,12 @@
     "geom:latitude":19.888603,
     "geom:longitude":102.728534,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Phonxai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":19.912714,
     "lbl:longitude":102.720827,
     "meso:admin1_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0ea3\u0eb0\u0e9a\u0eb2\u0e87",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092028703,
-    "wof:lastmodified":1536615098,
+    "wof:lastmodified":1553718051,
     "wof:name":"Phonxai",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

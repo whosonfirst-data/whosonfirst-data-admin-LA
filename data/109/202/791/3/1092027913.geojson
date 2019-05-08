@@ -10,6 +10,12 @@
     "geom:latitude":21.060835,
     "geom:longitude":102.368396,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Khoa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":21.076389,
     "lbl:longitude":102.373948,
     "meso:admin1_loc":"\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027913,
-    "wof:lastmodified":1536615097,
+    "wof:lastmodified":1553718050,
     "wof:name":"Khoa",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

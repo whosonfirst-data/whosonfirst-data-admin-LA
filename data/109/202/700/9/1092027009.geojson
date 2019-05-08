@@ -10,6 +10,12 @@
     "geom:latitude":15.246386,
     "geom:longitude":105.967188,
     "iso:country":"LA",
+    "label:eng_x_preferred_longname":[
+        "Bachiangchareunsouk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":15.260668,
     "lbl:longitude":105.943389,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092027009,
-    "wof:lastmodified":1536615096,
+    "wof:lastmodified":1553718048,
     "wof:name":"Bachiangchareunsouk",
     "wof:parent_id":85673423,
     "wof:placetype":"county",
