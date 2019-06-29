@@ -22,12 +22,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0627\u0646\u063a \u0628\u0631\u0627\u0628\u0627\u0646\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0578\u0582\u0561\u0576\u0563\u057a\u056d\u0561\u0562\u0561\u0576\u0563"
-    ],
-    "name:baq_x_preferred":[
-        "Luang Prabang"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09af\u09bc\u09be\u0982 \u09aa\u09cd\u09b0\u09be\u09ac\u09be\u0982"
     ],
@@ -40,17 +34,14 @@
     "name:cat_x_preferred":[
         "Luang Prabang"
     ],
+    "name:ces_x_preferred":[
+        "Luang Prabang"
+    ],
     "name:che_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u7405\u52c3\u62c9\u90a6"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433-\u041f\u0440\u0430\u0431\u0430\u043d\u0433"
-    ],
-    "name:cze_x_preferred":[
-        "Luang Prabang"
     ],
     "name:dan_x_preferred":[
         "Luang Prabang"
@@ -58,8 +49,8 @@
     "name:deu_x_preferred":[
         "Luang Prabang"
     ],
-    "name:dut_x_preferred":[
-        "Luang Prabang"
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba \u03a0\u03c1\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Luang Prabang"
@@ -73,6 +64,9 @@
     "name:est_x_preferred":[
         "Louangphabang"
     ],
+    "name:eus_x_preferred":[
+        "Luang Prabang"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0622\u0646\u06af \u067e\u0631\u0627\u0628\u0627\u0646\u06af"
     ],
@@ -81,18 +75,6 @@
     ],
     "name:fra_x_preferred":[
         "Luang Prabang"
-    ],
-    "name:fre_x_preferred":[
-        "Luang Prabang"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10d0\u10dc\u10d2\u10de\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Luang Prabang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03ac\u03bd\u03b3\u03ba \u03a0\u03c1\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a86\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0aac\u0abe\u0a82\u0a97"
@@ -109,10 +91,13 @@
     "name:hun_x_preferred":[
         "Luangprabang"
     ],
-    "name:ice_x_preferred":[
-        "Luang Prabang"
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0561\u0576\u0563\u057a\u056d\u0561\u0562\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
+        "Luang Prabang"
+    ],
+    "name:isl_x_preferred":[
         "Luang Prabang"
     ],
     "name:ita_x_preferred":[
@@ -148,11 +133,11 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0906\u0902\u0917 \u092a\u094d\u0930\u092c\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Luang Prabang"
-    ],
     "name:mon_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433 \u041f\u0440\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Luang Prabang"
     ],
     "name:nld_x_preferred":[
         "Luang Prabang"
@@ -166,16 +151,13 @@
     "name:pan_x_preferred":[
         "\u0a32\u0a41\u0a06\u0a02\u0a17 \u0a2a\u0a30\u0a3e\u0a2c\u0a3e\u0a02\u0a17"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0622\u0646\u06af \u067e\u0631\u0627\u0628\u0627\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "Louangphrabang"
     ],
     "name:por_x_preferred":[
         "Luang Prabang"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Luang Prabang"
     ],
     "name:rus_x_preferred":[
@@ -359,7 +341,7 @@
         }
     ],
     "wof:id":890443897,
-    "wof:lastmodified":1527787070,
+    "wof:lastmodified":1561829617,
     "wof:name":"Louangphabang",
     "wof:parent_id":1092027403,
     "wof:placetype":"locality",

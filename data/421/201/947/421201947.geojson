@@ -20,14 +20,14 @@
     "name:ben_x_preferred":[
         "\u09b6\u09cd\u09af\u09be\u09ae \u09a8\u09bf\u0989\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u6012"
-    ],
     "name:dan_x_preferred":[
         "Xam Neua"
     ],
-    "name:dut_x_preferred":[
-        "Sam Neua"
+    "name:deu_x_preferred":[
+        "Xam Neua"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bc\u03bd\u03b5\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Xam Neua"
@@ -35,14 +35,8 @@
     "name:fin_x_preferred":[
         "Xam Neua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sam Neua"
-    ],
-    "name:ger_x_preferred":[
-        "Xam Neua"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bc\u03bd\u03b5\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ac7\u0aae \u0aa8\u0ac1\u0a86"
@@ -74,8 +68,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0915\u094d\u0938\u092e \u0928\u094d\u092f\u0942\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Xam Neua"
+    ],
+    "name:nld_x_preferred":[
+        "Sam Neua"
     ],
     "name:nob_x_preferred":[
         "Xam Neua"
@@ -121,6 +118,9 @@
     ],
     "name:vie_x_preferred":[
         "Xamneua"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u6012"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -261,7 +261,7 @@
         }
     ],
     "wof:id":421201947,
-    "wof:lastmodified":1527716435,
+    "wof:lastmodified":1561829617,
     "wof:name":"Xam Nua",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

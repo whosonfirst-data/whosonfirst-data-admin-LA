@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0995\u09cd\u09b8\u09be\u09a8"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u6c55"
-    ],
     "name:dan_x_preferred":[
         "Pakxan"
     ],
-    "name:dut_x_preferred":[
-        "Paksan"
+    "name:deu_x_preferred":[
+        "Pakxan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ba\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pakxan"
@@ -36,20 +36,14 @@
     "name:epo_x_preferred":[
         "Paksan"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0634\u0646"
+    ],
     "name:fin_x_preferred":[
         "Pakxan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paksane"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e5\u10e1\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Pakxan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03ba\u03c3\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0a95\u0acd\u0ab8\u0abe\u0aa8"
@@ -69,6 +63,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cbe\u0c95\u0ccd\u0c95\u0ccd\u0cb8\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e5\u10e1\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud30d\uc0b0"
     ],
@@ -81,14 +78,14 @@
     "name:mar_x_preferred":[
         "\u092a\u0915\u094d\u0938\u093e\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pakxan"
+    ],
+    "name:nld_x_preferred":[
+        "Paksan"
     ],
     "name:nob_x_preferred":[
         "Pakxan"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06a9\u0634\u0646"
     ],
     "name:pol_x_preferred":[
         "Pakxan"
@@ -135,6 +132,9 @@
     "name:war_x_preferred":[
         "Paksan"
     ],
+    "name:zho_x_preferred":[
+        "\u5317\u6c55"
+    ],
     "qs:name":"Muang Pakxan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":890433791,
-    "wof:lastmodified":1514470076,
+    "wof:lastmodified":1561829618,
     "wof:name":"Muang Pakxan",
     "wof:parent_id":1092028315,
     "wof:placetype":"locality",

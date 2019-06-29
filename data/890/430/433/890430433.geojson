@@ -30,17 +30,14 @@
     "name:cat_x_preferred":[
         "Attapeu"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u901f\u5761"
-    ],
     "name:dan_x_preferred":[
         "Attapeu"
     ],
     "name:deu_x_preferred":[
         "Attapeu"
     ],
-    "name:dut_x_preferred":[
-        "Attapeu"
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03c4\u03b1\u03c0\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Attapu"
@@ -48,20 +45,14 @@
     "name:epo_x_preferred":[
         "Attapeu"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062a\u0627\u067e\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Attapeu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Attapeu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10d0\u10de\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Attapeu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03c4\u03b1\u03c0\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9f\u0abe\u0aaa\u0ac1"
@@ -84,6 +75,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0c9f\u0caa\u0ccd\u0caa\u0ccd\u0caf\u0cc2"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10d0\u10de\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc557\ud398\uc720"
     ],
@@ -96,14 +90,14 @@
     "name:mar_x_preferred":[
         "\u090d\u091f\u093e\u092a\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Attapeu"
+    ],
+    "name:nld_x_preferred":[
         "Attapeu"
     ],
     "name:nob_x_preferred":[
         "Attapeu"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u062a\u0627\u067e\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Attapu"
@@ -149,6 +143,9 @@
     ],
     "name:war_x_preferred":[
         "Attapeu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u901f\u5761"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -277,7 +274,7 @@
         }
     ],
     "wof:id":890430433,
-    "wof:lastmodified":1553816394,
+    "wof:lastmodified":1561829617,
     "wof:name":"Attapu",
     "wof:parent_id":1092028773,
     "wof:placetype":"locality",

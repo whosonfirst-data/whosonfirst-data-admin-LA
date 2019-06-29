@@ -16,26 +16,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
-    "name:chi_x_preferred":[
-        "\u5360\u5df4\u585e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010campasak"
     ],
-    "name:dut_x_preferred":[
-        "Champassak"
+    "name:deu_x_preferred":[
+        "Champasak"
     ],
     "name:eng_x_preferred":[
         "Champasak"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Champassak"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10d0\u10db\u10de\u10d0\u10e2\u10e1\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Champasak"
     ],
     "name:hrv_x_preferred":[
         "\u010campasak"
@@ -43,11 +34,17 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30f3\u30d1\u30fc\u30b5\u30c3\u30af"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10d0\u10db\u10de\u10d0\u10e2\u10e1\u10d0\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc38\ube60\uc0ad"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81"
+    ],
+    "name:nld_x_preferred":[
+        "Champassak"
     ],
     "name:pol_x_preferred":[
         "Champasak"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Champasak"
+    ],
+    "name:zho_x_preferred":[
+        "\u5360\u5df4\u585e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":890443901,
-    "wof:lastmodified":1527787057,
+    "wof:lastmodified":1561829617,
     "wof:name":"Champasak",
     "wof:parent_id":1092027043,
     "wof:placetype":"locality",
