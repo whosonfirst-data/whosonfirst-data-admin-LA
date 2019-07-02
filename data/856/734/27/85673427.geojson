@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855756,
-    "geom:area_square_m":10179219979.792818,
+    "geom:area_square_m":10179219979.793169,
     "geom:bbox":"105.342227,15.283702488,107.156925,16.55023",
     "geom:latitude":15.849126,
     "geom:longitude":106.271634,
@@ -35,14 +35,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09b2\u09ad\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u62c9\u6e7e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Salavan Province"
     ],
-    "name:dut_x_preferred":[
-        "Salavan"
+    "name:deu_x_preferred":[
+        "Provinz Salavan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Salavan"
@@ -50,17 +50,14 @@
     "name:epo_x_preferred":[
         "Provinco Salavan"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0644\u0627\u0648\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Salavan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province de Saravane"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Salavan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bb\u03b1\u03b2\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0ab2\u0ab5\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,14 +101,14 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0932\u094d\u0935\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Salavan"
+    ],
+    "name:nld_x_preferred":[
+        "Salavan"
     ],
     "name:nob_x_preferred":[
         "Saravane"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0627\u0644\u0627\u0648\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Prowincja Saravane"
@@ -163,6 +160,9 @@
     ],
     "name:war_x_preferred":[
         "Salavan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u62c9\u6e7e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LAO",
@@ -285,7 +285,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1553814805,
+    "wof:lastmodified":1561829572,
     "wof:name":"Saravan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

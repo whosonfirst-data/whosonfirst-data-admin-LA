@@ -19,13 +19,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:chi_x_preferred":[
-        "\u6703\u6652"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Huay Xai"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ban Houayxay"
     ],
     "name:eng_x_preferred":[
@@ -34,14 +31,11 @@
     "name:epo_x_preferred":[
         "Ban Huajsai"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646 \u0647\u0648\u0627\u06cc\u0634\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Houei Sai"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10e3\u10d0\u10d8\u10e1\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ban Houayxay"
     ],
     "name:ita_x_preferred":[
         "Ban Houayxay"
@@ -49,11 +43,14 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a2\u30a4\u30b5\u30fc\u30a4\u90e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10d0\u10d8\u10e1\u10d0\u10d8"
+    ],
     "name:lao_x_preferred":[
         "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0646 \u0647\u0648\u0627\u06cc\u0634\u0627\u06cc"
+    "name:nld_x_preferred":[
+        "Ban Houayxay"
     ],
     "name:pol_x_preferred":[
         "Ban Houayxay"
@@ -72,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Ban Houayxay"
+    ],
+    "name:zho_x_preferred":[
+        "\u6703\u6652"
     ],
     "qs_pg:aaroncc":"LA",
     "qs_pg:gn_country":"LA",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125939803,
-    "wof:lastmodified":1514470029,
+    "wof:lastmodified":1561829618,
     "wof:name":"Ban Houakhoua",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",

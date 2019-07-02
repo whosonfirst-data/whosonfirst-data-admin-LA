@@ -38,14 +38,14 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0443\u0430\u043f\u0445\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u534e\u6f58\u7701"
-    ],
     "name:dan_x_preferred":[
         "Houaphanh Province"
     ],
-    "name:dut_x_preferred":[
-        "Hua Phan"
+    "name:deu_x_preferred":[
+        "Provinz Houaphan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b1\u03c6\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Houaphan"
@@ -53,17 +53,14 @@
     "name:epo_x_preferred":[
         "Provinco Huaphanh"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0648\u0627\u0641\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Houaphan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province de Houaphan"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Houaphan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03b1\u03c6\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acc\u0a86\u0aab\u0a82\u0ab9 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,14 +104,14 @@
     "name:mar_x_preferred":[
         "\u0939\u094c\u0906\u0939\u093e\u0928\u094d\u0939 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Houaphanh"
+    ],
+    "name:nld_x_preferred":[
+        "Hua Phan"
     ],
     "name:nob_x_preferred":[
         "Hua Phan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0647\u0648\u0627\u0641\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Prowincja Houaphan"
@@ -166,6 +163,9 @@
     ],
     "name:war_x_preferred":[
         "Hua Phan"
+    ],
+    "name:zho_x_preferred":[
+        "\u534e\u6f58\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LAO",
@@ -290,7 +290,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1553550408,
+    "wof:lastmodified":1561829574,
     "wof:name":"Houaphan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

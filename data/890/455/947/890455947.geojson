@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0627\u0646\u062e\u062a"
     ],
-    "name:baq_x_preferred":[
-        "Savannakhet"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ad\u09be\u09a8\u09be\u0996\u09c7\u09a4"
     ],
@@ -31,14 +28,11 @@
     "name:cat_x_preferred":[
         "Savannakhet"
     ],
+    "name:ces_x_preferred":[
+        "Savannakhet"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0430\u0432\u0430\u043d\u043d\u0430\u043a\u0445\u0435\u0442"
-    ],
-    "name:chi_x_preferred":[
-        "\u51ef\u5c71\u4e30\u5a01\u6c49\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Savannakhet"
     ],
     "name:dan_x_preferred":[
         "Savannakhet"
@@ -46,8 +40,8 @@
     "name:deu_x_preferred":[
         "Savannakhet"
     ],
-    "name:dut_x_preferred":[
-        "Kaysone Phomvihane"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b2\u03ac\u03bd\u03b1\u03ba\u03b5\u03c4"
     ],
     "name:eng_x_preferred":[
         "Savannakhet"
@@ -55,23 +49,20 @@
     "name:epo_x_preferred":[
         "Savanna\u0125et"
     ],
+    "name:eus_x_preferred":[
+        "Savannakhet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0648\u0627\u0646\u0627\u062e\u062a"
+    ],
     "name:fin_x_preferred":[
         "Savannakhet"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Savannakhet"
     ],
     "name:fur_x_preferred":[
         "Savannakhet"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d0\u10e5\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Savannakhet"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b2\u03ac\u03bd\u03b1\u03ba\u03b5\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab5\u0abe\u0aa8\u0acd\u0aa8\u0abe\u0a96\u0ac7\u0aa4"
@@ -82,10 +73,10 @@
     "name:hrv_x_preferred":[
         "Savannakhet"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Savannakhet"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Savannakhet"
     ],
     "name:ita_x_preferred":[
@@ -96,6 +87,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb5\u0ca8\u0ccd\u0ca8\u0c96\u0cc7\u0ca4\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d0\u10e5\u10d4\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uce74\uc774\uc190\ud3fc\ube44\ud55c"
@@ -115,20 +109,18 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0935\u0928\u094d\u0928\u093e\u0916\u0947\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Savannakhet"
     ],
     "name:nld_x_preferred":[
         "Khwaeng_Savannakhet"
     ],
     "name:nld_x_variant":[
-        "Khwaeng Savannakhet"
+        "Khwaeng Savannakhet",
+        "Kaysone Phomvihane"
     ],
     "name:nob_x_preferred":[
         "Savannakhet"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0648\u0627\u0646\u0627\u062e\u062a"
     ],
     "name:pol_x_preferred":[
         "Savannakhet"
@@ -183,6 +175,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6c99\u7063\u90a3\u5409"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u5c71\u4e30\u5a01\u6c49\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -309,7 +304,7 @@
         }
     ],
     "wof:id":890455947,
-    "wof:lastmodified":1553816404,
+    "wof:lastmodified":1561829617,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":1092026527,
     "wof:placetype":"locality",

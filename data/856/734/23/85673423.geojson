@@ -35,17 +35,17 @@
     "name:ben_x_preferred":[
         "\u099a\u09ae\u09cd\u09aa\u09be\u0995\u0995 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
-    "name:chi_x_preferred":[
-        "\u5360\u5df4\u585e\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u0427\u0430\u043c\u043f\u0430\u0441\u0430\u043a"
     ],
     "name:dan_x_preferred":[
         "Champasak Province"
     ],
-    "name:dut_x_preferred":[
-        "Champassak"
+    "name:deu_x_preferred":[
+        "Provinz Champasak"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bc\u03c0\u03b1\u03c3\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Champasak"
@@ -53,17 +53,14 @@
     "name:epo_x_preferred":[
         "Provinco \u0108ampasako"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0686\u0627\u0645\u067e\u0627\u0633\u0627\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Champasak"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Champassak"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Champasak"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b1\u03bc\u03c0\u03b1\u03c3\u03ac\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0a82\u0aaa\u0abe\u0ab8\u0a95 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,17 +104,17 @@
     "name:mar_x_preferred":[
         "\u091a\u0902\u092a\u093e\u0915\u0915 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Champasak"
-    ],
     "name:mon_x_preferred":[
         "\u0427\u0430\u043c\u043f\u0430\u0441\u0430\u043a \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Champasak"
+    ],
+    "name:nld_x_preferred":[
+        "Champassak"
+    ],
     "name:nob_x_preferred":[
         "Champasack"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0686\u0627\u0645\u067e\u0627\u0633\u0627\u06a9"
     ],
     "name:pol_x_preferred":[
         "Prowincja Champasak"
@@ -169,6 +166,9 @@
     ],
     "name:war_x_preferred":[
         "Champasak"
+    ],
+    "name:zho_x_preferred":[
+        "\u5360\u5df4\u585e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LAO",
@@ -291,7 +291,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1553550438,
+    "wof:lastmodified":1561829573,
     "wof:name":"Champasak",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

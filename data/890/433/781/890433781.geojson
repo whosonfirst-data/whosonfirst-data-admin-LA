@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u0982\u09b8\u09be\u09b2\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u8c50\u6c99\u91cc"
-    ],
     "name:dan_x_preferred":[
         "Phongsali"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Phongsali"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03bd\u03b3\u03ba\u03c3\u03ac\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Phongsali"
@@ -37,20 +37,14 @@
     "name:epo_x_preferred":[
         "Phongsali"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0646\u06af\u0633\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Ph\u00f4ngsali"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Phongsali"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10dd\u10dc\u10d2\u10e1\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Phongsali"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bd\u03b3\u03ba\u03c3\u03ac\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acb\u0a82\u0a97\u0acd\u0ab8\u0ab2\u0ac0"
@@ -70,6 +64,9 @@
     "name:kan_x_preferred":[
         "\u0cab\u0ccb\u0c82\u0c97\u0ccd\u0cb8\u0cbe\u0cb2\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10dc\u10d2\u10e1\u10d0\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud401\uc0b4\ub9ac"
     ],
@@ -82,14 +79,14 @@
     "name:mar_x_preferred":[
         "\u092b\u094b\u0902\u0917\u0938\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Phongsali"
+    ],
+    "name:nld_x_preferred":[
         "Phongsali"
     ],
     "name:nob_x_preferred":[
         "Phongsali"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0646\u06af\u0633\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Ph\u00f4ngsali"
@@ -135,6 +132,9 @@
     ],
     "name:war_x_preferred":[
         "Phongsali"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c50\u6c99\u91cc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -263,7 +263,7 @@
         }
     ],
     "wof:id":890433781,
-    "wof:lastmodified":1527792958,
+    "wof:lastmodified":1561829618,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",

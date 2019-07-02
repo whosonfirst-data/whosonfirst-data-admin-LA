@@ -39,14 +39,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Phongsali"
     ],
-    "name:chi_x_preferred":[
-        "\u4e30\u6c99\u91cc\u7701"
-    ],
     "name:dan_x_preferred":[
         "Phongsaly Province"
     ],
-    "name:dut_x_preferred":[
-        "Phongsali"
+    "name:deu_x_preferred":[
+        "Provinz Phongsali"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03bd\u03b3\u03ba\u03c3\u03b1\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Phongsali"
@@ -54,17 +54,14 @@
     "name:epo_x_preferred":[
         "Provinco Phongsali"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0648\u0646\u06af\u0633\u0627\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Phongsali"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province de Phongsaly"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Phongsali"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03bd\u03b3\u03ba\u03c3\u03b1\u03bb\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acb\u0a82\u0a97\u0acd\u0ab8\u0abe\u0ab2\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -108,14 +105,14 @@
     "name:mar_x_preferred":[
         "\u092b\u094b\u0902\u0917\u093e\u0938\u094d\u0932\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wilayah Phongsaly"
+    ],
+    "name:nld_x_preferred":[
+        "Phongsali"
     ],
     "name:nob_x_preferred":[
         "Phongsali"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0641\u0648\u0646\u06af\u0633\u0627\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Ph\u00f4ngsali"
@@ -167,6 +164,9 @@
     ],
     "name:war_x_preferred":[
         "Phongsali"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e30\u6c99\u91cc\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LAO",
@@ -290,7 +290,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1553550421,
+    "wof:lastmodified":1561829570,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

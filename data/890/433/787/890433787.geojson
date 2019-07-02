@@ -22,17 +22,17 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a8\u09be\u09af\u09bc\u09be\u09ac\u09c1\u09b2\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u8036\u6b66\u91cc"
-    ],
     "name:dan_x_preferred":[
         "Sainyabuli"
     ],
     "name:deu_x_preferred":[
         "Sayaboury"
     ],
-    "name:dut_x_preferred":[
-        "Muang Sayaburi"
+    "name:deu_x_variant":[
+        "Sainyabuli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u0390\u03bd\u03b3\u03b9\u03b1\u03bc\u03c0\u03bf\u03c5\u03bb\u03b9"
     ],
     "name:eng_x_colloquial":[
         "Xaignabouli",
@@ -50,20 +50,14 @@
     "name:epo_x_preferred":[
         "Sainjabuli"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06cc\u0646\u06cc\u0627\u0628\u0648\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Sainyabuli"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sainyabuli"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d8\u10dc\u10d8\u10d0\u10d1\u10e3\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sainyabuli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u0390\u03bd\u03b3\u03b9\u03b1\u03bc\u03c0\u03bf\u03c5\u03bb\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac8\u0aa8\u0acd\u0aaf\u0abe\u0aac\u0ac1\u0ab2\u0ac0"
@@ -83,6 +77,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc8\u0ca8\u0ccd\u0caf\u0cac\u0cc1\u0cb2\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d8\u10dc\u10d8\u10d0\u10d1\u10e3\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc778\ubd88\ub9ac"
     ],
@@ -95,17 +92,17 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u092f\u0928\u093e\u092c\u0941\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sainyabuli"
     ],
     "name:nld_x_preferred":[
         "Khwaeng Sainyabuli"
     ],
+    "name:nld_x_variant":[
+        "Muang Sayaburi"
+    ],
     "name:nob_x_preferred":[
         "Sainyabuli"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u06cc\u0646\u06cc\u0627\u0628\u0648\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Sayaboury"
@@ -148,6 +145,9 @@
     ],
     "name:war_x_preferred":[
         "Sainyabuli"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u8036\u6b66\u91cc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":890433787,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561829618,
     "wof:name":"Xaignabouli",
     "wof:parent_id":1092030249,
     "wof:placetype":"locality",

@@ -28,14 +28,11 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043a\u0441\u0435"
     ],
+    "name:ces_x_preferred":[
+        "Pakse"
+    ],
     "name:che_x_preferred":[
         "\u041f\u0430\u043a\u0441\u0435"
-    ],
-    "name:chi_x_preferred":[
-        "\u5df4\u8272"
-    ],
-    "name:cze_x_preferred":[
-        "Pakse"
     ],
     "name:dan_x_preferred":[
         "Pakxe"
@@ -43,8 +40,11 @@
     "name:deu_x_preferred":[
         "Pakx\u00e9"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Pakse"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03be\u03b5"
     ],
     "name:eng_x_preferred":[
         "Pakse"
@@ -61,18 +61,6 @@
     "name:fra_x_preferred":[
         "Paks\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Paks\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e5\u10e1\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Pakse"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03be\u03b5"
-    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a95\u0ab8\u0ac7"
     ],
@@ -85,10 +73,10 @@
     "name:hun_x_preferred":[
         "Pakx\u00e9"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Pakse"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Pakse"
     ],
     "name:ita_x_preferred":[
@@ -122,14 +110,8 @@
     "name:lit_x_preferred":[
         "Paks\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u043a\u0441\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u093e\u0915\u094d\u0938\u0947"
-    ],
-    "name:may_x_preferred":[
-        "Pakse"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043a\u0441\u0435"
@@ -137,14 +119,17 @@
     "name:mon_x_preferred":[
         "\u041f\u0430\u043a\u0441\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Pakse"
+    ],
     "name:nld_x_preferred":[
         "Pakxe"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_variant":[
         "Pakse"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u06a9\u0633\u0647"
+    "name:nob_x_preferred":[
+        "Pakse"
     ],
     "name:pol_x_preferred":[
         "Pakxe"
@@ -322,7 +307,7 @@
         }
     ],
     "wof:id":890440015,
-    "wof:lastmodified":1527727102,
+    "wof:lastmodified":1561829617,
     "wof:name":"Pakx\u00e9",
     "wof:parent_id":1092028367,
     "wof:placetype":"locality",

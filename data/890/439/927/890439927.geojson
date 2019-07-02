@@ -25,17 +25,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043a\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u4ed6\u66f2"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Thakhek"
     ],
     "name:dan_x_preferred":[
         "Thakhek"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Thakhek"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03b1\u03ba\u03ad\u03ba"
     ],
     "name:eng_x_preferred":[
         "Thakhek"
@@ -43,20 +43,14 @@
     "name:epo_x_preferred":[
         "Tha\u0125ek"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062e\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Thakhek"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thakhek"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d0\u10d9\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Thakhek"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03b1\u03ba\u03ad\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0a96\u0ac7\u0a95"
@@ -79,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0ca5\u0c96\u0cc7\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10d9\u10d4\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ucf01"
     ],
@@ -94,14 +91,14 @@
     "name:mar_x_preferred":[
         "\u0920\u0916\u0947\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Thakhek"
+    ],
+    "name:nld_x_preferred":[
         "Thakhek"
     ],
     "name:nob_x_preferred":[
         "Thakhek"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u062e\u06a9"
     ],
     "name:pol_x_preferred":[
         "Thakhek"
@@ -144,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Thakhek"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ed6\u66f2"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Laos",
@@ -272,7 +272,7 @@
         }
     ],
     "wof:id":890439927,
-    "wof:lastmodified":1527729733,
+    "wof:lastmodified":1561829617,
     "wof:name":"Thakh\u00e8k",
     "wof:parent_id":1092030293,
     "wof:placetype":"locality",
