@@ -27,6 +27,9 @@
     "name:fra_x_preferred":[
         "S\u00e9kong"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30de\u30fc\u30e0\u90e1"
+    ],
     "name:nld_x_preferred":[
         "Ban Phone"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890455949,
-    "wof:lastmodified":1561829617,
+    "wof:lastmodified":1563271208,
     "wof:name":"Lamam",
     "wof:parent_id":1092028877,
     "wof:placetype":"locality",

@@ -12,6 +12,15 @@
     "iso:country":"LA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sam Neua"
+    ],
+    "name:fra_x_preferred":[
+        "Sam Neua"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Sam Neua"
+    ],
     "oa:elevation_ft":"3281",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":102542635,
-    "wof:lastmodified":1543846096,
+    "wof:lastmodified":1563269603,
     "wof:name":"Sam Neua Airport",
     "wof:parent_id":85673447,
     "wof:placetype":"campus",

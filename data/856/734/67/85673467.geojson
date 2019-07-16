@@ -38,6 +38,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0445\u0430\u043c\u043e\u0443\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Khammouan"
+    ],
     "name:dan_x_preferred":[
         "Khammouane Province"
     ],
@@ -50,6 +53,9 @@
     "name:eng_x_preferred":[
         "Khammouan"
     ],
+    "name:eng_x_variant":[
+        "Khammouane Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco \u0124amuane"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:fra_x_preferred":[
         "Province de Khammouane"
+    ],
+    "name:fra_x_variant":[
+        "Khammouane"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0aae\u0abe\u0a89\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,6 +115,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Khammouane"
+    ],
+    "name:nan_x_preferred":[
+        "Khammouane S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Khammuan"
@@ -291,7 +303,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1561829572,
+    "wof:lastmodified":1563269831,
     "wof:name":"Khammouan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

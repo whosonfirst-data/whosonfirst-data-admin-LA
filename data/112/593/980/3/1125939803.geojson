@@ -58,6 +58,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043d  \u0425\u043e\u0439\u044f\u043a\u0441\u044f\u0443"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0443\u044d\u0439\u0441\u0430\u0439"
+    ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125939803,
-    "wof:lastmodified":1561829618,
+    "wof:lastmodified":1563271213,
     "wof:name":"Ban Houakhoua",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Phonsavan"
     ],
+    "name:ceb_x_preferred":[
+        "Phonsavan"
+    ],
     "name:ces_x_preferred":[
         "Phonsavan"
     ],
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":421196137,
-    "wof:lastmodified":1561829617,
+    "wof:lastmodified":1563271203,
     "wof:name":"Muang Ph\u00f4nsavan",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u0982\u09b8\u09be\u09b2\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Ph\u00f4ngsali"
+    ],
+    "name:ces_x_preferred":[
+        "Phongsali"
+    ],
     "name:dan_x_preferred":[
         "Phongsali"
     ],
@@ -263,7 +269,7 @@
         }
     ],
     "wof:id":890433781,
-    "wof:lastmodified":1561829618,
+    "wof:lastmodified":1563271212,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",

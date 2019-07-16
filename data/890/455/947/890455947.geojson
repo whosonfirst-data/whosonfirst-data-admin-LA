@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0627\u0646\u062e\u062a"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u043d\u0430\u043a\u0445\u0435\u0442"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09ad\u09be\u09a8\u09be\u0996\u09c7\u09a4"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:cat_x_preferred":[
         "Savannakhet"
+    ],
+    "name:ceb_x_preferred":[
+        "Savannakh\u00e9t"
     ],
     "name:ces_x_preferred":[
         "Savannakhet"
@@ -42,6 +48,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03b2\u03ac\u03bd\u03b1\u03ba\u03b5\u03c4"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03b2\u03ac\u03bd\u03b1\u03c7\u03b5\u03c4"
     ],
     "name:eng_x_preferred":[
         "Savannakhet"
@@ -85,6 +94,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30ef\u30f3\u30ca\u30b1\u30fc\u30c8\u770c"
     ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30a4\u30bd\u30fc\u30f3\u30fb\u30dd\u30e0\u30a6\u30a3\u30cf\u30fc\u30f3\u90e1"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cb5\u0ca8\u0ccd\u0ca8\u0c96\u0cc7\u0ca4\u0ccd"
     ],
@@ -125,6 +137,9 @@
     "name:pol_x_preferred":[
         "Savannakhet"
     ],
+    "name:pol_x_variant":[
+        "Savannakh\u00e9t"
+    ],
     "name:por_x_preferred":[
         "Savannakhet"
     ],
@@ -149,6 +164,9 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e2a\u0e30\u0e2b\u0e27\u0e31\u0e19\u0e19\u0e30\u0e40\u0e02\u0e15"
     ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e01\u0e2a\u0e2d\u0e19 \u0e1e\u0e21\u0e27\u0e34\u0e2b\u0e32\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Savannakhet"
     ],
@@ -166,6 +184,9 @@
     ],
     "name:vie_x_preferred":[
         "Savannakhet"
+    ],
+    "name:vie_x_variant":[
+        "Kaysone Phomvihane"
     ],
     "name:war_x_preferred":[
         "Muang Kaysone Phomvihane"
@@ -304,7 +325,7 @@
         }
     ],
     "wof:id":890455947,
-    "wof:lastmodified":1561829617,
+    "wof:lastmodified":1563271207,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":1092026527,
     "wof:placetype":"locality",

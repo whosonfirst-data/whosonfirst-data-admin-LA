@@ -16,8 +16,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "name:ceb_x_preferred":[
+        "Muang Phou Kont"
+    ],
+    "name:eng_x_preferred":[
+        "Phou Kout District"
+    ],
+    "name:fra_x_preferred":[
+        "Phookood"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30fc\u30af\u30fc\u30c9\u90e1"
+    ],
     "name:lao_x_preferred":[
         "Phou P\u00e8k"
+    ],
+    "name:spa_x_preferred":[
+        "Phookood"
+    ],
+    "name:swe_x_preferred":[
+        "Muang Phou Kont"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e20\u0e39\u0e01\u0e39\u0e14"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0445\u0443\u043a\u0443\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Phou Kout"
     ],
     "qs:name":"Phou P\u00e8k",
     "qs:photos_9r":0,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":890455217,
-    "wof:lastmodified":1527734192,
+    "wof:lastmodified":1563271206,
     "wof:name":"Phou P\u00e8k",
     "wof:parent_id":1092031243,
     "wof:placetype":"locality",

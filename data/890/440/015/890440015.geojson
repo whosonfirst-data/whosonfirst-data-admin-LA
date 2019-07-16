@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043a\u0441\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Pakx\u00e9"
+    ],
     "name:ces_x_preferred":[
         "Pakse"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:hun_x_preferred":[
         "Pakx\u00e9"
+    ],
+    "name:ido_x_preferred":[
+        "Pakxe"
     ],
     "name:ind_x_preferred":[
         "Pakse"
@@ -307,7 +313,7 @@
         }
     ],
     "wof:id":890440015,
-    "wof:lastmodified":1561829617,
+    "wof:lastmodified":1563271205,
     "wof:name":"Pakx\u00e9",
     "wof:parent_id":1092028367,
     "wof:placetype":"locality",

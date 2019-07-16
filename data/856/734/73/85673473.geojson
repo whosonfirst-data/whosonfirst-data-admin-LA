@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u0995\u0982 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Khou\u00e8ng X\u00e9kong"
+    ],
     "name:dan_x_preferred":[
         "Sekong Province"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Xekong"
+    ],
+    "name:eng_x_variant":[
+        "Sekong Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Sekong"
@@ -59,6 +65,9 @@
     "name:fra_x_preferred":[
         "Province de S\u00e9kong"
     ],
+    "name:fra_x_variant":[
+        "S\u00e9kong"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a95\u0acb\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -70,6 +79,9 @@
     ],
     "name:hun_x_preferred":[
         "Szekong tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u056f\u0578\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi Xekong"
@@ -100,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Sekong"
+    ],
+    "name:nan_x_preferred":[
+        "Sekong S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Sekong"
@@ -282,7 +297,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1561829572,
+    "wof:lastmodified":1563269835,
     "wof:name":"X\u00e9kong",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
