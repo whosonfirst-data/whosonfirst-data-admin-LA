@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09af\u09bc\u09be\u0982 \u09a8\u09be\u09ae\u09a5\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Louang Namtha"
+    ],
     "name:ces_x_preferred":[
         "Luang Namtha"
     ],
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421173145,
-    "wof:lastmodified":1561829617,
+    "wof:lastmodified":1563271201,
     "wof:name":"Louang Namtha",
     "wof:parent_id":1092027341,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0995\u09cd\u09b8\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Muang Pakxan"
+    ],
     "name:dan_x_preferred":[
         "Pakxan"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":890433791,
-    "wof:lastmodified":1561829618,
+    "wof:lastmodified":1563271211,
     "wof:name":"Muang Pakxan",
     "wof:parent_id":1092028315,
     "wof:placetype":"locality",

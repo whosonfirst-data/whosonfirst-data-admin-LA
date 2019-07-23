@@ -28,6 +28,9 @@
     "name:fas_x_preferred":[
         "\u0648\u0646\u06af \u0648\u06cc\u0646\u06af"
     ],
+    "name:fin_x_preferred":[
+        "Vang Vieng"
+    ],
     "name:fra_x_preferred":[
         "Vang Vieng"
     ],
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421195609,
-    "wof:lastmodified":1561829616,
+    "wof:lastmodified":1563271198,
     "wof:name":"Vangviang",
     "wof:parent_id":1092029367,
     "wof:placetype":"locality",

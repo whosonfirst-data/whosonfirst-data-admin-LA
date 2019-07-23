@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a8\u09be\u09af\u09bc\u09be\u09ac\u09c1\u09b2\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Sainyabuli"
+    ],
     "name:dan_x_preferred":[
         "Sainyabuli"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:pol_x_preferred":[
         "Sayaboury"
+    ],
+    "name:pol_x_variant":[
+        "Muang Xaignabouli"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0439\u043d\u044f\u0431\u0443\u043b\u0438"
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":890433787,
-    "wof:lastmodified":1561829618,
+    "wof:lastmodified":1563271212,
     "wof:name":"Xaignabouli",
     "wof:parent_id":1092030249,
     "wof:placetype":"locality",

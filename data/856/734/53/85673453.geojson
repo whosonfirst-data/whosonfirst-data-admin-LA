@@ -38,6 +38,12 @@
     "name:ben_x_preferred":[
         "\u0989\u09af\u09bc\u09be\u09a1\u09cb\u09ae\u09af\u09be\u09af\u09bc \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ceb_x_preferred":[
+        "Khou\u00e8ng Oud\u00f4mxai"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Oudomxay"
+    ],
     "name:dan_x_preferred":[
         "Oudomxay Province"
     ],
@@ -50,6 +56,9 @@
     "name:eng_x_preferred":[
         "Oudomxai"
     ],
+    "name:eng_x_variant":[
+        "Oudomxay Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Udomsai"
     ],
@@ -61,6 +70,9 @@
     ],
     "name:fra_x_preferred":[
         "Province d'Oudomxay"
+    ],
+    "name:fra_x_variant":[
+        "Oudomxay"
     ],
     "name:guj_x_preferred":[
         "\u0a91\u0aa1\u0acb\u0aae\u0acd\u0a95\u0acd\u0ab8\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,6 +118,9 @@
     ],
     "name:msa_x_preferred":[
         "Wilayah Oudomxay"
+    ],
+    "name:nan_x_preferred":[
+        "Oudomxay S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Udomxai"
@@ -288,7 +303,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1561829573,
+    "wof:lastmodified":1563269838,
     "wof:name":"Oud\u00f4mxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
