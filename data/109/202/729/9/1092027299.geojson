@@ -38,6 +38,12 @@
     "name:eng_x_variant":[
         "La"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627"
+    ],
+    "name:glg_x_preferred":[
+        "La"
+    ],
     "name:und_x_variant":[
         "\u0eab\u0ebc\u0eb2"
     ],
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":1092027299,
-    "wof:lastmodified":1553718049,
+    "wof:lastmodified":1564154816,
     "wof:name":"La",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

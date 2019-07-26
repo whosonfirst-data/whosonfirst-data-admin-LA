@@ -29,6 +29,9 @@
         "Na Song Hay",
         "Na Son"
     ],
+    "name:vie_x_preferred":[
+        "Na Son"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209874071,
-    "wof:lastmodified":1537660221,
+    "wof:lastmodified":1564154360,
     "wof:name":"Na Son",
     "wof:parent_id":1092027795,
     "wof:placetype":"locality",

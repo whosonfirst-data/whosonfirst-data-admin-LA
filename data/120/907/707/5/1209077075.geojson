@@ -25,6 +25,9 @@
     "iso:country":"LA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Muang Kham"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632241
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209077075,
-    "wof:lastmodified":1537567902,
+    "wof:lastmodified":1564154202,
     "wof:name":"Muang Kham",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

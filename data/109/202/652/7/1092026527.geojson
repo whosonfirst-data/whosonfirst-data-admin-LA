@@ -32,14 +32,98 @@
     "mps:longitude":104.844885,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u064a\u0633\u0648\u0646 \u0641\u0648\u0645\u0641\u064a\u0647\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u0439\u0441\u043e\u043d \u0424\u0430\u043c\u0432\u0456\u0445\u0430\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Kayson Phomvihan"
+    ],
+    "name:deu_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
     "name:eng_x_preferred":[
         "Khanthabouly"
     ],
     "name:eng_x_variant":[
         "Khanthabouly"
     ],
+    "name:epo_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:est_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0633\u0648\u0646 \u0641\u0648\u0645\u0648\u06cc\u0647\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:fra_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:ido_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:ind_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:ita_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a4\u30bd\u30fc\u30f3\u30fb\u30dd\u30e0\u30a6\u30a3\u30cf\u30fc\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10d8\u10e1\u10dd\u10dc \u10e4\u10dd\u10db\u10d5\u10d8\u10ee\u10d0\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc774\uc190 \ud3fc\ube44\ud55c"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec4\u0e81\u0eaa\u0ead\u0e99 \u0e9e\u0ebb\u0ea1\u0ea7\u0eb4\u0eab\u0eb2\u0e99"
+    ],
+    "name:mon_x_preferred":[
+        "\u041a\u0435\u0439\u0441\u043e\u043d \u0424\u043e\u043c\u0432\u0438\u0445\u0430\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:nor_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:pol_x_preferred":[
+        "Kaysone Phomvihan"
+    ],
+    "name:por_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043c\u0432\u0438\u0445\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0435\u0458\u0441\u043e\u043d \u0424\u043e\u043c\u0432\u0438\u0445\u0430\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e01\u0e2a\u0e2d\u0e19 \u0e1e\u0e21\u0e27\u0e34\u0e2b\u0e32\u0e19"
+    ],
     "name:und_x_variant":[
         "\"\u0ec4\u0e81\u0eaa\u0ead\u0e99 \u0e9e\u0ebb\u0ea1\u0ea7\u0eb4\u0eab\u0eb2\ufffd\ufffd"
+    ],
+    "name:vie_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:war_x_preferred":[
+        "Kaysone Phomvihane"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u5c71\u00b7\u4e30\u5a01\u6c49"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -74,7 +158,7 @@
         }
     ],
     "wof:id":1092026527,
-    "wof:lastmodified":1553718047,
+    "wof:lastmodified":1564154809,
     "wof:name":"Kaysone Phomvihane",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

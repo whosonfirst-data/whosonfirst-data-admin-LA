@@ -28,6 +28,12 @@
     "name:lao_x_preferred":[
         "Ban Donkho"
     ],
+    "name:por_x_preferred":[
+        "Don Kho"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Kho"
+    ],
     "name:und_x_variant":[
         "Ban Done Kho",
         "Done Kho",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326542789,
-    "wof:lastmodified":1537660259,
+    "wof:lastmodified":1564153458,
     "wof:name":"Ban Donkho",
     "wof:parent_id":1092030991,
     "wof:placetype":"locality",
