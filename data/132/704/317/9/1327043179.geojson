@@ -28,6 +28,9 @@
     "name:lao_x_preferred":[
         "Ban Hinlat"
     ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e34\u0e19\u0e25\u0e32\u0e14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327043179,
-    "wof:lastmodified":1537660871,
+    "wof:lastmodified":1564153403,
     "wof:name":"Ban Hinlat",
     "wof:parent_id":1092031293,
     "wof:placetype":"locality",

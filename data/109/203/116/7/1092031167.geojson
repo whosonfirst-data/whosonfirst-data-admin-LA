@@ -32,14 +32,59 @@
     "mps:longitude":100.565295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Huay Xai"
+    ],
+    "name:deu_x_preferred":[
+        "Ban Houayxay"
+    ],
     "name:eng_x_preferred":[
         "Houixai"
     ],
     "name:eng_x_variant":[
         "Houixai"
     ],
+    "name:epo_x_preferred":[
+        "Ban Huajsai"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646 \u0647\u0648\u0627\u06cc\u0634\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Houei Sai"
+    ],
+    "name:ita_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a2\u30a4\u30b5\u30fc\u30a4\u90e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10e3\u10d0\u10d8\u10e1\u10d0\u10d8"
+    ],
+    "name:lao_x_preferred":[
+        "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
+    ],
+    "name:nld_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:pol_x_preferred":[
+        "Ban Houayxay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u0439\u0441\u0430\u0439"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
+    ],
     "name:und_x_variant":[
         "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
+    ],
+    "name:vie_x_preferred":[
+        "Huoixai"
+    ],
+    "name:war_x_preferred":[
+        "Ban Houayxay"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -74,7 +119,7 @@
         }
     ],
     "wof:id":1092031167,
-    "wof:lastmodified":1553718054,
+    "wof:lastmodified":1564154786,
     "wof:name":"Houayxay",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

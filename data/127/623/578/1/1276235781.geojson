@@ -28,6 +28,9 @@
     "name:lao_x_preferred":[
         "Ban Tan\u00f4ng"
     ],
+    "name:pol_x_preferred":[
+        "Ban Tanong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276235781,
-    "wof:lastmodified":1537660833,
+    "wof:lastmodified":1564154122,
     "wof:name":"Ban Tanong",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

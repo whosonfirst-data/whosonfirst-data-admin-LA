@@ -26,6 +26,9 @@
     "iso:country":"LA",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Ban Kong-Ek"
+    ],
     "name:und_x_variant":[
         "Ban Nai Kong Ek",
         "Ban Kong-\u00c9k"
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209224197,
-    "wof:lastmodified":1537660541,
+    "wof:lastmodified":1564154293,
     "wof:name":"Ban Kong-Ek",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

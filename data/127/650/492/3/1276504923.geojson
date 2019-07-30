@@ -28,6 +28,9 @@
     "name:lao_x_preferred":[
         "Ban Pakha"
     ],
+    "name:pol_x_preferred":[
+        "Ban Pakha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276504923,
-    "wof:lastmodified":1537660413,
+    "wof:lastmodified":1564154071,
     "wof:name":"Ban Pakha",
     "wof:parent_id":1092029605,
     "wof:placetype":"locality",

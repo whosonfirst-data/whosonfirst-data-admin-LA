@@ -33,10 +33,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Khong"
+    ],
+    "name:deu_x_preferred":[
+        "Khong"
+    ],
     "name:eng_x_preferred":[
         "Khong"
     ],
     "name:eng_x_variant":[
+        "Khong"
+    ],
+    "name:swe_x_preferred":[
         "Khong"
     ],
     "name:und_x_variant":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1108411849,
-    "wof:lastmodified":1553718113,
+    "wof:lastmodified":1564154551,
     "wof:name":"Khong",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

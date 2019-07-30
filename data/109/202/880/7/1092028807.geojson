@@ -35,6 +35,12 @@
     "name:eng_x_variant":[
         "Sanamxay"
     ],
+    "name:pol_x_preferred":[
+        "Sanamxai"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e19\u0e32\u0e21\u0e0a\u0e31\u0e22"
+    ],
     "name:und_x_variant":[
         "\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0ec4\u0e8a"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1092028807,
-    "wof:lastmodified":1555220360,
+    "wof:lastmodified":1564154796,
     "wof:name":"Sanamxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

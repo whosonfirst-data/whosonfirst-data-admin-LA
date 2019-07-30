@@ -28,6 +28,9 @@
     "name:lao_x_preferred":[
         "Ban S\u00e8nk\u00e8o"
     ],
+    "name:pol_x_preferred":[
+        "Ban Senkeo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209818509,
-    "wof:lastmodified":1537660879,
+    "wof:lastmodified":1564154397,
     "wof:name":"Ban Senkeo",
     "wof:parent_id":1092027009,
     "wof:placetype":"locality",

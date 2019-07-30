@@ -28,6 +28,9 @@
     "name:lao_x_preferred":[
         "Ban S\u00e8nlouang"
     ],
+    "name:pol_x_preferred":[
+        "Ban Senlouang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259349053,
-    "wof:lastmodified":1537660782,
+    "wof:lastmodified":1564155253,
     "wof:name":"Ban Senlouang",
     "wof:parent_id":1092030879,
     "wof:placetype":"locality",

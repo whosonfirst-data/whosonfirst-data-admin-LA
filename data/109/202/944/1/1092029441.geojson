@@ -32,14 +32,83 @@
     "mps:longitude":105.974951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bih_x_preferred":[
+        "\u0935\u093e\u092a\u0940"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09be\u09aa\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "Vapi"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00e1p\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Vapi"
+    ],
     "name:eng_x_preferred":[
         "Vapy"
     ],
     "name:eng_x_variant":[
         "Vapy"
     ],
+    "name:epo_x_preferred":[
+        "Vapi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u067e\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Vapi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0abe\u0aaa\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u092a\u0940"
+    ],
+    "name:ita_x_preferred":[
+        "Vapi"
+    ],
+    "name:mar_x_preferred":[
+        "\u0935\u093e\u092a\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Vapi"
+    ],
+    "name:msa_x_preferred":[
+        "Vapi"
+    ],
+    "name:new_x_preferred":[
+        "\u0935\u093e\u092a\u093f"
+    ],
+    "name:nld_x_preferred":[
+        "Vapi"
+    ],
+    "name:pam_x_preferred":[
+        "Vapi"
+    ],
+    "name:spa_x_preferred":[
+        "Vapi"
+    ],
+    "name:swe_x_preferred":[
+        "Vapi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bbe\u0baa\u0bcd\u0baa\u0bbf"
+    ],
     "name:und_x_variant":[
         "\u0ea7\u0eb2\u0e9b\u0eb5"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u067e\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Vapi"
+    ],
+    "name:war_x_preferred":[
+        "Vapi"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -74,7 +143,7 @@
         }
     ],
     "wof:id":1092029441,
-    "wof:lastmodified":1553718052,
+    "wof:lastmodified":1564154815,
     "wof:name":"Vapi",
     "wof:parent_id":85673427,
     "wof:placetype":"county",
