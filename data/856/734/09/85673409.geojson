@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BK"
+    ],
     "lbl:latitude":20.457314,
     "lbl:longitude":100.59851,
     "meso:name_loc":"\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85673409,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269837,
+    "wof:lastmodified":1565910314,
     "wof:name":"Bokeo",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
@@ -309,6 +309,7 @@
     "wof:population":145216,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-la",
+    "wof:shortcode":"BK",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

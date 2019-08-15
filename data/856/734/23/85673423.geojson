@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":14.813102,
     "lbl:longitude":105.880942,
     "meso:name_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
@@ -300,16 +303,13 @@
         }
     ],
     "wof:id":85673423,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269842,
+    "wof:lastmodified":1565726313,
     "wof:name":"Champasak",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

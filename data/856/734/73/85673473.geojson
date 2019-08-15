@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XE"
+    ],
     "lbl:latitude":15.552736,
     "lbl:longitude":106.977763,
     "meso:name_loc":"\u0ec0\u0e8a\u0e81\u0ead\u0e87",
@@ -288,16 +291,13 @@
         }
     ],
     "wof:id":85673473,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269835,
+    "wof:lastmodified":1565726311,
     "wof:name":"X\u00e9kong",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

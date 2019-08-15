@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HO"
+    ],
     "lbl:latitude":20.36499,
     "lbl:longitude":103.998274,
     "meso:name_loc":"\u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99",
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85673447,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269843,
+    "wof:lastmodified":1565726313,
     "wof:name":"Houaphan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SV"
+    ],
     "lbl:latitude":16.507601,
     "lbl:longitude":105.725646,
     "meso:name_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
@@ -296,16 +299,13 @@
         }
     ],
     "wof:id":85673429,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269833,
+    "wof:lastmodified":1565726311,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

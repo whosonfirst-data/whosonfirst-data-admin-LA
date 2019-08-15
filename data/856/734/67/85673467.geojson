@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":17.557468,
     "lbl:longitude":105.274089,
     "meso:name_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85673467,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269831,
+    "wof:lastmodified":1565726311,
     "wof:name":"Khammouan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

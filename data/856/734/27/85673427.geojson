@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":15.824103,
     "lbl:longitude":106.361095,
     "meso:name_loc":"\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99",
@@ -291,16 +294,13 @@
         }
     ],
     "wof:id":85673427,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269832,
+    "wof:lastmodified":1565726311,
     "wof:name":"Saravan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LM"
+    ],
     "lbl:latitude":20.88503,
     "lbl:longitude":101.088583,
     "meso:name_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e99\u0ecd\u0ec9\u0eb2\u0e97\u0eb2",
@@ -295,16 +298,13 @@
         }
     ],
     "wof:id":85673413,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269844,
+    "wof:lastmodified":1565726313,
     "wof:name":"Louang Namtha",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

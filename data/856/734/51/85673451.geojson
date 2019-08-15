@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LP"
+    ],
     "lbl:latitude":20.137916,
     "lbl:longitude":102.62839,
     "meso:name_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0ea3\u0eb0\u0e9a\u0eb2\u0e87",
@@ -285,16 +288,13 @@
         }
     ],
     "wof:id":85673451,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269830,
+    "wof:lastmodified":1565726310,
     "wof:name":"Luangphrabang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

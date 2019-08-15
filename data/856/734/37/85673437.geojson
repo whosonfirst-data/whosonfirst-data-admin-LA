@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Vientiane Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VI"
+    ],
     "lbl:latitude":18.846354,
     "lbl:longitude":102.315852,
     "meso:name_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -212,16 +215,13 @@
         }
     ],
     "wof:id":85673437,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269839,
+    "wof:lastmodified":1565726312,
     "wof:name":"Vientiane",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

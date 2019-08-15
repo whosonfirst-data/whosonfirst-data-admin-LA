@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":14.782123,
     "lbl:longitude":107.065977,
     "meso:name_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
@@ -301,16 +304,13 @@
         }
     ],
     "wof:id":85673469,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269828,
+    "wof:lastmodified":1565726310,
     "wof:name":"Attapeu",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

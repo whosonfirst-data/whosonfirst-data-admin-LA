@@ -15,6 +15,9 @@
     "itu:country_code":[
         "856"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":19.43535,
     "lbl:longitude":102.560667,
     "mps:latitude":19.43535,
@@ -1024,16 +1027,13 @@
         }
     ],
     "wof:id":85632241,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269824,
+    "wof:lastmodified":1565726309,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

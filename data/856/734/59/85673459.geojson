@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":21.633996,
     "lbl:longitude":102.240674,
     "meso:name_loc":"\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85673459,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269827,
+    "wof:lastmodified":1565726310,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

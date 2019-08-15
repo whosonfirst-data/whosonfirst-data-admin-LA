@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Xiangkhoang Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "XI"
+    ],
     "lbl:latitude":19.461236,
     "lbl:longitude":103.511011,
     "meso:name_loc":"\u0e8a\u0ebd\u0e87\u0e82\u0ea7\u0eb2\u0e87",
@@ -271,16 +274,13 @@
         }
     ],
     "wof:id":85673441,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269841,
+    "wof:lastmodified":1565726313,
     "wof:name":"Xiangkhoang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

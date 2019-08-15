@@ -15,6 +15,9 @@
     "label:eng_x_preferred_longname":[
         "Vientiane (prefecture) Municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VT"
+    ],
     "lbl:latitude":18.074822,
     "lbl:longitude":102.716167,
     "meso:name_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
@@ -222,16 +225,13 @@
         }
     ],
     "wof:id":85673433,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269831,
+    "wof:lastmodified":1565726311,
     "wof:name":"Vientiane (prefecture)",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

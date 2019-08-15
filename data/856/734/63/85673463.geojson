@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Borikhamxai Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BL"
+    ],
     "lbl:latitude":18.546984,
     "lbl:longitude":104.339726,
     "meso:name_loc":"\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a",
@@ -275,16 +278,13 @@
         }
     ],
     "wof:id":85673463,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269840,
+    "wof:lastmodified":1565726312,
     "wof:name":"Borikhamxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

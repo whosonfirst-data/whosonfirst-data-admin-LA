@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OU"
+    ],
     "lbl:latitude":20.432257,
     "lbl:longitude":101.847804,
     "meso:name_loc":"\u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a",
@@ -294,16 +297,13 @@
         }
     ],
     "wof:id":85673453,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "lao"
     ],
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1563269838,
+    "wof:lastmodified":1565726312,
     "wof:name":"Oud\u00f4mxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
