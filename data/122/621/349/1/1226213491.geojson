@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.9,19.38028,103.94,19.42028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Gnot Houaypa",
         "Ban Nhot Houei Pa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226213491,
-    "wof:lastmodified":1537660635,
+    "wof:lastmodified":1566593623,
     "wof:name":"Ban Nhot Houei Pa",
     "wof:parent_id":1092031243,
     "wof:placetype":"locality",

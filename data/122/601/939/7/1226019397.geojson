@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.21852,16.20707,105.25852,16.24707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Malai-Th\u00f4ng"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226019397,
-    "wof:lastmodified":1537660893,
+    "wof:lastmodified":1566593721,
     "wof:name":"Ban Malai-Thong",
     "wof:parent_id":1092026707,
     "wof:placetype":"locality",

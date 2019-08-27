@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":19.43535,
     "lbl:longitude":102.560667,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":19.43535,
     "mps:longitude":102.560667,
     "mz:hierarchy_label":1,
@@ -810,10 +812,8 @@
     "name:ukr_x_variant":[
         "\u041b\u0430\u043e\u0441\u044c\u043a\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
     ],
-    "name:und_x_preferred":[
-        "Sathalanalat Paxathipatai Paxaxon Lao"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Sathalanalat Paxathipatai Paxaxon Lao",
         "Phrarassa Anachak Lao"
     ],
     "name:urd_x_preferred":[
@@ -967,7 +967,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"856",
     "statoids:ds":"LAO",
@@ -1011,7 +1011,7 @@
         "mzb:id":"laos",
         "ne:adm0_a3":"LAO",
         "nyt:id":"48649561478424166401",
-        "qs:id":557734,
+        "qs_pg:id":557734,
         "uncrt:id":"LAO",
         "wd:id":"Q819",
         "wk:page":"Laos",
@@ -1033,7 +1033,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726309,
+    "wof:lastmodified":1566592623,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

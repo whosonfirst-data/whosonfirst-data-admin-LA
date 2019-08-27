@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.52486,16.25565,106.56486,16.29565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Ala"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309880189,
-    "wof:lastmodified":1537660970,
+    "wof:lastmodified":1566593345,
     "wof:name":"Ban Ala",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

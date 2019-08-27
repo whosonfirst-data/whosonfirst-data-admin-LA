@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.56728,17.33138,105.60728,17.37138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Hay Thong Som",
         "Ban Haith\u00f4ngx\u00f4m"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243427653,
-    "wof:lastmodified":1537660633,
+    "wof:lastmodified":1566593494,
     "wof:name":"Ban Haithongxom",
     "wof:parent_id":1092031145,
     "wof:placetype":"locality",

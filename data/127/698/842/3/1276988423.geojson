@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.21216,20.51821,104.25216,20.55821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Houayva"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276988423,
-    "wof:lastmodified":1537660796,
+    "wof:lastmodified":1566592903,
     "wof:name":"Ban Houayva",
     "wof:parent_id":1092031621,
     "wof:placetype":"locality",

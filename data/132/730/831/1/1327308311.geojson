@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.68254,16.24778,105.72254,16.28778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban X\u00f4ngkou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327308311,
-    "wof:lastmodified":1537660898,
+    "wof:lastmodified":1566592337,
     "wof:name":"Ban Xongkou",
     "wof:parent_id":1092029171,
     "wof:placetype":"locality",

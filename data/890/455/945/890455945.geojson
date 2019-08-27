@@ -11,11 +11,15 @@
     "geom:longitude":106.97846,
     "gn:country":"LA",
     "gn:fcode":"ADMD",
-    "gn:pop":80883,
+    "gn:population":80883,
     "iso:country":"LA",
+    "lbl:bbox":"106.87846,15.22084,107.07846,15.42084",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Muang Sekong"
     ],
     "qs:name":"Muang X\u00e9kong",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1651942,
-        "qs:id":557663
+        "qs_pg:id":557663
     },
     "wof:country":"LA",
     "wof:created":1469052986,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890455945,
-    "wof:lastmodified":1505343666,
+    "wof:lastmodified":1566593358,
     "wof:name":"Muang X\u00e9kong",
     "wof:parent_id":1092028877,
     "wof:placetype":"localadmin",

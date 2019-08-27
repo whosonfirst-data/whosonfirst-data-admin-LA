@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.00006,
     "lbl:longitude":106.594721,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99",
     "meso:admin_1":"Saravane",
     "meso:dissme":"Ta-OySaravane",
@@ -32,6 +34,7 @@
     "mps:longitude":106.594721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ta Oi"
     ],
@@ -42,7 +45,7 @@
         "\u0e95\u0eb2\u0ec2\u0ead\u0e8d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092029099,
-    "wof:lastmodified":1553718052,
+    "wof:lastmodified":1566593282,
     "wof:name":"Ta-Oy",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

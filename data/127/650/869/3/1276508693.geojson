@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.1615,16.32843,105.2015,16.36843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Tane Soum",
         "Ban Tansoum"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276508693,
-    "wof:lastmodified":1537660320,
+    "wof:lastmodified":1566592843,
     "wof:name":"Ban Tansoum",
     "wof:parent_id":1092028085,
     "wof:placetype":"locality",

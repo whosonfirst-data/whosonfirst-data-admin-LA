@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.66996,20.57217,101.70996,20.61217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Chomka"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326821991,
-    "wof:lastmodified":1537660662,
+    "wof:lastmodified":1566592413,
     "wof:name":"Ban Chomka",
     "wof:parent_id":1092029739,
     "wof:placetype":"locality",

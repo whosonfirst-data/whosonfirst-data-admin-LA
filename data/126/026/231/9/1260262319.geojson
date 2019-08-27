@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.66682,19.79795,101.70682,19.83795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phougnakha"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260262319,
-    "wof:lastmodified":1537660754,
+    "wof:lastmodified":1566593118,
     "wof:name":"Ban Phougnakha",
     "wof:parent_id":1092027837,
     "wof:placetype":"locality",

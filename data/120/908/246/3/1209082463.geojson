@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.10653,19.88883,102.14653,19.92883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Naleu"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209082463,
-    "wof:lastmodified":1537660839,
+    "wof:lastmodified":1566592935,
     "wof:name":"Ban Naleu",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

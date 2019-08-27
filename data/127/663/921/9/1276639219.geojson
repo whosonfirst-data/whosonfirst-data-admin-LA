@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.38417,19.74545,103.42417,19.78545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Xiang-Ay"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276639219,
-    "wof:lastmodified":1537660717,
+    "wof:lastmodified":1566592893,
     "wof:name":"Ban Xiang-Ay",
     "wof:parent_id":1092027197,
     "wof:placetype":"locality",

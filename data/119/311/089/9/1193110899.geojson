@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.24318,19.7181,103.28318,19.7581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nad\u00f4ng",
         "Ban Nad\u00f4ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193110899,
-    "wof:lastmodified":1537660225,
+    "wof:lastmodified":1566593075,
     "wof:name":"Ban Nadong",
     "wof:parent_id":1092029955,
     "wof:placetype":"locality",

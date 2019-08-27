@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.67586,19.59975,100.71586,19.63975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Mai-Phoulanlouang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209887485,
-    "wof:lastmodified":1537660700,
+    "wof:lastmodified":1566593033,
     "wof:name":"Ban Mai-Phoulanlouang",
     "wof:parent_id":1092030503,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.62486,18.2763,102.66486,18.3163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongph\u00f4ng-Tai"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209060599,
-    "wof:lastmodified":1537660803,
+    "wof:lastmodified":1566592933,
     "wof:name":"Ban Nongphong-Tai",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

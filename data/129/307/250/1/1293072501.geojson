@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.27869,19.74288,102.31869,19.78288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Houaykok"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293072501,
-    "wof:lastmodified":1537660903,
+    "wof:lastmodified":1566592635,
     "wof:name":"Ban Houaykok",
     "wof:parent_id":1092030413,
     "wof:placetype":"locality",

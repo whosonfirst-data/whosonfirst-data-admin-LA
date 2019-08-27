@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.34667,20.09667,102.38667,20.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houei Ho",
         "Ban Houei Hot",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209478731,
-    "wof:lastmodified":1537660610,
+    "wof:lastmodified":1566592963,
     "wof:name":"Ban Houay Hot",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

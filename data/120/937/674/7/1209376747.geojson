@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.80173,16.01587,105.84173,16.05587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Mai-X\u00e9"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209376747,
-    "wof:lastmodified":1537660518,
+    "wof:lastmodified":1566592937,
     "wof:name":"Ban Mai-Xe",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

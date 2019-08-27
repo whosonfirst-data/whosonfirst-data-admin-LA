@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.16286,21.44051,102.20286,21.48051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban S\u00e8nkang-Kao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259749343,
-    "wof:lastmodified":1537660723,
+    "wof:lastmodified":1566593584,
     "wof:name":"Ban Senkang-Kao",
     "wof:parent_id":1092030879,
     "wof:placetype":"locality",

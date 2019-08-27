@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.04667,19.09667,104.08667,19.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muang Ngat",
         "Ban Muong Ngat",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226625087,
-    "wof:lastmodified":1537660507,
+    "wof:lastmodified":1566593725,
     "wof:name":"Ban Muangngat (1)",
     "wof:parent_id":1092027549,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":102.10536,
     "gn:country":"LA",
     "gn:fcode":"PPLA",
-    "gn:pop":13500,
+    "gn:population":13500,
     "iso:country":"LA",
+    "lbl:bbox":"102.08536,21.66372,102.12536,21.70372",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -127,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0445\u043e\u043d\u0433\u0441\u0430\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fong Sali"
     ],
     "name:urd_x_preferred":[
@@ -252,7 +255,7 @@
     "wof:concordances":{
         "gn:id":1653894,
         "gp:id":1140043,
-        "qs:id":133863,
+        "qs_pg:id":133863,
         "wd:id":"Q966990",
         "wk:page":"Phongsali"
     },
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":890433781,
-    "wof:lastmodified":1563271212,
+    "wof:lastmodified":1566593359,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",

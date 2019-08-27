@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.18312,20.88481,104.22312,20.92481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phabao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343269571,
-    "wof:lastmodified":1537660810,
+    "wof:lastmodified":1566592608,
     "wof:name":"Ban Phabao",
     "wof:parent_id":1092026965,
     "wof:placetype":"locality",

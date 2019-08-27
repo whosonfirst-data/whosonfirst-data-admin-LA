@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.51546,21.32316,102.55546,21.36316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Gnay-Tai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326506055,
-    "wof:lastmodified":1537660775,
+    "wof:lastmodified":1566592383,
     "wof:name":"Ban Gnay-Tai",
     "wof:parent_id":1092026481,
     "wof:placetype":"locality",

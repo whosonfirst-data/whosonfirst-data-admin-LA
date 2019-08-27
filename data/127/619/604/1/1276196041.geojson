@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.81023,16.96512,104.85023,17.00512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban S\u00f4msaat"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276196041,
-    "wof:lastmodified":1537660338,
+    "wof:lastmodified":1566592797,
     "wof:name":"Ban Somsaat",
     "wof:parent_id":1092027059,
     "wof:placetype":"locality",

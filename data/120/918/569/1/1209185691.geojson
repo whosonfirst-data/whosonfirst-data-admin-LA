@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.59119,20.55084,102.63119,20.59084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nong Khiaw"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209185691,
-    "wof:lastmodified":1537660257,
+    "wof:lastmodified":1566593007,
     "wof:name":"Ban Hatxao",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

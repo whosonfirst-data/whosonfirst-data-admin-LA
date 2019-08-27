@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.67548,18.07307,102.71548,18.11307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Done Mark Khay",
         "Ban D\u00f4ng Mark Khay",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277043581,
-    "wof:lastmodified":1537660653,
+    "wof:lastmodified":1566592860,
     "wof:name":"Ban Donmakkhay",
     "wof:parent_id":1092030043,
     "wof:placetype":"locality",

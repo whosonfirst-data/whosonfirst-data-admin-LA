@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.36941,16.25525,105.40941,16.29525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongboua-Tai"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343323709,
-    "wof:lastmodified":1537660435,
+    "wof:lastmodified":1566592558,
     "wof:name":"Ban Nongboua-Tai",
     "wof:parent_id":1092030585,
     "wof:placetype":"locality",

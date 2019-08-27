@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.06729,21.35638,101.10729,21.39638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Laomeuy"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209688379,
-    "wof:lastmodified":1537660971,
+    "wof:lastmodified":1566592979,
     "wof:name":"Ban Laomeuy",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

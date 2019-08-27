@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.85463,19.11329,103.89463,19.15329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Namkiao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327003679,
-    "wof:lastmodified":1537660473,
+    "wof:lastmodified":1566592347,
     "wof:name":"Ban Namkiao",
     "wof:parent_id":1092027549,
     "wof:placetype":"locality",

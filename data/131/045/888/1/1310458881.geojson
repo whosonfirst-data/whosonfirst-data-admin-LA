@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"107.22191,15.34049,107.26191,15.38049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Dakkaliang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310458881,
-    "wof:lastmodified":1537660858,
+    "wof:lastmodified":1566593178,
     "wof:name":"Ban Dakkaliang",
     "wof:parent_id":1092026145,
     "wof:placetype":"locality",

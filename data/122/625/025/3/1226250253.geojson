@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.9554,20.83101,103.9954,20.87101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Ph\u00e8"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226250253,
-    "wof:lastmodified":1537660389,
+    "wof:lastmodified":1566593685,
     "wof:name":"Ban Phe",
     "wof:parent_id":1092031091,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.96862,18.55841,104.00862,18.59841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Pnak Beuak",
         "Ban Phak Beuak",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327192283,
-    "wof:lastmodified":1537660398,
+    "wof:lastmodified":1566592452,
     "wof:name":"Ban Phakpuak",
     "wof:parent_id":1092027507,
     "wof:placetype":"locality",

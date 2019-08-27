@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.42208,20.31377,102.46208,20.35377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nal\u00e8"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344228529,
-    "wof:lastmodified":1537660798,
+    "wof:lastmodified":1566592507,
     "wof:name":"Ban Nale",
     "wof:parent_id":1092027961,
     "wof:placetype":"locality",

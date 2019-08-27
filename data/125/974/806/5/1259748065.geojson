@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.87418,16.89147,105.91418,16.93147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Namalou"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259748065,
-    "wof:lastmodified":1537660478,
+    "wof:lastmodified":1566593585,
     "wof:name":"Ban Namalou",
     "wof:parent_id":1092029691,
     "wof:placetype":"locality",

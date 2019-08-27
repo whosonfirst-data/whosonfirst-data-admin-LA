@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.53662,19.61306,102.57662,19.65306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Pholai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243135803,
-    "wof:lastmodified":1537660383,
+    "wof:lastmodified":1566593426,
     "wof:name":"Ban Pholai",
     "wof:parent_id":1092029323,
     "wof:placetype":"locality",

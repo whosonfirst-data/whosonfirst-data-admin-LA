@@ -10,6 +10,9 @@
     "geom:latitude":20.41592,
     "geom:longitude":104.04838,
     "iso:country":"LA",
+    "lbl:bbox":"104.02838,20.39592,104.06838,20.43592",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c-\u041d\u0435\u0443\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samnua"
     ],
     "name:urd_x_preferred":[
@@ -254,7 +257,7 @@
     "wof:concordances":{
         "gn:id":1652203,
         "gp:id":1140607,
-        "qs:id":1352378,
+        "qs_pg:id":1352378,
         "wd:id":"Q14842846"
     },
     "wof:country":"LA",
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421201947,
-    "wof:lastmodified":1563271204,
+    "wof:lastmodified":1566593356,
     "wof:name":"Xam Nua",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

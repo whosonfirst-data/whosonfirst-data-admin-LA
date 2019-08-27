@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.16804,19.43011,103.20804,19.47011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Phonsavan"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1276303385,
-    "wof:lastmodified":1564154164,
+    "wof:lastmodified":1566592893,
     "wof:name":"Phonsavan",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",

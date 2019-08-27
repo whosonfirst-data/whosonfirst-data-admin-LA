@@ -23,8 +23,12 @@
     "gn:population":1500,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.36272,15.41317,106.40272,15.45317",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0422\u0445\u0430\u0442\u0435\u043d\u0433"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226209551,
-    "wof:lastmodified":1537660228,
+    "wof:lastmodified":1566593631,
     "wof:name":"Ban Thateng",
     "wof:parent_id":1092031539,
     "wof:placetype":"locality",

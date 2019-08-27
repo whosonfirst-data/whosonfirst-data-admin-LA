@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.84406,14.08114,105.88406,14.12114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Voeun Khao",
         "Ban Vaeun Khao",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327234659,
-    "wof:lastmodified":1537660280,
+    "wof:lastmodified":1566592400,
     "wof:name":"Ban Veunkhao",
     "wof:parent_id":1108411849,
     "wof:placetype":"locality",

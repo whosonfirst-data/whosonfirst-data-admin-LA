@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.98848,14.81708,106.02848,14.85708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nakok"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243071017,
-    "wof:lastmodified":1537660483,
+    "wof:lastmodified":1566593360,
     "wof:name":"Ban Nakok",
     "wof:parent_id":1092031293,
     "wof:placetype":"locality",

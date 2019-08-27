@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.46783,16.9058,106.50783,16.9458",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Saria"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193243201,
-    "wof:lastmodified":1537660349,
+    "wof:lastmodified":1566593054,
     "wof:name":"Ban Salia",
     "wof:parent_id":1092026919,
     "wof:placetype":"locality",

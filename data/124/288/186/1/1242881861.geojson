@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.2141,20.86322,104.2541,20.90322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Keo Dit",
         "Ban K\u00e8ol\u00f4m"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242881861,
-    "wof:lastmodified":1537660565,
+    "wof:lastmodified":1566593384,
     "wof:name":"Ban Keolom",
     "wof:parent_id":1092026965,
     "wof:placetype":"locality",

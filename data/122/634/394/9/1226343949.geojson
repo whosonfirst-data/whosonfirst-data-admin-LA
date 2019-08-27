@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.24667,20.81333,104.28667,20.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Buam Nghiou",
         "Ban Bu\u00f4m Nghiou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226343949,
-    "wof:lastmodified":1537660667,
+    "wof:lastmodified":1566593641,
     "wof:name":"Ban Buom Nghiou",
     "wof:parent_id":1092026965,
     "wof:placetype":"locality",

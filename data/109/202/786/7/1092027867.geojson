@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.204606,
     "lbl:longitude":101.996417,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a",
     "meso:admin_1":"Oudomxay",
     "meso:dissme":"NgaOudomxay",
@@ -32,6 +34,7 @@
     "mps:longitude":101.996417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nga"
     ],
@@ -42,7 +45,7 @@
         "\u0e87\u0eb2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092027867,
-    "wof:lastmodified":1553718050,
+    "wof:lastmodified":1566593301,
     "wof:name":"Nga",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

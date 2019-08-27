@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.88236,19.32787,101.92236,19.36787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phoubok\u00e8o"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360148413,
-    "wof:lastmodified":1537660760,
+    "wof:lastmodified":1566593241,
     "wof:name":"Ban Phoubokeo",
     "wof:parent_id":1092027721,
     "wof:placetype":"locality",

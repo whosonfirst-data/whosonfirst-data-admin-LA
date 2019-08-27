@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.356192,
     "lbl:longitude":105.298163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
     "meso:admin_1":"Khammuane",
     "meso:dissme":"MahaxaiKhammuane",
@@ -32,6 +34,7 @@
     "mps:longitude":105.298163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mahaxay"
     ],
@@ -42,7 +45,7 @@
         "\u0ea1\u0eb0\u0eab\u0eb2\u0ec4\u0e8a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092031145,
-    "wof:lastmodified":1553718054,
+    "wof:lastmodified":1566593282,
     "wof:name":"Mahaxai",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

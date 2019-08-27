@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.15397,21.50536,102.19397,21.54536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cha Kam Lu\u2019",
         "Cha Kham Lu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327100701,
-    "wof:lastmodified":1537660262,
+    "wof:lastmodified":1566592458,
     "wof:name":"Ban Chakhamlu",
     "wof:parent_id":1092027265,
     "wof:placetype":"locality",

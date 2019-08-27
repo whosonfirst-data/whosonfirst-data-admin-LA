@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.00737,21.49656,102.04737,21.53656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tet T\u00ea",
         "Ban T\u00e8tt\u00e8"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243138341,
-    "wof:lastmodified":1537660196,
+    "wof:lastmodified":1566593425,
     "wof:name":"Ban Tette",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",

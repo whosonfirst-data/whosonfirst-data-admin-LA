@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.5928,
     "lbl:longitude":102.220578,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0ea3\u0eb0\u0e9a\u0eb2\u0e87",
     "meso:admin_1":"Luangprabang",
     "meso:dissme":"Xiang-NgeunLuangprabang",
@@ -32,6 +34,7 @@
     "mps:longitude":102.220578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Xieng Ngeun"
     ],
@@ -42,7 +45,7 @@
         "\u0e8a\u0ebd\u0e87\u0ec0\u0e87\u0eb4\u0e99"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092030413,
-    "wof:lastmodified":1553718053,
+    "wof:lastmodified":1566593276,
     "wof:name":"Xiang-Ngeun",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

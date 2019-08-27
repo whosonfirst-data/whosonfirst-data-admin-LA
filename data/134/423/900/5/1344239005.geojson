@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.14688,21.13705,101.18688,21.17705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Tinthat"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344239005,
-    "wof:lastmodified":1537660800,
+    "wof:lastmodified":1566592517,
     "wof:name":"Ban Tinthat",
     "wof:parent_id":1092030925,
     "wof:placetype":"locality",

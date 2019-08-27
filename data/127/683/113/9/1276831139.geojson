@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.00697,16.34675,105.04697,16.38675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Phone That",
         "Ban Ph\u00f4nthat"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276831139,
-    "wof:lastmodified":1537660375,
+    "wof:lastmodified":1566592885,
     "wof:name":"Ban Phonthat",
     "wof:parent_id":1092030959,
     "wof:placetype":"locality",

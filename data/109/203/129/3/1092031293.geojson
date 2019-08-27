@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.598117,
     "lbl:longitude":106.061453,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
     "meso:admin_1":"Champasack",
     "meso:dissme":"PathoumphonChampasack",
@@ -32,6 +34,7 @@
     "mps:longitude":106.061453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pathoomphone"
     ],
@@ -42,7 +45,7 @@
         "\u0e9b\u0eb0\u0e97\u0eb8\u0ea1\u0e9e\u0ead\u0e99"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092031293,
-    "wof:lastmodified":1553718055,
+    "wof:lastmodified":1566593277,
     "wof:name":"Pathoumphon",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.24667,19.86333,102.28667,19.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houe\u00ef Nok",
         "Ban Houie Nok",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193108691,
-    "wof:lastmodified":1537660597,
+    "wof:lastmodified":1566593077,
     "wof:name":"Ban Houay Nok (2)",
     "wof:parent_id":1092027403,
     "wof:placetype":"locality",

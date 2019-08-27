@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.62556,20.92061,102.66556,20.96061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Lan-Nua"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259956205,
-    "wof:lastmodified":1537660769,
+    "wof:lastmodified":1566593555,
     "wof:name":"Ban Lan-Nua",
     "wof:parent_id":1092027683,
     "wof:placetype":"locality",

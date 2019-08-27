@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.80078,17.50791,105.84078,17.54791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Xam-Tai"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209089217,
-    "wof:lastmodified":1537660276,
+    "wof:lastmodified":1566592936,
     "wof:name":"Ban Xam-Tai",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

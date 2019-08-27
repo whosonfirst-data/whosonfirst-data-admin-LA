@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.80136,16.29374,106.84136,16.33374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Axing-Tai"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242948149,
-    "wof:lastmodified":1537660681,
+    "wof:lastmodified":1566593398,
     "wof:name":"Ban Axing-Tai",
     "wof:parent_id":1092028745,
     "wof:placetype":"locality",

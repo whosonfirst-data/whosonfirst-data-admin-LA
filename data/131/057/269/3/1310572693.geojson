@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.33515,19.61813,102.37515,19.65813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban K\u00e9mlouan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310572693,
-    "wof:lastmodified":1537660718,
+    "wof:lastmodified":1566593213,
     "wof:name":"Ban Kemlouan",
     "wof:parent_id":1092030413,
     "wof:placetype":"locality",

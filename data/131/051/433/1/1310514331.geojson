@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.85587,15.32168,105.89587,15.36168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Th\u00f4ngthing"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310514331,
-    "wof:lastmodified":1537660297,
+    "wof:lastmodified":1566593221,
     "wof:name":"Ban Thongthing",
     "wof:parent_id":1092027009,
     "wof:placetype":"locality",

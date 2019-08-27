@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.813102,
     "lbl:longitude":105.880942,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81",
     "mps:latitude":14.767691,
     "mps:longitude":105.863904,
@@ -156,7 +157,7 @@
         "Champasack"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0b9a\u0b95\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bbe\u0bae\u0bcd\u0baa\u0b9a\u0b95\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c02\u0c2a\u0c3e\u0c38\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -174,9 +175,6 @@
         "\u0422\u044f\u043c\u043f\u0430\u0441\u0430\u043a"
     ],
     "name:und_x_variant":[
-        "\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81"
-    ],
-    "name:unk_x_variant":[
         "Province de Khong"
     ],
     "name:urd_x_preferred":[
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"15,415",
     "statoids:area_mi":"5,952",
     "statoids:as_of_date":"2005-03-01",
@@ -289,7 +287,7 @@
         "gp:id":20070160,
         "hasc:id":"LA.CH",
         "iso:id":"LA-CH",
-        "qs:id":348939,
+        "qs_pg:id":348939,
         "wd:id":"Q334888",
         "wk:page":"Champasak Province"
     },
@@ -309,11 +307,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726313,
+    "wof:lastmodified":1566592632,
     "wof:name":"Champasak",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":607333,
     "wof:population_rank":11,

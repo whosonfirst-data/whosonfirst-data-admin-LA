@@ -11,8 +11,11 @@
     "geom:longitude":100.41302,
     "gn:country":"LA",
     "gn:fcode":"PPLA",
-    "gn:pop":12500,
+    "gn:population":12500,
     "iso:country":"LA",
+    "lbl:bbox":"100.39302,20.25652,100.43302,20.29652",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -61,7 +64,7 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Van Houei Sai"
     ],
     "name:urd_x_preferred":[
@@ -189,10 +192,12 @@
     "wof:concordances":{
         "gn:id":1663526,
         "gp:id":1134065,
-        "qs:id":133887,
-        "qs_pg:id":1195603,
+        "qs_pg:id":133887,
         "wd:id":"Q717371",
         "wk:page":"Ban Houayxay"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1195603
     },
     "wof:country":"LA",
     "wof:created":1469051995,
@@ -207,7 +212,7 @@
         }
     ],
     "wof:id":890433789,
-    "wof:lastmodified":1563271213,
+    "wof:lastmodified":1566593359,
     "wof:name":"Ban Houayxay",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",

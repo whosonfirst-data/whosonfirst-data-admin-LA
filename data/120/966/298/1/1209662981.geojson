@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.39885,18.51593,102.43885,18.55593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban N\u00f4nkabay"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209662981,
-    "wof:lastmodified":1537660922,
+    "wof:lastmodified":1566592981,
     "wof:name":"Ban Nonkabay",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

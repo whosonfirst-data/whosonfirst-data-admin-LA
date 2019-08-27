@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.75248,18.4121,103.79248,18.4521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongv\u00e8ng"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209671651,
-    "wof:lastmodified":1537660926,
+    "wof:lastmodified":1566592988,
     "wof:name":"Ban Nongveng",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

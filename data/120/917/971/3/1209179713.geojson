@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.78,16.41333,106.82,16.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632241
@@ -34,7 +38,7 @@
         "gn:id":1652751
     },
     "wof:country":"LA",
-    "wof:geomhash":"86e692fdb6516fbafaac1615c6f1a05d",
+    "wof:geomhash":"7eb033dfa8f8dc85084f02a08ae25526",
     "wof:hierarchy":[
         {
             "country_id":85632241,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209179713,
-    "wof:lastmodified":1536295301,
+    "wof:lastmodified":1566593025,
     "wof:name":"Ta Tcha Antour",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     106.8,
-    16.433329999999998,
+    16.43333,
     106.8,
-    16.433329999999998
+    16.43333
 ],
   "geometry": {"coordinates":[106.8,16.43333],"type":"Point"}
 }

@@ -10,13 +10,17 @@
     "geom:latitude":21.63556,
     "geom:longitude":101.90325,
     "iso:country":"LA",
+    "lbl:bbox":"101.88325,21.61556,101.92325,21.65556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:lao_x_preferred":[
         "Ban Boun-Nua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bun Nua"
     ],
     "qs:gn_country":"LA",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1657871,
         "gp:id":1140545,
-        "qs:id":58649
+        "qs_pg:id":58649
     },
     "wof:country":"LA",
     "wof:created":1459009672,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421190873,
-    "wof:lastmodified":1501221413,
+    "wof:lastmodified":1566593356,
     "wof:name":"Boun Neua",
     "wof:parent_id":1092031055,
     "wof:placetype":"locality",

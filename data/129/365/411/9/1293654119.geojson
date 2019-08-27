@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.73597,16.61832,104.77597,16.65832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Pakbo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293654119,
-    "wof:lastmodified":1537660956,
+    "wof:lastmodified":1566592648,
     "wof:name":"Ban Pakbo",
     "wof:parent_id":1092026527,
     "wof:placetype":"locality",

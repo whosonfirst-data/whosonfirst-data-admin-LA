@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.87212,19.9043,103.91212,19.9443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Keo Ngeuk",
         "Ban K\u00e8o-Nguak"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327031773,
-    "wof:lastmodified":1537660564,
+    "wof:lastmodified":1566592411,
     "wof:name":"Ban Keo-Nguak",
     "wof:parent_id":1092030635,
     "wof:placetype":"locality",

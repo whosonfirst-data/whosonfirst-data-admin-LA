@@ -10,13 +10,17 @@
     "geom:latitude":14.04726,
     "geom:longitude":105.8942,
     "iso:country":"LA",
+    "lbl:bbox":"105.8742,14.02726,105.9142,14.06726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:lao_x_preferred":[
         "Ban Khinak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ki Nak"
     ],
     "qs:gn_country":"LA",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1656393,
         "gp:id":1139554,
-        "qs:id":229225
+        "qs_pg:id":229225
     },
     "wof:country":"LA",
     "wof:created":1459010138,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421203027,
-    "wof:lastmodified":1501221411,
+    "wof:lastmodified":1566593354,
     "wof:name":"Khinak",
     "wof:parent_id":1108411849,
     "wof:placetype":"locality",

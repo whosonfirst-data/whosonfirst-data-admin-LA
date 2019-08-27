@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.32116,16.69384,106.36116,16.73384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Heng Luong",
         "Ban H\u00e8nglouang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292965669,
-    "wof:lastmodified":1537660626,
+    "wof:lastmodified":1566592731,
     "wof:name":"Ban Henglouang",
     "wof:parent_id":1092026919,
     "wof:placetype":"locality",

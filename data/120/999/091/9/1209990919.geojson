@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.40484,16.78889,106.44484,16.82889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Piak Pron",
         "Ban Piakpr\u00f4ng",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209990919,
-    "wof:lastmodified":1537660367,
+    "wof:lastmodified":1566592944,
     "wof:name":"Ban Piakplong",
     "wof:parent_id":1092026919,
     "wof:placetype":"locality",

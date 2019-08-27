@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.75433,14.62882,105.79433,14.66882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban B\u00f4ktalou"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310408933,
-    "wof:lastmodified":1537660674,
+    "wof:lastmodified":1566593146,
     "wof:name":"Ban Boktalou",
     "wof:parent_id":1092029015,
     "wof:placetype":"locality",

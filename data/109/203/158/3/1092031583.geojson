@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.445247,
     "lbl:longitude":102.98733,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0ea3\u0eb0\u0e9a\u0eb2\u0e87",
     "meso:admin_1":"Luangprabang",
     "meso:dissme":"ViangkhamLuangprabang",
@@ -32,6 +34,7 @@
     "mps:longitude":102.98733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Viengkham"
     ],
@@ -42,7 +45,7 @@
         "\u0ea7\u0ebd\u0e87\u0e84\u0eb3"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092031583,
-    "wof:lastmodified":1553718055,
+    "wof:lastmodified":1566593275,
     "wof:name":"Viangkham",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

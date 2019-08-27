@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.94787,21.28841,101.98787,21.32841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nama\u00e8k"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243226831,
-    "wof:lastmodified":1537660223,
+    "wof:lastmodified":1566593434,
     "wof:name":"Ban Namaek",
     "wof:parent_id":1092027265,
     "wof:placetype":"locality",

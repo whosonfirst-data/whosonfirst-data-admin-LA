@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.45657,20.76948,100.49657,20.80948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phagnalouaogkhamping"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326986573,
-    "wof:lastmodified":1537660689,
+    "wof:lastmodified":1566592446,
     "wof:name":"Ban Phagnalouangkhamping",
     "wof:parent_id":1092030707,
     "wof:placetype":"locality",

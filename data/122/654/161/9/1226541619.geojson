@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.99667,20.38,104.03667,20.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houei Sanip",
         "Ban Houay Sanip"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226541619,
-    "wof:lastmodified":1537660591,
+    "wof:lastmodified":1566593728,
     "wof:name":"Ban Houay Sanip",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

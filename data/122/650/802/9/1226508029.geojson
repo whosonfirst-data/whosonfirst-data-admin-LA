@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.22543,15.48188,106.26543,15.52188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Sanh Dong",
         "Ban Sand\u00f4ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226508029,
-    "wof:lastmodified":1537660352,
+    "wof:lastmodified":1566593665,
     "wof:name":"Ban Sandong",
     "wof:parent_id":1092028441,
     "wof:placetype":"locality",

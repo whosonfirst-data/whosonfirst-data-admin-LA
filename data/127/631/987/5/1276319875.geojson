@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.39805,18.05614,101.43805,18.09614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Donsang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276319875,
-    "wof:lastmodified":1537660897,
+    "wof:lastmodified":1566592908,
     "wof:name":"Ban Donsang",
     "wof:parent_id":1092030663,
     "wof:placetype":"locality",

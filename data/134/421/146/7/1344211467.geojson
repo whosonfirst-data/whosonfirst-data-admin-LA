@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.77385,18.05685,101.81385,18.09685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Don Hieng",
         "Ban Donhiang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344211467,
-    "wof:lastmodified":1537660646,
+    "wof:lastmodified":1566592580,
     "wof:name":"Ban Donhiang",
     "wof:parent_id":1092027485,
     "wof:placetype":"locality",

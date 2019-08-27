@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.56103,16.21774,106.60103,16.25774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Pat\u00f4y"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309673801,
-    "wof:lastmodified":1537660966,
+    "wof:lastmodified":1566593335,
     "wof:name":"Ban Patoy",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

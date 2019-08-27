@@ -10,6 +10,9 @@
     "geom:latitude":20.9486,
     "geom:longitude":101.40188,
     "iso:country":"LA",
+    "lbl:bbox":"101.38188,20.9286,101.42188,20.9686",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -117,7 +120,7 @@
         "Louang Namtha"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc1\u0b86\u0b99\u0bcd  \u0ba8\u0bae\u0bcd\u0ba4\u0bbe"
+        "\u0bb2\u0bc1\u0b86\u0b99\u0bcd \u0ba8\u0bae\u0bcd\u0ba4\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c41\u0c06\u0c02\u0c17\u0c4d \u0c28\u0c02\u0c24\u0c3e"
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433\u043d\u0430\u043c\u0442\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khong Luong Nam Tha"
     ],
     "name:urd_x_preferred":[
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":1655562,
         "gp:id":1139679,
-        "qs:id":492676,
+        "qs_pg:id":492676,
         "wd:id":"Q660793",
         "wk:page":"Luang Namtha"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421173145,
-    "wof:lastmodified":1563271201,
+    "wof:lastmodified":1566593355,
     "wof:name":"Louang Namtha",
     "wof:parent_id":1092027341,
     "wof:placetype":"locality",

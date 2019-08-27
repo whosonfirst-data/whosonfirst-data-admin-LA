@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.51714,18.72185,103.55714,18.76185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nahan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242645861,
-    "wof:lastmodified":1537660497,
+    "wof:lastmodified":1566593484,
     "wof:name":"Ban Nahan",
     "wof:parent_id":1092027507,
     "wof:placetype":"locality",

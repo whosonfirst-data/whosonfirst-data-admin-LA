@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.66509,17.94609,102.70509,17.98609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Khamsavat"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243231997,
-    "wof:lastmodified":1537660937,
+    "wof:lastmodified":1566593419,
     "wof:name":"Ban Khamsavat",
     "wof:parent_id":1092029925,
     "wof:placetype":"locality",

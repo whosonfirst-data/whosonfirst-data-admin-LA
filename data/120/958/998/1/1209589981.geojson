@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.25904,16.88335,105.29904,16.92335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Nasem Nam",
         "Ban Nas\u00e8nnam"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209589981,
-    "wof:lastmodified":1537660452,
+    "wof:lastmodified":1566592989,
     "wof:name":"Ban Nasennam",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

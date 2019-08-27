@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.28231,18.21903,101.32231,18.25903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban P\u00f4ngvan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260066623,
-    "wof:lastmodified":1537660895,
+    "wof:lastmodified":1566593111,
     "wof:name":"Ban Pongvan",
     "wof:parent_id":1092028273,
     "wof:placetype":"locality",

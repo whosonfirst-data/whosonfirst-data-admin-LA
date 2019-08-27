@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.51403,19.84789,104.55403,19.88789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Houaygno"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226547215,
-    "wof:lastmodified":1537660758,
+    "wof:lastmodified":1566593729,
     "wof:name":"Ban Houaygno",
     "wof:parent_id":1092026829,
     "wof:placetype":"locality",

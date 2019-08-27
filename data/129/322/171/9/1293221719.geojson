@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.35552,20.03394,101.39552,20.07394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Van Mouk",
         "Ban Vangmouak"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293221719,
-    "wof:lastmodified":1537660284,
+    "wof:lastmodified":1566592697,
     "wof:name":"Ban Vangmouak",
     "wof:parent_id":1092027657,
     "wof:placetype":"locality",

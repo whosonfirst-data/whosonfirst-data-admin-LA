@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.72901,18.05321,102.76901,18.09321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Lakxao-Song"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293941377,
-    "wof:lastmodified":1537660805,
+    "wof:lastmodified":1566592724,
     "wof:name":"Ban Lakxao-Song",
     "wof:parent_id":1092030043,
     "wof:placetype":"locality",

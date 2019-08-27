@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.66392,16.43594,106.70392,16.47594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Loko"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1192992853,
-    "wof:lastmodified":1537660216,
+    "wof:lastmodified":1566593070,
     "wof:name":"Ban Loko",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.095,20.69315,101.135,20.73315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nam-\u00d4"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226719645,
-    "wof:lastmodified":1537660842,
+    "wof:lastmodified":1566593692,
     "wof:name":"Ban Nam-O",
     "wof:parent_id":1092029513,
     "wof:placetype":"locality",

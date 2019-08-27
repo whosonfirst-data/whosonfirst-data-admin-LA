@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.150683,
     "lbl:longitude":105.316044,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
     "meso:admin_1":"Savannakhet",
     "meso:dissme":"SongkhonSavannakhet",
@@ -32,6 +34,7 @@
     "mps:longitude":105.316044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Songkhone"
     ],
@@ -42,7 +45,7 @@
         "\u0eaa\u0ead\u0e87\u0e84\u0ead\u0e99"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092026707,
-    "wof:lastmodified":1553718048,
+    "wof:lastmodified":1566593297,
     "wof:name":"Songkhon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

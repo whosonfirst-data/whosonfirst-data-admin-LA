@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.956177,
     "lbl:longitude":100.630521,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7",
     "meso:admin_1":"Bokeo",
     "meso:dissme":"PakthaBokeo",
@@ -32,6 +34,7 @@
     "mps:longitude":100.630521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Paktha"
     ],
@@ -42,7 +45,7 @@
         "\u0e9b\u0eb2\u0e81\u0e97\u0eb2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092030459,
-    "wof:lastmodified":1553718053,
+    "wof:lastmodified":1566593279,
     "wof:name":"Paktha",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

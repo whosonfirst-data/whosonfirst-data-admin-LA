@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.12227,19.31669,103.16227,19.35669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Lats\u00e8n"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277046447,
-    "wof:lastmodified":1537660714,
+    "wof:lastmodified":1566592858,
     "wof:name":"Ban Latsen",
     "wof:parent_id":1092031349,
     "wof:placetype":"locality",

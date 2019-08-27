@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.41098,20.68528,104.45098,20.72528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Longtong"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344268915,
-    "wof:lastmodified":1537660244,
+    "wof:lastmodified":1566592577,
     "wof:name":"Ban Longtong",
     "wof:parent_id":1092026741,
     "wof:placetype":"locality",

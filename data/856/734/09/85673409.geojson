@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.457314,
     "lbl:longitude":100.59851,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7",
     "mps:latitude":20.359174,
     "mps:longitude":100.649399,
@@ -147,7 +148,7 @@
         "Bokeo"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c15\u0c3f\u0c2f\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -165,9 +166,6 @@
         "\u0411\u043e\u043a\u0435\u0443"
     ],
     "name:und_x_variant":[
-        "\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7"
-    ],
-    "name:unk_x_variant":[
         "Bok\u00e8o"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +252,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"4,970",
     "statoids:area_mi":"1,919",
     "statoids:as_of_date":"2005-03-01",
@@ -280,7 +278,7 @@
         "gp:id":20070156,
         "hasc:id":"LA.BK",
         "iso:id":"LA-BK",
-        "qs:id":890355,
+        "qs_pg:id":890355,
         "wd:id":"Q334884",
         "wk:page":"Bokeo Province"
     },
@@ -300,11 +298,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565910314,
+    "wof:lastmodified":1566592630,
     "wof:name":"Bokeo",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":145216,
     "wof:population_rank":9,

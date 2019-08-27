@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.58,19.01333,102.62,19.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muong Xao",
         "Muang Xao"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259840833,
-    "wof:lastmodified":1537660226,
+    "wof:lastmodified":1566593536,
     "wof:name":"Muang Xao",
     "wof:parent_id":1092029997,
     "wof:placetype":"locality",

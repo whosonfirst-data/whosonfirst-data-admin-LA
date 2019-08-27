@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.38567,18.74844,102.42567,18.78844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Vang Khay",
         "Ban Vang Khy",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344123595,
-    "wof:lastmodified":1537660285,
+    "wof:lastmodified":1566592514,
     "wof:name":"Ban Vangkhi",
     "wof:parent_id":1092027061,
     "wof:placetype":"locality",

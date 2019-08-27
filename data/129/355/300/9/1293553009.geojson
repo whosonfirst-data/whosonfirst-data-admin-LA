@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.157,20.47095,102.197,20.51095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban T\u00f4ngtou-Gnai"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293553009,
-    "wof:lastmodified":1537660529,
+    "wof:lastmodified":1566592661,
     "wof:name":"Ban Tongtou-Gnai",
     "wof:parent_id":1092027683,
     "wof:placetype":"locality",

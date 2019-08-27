@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.71359,15.5387,105.75359,15.5787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Namouang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360250485,
-    "wof:lastmodified":1537660469,
+    "wof:lastmodified":1566593244,
     "wof:name":"Ban Namouang",
     "wof:parent_id":1092029399,
     "wof:placetype":"locality",

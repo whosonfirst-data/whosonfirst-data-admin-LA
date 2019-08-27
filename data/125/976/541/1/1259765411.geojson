@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.19918,20.51614,101.23918,20.55614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Tanleu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259765411,
-    "wof:lastmodified":1537660817,
+    "wof:lastmodified":1566593553,
     "wof:name":"Ban Tanleu",
     "wof:parent_id":1092029513,
     "wof:placetype":"locality",

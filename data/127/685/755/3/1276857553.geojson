@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.52605,19.75455,100.56605,19.79455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Ban Pakha"
     ],
     "name:und_x_variant":[
-        "Ban Pang Kha",
-        "Ban Pakha"
+        "Ban Pang Kha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276857553,
-    "wof:lastmodified":1564154112,
+    "wof:lastmodified":1566592865,
     "wof:name":"Ban Pakha",
     "wof:parent_id":1092026391,
     "wof:placetype":"locality",

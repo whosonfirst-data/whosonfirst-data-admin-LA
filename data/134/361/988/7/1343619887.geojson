@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.47872,18.5196,104.51872,18.5596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Naxon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343619887,
-    "wof:lastmodified":1537660440,
+    "wof:lastmodified":1566592551,
     "wof:name":"Ban Naxon",
     "wof:parent_id":1092029605,
     "wof:placetype":"locality",

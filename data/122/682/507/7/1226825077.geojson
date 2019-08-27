@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.76233,22.41785,101.80233,22.45785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Long Tang",
         "Ban Longtang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226825077,
-    "wof:lastmodified":1537660244,
+    "wof:lastmodified":1566593689,
     "wof:name":"Ban Longtang",
     "wof:parent_id":1092026193,
     "wof:placetype":"locality",

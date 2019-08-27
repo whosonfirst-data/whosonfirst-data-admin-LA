@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.89118,14.96008,105.93118,15.00008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Houaybangliang"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226155899,
-    "wof:lastmodified":1537660676,
+    "wof:lastmodified":1566593702,
     "wof:name":"Ban Houaybangliang",
     "wof:parent_id":1092031293,
     "wof:placetype":"locality",

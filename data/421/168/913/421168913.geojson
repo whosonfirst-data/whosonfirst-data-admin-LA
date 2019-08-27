@@ -12,6 +12,8 @@
     "iso:country":"LA",
     "lbl:latitude":17.96667,
     "lbl:longitude":102.6,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -410,7 +412,7 @@
     "name:ukr_x_variant":[
         "\u0412'\u0454\u043d\u0442\u044c\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nakhon Viangchan"
     ],
     "name:urd_x_preferred":[
@@ -582,7 +584,7 @@
     "wof:concordances":{
         "gn:id":1651944,
         "gp:id":1140612,
-        "qs:id":279260,
+        "qs_pg:id":279260,
         "wd:id":"Q9326",
         "wk:page":"Vientiane"
     },
@@ -599,7 +601,7 @@
         }
     ],
     "wof:id":421168913,
-    "wof:lastmodified":1563271197,
+    "wof:lastmodified":1566593353,
     "wof:name":"Vientiane",
     "wof:parent_id":1092027747,
     "wof:placetype":"locality",

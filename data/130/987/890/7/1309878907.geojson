@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.7096,17.295,105.7496,17.335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Pakouay-Tai"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309878907,
-    "wof:lastmodified":1537660409,
+    "wof:lastmodified":1566593340,
     "wof:name":"Ban Pakouay-Tai",
     "wof:parent_id":1092026869,
     "wof:placetype":"locality",

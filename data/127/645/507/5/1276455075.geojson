@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.6237,20.41885,103.6637,20.45885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Houayxuang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276455075,
-    "wof:lastmodified":1537660756,
+    "wof:lastmodified":1566592800,
     "wof:name":"Ban Houayxuang",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

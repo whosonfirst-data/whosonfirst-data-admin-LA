@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.54889,18.04139,102.58889,18.08139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343926113,
-    "wof:lastmodified":1537066728,
+    "wof:lastmodified":1566592552,
     "wof:name":"Ban Nasio",
     "wof:parent_id":1092027795,
     "wof:placetype":"locality",

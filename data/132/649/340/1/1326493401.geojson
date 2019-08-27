@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.32971,21.32482,102.36971,21.36482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lik Na",
         "Ban Likna"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326493401,
-    "wof:lastmodified":1537660524,
+    "wof:lastmodified":1566592416,
     "wof:name":"Ban Likna",
     "wof:parent_id":1092030879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.21916,15.24382,106.25916,15.28382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Khagnong-Kang"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360193449,
-    "wof:lastmodified":1537660557,
+    "wof:lastmodified":1566593266,
     "wof:name":"Ban Khagnong-Kang",
     "wof:parent_id":1092028479,
     "wof:placetype":"locality",

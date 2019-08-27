@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.7898,19.59012,100.8298,19.63012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Xiang-Nou"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260157345,
-    "wof:lastmodified":1537660702,
+    "wof:lastmodified":1566593087,
     "wof:name":"Xiang-Nou",
     "wof:parent_id":1092030503,
     "wof:placetype":"locality",

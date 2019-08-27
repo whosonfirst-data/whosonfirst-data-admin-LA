@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.350149,
     "lbl:longitude":101.529029,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5",
     "mps:latitude":19.342413,
     "mps:longitude":101.522827,
@@ -168,9 +169,7 @@
         "\u0421\u0430\u0439\u043d\u044f\u0431\u0443\u043b\u0456"
     ],
     "name:und_x_variant":[
-        "\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5"
-    ],
-    "name:unk_x_variant":[
+        "\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5",
         "Khoueng Sayaboury"
     ],
     "name:urd_x_preferred":[
@@ -257,9 +256,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"11,795",
     "statoids:area_mi":"4,554",
     "statoids:as_of_date":"2005-03-01",
@@ -283,7 +282,7 @@
         "gp:id":2346010,
         "hasc:id":"LA.XA",
         "iso:id":"LA-XA",
-        "qs:id":1046867,
+        "qs_pg:id":1046867,
         "wd:id":"Q465929",
         "wk:page":"Sainyabuli Province"
     },
@@ -303,11 +302,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726312,
+    "wof:lastmodified":1566592630,
     "wof:name":"Xaignabouri",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":338646,
     "wof:population_rank":10,

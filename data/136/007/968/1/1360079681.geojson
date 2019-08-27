@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.39624,20.08923,101.43624,20.12923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Chantai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360079681,
-    "wof:lastmodified":1537660707,
+    "wof:lastmodified":1566593248,
     "wof:name":"Ban Chantai",
     "wof:parent_id":1092027657,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.25014,16.6613,106.29014,16.7013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Vang Boum",
         "Ban Van Boum",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1192980305,
-    "wof:lastmodified":1537660288,
+    "wof:lastmodified":1566593063,
     "wof:name":"Ban Vangboun",
     "wof:parent_id":1092026919,
     "wof:placetype":"locality",

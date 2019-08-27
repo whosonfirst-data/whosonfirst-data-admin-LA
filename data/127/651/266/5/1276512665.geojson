@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.78733,15.61205,105.82733,15.65205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nap\u00f4ng"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276512665,
-    "wof:lastmodified":1537660454,
+    "wof:lastmodified":1566592822,
     "wof:name":"Ban Napong",
     "wof:parent_id":1092029399,
     "wof:placetype":"locality",
