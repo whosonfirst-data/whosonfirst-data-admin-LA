@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.20661,16.33396,106.24661,16.37396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Taoieng",
         "Ban Taliang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242937993,
-    "wof:lastmodified":1537660326,
+    "wof:lastmodified":1566593402,
     "wof:name":"Ban Taliang",
     "wof:parent_id":1092029057,
     "wof:placetype":"locality",

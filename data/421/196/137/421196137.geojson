@@ -10,8 +10,12 @@
     "geom:latitude":19.45,
     "geom:longitude":103.21667,
     "iso:country":"LA",
+    "lbl:bbox":"103.19667,19.43,103.23667,19.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0633\u0627\u0641\u0627\u0646"
@@ -133,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0445\u043e\u043d\u0441\u0430\u0432\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Phong Savan"
     ],
     "name:urd_x_preferred":[
@@ -180,7 +184,7 @@
     "wof:concordances":{
         "gn:id":1655123,
         "gp:id":1139800,
-        "qs:id":492692,
+        "qs_pg:id":492692,
         "wd:id":"Q1011711",
         "wk:page":"Phonsavan"
     },
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":421196137,
-    "wof:lastmodified":1563271203,
+    "wof:lastmodified":1566593356,
     "wof:name":"Muang Ph\u00f4nsavan",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",

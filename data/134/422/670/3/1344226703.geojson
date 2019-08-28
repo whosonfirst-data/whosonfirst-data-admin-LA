@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.76047,20.80111,100.80047,20.84111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Chathi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344226703,
-    "wof:lastmodified":1537660980,
+    "wof:lastmodified":1566592506,
     "wof:name":"Ban Chathi",
     "wof:parent_id":1092026435,
     "wof:placetype":"locality",

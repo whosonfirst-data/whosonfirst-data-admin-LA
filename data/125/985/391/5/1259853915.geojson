@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.14465,16.72244,106.18465,16.76244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Vang Khouai",
         "Ban Vangkhoay"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259853915,
-    "wof:lastmodified":1537660286,
+    "wof:lastmodified":1566593544,
     "wof:name":"Ban Vangkhoay",
     "wof:parent_id":1092026919,
     "wof:placetype":"locality",

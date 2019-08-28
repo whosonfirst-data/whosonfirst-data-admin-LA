@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.27672,21.21715,102.31672,21.25715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Kongkhoum"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293064297,
-    "wof:lastmodified":1537660783,
+    "wof:lastmodified":1566592657,
     "wof:name":"Ban Kongkhoum",
     "wof:parent_id":1092030879,
     "wof:placetype":"locality",

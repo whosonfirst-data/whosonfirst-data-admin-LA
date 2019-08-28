@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.86333,14.04667,105.90333,14.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Tasseng",
         "Ban Tas\u00e8ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293301745,
-    "wof:lastmodified":1537660317,
+    "wof:lastmodified":1566592651,
     "wof:name":"Ban Taseng",
     "wof:parent_id":1108411849,
     "wof:placetype":"locality",

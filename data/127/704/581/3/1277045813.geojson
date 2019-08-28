@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.93951,17.15493,105.97951,17.19493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houei Tha",
         "Ban Houaytha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277045813,
-    "wof:lastmodified":1537660588,
+    "wof:lastmodified":1566592859,
     "wof:name":"Ban Houaytha",
     "wof:parent_id":1092026869,
     "wof:placetype":"locality",

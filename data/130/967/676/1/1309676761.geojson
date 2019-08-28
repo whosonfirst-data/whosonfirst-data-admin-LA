@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.42297,16.42829,106.46297,16.46829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Xouang-Noy"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309676761,
-    "wof:lastmodified":1537660825,
+    "wof:lastmodified":1566593334,
     "wof:name":"Ban Xouang-Noy",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

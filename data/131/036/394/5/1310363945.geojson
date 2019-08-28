@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.46221,20.25854,100.50221,20.29854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Xiangngam"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310363945,
-    "wof:lastmodified":1537660686,
+    "wof:lastmodified":1566593162,
     "wof:name":"Ban Xiangngam",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",

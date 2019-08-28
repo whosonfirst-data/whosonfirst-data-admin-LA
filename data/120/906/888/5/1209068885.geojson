@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.79905,15.71519,105.83905,15.75519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Sao Vene",
         "Ban Saov\u00e8n"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209068885,
-    "wof:lastmodified":1537660350,
+    "wof:lastmodified":1566592932,
     "wof:name":"Ban Saoven",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

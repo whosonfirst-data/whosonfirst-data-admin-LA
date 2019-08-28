@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.17826,16.9772,105.21826,17.0172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Nakheway",
         "Ban Nakh\u00e8 Mai",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243528987,
-    "wof:lastmodified":1537660486,
+    "wof:lastmodified":1566593372,
     "wof:name":"Ban Nakhe-Dong",
     "wof:parent_id":1092028001,
     "wof:placetype":"locality",

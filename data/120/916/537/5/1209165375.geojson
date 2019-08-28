@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.68068,18.90666,103.72068,18.94666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Khone Xa Na",
         "Ban Khonxana"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209165375,
-    "wof:lastmodified":1537660549,
+    "wof:lastmodified":1566592999,
     "wof:name":"Ban Khonxana",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

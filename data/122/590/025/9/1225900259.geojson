@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.67977,17.97122,102.71977,18.01122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nabian"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225900259,
-    "wof:lastmodified":1537660937,
+    "wof:lastmodified":1566593675,
     "wof:name":"Ban Nabian",
     "wof:parent_id":1092029925,
     "wof:placetype":"locality",

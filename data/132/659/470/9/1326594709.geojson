@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.38863,16.46,106.42863,16.5",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Salang"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326594709,
-    "wof:lastmodified":1537660824,
+    "wof:lastmodified":1566592375,
     "wof:name":"Ban Salang",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

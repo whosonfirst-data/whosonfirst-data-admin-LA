@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.16153,20.70267,102.20153,20.74267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban S\u00e8nlat"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259804821,
-    "wof:lastmodified":1537660345,
+    "wof:lastmodified":1566593586,
     "wof:name":"Ban Senlat",
     "wof:parent_id":1092029739,
     "wof:placetype":"locality",

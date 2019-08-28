@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.80966,18.18423,102.84966,18.22423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Neng Dao",
         "Ban Nongdao"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226097947,
-    "wof:lastmodified":1537660433,
+    "wof:lastmodified":1566593740,
     "wof:name":"Ban Nongdao",
     "wof:parent_id":1092030043,
     "wof:placetype":"locality",

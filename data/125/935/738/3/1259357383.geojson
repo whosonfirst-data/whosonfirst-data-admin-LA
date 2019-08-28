@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.33954,16.46662,106.37954,16.50662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Kounk\u00e8"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259357383,
-    "wof:lastmodified":1537660823,
+    "wof:lastmodified":1566593562,
     "wof:name":"Ban Kounke",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

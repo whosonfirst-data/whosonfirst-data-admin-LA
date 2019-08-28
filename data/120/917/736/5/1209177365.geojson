@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.44667,21.09667,102.48667,21.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632241
@@ -34,7 +38,7 @@
         "gn:id":1659566
     },
     "wof:country":"LA",
-    "wof:geomhash":"dd40e562c89c88b5426d51e04e52f1d6",
+    "wof:geomhash":"de2eb062eef990134a787bdf3ec07e1e",
     "wof:hierarchy":[
         {
             "country_id":85632241,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209177365,
-    "wof:lastmodified":1536295376,
+    "wof:lastmodified":1566593025,
     "wof:name":"Ban Rua Yong",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     102.46667,
-    21.116670000000006,
+    21.11667000000001,
     102.46667,
-    21.116670000000006
+    21.11667000000001
 ],
   "geometry": {"coordinates":[102.46666999999999,21.11667000000001],"type":"Point"}
 }

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.11333,19.16333,103.15333,19.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Khang Kho",
         "Ban Khangkhai"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277160713,
-    "wof:lastmodified":1537660558,
+    "wof:lastmodified":1566592909,
     "wof:name":"Ban Khangkhai",
     "wof:parent_id":1092031349,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.824103,
     "lbl:longitude":106.361095,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99",
     "mps:latitude":15.826329,
     "mps:longitude":106.360249,
@@ -147,7 +148,7 @@
         "Saravane"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bb2\u0bb5\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bb2\u0bb5\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c32\u0c3e\u0c35\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -165,9 +166,7 @@
         "\u0421\u0430\u0440\u0430\u0432\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99"
-    ],
-    "name:unk_x_variant":[
+        "\u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99",
         "Khoueng Saravane"
     ],
     "name:urd_x_preferred":[
@@ -254,9 +253,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"10,385",
     "statoids:area_mi":"4,009",
     "statoids:as_of_date":"2005-03-01",
@@ -280,7 +279,7 @@
         "gp:id":20070157,
         "hasc:id":"LA.SL",
         "iso:id":"LA-SL",
-        "qs:id":1287640,
+        "qs_pg:id":1287640,
         "wd:id":"Q302656",
         "wk:page":"Salavan Province"
     },
@@ -300,11 +299,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726311,
+    "wof:lastmodified":1566592628,
     "wof:name":"Saravan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":324303,
     "wof:population_rank":10,

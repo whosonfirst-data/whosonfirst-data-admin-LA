@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.15621,20.75963,104.19621,20.79963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Taon-Nua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293397649,
-    "wof:lastmodified":1537660291,
+    "wof:lastmodified":1566592659,
     "wof:name":"Ban Taon-Nua",
     "wof:parent_id":1092026965,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.88654,18.6306,101.92654,18.6706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Muangmun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277143611,
-    "wof:lastmodified":1537660896,
+    "wof:lastmodified":1566592850,
     "wof:name":"Ban Muangmun",
     "wof:parent_id":1092027449,
     "wof:placetype":"locality",

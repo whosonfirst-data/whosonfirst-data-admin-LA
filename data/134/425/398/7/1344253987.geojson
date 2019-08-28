@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.90441,20.19509,101.94441,20.23509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Houayya"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344253987,
-    "wof:lastmodified":1537660744,
+    "wof:lastmodified":1566592508,
     "wof:name":"Ban Houayya",
     "wof:parent_id":1092027867,
     "wof:placetype":"locality",

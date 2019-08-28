@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.16957,20.51424,101.20957,20.55424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Lamon"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226014445,
-    "wof:lastmodified":1537660533,
+    "wof:lastmodified":1566593723,
     "wof:name":"Ban Lamon",
     "wof:parent_id":1092029513,
     "wof:placetype":"locality",

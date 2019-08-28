@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.435558,
     "lbl:longitude":106.029795,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94",
     "meso:admin_1":"Savannakhet",
     "meso:dissme":"PhinSavannakhet",
@@ -32,6 +34,7 @@
     "mps:longitude":106.029795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Phin"
     ],
@@ -54,7 +57,7 @@
         "\u0e9e\u0eb4\u0e99"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092029057,
-    "wof:lastmodified":1564154803,
+    "wof:lastmodified":1566593293,
     "wof:name":"Phin",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

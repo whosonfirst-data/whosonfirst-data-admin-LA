@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.7595,16.67493,104.7995,16.71493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Mai-Buangthal\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243428899,
-    "wof:lastmodified":1537660950,
+    "wof:lastmodified":1566593494,
     "wof:name":"Ban Mai-Buangthale",
     "wof:parent_id":1092026527,
     "wof:placetype":"locality",

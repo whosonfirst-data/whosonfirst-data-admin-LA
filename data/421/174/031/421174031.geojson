@@ -11,10 +11,14 @@
     "geom:longitude":106.833887,
     "gn:country":"LA",
     "gn:fcode":"PPLA",
-    "gn:pop":4297,
+    "gn:population":4297,
     "iso:country":"LA",
+    "lbl:bbox":"106.813887,14.7876575,106.853887,14.8276575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0622\u062a\u0627\u0628\u0648"
@@ -133,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0442\u0430\u043f\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muong Attopeu"
     ],
     "name:urd_x_preferred":[
@@ -181,12 +185,12 @@
     "wof:concordances":{
         "gn:id":1665046,
         "gp:id":1140421,
-        "qs:id":316368,
+        "qs_pg:id":316368,
         "wd:id":"Q757905",
         "wk:page":"Attapeu"
     },
     "wof:concordances_alt":{
-        "qs:id":133902
+        "qs_pg:id":133902
     },
     "wof:country":"LA",
     "wof:created":1459009017,
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":421174031,
-    "wof:lastmodified":1563271200,
+    "wof:lastmodified":1566593354,
     "wof:name":"Attapu",
     "wof:parent_id":1092028773,
     "wof:placetype":"locality",

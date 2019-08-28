@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.89832,16.25948,105.93832,16.29948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Kam\u00e8p"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276414701,
-    "wof:lastmodified":1537660578,
+    "wof:lastmodified":1566592873,
     "wof:name":"Ban Kamep",
     "wof:parent_id":1092029057,
     "wof:placetype":"locality",

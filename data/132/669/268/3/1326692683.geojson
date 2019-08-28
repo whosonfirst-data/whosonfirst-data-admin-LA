@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.95725,15.72404,105.99725,15.76404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Namouang-Tai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326692683,
-    "wof:lastmodified":1537660844,
+    "wof:lastmodified":1566592365,
     "wof:name":"Ban Namouang-Tai",
     "wof:parent_id":1092029441,
     "wof:placetype":"locality",

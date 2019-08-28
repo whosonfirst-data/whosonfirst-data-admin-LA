@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.02631,21.19621,102.06631,21.23621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Ya-Mai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310271051,
-    "wof:lastmodified":1537660781,
+    "wof:lastmodified":1566593180,
     "wof:name":"Ban Ya-Mai",
     "wof:parent_id":1092027265,
     "wof:placetype":"locality",

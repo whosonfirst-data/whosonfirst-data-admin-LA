@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.18459,19.79607,102.22459,19.83607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Long-O"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309869371,
-    "wof:lastmodified":1537660523,
+    "wof:lastmodified":1566593350,
     "wof:name":"Ban Long-O",
     "wof:parent_id":1092030413,
     "wof:placetype":"locality",

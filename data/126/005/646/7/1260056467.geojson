@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.4172,19.63112,101.4572,19.67112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phalan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260056467,
-    "wof:lastmodified":1537660395,
+    "wof:lastmodified":1566593132,
     "wof:name":"Ban Phalan",
     "wof:parent_id":1092027837,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.562562,
     "lbl:longitude":102.595391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
     "meso:admin_1":"Vientiane",
     "meso:dissme":"Keo-OudomVientiane",
@@ -32,6 +34,7 @@
     "mps:longitude":102.595391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Keo Oudom"
     ],
@@ -39,7 +42,7 @@
         "\u0ec1\u0e81\u0ec9\u0ea7\u0ead\u0eb8\u0e94\u0ebb\u0ea1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632241,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1092027131,
-    "wof:lastmodified":1555220360,
+    "wof:lastmodified":1566593290,
     "wof:name":"Keo-Oudom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

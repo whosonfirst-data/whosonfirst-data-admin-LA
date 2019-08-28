@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.14754,18.83068,102.18754,18.87068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Namka"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260127545,
-    "wof:lastmodified":1537660914,
+    "wof:lastmodified":1566593089,
     "wof:name":"Ban Namka",
     "wof:parent_id":1092027063,
     "wof:placetype":"locality",

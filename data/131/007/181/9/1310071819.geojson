@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.52111,20.96154,102.56111,21.00154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yang Toi",
         "Ban Yangteuy",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310071819,
-    "wof:lastmodified":1537660191,
+    "wof:lastmodified":1566593159,
     "wof:name":"Ban Yangteuy",
     "wof:parent_id":1092027913,
     "wof:placetype":"locality",

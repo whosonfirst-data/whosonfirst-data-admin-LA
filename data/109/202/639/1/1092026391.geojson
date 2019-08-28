@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.674032,
     "lbl:longitude":100.5589,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5",
     "meso:admin_1":"Xayabury",
     "meso:dissme":"KhopXayabury",
@@ -32,6 +34,7 @@
     "mps:longitude":100.5589,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Khop"
     ],
@@ -42,7 +45,7 @@
         "\u0e84\u0ead\u0e9a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092026391,
-    "wof:lastmodified":1553718047,
+    "wof:lastmodified":1566593298,
     "wof:name":"Khop",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

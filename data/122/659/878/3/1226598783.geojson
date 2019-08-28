@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.22916,19.22626,102.26916,19.26626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nam\u00f4n-Mai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226598783,
-    "wof:lastmodified":1537660907,
+    "wof:lastmodified":1566593658,
     "wof:name":"Ban Namon-Mai",
     "wof:parent_id":1092027063,
     "wof:placetype":"locality",

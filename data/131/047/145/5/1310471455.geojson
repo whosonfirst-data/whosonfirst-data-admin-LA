@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.56214,21.03614,101.60214,21.07614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban \u00d4on"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310471455,
-    "wof:lastmodified":1537660977,
+    "wof:lastmodified":1566593149,
     "wof:name":"Ban Oon",
     "wof:parent_id":1092027341,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.592369,
     "lbl:longitude":106.513952,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
     "meso:admin_1":"Attapeu",
     "meso:dissme":"SanamxaiAttapeu",
@@ -32,6 +34,7 @@
     "mps:longitude":106.513952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Sanamxay"
     ],
@@ -45,7 +48,7 @@
         "\u0eaa\u0eb0\u0edc\u0eb2\u0ea1\u0ec4\u0e8a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632241,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1175612899,
-    "wof:lastmodified":1564154551,
+    "wof:lastmodified":1566593133,
     "wof:name":"Sanamxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

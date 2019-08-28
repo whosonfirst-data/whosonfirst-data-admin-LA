@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":22.18725,
     "lbl:longitude":101.807888,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
     "meso:admin_1":"Phongsaly",
     "meso:dissme":"Gnot-OuPhongsaly",
@@ -32,6 +34,7 @@
     "mps:longitude":101.807888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nhot Ou"
     ],
@@ -42,7 +45,7 @@
         "\u0e8d\u0ead\u0e94\u0ead\u0eb9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092026193,
-    "wof:lastmodified":1553718048,
+    "wof:lastmodified":1566593287,
     "wof:name":"Gnot-Ou",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

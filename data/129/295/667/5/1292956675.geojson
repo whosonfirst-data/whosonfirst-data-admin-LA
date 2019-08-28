@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.70345,17.89343,102.74345,17.93343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban D\u00f4ngph\u00f4nh\u00e8"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292956675,
-    "wof:lastmodified":1537660937,
+    "wof:lastmodified":1566592669,
     "wof:name":"Ban Dongphonhe",
     "wof:parent_id":1092026285,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.343504,
     "lbl:longitude":100.565295,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7",
     "meso:admin_1":"Bokeo",
     "meso:dissme":"HouayxayBokeo",
@@ -32,6 +34,7 @@
     "mps:longitude":100.565295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Huay Xai"
     ],
@@ -77,9 +80,6 @@
     "name:tha_x_preferred":[
         "\u0e2b\u0e49\u0e27\u0e22\u0e17\u0e23\u0e32\u0e22"
     ],
-    "name:und_x_variant":[
-        "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
-    ],
     "name:vie_x_preferred":[
         "Huoixai"
     ],
@@ -87,7 +87,7 @@
         "Ban Houayxay"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1092031167,
-    "wof:lastmodified":1564154786,
+    "wof:lastmodified":1566593277,
     "wof:name":"Houayxay",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

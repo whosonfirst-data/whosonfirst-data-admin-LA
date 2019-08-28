@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.52811,20.13649,101.56811,20.17649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phial\u00e8ng"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309997721,
-    "wof:lastmodified":1537660745,
+    "wof:lastmodified":1566593318,
     "wof:name":"Ban Phialeng",
     "wof:parent_id":1092027657,
     "wof:placetype":"locality",

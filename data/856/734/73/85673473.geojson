@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.552736,
     "lbl:longitude":106.977763,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0ec0\u0e8a\u0e81\u0ead\u0e87",
     "mps:latitude":15.548349,
     "mps:longitude":106.981454,
@@ -144,7 +145,7 @@
         "Sekong"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0b95\u0bcb\u0b99\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9a\u0bc6\u0b95\u0bcb\u0b99\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c15\u0c3e\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -163,9 +164,6 @@
     ],
     "name:und_x_variant":[
         "\u0ec0\u0e8a\u0e81\u0ead\u0e87"
-    ],
-    "name:unk_x_variant":[
-        "Khou\u00e8ng X\u00e9kong"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u06a9\u0648\u0646\u06af \u0635\u0648\u0628\u06c1"
@@ -251,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"7,665",
     "statoids:area_mi":"2,959",
     "statoids:as_of_date":"2005-03-01",
@@ -277,7 +275,7 @@
         "gp:id":20070158,
         "hasc:id":"LA.XE",
         "iso:id":"LA-XE",
-        "qs:id":1287641,
+        "qs_pg:id":1287641,
         "wd:id":"Q585707",
         "wk:page":"Sekong Province"
     },
@@ -297,11 +295,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726311,
+    "wof:lastmodified":1566592629,
     "wof:name":"X\u00e9kong",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":84985,
     "wof:population_rank":8,

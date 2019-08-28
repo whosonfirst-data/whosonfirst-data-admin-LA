@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.45068,18.5591,101.49068,18.5991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sala",
         "Ban Ph\u00f4nsak"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259959133,
-    "wof:lastmodified":1537660209,
+    "wof:lastmodified":1566593557,
     "wof:name":"Ban Phonsak",
     "wof:parent_id":1092031375,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.13394,17.21729,105.17394,17.25729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Xok Bo",
         "Ban Sokbo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293360605,
-    "wof:lastmodified":1537660339,
+    "wof:lastmodified":1566592643,
     "wof:name":"Ban Sokbo",
     "wof:parent_id":1092030339,
     "wof:placetype":"locality",

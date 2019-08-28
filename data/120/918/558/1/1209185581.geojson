@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.50731,19.08739,101.54731,19.12739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phonxai"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209185581,
-    "wof:lastmodified":1537660883,
+    "wof:lastmodified":1566593007,
     "wof:name":"Ban Phonxai",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

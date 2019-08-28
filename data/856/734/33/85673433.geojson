@@ -20,6 +20,7 @@
     ],
     "lbl:latitude":18.074822,
     "lbl:longitude":102.716167,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
     "mps:latitude":18.074562,
     "mps:longitude":102.710566,
@@ -198,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -211,7 +212,7 @@
         "gn:id":1904618,
         "gp:id":20070162,
         "hasc:id":"LA.VT",
-        "qs:id":1154061,
+        "qs_pg:id":1154061,
         "wd:id":"Q390377",
         "wk:page":"Vientiane Prefecture"
     },
@@ -231,7 +232,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726311,
+    "wof:lastmodified":1566592628,
     "wof:name":"Vientiane (prefecture)",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

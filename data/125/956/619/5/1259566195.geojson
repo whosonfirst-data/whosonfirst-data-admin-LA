@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.15084,17.58847,105.19084,17.62847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Cobon",
         "Ban Kob\u00f4ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259566195,
-    "wof:lastmodified":1537660545,
+    "wof:lastmodified":1566593572,
     "wof:name":"Ban Kobong",
     "wof:parent_id":1092031117,
     "wof:placetype":"locality",

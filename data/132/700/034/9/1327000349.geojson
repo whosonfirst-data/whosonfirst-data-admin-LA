@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.68704,17.97108,104.72704,18.01108",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Na Khu",
         "Ban Nakhoun"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327000349,
-    "wof:lastmodified":1537660484,
+    "wof:lastmodified":1566592348,
     "wof:name":"Ban Nakhoun",
     "wof:parent_id":1092029559,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.58994,21.29996,102.62994,21.33996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phialo-Kao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326996359,
-    "wof:lastmodified":1537660790,
+    "wof:lastmodified":1566592433,
     "wof:name":"Ban Phialo-Kao",
     "wof:parent_id":1092026481,
     "wof:placetype":"locality",

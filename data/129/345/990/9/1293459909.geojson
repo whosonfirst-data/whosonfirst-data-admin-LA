@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.19218,17.1725,105.23218,17.2125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Kh\u00f4k-Nua"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293459909,
-    "wof:lastmodified":1537660553,
+    "wof:lastmodified":1566592754,
     "wof:name":"Ban Khok-Nua",
     "wof:parent_id":1092030339,
     "wof:placetype":"locality",

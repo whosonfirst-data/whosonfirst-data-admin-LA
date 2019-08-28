@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.51291,16.5012,106.55291,16.5412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Ladeu"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344019865,
-    "wof:lastmodified":1537660535,
+    "wof:lastmodified":1566592523,
     "wof:name":"Ban Ladeu",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

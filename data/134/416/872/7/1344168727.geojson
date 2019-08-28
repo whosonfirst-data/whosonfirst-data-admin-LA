@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.5518,20.33704,104.5918,20.37704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nahua"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344168727,
-    "wof:lastmodified":1537660989,
+    "wof:lastmodified":1566592584,
     "wof:name":"Ban Nahua",
     "wof:parent_id":1092031621,
     "wof:placetype":"locality",

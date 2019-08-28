@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.12574,18.19617,103.16574,18.23617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houei Sophay",
         "Ban Houay Sophay",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276504933,
-    "wof:lastmodified":1537660589,
+    "wof:lastmodified":1566592843,
     "wof:name":"Ban Sayphay",
     "wof:parent_id":1092031501,
     "wof:placetype":"locality",

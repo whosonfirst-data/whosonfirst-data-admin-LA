@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":20.88503,
     "lbl:longitude":101.088583,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0eab\u0ea5\u0ea7\u0e87\u0e99\u0ecd\u0ec9\u0eb2\u0e97\u0eb2",
     "mps:latitude":20.858232,
     "mps:longitude":101.076927,
@@ -149,7 +150,7 @@
         "Luang Namtha"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bc2\u0b99\u0bcd \u0ba8\u0bae\u0bcd\u0ba4\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb2\u0bc2\u0b99\u0bcd \u0ba8\u0bae\u0bcd\u0ba4\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c41\u0c2e\u0c3e\u0c02\u0c17\u0c4d \u0c28\u0c2e\u0c4d\u0c24\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -167,9 +168,7 @@
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041b\u0443\u0430\u043d\u0433-\u041d\u0430\u043c\u0442\u0430"
     ],
     "name:und_x_variant":[
-        "\u0eab\u0ea5\u0ea7\u0e87\u0e99\u0ecd\u0ec9\u0eb2\u0e97\u0eb2"
-    ],
-    "name:unk_x_variant":[
+        "\u0eab\u0ea5\u0ea7\u0e87\u0e99\u0ecd\u0ec9\u0eb2\u0e97\u0eb2",
         "Province de Haut-M\u00e9kong"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +255,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"9,325",
     "statoids:area_mi":"3,600",
     "statoids:as_of_date":"2005-03-01",
@@ -284,7 +283,7 @@
         "gp:id":2346003,
         "hasc:id":"LA.LM",
         "iso:id":"LA-LM",
-        "qs:id":1135128,
+        "qs_pg:id":1135128,
         "unlc:id":"LA-LM",
         "wd:id":"Q948691"
     },
@@ -304,11 +303,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726313,
+    "wof:lastmodified":1566592633,
     "wof:name":"Louang Namtha",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":145289,
     "wof:population_rank":9,

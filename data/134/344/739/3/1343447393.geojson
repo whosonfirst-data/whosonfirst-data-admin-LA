@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.18975,17.98276,101.22975,18.02276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houay Bua",
         "Ban Houaybouha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343447393,
-    "wof:lastmodified":1537660617,
+    "wof:lastmodified":1566592618,
     "wof:name":"Ban Houaybouha",
     "wof:parent_id":1092030663,
     "wof:placetype":"locality",

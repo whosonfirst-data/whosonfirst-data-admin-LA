@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.80795,14.58994,105.84795,14.62994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban D\u00f4ng Nhang",
         "Ban D\u00f4nggnang"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209618537,
-    "wof:lastmodified":1537660651,
+    "wof:lastmodified":1566592981,
     "wof:name":"Ban Donggnang",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

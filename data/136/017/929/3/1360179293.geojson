@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.12336,20.12767,102.16336,20.16767",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Kha Niai Nieou",
         "Ban Khok Mai",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360179293,
-    "wof:lastmodified":1537660608,
+    "wof:lastmodified":1566593261,
     "wof:name":"Ban Houaykhagnay-Nua",
     "wof:parent_id":1092027867,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.66333,19.71333,104.70333,19.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Pha Pix",
         "Ban Phapia"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225946005,
-    "wof:lastmodified":1537660392,
+    "wof:lastmodified":1566593603,
     "wof:name":"Ban Phapia",
     "wof:parent_id":1092026829,
     "wof:placetype":"locality",

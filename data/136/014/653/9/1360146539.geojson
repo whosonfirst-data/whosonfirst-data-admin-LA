@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.27122,16.77094,105.31122,16.81094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nalak"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360146539,
-    "wof:lastmodified":1537660481,
+    "wof:lastmodified":1566593242,
     "wof:name":"Ban Nalak",
     "wof:parent_id":1092031025,
     "wof:placetype":"locality",

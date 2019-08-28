@@ -11,8 +11,11 @@
     "geom:longitude":101.71032,
     "gn:country":"LA",
     "gn:fcode":"PPLA",
-    "gn:pop":13500,
+    "gn:population":13500,
     "iso:country":"LA",
+    "lbl:bbox":"101.69032,19.23756,101.73032,19.27756",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -140,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0439\u043d\u044f\u0431\u0443\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Samaboury"
     ],
     "name:urd_x_preferred":[
@@ -265,7 +268,7 @@
     "wof:concordances":{
         "gn:id":1655084,
         "gp:id":56618469,
-        "qs:id":133886,
+        "qs_pg:id":133886,
         "wd:id":"Q2344474",
         "wk:page":"Sainyabuli"
     },
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":890433787,
-    "wof:lastmodified":1563271212,
+    "wof:lastmodified":1566593359,
     "wof:name":"Xaignabouli",
     "wof:parent_id":1092030249,
     "wof:placetype":"locality",

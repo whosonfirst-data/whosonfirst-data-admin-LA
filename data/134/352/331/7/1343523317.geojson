@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.72369,16.23844,105.76369,16.27844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dong Panlot",
         "Dong Paniet",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343523317,
-    "wof:lastmodified":1537660648,
+    "wof:lastmodified":1566592491,
     "wof:name":"Ban Dongphaniat",
     "wof:parent_id":1092029171,
     "wof:placetype":"locality",

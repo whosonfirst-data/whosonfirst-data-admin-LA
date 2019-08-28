@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":18.546984,
     "lbl:longitude":104.339726,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a",
     "mps:latitude":18.529366,
     "mps:longitude":104.362731,
@@ -145,7 +146,7 @@
         "Bolikhamsai"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb2\u0bbf\u0b95\u0bae\u0bcd\u0b9a\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0bb2\u0bbf\u0b95\u0bae\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c32\u0c3f\u0c16\u0c3e\u0c2e\u0c4d\u0c38\u0c3e\u0c2f\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -163,9 +164,7 @@
         "\u0411\u043e\u043b\u0456\u043a\u0445\u0430\u043c\u0441\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a"
-    ],
-    "name:unk_x_variant":[
+        "\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a",
         "Borikhan"
     ],
     "name:urd_x_preferred":[
@@ -252,7 +251,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -264,7 +263,7 @@
         "gn:id":1904617,
         "gp:id":20070163,
         "hasc:id":"LA.BL",
-        "qs:id":202012,
+        "qs_pg:id":202012,
         "wd:id":"Q2403514",
         "wk:page":"Bolikhamsai Province"
     },
@@ -284,7 +283,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726312,
+    "wof:lastmodified":1566592631,
     "wof:name":"Borikhamxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

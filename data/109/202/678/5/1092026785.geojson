@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":20.511375,
     "lbl:longitude":100.252615,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7",
     "meso:admin_1":"Bokeo",
     "meso:dissme":"TonpheungBokeo",
@@ -32,6 +34,7 @@
     "mps:longitude":100.252615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tonpheung"
     ],
@@ -42,7 +45,7 @@
         "\u0e95\u0ebb\u0ec9\u0e99\u0ec0\u0e9c\u0eb4\u0ec9\u0e87"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092026785,
-    "wof:lastmodified":1553718048,
+    "wof:lastmodified":1566593296,
     "wof:name":"Tonpheung",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

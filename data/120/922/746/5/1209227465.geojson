@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.83,14.81333,105.87,14.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632241
@@ -34,7 +38,7 @@
         "gn:id":1663139
     },
     "wof:country":"LA",
-    "wof:geomhash":"df52d3c33c729454795f106d2fcf1783",
+    "wof:geomhash":"a2cceb4fcf9d6afbb41a25a9ce5273e4",
     "wof:hierarchy":[
         {
             "country_id":85632241,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209227465,
-    "wof:lastmodified":1536293749,
+    "wof:lastmodified":1566592971,
     "wof:name":"Ban Kham",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     105.85,
-    14.833329999999998,
+    14.83333,
     105.85,
-    14.833329999999998
+    14.83333
 ],
   "geometry": {"coordinates":[105.84999999999999,14.83333],"type":"Point"}
 }

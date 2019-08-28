@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.78265,19.93379,101.82265,19.97379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Khoang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343355971,
-    "wof:lastmodified":1537660748,
+    "wof:lastmodified":1566592560,
     "wof:name":"Ban Khoang",
     "wof:parent_id":1092027867,
     "wof:placetype":"locality",

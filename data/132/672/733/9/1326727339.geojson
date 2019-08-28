@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.3298,19.94333,101.3698,19.98333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban M\u00f4kch\u00f4ng-Noy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326727339,
-    "wof:lastmodified":1537660739,
+    "wof:lastmodified":1566592349,
     "wof:name":"Ban Mokchong-Noy",
     "wof:parent_id":1092027657,
     "wof:placetype":"locality",

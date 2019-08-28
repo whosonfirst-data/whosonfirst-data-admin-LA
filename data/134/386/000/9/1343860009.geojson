@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.11022,20.64995,104.15022,20.68995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sa Not",
         "So Not",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343860009,
-    "wof:lastmodified":1537660203,
+    "wof:lastmodified":1566592612,
     "wof:name":"Ban Xanot",
     "wof:parent_id":1092026965,
     "wof:placetype":"locality",

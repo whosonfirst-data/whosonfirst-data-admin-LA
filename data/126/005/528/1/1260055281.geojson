@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.78043,15.4167,105.82043,15.4567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongheng"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260055281,
-    "wof:lastmodified":1537660432,
+    "wof:lastmodified":1566593131,
     "wof:name":"Ban Nongheng",
     "wof:parent_id":1092029399,
     "wof:placetype":"locality",

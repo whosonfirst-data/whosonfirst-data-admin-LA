@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.17275,16.04287,105.21275,16.08287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongdeun"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327004449,
-    "wof:lastmodified":1537660433,
+    "wof:lastmodified":1566592348,
     "wof:name":"Ban Nongdeun",
     "wof:parent_id":1092026707,
     "wof:placetype":"locality",

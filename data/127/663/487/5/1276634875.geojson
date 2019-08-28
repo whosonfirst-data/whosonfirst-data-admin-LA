@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"100.79419,19.56091,100.83419,19.60091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Donchai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276634875,
-    "wof:lastmodified":1537660702,
+    "wof:lastmodified":1566592892,
     "wof:name":"Ban Donchai",
     "wof:parent_id":1092030503,
     "wof:placetype":"locality",

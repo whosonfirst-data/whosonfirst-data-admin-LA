@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.99303,20.49114,104.03303,20.53114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Samngoua"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326737971,
-    "wof:lastmodified":1537660795,
+    "wof:lastmodified":1566592361,
     "wof:name":"Ban Samngoua",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

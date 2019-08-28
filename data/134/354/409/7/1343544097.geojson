@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.48598,17.46124,105.52598,17.50124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban K\u00e8ngk\u00e8o"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343544097,
-    "wof:lastmodified":1537660569,
+    "wof:lastmodified":1566592486,
     "wof:name":"Ban Kengkeo",
     "wof:parent_id":1092031117,
     "wof:placetype":"locality",

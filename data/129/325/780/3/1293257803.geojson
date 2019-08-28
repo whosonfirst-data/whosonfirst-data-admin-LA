@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.80157,15.57899,105.84157,15.61899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Pak Suak",
         "Ban Pakxuak"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293257803,
-    "wof:lastmodified":1537660407,
+    "wof:lastmodified":1566592700,
     "wof:name":"Ban Pakxuak",
     "wof:parent_id":1092029399,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.374122,
     "lbl:longitude":103.09842,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a",
     "meso:admin_1":"Borikhamxay",
     "meso:dissme":"ThaphabatBorikhamxay",
@@ -32,6 +34,7 @@
     "mps:longitude":103.09842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Thaphabath"
     ],
@@ -42,7 +45,7 @@
         "\u0e97\u0ec8\u0eb2\u0e9e\u0eb0\u0e9a\u0eb2\u0e94"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092031501,
-    "wof:lastmodified":1553718055,
+    "wof:lastmodified":1566593274,
     "wof:name":"Thaphabat",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

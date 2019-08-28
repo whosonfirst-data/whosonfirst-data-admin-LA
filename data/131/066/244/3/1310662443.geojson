@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.1711,16.47503,105.2111,16.51503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongsithouan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310662443,
-    "wof:lastmodified":1537660887,
+    "wof:lastmodified":1566593207,
     "wof:name":"Ban Nongsithouan",
     "wof:parent_id":1092028085,
     "wof:placetype":"locality",

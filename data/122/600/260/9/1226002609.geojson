@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.56545,17.96576,102.60545,18.00576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Done Na Sok",
         "Ban D\u00f4ng-Nax\u00f4k",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226002609,
-    "wof:lastmodified":1537660648,
+    "wof:lastmodified":1566593730,
     "wof:name":"Ban Dongnasok",
     "wof:parent_id":1092028953,
     "wof:placetype":"locality",

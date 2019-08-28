@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.2408,17.49172,105.2808,17.53172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Ph\u00f4ns\u00e8t"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293562291,
-    "wof:lastmodified":1537660376,
+    "wof:lastmodified":1566592716,
     "wof:name":"Ban Phonset",
     "wof:parent_id":1092031117,
     "wof:placetype":"locality",

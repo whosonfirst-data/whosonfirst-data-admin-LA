@@ -23,15 +23,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.23319,19.20926,102.27319,19.24926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kasi"
     ],
     "name:und_x_variant":[
         "Muong Kassy",
-        "Muang Kasi",
-        "Kasi"
+        "Muang Kasi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209180845,
-    "wof:lastmodified":1564154352,
+    "wof:lastmodified":1566593008,
     "wof:name":"Muang Kasi",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

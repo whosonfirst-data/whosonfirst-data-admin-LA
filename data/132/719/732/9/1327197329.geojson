@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.11903,21.58375,102.15903,21.62375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chao Phou",
         "Ban Chaophou"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327197329,
-    "wof:lastmodified":1537660261,
+    "wof:lastmodified":1566592453,
     "wof:name":"Ban Chaophou",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",

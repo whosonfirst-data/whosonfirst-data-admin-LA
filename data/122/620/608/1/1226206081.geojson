@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.69263,20.50453,102.73263,20.54453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Longkham"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226206081,
-    "wof:lastmodified":1537660764,
+    "wof:lastmodified":1566593634,
     "wof:name":"Ban Longkham",
     "wof:parent_id":1092027961,
     "wof:placetype":"locality",

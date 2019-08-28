@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.96243,19.81172,103.00243,19.85172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pak Vang",
         "Ban Pakvang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292971731,
-    "wof:lastmodified":1537660217,
+    "wof:lastmodified":1566592737,
     "wof:name":"Ban Pakvang",
     "wof:parent_id":1092028703,
     "wof:placetype":"locality",

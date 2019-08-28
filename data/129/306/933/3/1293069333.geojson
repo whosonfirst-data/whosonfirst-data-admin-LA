@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.60736,18.03469,102.64736,18.07469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bo Ken",
         "Ban Nath\u00f4m"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293069333,
-    "wof:lastmodified":1537660447,
+    "wof:lastmodified":1566592657,
     "wof:name":"Ban Nathom",
     "wof:parent_id":1092030043,
     "wof:placetype":"locality",

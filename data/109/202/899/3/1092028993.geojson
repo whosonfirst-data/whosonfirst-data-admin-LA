@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.932546,
     "lbl:longitude":102.632035,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_loc":"\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99",
     "meso:admin_1":"Vientiane Capital",
     "meso:dissme":"SisattanakVientiane Capital",
@@ -32,6 +34,7 @@
     "mps:longitude":102.632035,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sisattanak"
     ],
@@ -42,7 +45,7 @@
         "\u0eaa\u0eb5\u0eaa\u0eb1\u0e94\u0e95\u0eb0\u0e99\u0eb2\u0e81"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092028993,
-    "wof:lastmodified":1553718051,
+    "wof:lastmodified":1566593299,
     "wof:name":"Sisattanak",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

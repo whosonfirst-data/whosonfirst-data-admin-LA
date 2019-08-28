@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.26211,16.68297,105.30211,16.72297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Dong Hen",
         "D\u00f4ngh\u00e9n",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344019837,
-    "wof:lastmodified":1537660259,
+    "wof:lastmodified":1566592521,
     "wof:name":"Ban Donghen",
     "wof:parent_id":1092031025,
     "wof:placetype":"locality",

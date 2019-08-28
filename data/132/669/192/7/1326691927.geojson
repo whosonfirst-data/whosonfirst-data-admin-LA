@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.18292,16.92319,106.22292,16.96319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Taly",
         "Ban Tali"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326691927,
-    "wof:lastmodified":1537660326,
+    "wof:lastmodified":1566592363,
     "wof:name":"Ban Tali",
     "wof:parent_id":1092029691,
     "wof:placetype":"locality",

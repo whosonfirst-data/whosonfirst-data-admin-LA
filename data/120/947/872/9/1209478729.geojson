@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.58179,20.09865,102.62179,20.13865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban K\u00e8olo"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209478729,
-    "wof:lastmodified":1537660826,
+    "wof:lastmodified":1566592964,
     "wof:name":"Ban Keolo",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

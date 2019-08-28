@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.68664,15.26856,106.72664,15.30856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban M\u00f4-Noy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343729319,
-    "wof:lastmodified":1537660863,
+    "wof:lastmodified":1566592614,
     "wof:name":"Ban Mo-Noy",
     "wof:parent_id":1092028877,
     "wof:placetype":"locality",

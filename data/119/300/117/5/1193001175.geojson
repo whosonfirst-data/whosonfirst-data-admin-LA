@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.56046,17.0827,105.60046,17.1227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Phad Khad",
         "Ban Phakhat"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193001175,
-    "wof:lastmodified":1537660398,
+    "wof:lastmodified":1566593044,
     "wof:name":"Ban Phakhat",
     "wof:parent_id":1092030373,
     "wof:placetype":"locality",

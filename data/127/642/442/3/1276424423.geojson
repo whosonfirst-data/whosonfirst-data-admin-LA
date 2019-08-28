@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.87639,19.62825,103.91639,19.66825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Thamhip"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276424423,
-    "wof:lastmodified":1537660731,
+    "wof:lastmodified":1566592802,
     "wof:name":"Ban Thamhip",
     "wof:parent_id":1092031243,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.01333,20.33,104.05333,20.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Houei Nhok",
         "Ban Houei Nhak"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209422417,
-    "wof:lastmodified":1537660583,
+    "wof:lastmodified":1566593020,
     "wof:name":"Ban Houei Nhak",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",

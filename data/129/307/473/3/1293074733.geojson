@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"103.58716,19.55576,103.62716,19.59576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Kongibu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293074733,
-    "wof:lastmodified":1537660734,
+    "wof:lastmodified":1566592636,
     "wof:name":"Ban Kongiou",
     "wof:parent_id":1092027197,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.14875,17.43139,105.18875,17.47139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Na Lau Louang",
         "Ban Nalaolouang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343244953,
-    "wof:lastmodified":1537660481,
+    "wof:lastmodified":1566592535,
     "wof:name":"Ban Nalaolouang",
     "wof:parent_id":1092031145,
     "wof:placetype":"locality",

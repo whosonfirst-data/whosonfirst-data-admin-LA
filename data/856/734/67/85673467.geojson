@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.557468,
     "lbl:longitude":105.274089,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
     "mps:latitude":17.555374,
     "mps:longitude":105.261358,
@@ -165,9 +166,7 @@
         "\u041f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f \u041a\u0445\u0430\u043c\u0443\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99"
-    ],
-    "name:unk_x_variant":[
+        "\u0e84\u0ecd\u0eb2\u0ea1\u0ec8\u0ea7\u0e99",
         "Province de Cammon"
     ],
     "name:urd_x_preferred":[
@@ -255,9 +254,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"16,315",
     "statoids:area_mi":"6,299",
     "statoids:as_of_date":"2005-03-01",
@@ -282,7 +281,7 @@
         "gp:id":20070161,
         "hasc:id":"LA.KH",
         "iso:id":"LA-KH",
-        "qs:id":1149779,
+        "qs_pg:id":1149779,
         "unlc:id":"LA-KH",
         "wd:id":"Q506641",
         "wk:page":"Khammouane Province"
@@ -303,11 +302,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726311,
+    "wof:lastmodified":1566592627,
     "wof:name":"Khammouan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":337314,
     "wof:population_rank":10,

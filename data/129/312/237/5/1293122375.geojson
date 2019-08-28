@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.43943,20.12712,101.47943,20.16712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muong Houn",
         "Muang Houn"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293122375,
-    "wof:lastmodified":1537660239,
+    "wof:lastmodified":1566592686,
     "wof:name":"Muang Houn",
     "wof:parent_id":1092027657,
     "wof:placetype":"locality",

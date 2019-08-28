@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.78668,15.23162,105.82668,15.27162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Khansouanmon"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193278947,
-    "wof:lastmodified":1537660566,
+    "wof:lastmodified":1566593071,
     "wof:name":"Ban Khansouanmon",
     "wof:parent_id":1092030991,
     "wof:placetype":"locality",

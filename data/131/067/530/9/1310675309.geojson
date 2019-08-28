@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.97738,16.66629,106.01738,16.70629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phalong"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310675309,
-    "wof:lastmodified":1537660395,
+    "wof:lastmodified":1566593223,
     "wof:name":"Ban Phalong",
     "wof:parent_id":1092029057,
     "wof:placetype":"locality",

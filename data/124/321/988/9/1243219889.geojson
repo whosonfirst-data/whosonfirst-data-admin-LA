@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.9838,18.06412,105.0238,18.10412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Ph\u00f4nth\u00f4ng",
         "Ban Ph\u00f4nb\u00f4ng"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243219889,
-    "wof:lastmodified":1537660382,
+    "wof:lastmodified":1566593503,
     "wof:name":"Ban Phonthong",
     "wof:parent_id":1092030753,
     "wof:placetype":"locality",

@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":21.633996,
     "lbl:longitude":102.240674,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
     "mps:latitude":21.627189,
     "mps:longitude":102.219606,
@@ -154,7 +155,7 @@
         "Phongsali"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0b99\u0bcd\u0b9a\u0bbe\u0bb2\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0b99\u0bcd\u0b9a\u0bbe\u0bb2\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c4b\u0c02\u0c17\u0c4d\u0c38\u0c32\u0c47 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -172,9 +173,7 @@
         "\u041f\u0445\u043e\u043d\u0433\u0441\u0430\u043b\u0456"
     ],
     "name:und_x_variant":[
-        "\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5"
-    ],
-    "name:unk_x_variant":[
+        "\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5",
         "Khou\u00e8ng Fong Sali"
     ],
     "name:urd_x_preferred":[
@@ -261,9 +260,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"16,270",
     "statoids:area_mi":"6,282",
     "statoids:as_of_date":"2005-03-01",
@@ -288,7 +287,7 @@
         "gp:id":2346006,
         "hasc:id":"LA.PH",
         "iso:id":"LA-PH",
-        "qs:id":1030864,
+        "qs_pg:id":1030864,
         "wd:id":"Q334868",
         "wk:page":"Phongsaly Province"
     },
@@ -308,11 +307,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726310,
+    "wof:lastmodified":1566592626,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":165926,
     "wof:population_rank":9,

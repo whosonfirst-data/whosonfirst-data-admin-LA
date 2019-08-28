@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.04778,16.35385,105.08778,16.39385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Donph\u00f4"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277141741,
-    "wof:lastmodified":1537660643,
+    "wof:lastmodified":1566592849,
     "wof:name":"Ban Donpho",
     "wof:parent_id":1092030959,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.9914,19.4675,102.0314,19.5075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Namuangkay"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327496973,
-    "wof:lastmodified":1537660721,
+    "wof:lastmodified":1566592395,
     "wof:name":"Ban Namuangkay",
     "wof:parent_id":1092027721,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":19.38333,
     "geom:longitude":103.2,
     "iso:country":"LA",
+    "lbl:bbox":"103.18,19.36333,103.22,19.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ban Thong"
     ],
     "qs:gn_country":"LA",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1658446,
         "gp:id":1138885,
-        "qs:id":211594
+        "qs_pg:id":211594
     },
     "wof:country":"LA",
     "wof:created":1459010073,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421201461,
-    "wof:lastmodified":1501221413,
+    "wof:lastmodified":1566593356,
     "wof:name":"Ban Thuang (1)",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",

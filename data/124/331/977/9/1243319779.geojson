@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"104.86776,18.59666,104.90776,18.63666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Hoei Ka",
         "Ban Houayka"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243319779,
-    "wof:lastmodified":1537660609,
+    "wof:lastmodified":1566593363,
     "wof:name":"Ban Houayka",
     "wof:parent_id":1092030753,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.53267,17.06904,105.57267,17.10904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban N\u00f4ngphu-Mai"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327117247,
-    "wof:lastmodified":1537660880,
+    "wof:lastmodified":1566592464,
     "wof:name":"Ban Nongphu-Mai",
     "wof:parent_id":1092030373,
     "wof:placetype":"locality",

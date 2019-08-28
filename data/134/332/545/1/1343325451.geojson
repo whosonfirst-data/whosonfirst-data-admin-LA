@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.55689,20.46791,102.59689,20.50791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Lat-En"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343325451,
-    "wof:lastmodified":1537660764,
+    "wof:lastmodified":1566592559,
     "wof:name":"Ban Lat-En",
     "wof:parent_id":1092027961,
     "wof:placetype":"locality",

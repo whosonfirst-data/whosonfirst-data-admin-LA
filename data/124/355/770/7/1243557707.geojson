@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.79865,15.1413,105.83865,15.1813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ban Nachieng",
         "Ban Nachiang"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243557707,
-    "wof:lastmodified":1537660502,
+    "wof:lastmodified":1566593374,
     "wof:name":"Ban Nachiang",
     "wof:parent_id":1092028367,
     "wof:placetype":"locality",

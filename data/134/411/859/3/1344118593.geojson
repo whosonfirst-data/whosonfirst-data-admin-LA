@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.33061,16.38784,106.37061,16.42784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Loy"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344118593,
-    "wof:lastmodified":1537660826,
+    "wof:lastmodified":1566592582,
     "wof:name":"Ban Loy",
     "wof:parent_id":85673429,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":103.93861,
     "gn:country":"LA",
     "gn:fcode":"MT",
-    "gn:pop":1070,
+    "gn:population":1070,
     "iso:country":"LA",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:lao_x_preferred":[
         "San K\u00e8ngt\u00f4p"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1952344,
         "gp:id":1140607,
-        "qs:id":90247
+        "qs_pg:id":90247
     },
     "wof:country":"LA",
     "wof:created":1469052938,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890455215,
-    "wof:lastmodified":1505343661,
+    "wof:lastmodified":1566593357,
     "wof:name":"San K\u00e8ngt\u00f4p",
     "wof:parent_id":1092030635,
     "wof:placetype":"locality",

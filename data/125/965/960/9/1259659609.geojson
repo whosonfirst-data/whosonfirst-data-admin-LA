@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.12294,21.44894,102.16294,21.48894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban S\u00e8n-In-Noy"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259659609,
-    "wof:lastmodified":1537660723,
+    "wof:lastmodified":1566593517,
     "wof:name":"Ban Sen-In-Noy",
     "wof:parent_id":1092027265,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"106.5086,16.82838,106.5486,16.86838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta Ha",
         "Ban Taha",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326492101,
-    "wof:lastmodified":1537660328,
+    "wof:lastmodified":1566592415,
     "wof:name":"Ban Lataha",
     "wof:parent_id":1092026919,
     "wof:placetype":"locality",

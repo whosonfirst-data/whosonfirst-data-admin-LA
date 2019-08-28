@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"105.71706,16.28481,105.75706,16.32481",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban K\u00e8nglav\u00e9"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360259679,
-    "wof:lastmodified":1537660898,
+    "wof:lastmodified":1566593246,
     "wof:name":"Ban Kenglave",
     "wof:parent_id":1092029171,
     "wof:placetype":"locality",

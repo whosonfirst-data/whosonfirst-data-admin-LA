@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.782123,
     "lbl:longitude":107.065977,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7",
     "mps:latitude":14.844065,
     "mps:longitude":107.113154,
@@ -175,9 +176,6 @@
         "\u0410\u0442\u0442\u0430\u043f\u0438"
     ],
     "name:und_x_variant":[
-        "\u0ead\u0eb1\u0e94\u0e95\u0eb0\u0e9b\u0eb7"
-    ],
-    "name:unk_x_variant":[
         "Muang Mai"
     ],
     "name:urd_x_preferred":[
@@ -264,9 +262,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-03-01",
+    "src:population_date":"2005-03-01",
     "statoids:area_km":"10,320",
     "statoids:area_mi":"3,985",
     "statoids:as_of_date":"2005-03-01",
@@ -290,7 +288,7 @@
         "gp:id":20070159,
         "hasc:id":"LA.AT",
         "iso:id":"LA-AT",
-        "qs:id":348938,
+        "qs_pg:id":348938,
         "wd:id":"Q503004",
         "wk:page":"Attapeu Province"
     },
@@ -310,11 +308,10 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1565726310,
+    "wof:lastmodified":1566592626,
     "wof:name":"Attapeu",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":112097,
     "wof:population_rank":9,

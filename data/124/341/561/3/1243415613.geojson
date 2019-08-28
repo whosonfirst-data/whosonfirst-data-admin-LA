@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"102.94799,18.51778,102.98799,18.55778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Nongmouang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243415613,
-    "wof:lastmodified":1537660987,
+    "wof:lastmodified":1566593412,
     "wof:name":"Ban Nongmouang",
     "wof:parent_id":1092027153,
     "wof:placetype":"locality",

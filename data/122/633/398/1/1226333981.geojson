@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Vientiane",
     "iso:country":"LA",
+    "lbl:bbox":"101.15773,19.96582,101.19773,20.00582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lao_x_preferred":[
         "Ban Phousoung"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226333981,
-    "wof:lastmodified":1537660879,
+    "wof:lastmodified":1566593640,
     "wof:name":"Ban Phousoung",
     "wof:parent_id":1092028245,
     "wof:placetype":"locality",
