@@ -40,7 +40,7 @@
     "wof:belongsto":[
         102191569,
         85632241,
-        85673467
+        85673429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,13 +53,13 @@
             "continent_id":102191569,
             "country_id":85632241,
             "county_id":1511854791,
-            "region_id":85673467
+            "region_id":85673429
         }
     ],
     "wof:id":1511854791,
-    "wof:lastmodified":1578511496,
+    "wof:lastmodified":1578511646,
     "wof:name":"Nong",
-    "wof:parent_id":85673467,
+    "wof:parent_id":85673429,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-la",

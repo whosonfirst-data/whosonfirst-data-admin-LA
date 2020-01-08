@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632241
+        102191569,
+        85632241,
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"0c4f6b50ff01f2ec658f9226ba5f86cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632241,
-            "locality_id":1209480047
+            "county_id":1511854791,
+            "locality_id":1209480047,
+            "region_id":85673429
         }
     ],
     "wof:id":1209480047,
-    "wof:lastmodified":1566592948,
+    "wof:lastmodified":1578511653,
     "wof:name":"Ban Chidan",
-    "wof:parent_id":85632241,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],

@@ -37,7 +37,8 @@
     "wof:belongsto":[
         102191569,
         85632241,
-        85673429
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,15 @@
         {
             "continent_id":102191569,
             "country_id":85632241,
+            "county_id":1511854791,
             "locality_id":1259558081,
             "region_id":85673429
         }
     ],
     "wof:id":1259558081,
-    "wof:lastmodified":1566593532,
+    "wof:lastmodified":1578511651,
     "wof:name":"Ban Phouthai",
-    "wof:parent_id":85673429,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],

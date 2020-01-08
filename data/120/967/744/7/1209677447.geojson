@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632241
+        102191569,
+        85632241,
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"bf8e07fcf9a8e08b0c3fe9e7bd61f85c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632241,
-            "locality_id":1209677447
+            "county_id":1511854791,
+            "locality_id":1209677447,
+            "region_id":85673429
         }
     ],
     "wof:id":1209677447,
-    "wof:lastmodified":1566592989,
+    "wof:lastmodified":1578511658,
     "wof:name":"Ban Paloy",
-    "wof:parent_id":85632241,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
