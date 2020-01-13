@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632241
+        102191569,
+        85632241,
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"f1edb8476418eaae5baba1cd7d6fed6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632241,
-            "locality_id":1209577395
+            "county_id":1511854791,
+            "locality_id":1209577395,
+            "region_id":85673429
         }
     ],
     "wof:id":1209577395,
-    "wof:lastmodified":1566592973,
+    "wof:lastmodified":1578511654,
     "wof:name":"Ban Ngan",
-    "wof:parent_id":85632241,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],

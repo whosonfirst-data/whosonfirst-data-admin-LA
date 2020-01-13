@@ -39,7 +39,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632241
+        102191569,
+        85632241,
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +52,17 @@
     "wof:geomhash":"bcd9678cce237bd9180a6c16fc47324a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632241,
-            "locality_id":1209376771
+            "county_id":1511854791,
+            "locality_id":1209376771,
+            "region_id":85673429
         }
     ],
     "wof:id":1209376771,
-    "wof:lastmodified":1566592938,
+    "wof:lastmodified":1578511653,
     "wof:name":"Ban Asingko",
-    "wof:parent_id":85632241,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632241
+        102191569,
+        85632241,
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"9d35d85f56ec3468db76c66b75f5b1d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632241,
-            "locality_id":1209279227
+            "county_id":1511854791,
+            "locality_id":1209279227,
+            "region_id":85673429
         }
     ],
     "wof:id":1209279227,
-    "wof:lastmodified":1566593003,
+    "wof:lastmodified":1578511654,
     "wof:name":"Ban Payong",
-    "wof:parent_id":85632241,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],

@@ -40,7 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632241,
-        85673429
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,15 @@
         {
             "continent_id":102191569,
             "country_id":85632241,
+            "county_id":1511854791,
             "locality_id":1259841273,
             "region_id":85673429
         }
     ],
     "wof:id":1259841273,
-    "wof:lastmodified":1566593537,
+    "wof:lastmodified":1578511658,
     "wof:name":"Ban Tamlouang-Noy",
-    "wof:parent_id":85673429,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632241
+        102191569,
+        85632241,
+        85673429,
+        1511854791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"156d390c05cd48ca5ba523d5665d2120",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632241,
-            "locality_id":1209068135
+            "county_id":1511854791,
+            "locality_id":1209068135,
+            "region_id":85673429
         }
     ],
     "wof:id":1209068135,
-    "wof:lastmodified":1566592933,
+    "wof:lastmodified":1578511648,
     "wof:name":"Ban Kenglin",
-    "wof:parent_id":85632241,
+    "wof:parent_id":1511854791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
