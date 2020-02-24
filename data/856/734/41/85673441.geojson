@@ -264,6 +264,9 @@
         "wk:page":"Xiangkhouang Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf44c7867a043725332e65ed082fd147",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592632,
+    "wof:lastmodified":1582318640,
     "wof:name":"Xiangkhoang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -201,6 +201,9 @@
     },
     "wof:country":"LA",
     "wof:created":1469051995,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3729b1332f56e88c3660858ce09bcc00",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":890433789,
-    "wof:lastmodified":1566593359,
+    "wof:lastmodified":1582318654,
     "wof:name":"Ban Houayxay",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",

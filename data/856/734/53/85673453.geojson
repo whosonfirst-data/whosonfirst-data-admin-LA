@@ -286,6 +286,9 @@
         "wk:page":"Oudomxay Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23480211f11e73680e59621aacda3309",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592631,
+    "wof:lastmodified":1582318640,
     "wof:name":"Oud\u00f4mxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

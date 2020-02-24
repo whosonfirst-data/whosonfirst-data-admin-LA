@@ -291,6 +291,9 @@
         "wk:page":"Houaphanh Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4f14973be6ea1fbd5fd427932ea1c21",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592633,
+    "wof:lastmodified":1582318640,
     "wof:name":"Houaphan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

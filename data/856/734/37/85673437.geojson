@@ -205,6 +205,9 @@
         "wk:page":"Vientiane Prefecture"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1275d591b9eb4b5c59c0d3e1ae088297",
     "wof:hierarchy":[
         {
@@ -220,7 +223,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592631,
+    "wof:lastmodified":1582318640,
     "wof:name":"Vientiane",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

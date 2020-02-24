@@ -283,6 +283,9 @@
         "wk:page":"Bokeo Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e55e73cbb4a2ae708058eea3e1ac5ae8",
     "wof:hierarchy":[
         {
@@ -298,7 +301,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592630,
+    "wof:lastmodified":1582318639,
     "wof:name":"Bokeo",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

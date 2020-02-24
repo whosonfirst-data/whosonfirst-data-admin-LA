@@ -292,6 +292,9 @@
         "wk:page":"Champasak Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77ad848821fe68324fa6d6f00801efc7",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592632,
+    "wof:lastmodified":1582318640,
     "wof:name":"Champasak",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

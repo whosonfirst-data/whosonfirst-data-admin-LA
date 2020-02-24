@@ -284,6 +284,9 @@
         "wk:page":"Salavan Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"774f9f51c145d94d18c8080ec1e8d5db",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592628,
+    "wof:lastmodified":1582318638,
     "wof:name":"Saravan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -287,6 +287,9 @@
         "wk:page":"Khammouane Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32e3ab14964f6cf74837ae968cd78cda",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592627,
+    "wof:lastmodified":1582318638,
     "wof:name":"Khammouan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

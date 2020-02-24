@@ -289,6 +289,9 @@
         "wk:page":"Savannakhet Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64e5984aedadee6a01397a01bb940752",
     "wof:hierarchy":[
         {
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592629,
+    "wof:lastmodified":1582318639,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
