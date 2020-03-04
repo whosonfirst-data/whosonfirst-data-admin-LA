@@ -288,6 +288,9 @@
         "wd:id":"Q948691"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b31643f064481fec10e57b7e0beb8766",
     "wof:hierarchy":[
         {
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592633,
+    "wof:lastmodified":1582318641,
     "wof:name":"Louang Namtha",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -278,6 +278,9 @@
         "wk:page":"Luang Prabang Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a09fa01ff731e1a01967c2967101a77",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592627,
+    "wof:lastmodified":1582318638,
     "wof:name":"Luangphrabang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

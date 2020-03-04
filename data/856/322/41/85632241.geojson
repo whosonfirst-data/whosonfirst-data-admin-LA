@@ -1019,6 +1019,11 @@
     },
     "wof:country":"LA",
     "wof:country_alpha3":"LAO",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"3841799197d45646dea322790a41dd03",
     "wof:hierarchy":[
         {
@@ -1033,7 +1038,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592623,
+    "wof:lastmodified":1582318636,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

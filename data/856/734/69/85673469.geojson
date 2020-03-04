@@ -293,6 +293,9 @@
         "wk:page":"Attapeu Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc26fe5bd9d72b403e0ae392fa0bc71b",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592626,
+    "wof:lastmodified":1582318638,
     "wof:name":"Attapeu",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

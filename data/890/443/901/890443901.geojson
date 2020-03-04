@@ -190,6 +190,9 @@
     },
     "wof:country":"LA",
     "wof:created":1469052442,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8080a75865e66ef753cafc7c75571d90",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890443901,
-    "wof:lastmodified":1566593358,
+    "wof:lastmodified":1582318654,
     "wof:name":"Champasak",
     "wof:parent_id":1092027043,
     "wof:placetype":"locality",

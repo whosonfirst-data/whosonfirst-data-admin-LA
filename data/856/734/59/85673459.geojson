@@ -292,6 +292,9 @@
         "wk:page":"Phongsaly Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9302b859d6e7d11e2cb7cc3b61aebd77",
     "wof:hierarchy":[
         {
@@ -307,7 +310,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592626,
+    "wof:lastmodified":1582318637,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

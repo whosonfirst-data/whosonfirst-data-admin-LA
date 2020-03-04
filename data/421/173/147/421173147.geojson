@@ -152,6 +152,9 @@
     },
     "wof:country":"LA",
     "wof:created":1459008972,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"212298ad63fc0b929df73d11edcbbc70",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421173147,
-    "wof:lastmodified":1566593355,
+    "wof:lastmodified":1582318654,
     "wof:name":"Xiangkhoang",
     "wof:parent_id":1092027229,
     "wof:placetype":"locality",

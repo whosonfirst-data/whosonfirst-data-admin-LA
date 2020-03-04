@@ -287,6 +287,9 @@
         "wk:page":"Sainyabuli Province"
     },
     "wof:country":"LA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb03612b90b92940a71674260a8dafa7",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1566592630,
+    "wof:lastmodified":1582318639,
     "wof:name":"Xaignabouri",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
