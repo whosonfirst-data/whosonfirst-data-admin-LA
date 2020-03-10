@@ -996,9 +996,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Laos",
-        "digitalenvoy:country_code":[
-            418
-        ],
+        "digitalenvoy:country_code":418,
         "fb:id":"en.laos",
         "fifa:id":"LAO",
         "fips:code":"LA",
@@ -1041,7 +1039,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1583529173,
+    "wof:lastmodified":1583797380,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
