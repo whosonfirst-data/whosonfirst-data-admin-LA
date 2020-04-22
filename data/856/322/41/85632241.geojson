@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.691497,
-    "geom:area_square_m":230759070422.042786,
+    "geom:area_square_m":230759070533.675842,
     "geom:bbox":"100.083872,13.90972,107.69483,22.502872",
     "geom:latitude":18.495567,
     "geom:longitude":103.770039,
@@ -58,6 +58,9 @@
     "name:arg_x_preferred":[
         "Laos"
     ],
+    "name:ary_x_preferred":[
+        "\u0644\u0627\u0648\u0633"
+    ],
     "name:arz_x_preferred":[
         "\u0644\u0627\u0648\u0633"
     ],
@@ -78,6 +81,9 @@
     ],
     "name:bam_x_preferred":[
         "Layosi"
+    ],
+    "name:ban_x_preferred":[
+        "Laos"
     ],
     "name:bar_x_preferred":[
         "Laos"
@@ -169,6 +175,12 @@
     "name:dan_x_preferred":[
         "Laos"
     ],
+    "name:deu_at_x_preferred":[
+        "Laos"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Laos"
+    ],
     "name:deu_x_preferred":[
         "Laos"
     ],
@@ -192,6 +204,12 @@
     ],
     "name:ell_x_variant":[
         "\u039b\u03b1\u03c4\u03b9\u03bd\u03b9\u03ba\u03ae \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Laos"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Laos"
     ],
     "name:eng_x_colloquial":[
         "Lao",
@@ -268,6 +286,9 @@
     ],
     "name:gan_x_preferred":[
         "\u8001\u64be"
+    ],
+    "name:gcr_x_preferred":[
+        "Laos"
     ],
     "name:ger_x_variant":[
         "Demokratische Volksrepublik Lao",
@@ -353,6 +374,9 @@
         "Laos"
     ],
     "name:ilo_x_preferred":[
+        "Laos"
+    ],
+    "name:ina_x_preferred":[
         "Laos"
     ],
     "name:ind_x_preferred":[
@@ -483,6 +507,9 @@
     "name:lzh_x_preferred":[
         "\u8001\u64be"
     ],
+    "name:mai_x_preferred":[
+        "\u0932\u093e\u0913\u0938"
+    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e\u0d35\u0d4b\u0d38\u0d4d"
     ],
@@ -513,6 +540,9 @@
     "name:mon_x_preferred":[
         "\u041b\u0430\u043e\u0441"
     ],
+    "name:mri_x_preferred":[
+        "R\u0101oho"
+    ],
     "name:msa_x_preferred":[
         "Laos"
     ],
@@ -533,6 +563,9 @@
     ],
     "name:nan_x_preferred":[
         "Lao-kok"
+    ],
+    "name:nan_x_variant":[
+        "Li\u00e2u-kok"
     ],
     "name:nap_x_preferred":[
         "Laos"
@@ -636,6 +669,9 @@
     "name:pol_x_variant":[
         "Laos (Demokratyczna Republika Ludowa)"
     ],
+    "name:por_br_x_preferred":[
+        "Laos"
+    ],
     "name:por_x_preferred":[
         "Laos"
     ],
@@ -717,6 +753,9 @@
     "name:sna_x_preferred":[
         "Laos"
     ],
+    "name:snd_x_preferred":[
+        "\u0644\u0627\u0626\u0648\u0633"
+    ],
     "name:som_x_preferred":[
         "Laos"
     ],
@@ -730,6 +769,12 @@
         "Laosi"
     ],
     "name:srd_x_preferred":[
+        "Laos"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041b\u0430\u043e\u0441"
+    ],
+    "name:srp_el_x_preferred":[
         "Laos"
     ],
     "name:srp_x_preferred":[
@@ -751,6 +796,9 @@
         "Laos"
     ],
     "name:szl_x_preferred":[
+        "Laos"
+    ],
+    "name:szy_x_preferred":[
         "Laos"
     ],
     "name:tam_x_preferred":[
@@ -798,6 +846,9 @@
         "Laos"
     ],
     "name:tur_x_preferred":[
+        "Laos"
+    ],
+    "name:twi_x_preferred":[
         "Laos"
     ],
     "name:udm_x_preferred":[
@@ -1039,7 +1090,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1583797380,
+    "wof:lastmodified":1587428230,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
