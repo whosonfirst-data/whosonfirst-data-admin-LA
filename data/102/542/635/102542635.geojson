@@ -16,6 +16,10 @@
     "name:eng_x_preferred":[
         "Sam Neua"
     ],
+    "name:eng_x_variant":[
+        "NEU",
+        "VLSN"
+    ],
     "name:fra_x_preferred":[
         "Sam Neua"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":102542635,
-    "wof:lastmodified":1566592475,
+    "wof:lastmodified":1631745170,
     "wof:name":"Sam Neua Airport",
     "wof:parent_id":85673447,
     "wof:placetype":"campus",
