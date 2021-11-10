@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"106.833887,14.8076575,106.833887,14.8076575",
+    "geom:bbox":"106.833887,14.807657,106.833887,14.807657",
     "geom:latitude":14.807657,
     "geom:longitude":106.833887,
     "gn:country":"LA",
@@ -67,6 +67,9 @@
     ],
     "name:hrv_x_preferred":[
         "Attapeu"
+    ],
+    "name:hun_x_preferred":[
+        "Attapu"
     ],
     "name:ind_x_preferred":[
         "Attapeu"
@@ -194,7 +197,7 @@
     },
     "wof:country":"LA",
     "wof:created":1459009017,
-    "wof:geomhash":"3cc6ff85c071bdbc08d03396dce870d2",
+    "wof:geomhash":"3a7322b0990a3e403ad64e3f0e7a60a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":421174031,
-    "wof:lastmodified":1566593354,
+    "wof:lastmodified":1636495634,
     "wof:name":"Attapu",
     "wof:parent_id":1092028773,
     "wof:placetype":"locality",
@@ -220,9 +223,9 @@
 },
   "bbox": [
     106.833887,
-    14.8076575,
+    14.807657,
     106.833887,
-    14.8076575
+    14.807657
 ],
-  "geometry": {"coordinates":[106.833887,14.8076575],"type":"Point"}
+  "geometry": {"coordinates":[106.833887,14.807657],"type":"Point"}
 }

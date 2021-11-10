@@ -90,6 +90,9 @@
         "Luang Namtha"
     ],
     "name:hun_x_preferred":[
+        "Louang Namtha"
+    ],
+    "name:hun_x_variant":[
         "Luangnamtha tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895004,
+    "wof:lastmodified":1636495631,
     "wof:name":"Louang Namtha",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

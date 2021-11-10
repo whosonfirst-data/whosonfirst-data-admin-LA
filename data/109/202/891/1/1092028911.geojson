@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Saravan"
     ],
+    "name:hun_x_preferred":[
+        "Saravan"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u0631\u0627\u0648\u0627\u0646"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092028911,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1636495634,
     "wof:name":"Saravan",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

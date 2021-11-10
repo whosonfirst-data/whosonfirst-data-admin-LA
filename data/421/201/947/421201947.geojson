@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Xam Neua"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645 \u0646\u0648\u0626\u0627"
+    ],
     "name:fin_x_preferred":[
         "Xam Neua"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u093c\u093e\u092e \u0928\u0909\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "Xam Nua"
     ],
     "name:ind_x_preferred":[
         "Xam Neua"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":421201947,
-    "wof:lastmodified":1566593356,
+    "wof:lastmodified":1636495634,
     "wof:name":"Xam Nua",
     "wof:parent_id":1092030087,
     "wof:placetype":"locality",

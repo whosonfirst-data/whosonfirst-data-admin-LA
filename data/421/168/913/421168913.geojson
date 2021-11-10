@@ -161,6 +161,9 @@
         "Vyanty\u00e0n"
     ],
     "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05d0\u05e0\u05d8\u05d9\u05d0\u05df"
+    ],
+    "name:heb_x_variant":[
         "\u05d5\u05d9\u05d9\u05e0\u05d8\u05d9\u05d0\u05df"
     ],
     "name:hif_x_preferred":[
@@ -576,8 +579,8 @@
     "wof:belongsto":[
         102191569,
         85632241,
-        1092027747,
-        85673433
+        85673433,
+        1092027747
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -606,7 +609,7 @@
         }
     ],
     "wof:id":421168913,
-    "wof:lastmodified":1607390901,
+    "wof:lastmodified":1636495634,
     "wof:name":"Vientiane",
     "wof:parent_id":1092027747,
     "wof:placetype":"locality",

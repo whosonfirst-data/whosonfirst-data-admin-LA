@@ -50,6 +50,12 @@
     "name:fra_x_preferred":[
         "Phonsavan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05e1\u05d0\u05d1\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Phonsavan"
+    ],
     "name:ita_x_preferred":[
         "Phonsavan"
     ],
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":1276303385,
-    "wof:lastmodified":1566592893,
+    "wof:lastmodified":1636495632,
     "wof:name":"Phonsavan",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",

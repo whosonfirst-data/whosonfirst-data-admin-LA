@@ -85,6 +85,9 @@
         "Sainyabuli"
     ],
     "name:hun_x_preferred":[
+        "Xaignabouri"
+    ],
+    "name:hun_x_variant":[
         "Szajnjabuli tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
@@ -305,7 +308,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895003,
+    "wof:lastmodified":1636495630,
     "wof:name":"Xaignabouri",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
