@@ -42,17 +42,26 @@
     "name:ben_x_preferred":[
         "\u0986\u09a4\u09cd\u09a4\u09be\u09aa\u09bf\u0989 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u0986\u09a4\u09cd\u09a4\u09be\u09aa\u09c7\u0989 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:cat_x_preferred":[
         "prov\u00edncia d'Attapeu"
     ],
     "name:ceb_x_preferred":[
         "Attapu"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Attapeu"
+    ],
     "name:dan_x_preferred":[
         "Attapeu Province"
     ],
     "name:deu_x_preferred":[
         "Provinz Attapeu"
+    ],
+    "name:diq_x_preferred":[
+        "Attapeu"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c4\u03c4\u03ac\u03c0\u03bf\u03c5"
@@ -79,10 +88,14 @@
         "Attapeu"
     ],
     "name:fra_x_variant":[
-        "Province d'Attapeu"
+        "Province d'Attapeu",
+        "Attapu"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9f\u0ac7\u0aaa\u0ac7\u0a89 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d8\u05d5\u05e4\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0924\u094d\u0924\u093e\u092a\u094d\u092f\u0941 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -104,6 +117,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c85\u0c9f\u0cbe\u0caa\u0cc2 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10d0\u10de\u10d4\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:khm_x_preferred":[
         "\u1781\u17d2\u179c\u17c2\u1784\u17a2\u17b6\u1785\u1798\u17cd\u1780\u17d2\u179a\u1796\u17be"
@@ -151,6 +167,9 @@
     "name:sin_x_preferred":[
         "\u0d87\u0da7\u0dda\u0db4\u0dd6 \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Attapu"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Attapeu"
     ],
@@ -186,6 +205,12 @@
     ],
     "name:war_x_preferred":[
         "Attapeu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u901f\u5761\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u901f\u5761\u7701"
     ],
     "name:zho_x_preferred":[
         "\u963f\u901f\u5761\u7701"
@@ -311,7 +336,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895002,
+    "wof:lastmodified":1690938491,
     "wof:name":"Attapeu",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

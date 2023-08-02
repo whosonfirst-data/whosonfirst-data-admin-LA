@@ -36,8 +36,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09b2\u09bf\u0996\u09be\u09ae\u09b8\u09be\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09cb\u09b2\u09bf\u0996\u09be\u09ae\u09b8\u09be\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Bolikhamxai"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Bolikhamsai"
     ],
     "name:dan_x_preferred":[
         "Bolikhamsai Province"
@@ -68,10 +74,14 @@
         "Borikhamxay"
     ],
     "name:fra_x_variant":[
-        "Province de Borikhamxay"
+        "Province de Borikhamxay",
+        "Bolikhamxai"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab2\u0abf\u0a96\u0abe\u0a82\u0ab8\u0abe\u0a88 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d1\u05d5\u05dc\u05d9\u05e7\u05de\u05e1\u05d0\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0932\u093f\u0916\u092e\u0938\u093e\u0907 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -99,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcfc\ub9ac\uce84\uc0ac\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcfc\ub9ac\uce84\uc0ac\uc774\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0ec1\u0e82\u0ea7\u0e87\u0e9a\u0ecd\u0ea5\u0eb4\u0e84\u0ecd\u0eb2\u0ec4\u0e8a"
@@ -136,8 +149,14 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043a\u0445\u0430\u043c\u0441\u0430\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u0438\u043a\u0445\u0430\u043c\u0441\u0430\u0439"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0ddc\u0dbd\u0dd2\u0d9a\u0db8\u0dc3\u0dcf\u0dba\u0dd2 \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:som_x_preferred":[
+        "Bolikhamxai"
     ],
     "name:spa_x_preferred":[
         "Bolikhamxai"
@@ -175,6 +194,12 @@
     ],
     "name:war_x_preferred":[
         "Bolikhamsai"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ce2\u91cc\u574e\u585e\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u535a\u5229\u6562\u8cfd\u7701"
     ],
     "name:zho_x_preferred":[
         "\u535a\u5229\u574e\u8d5b\u7701"
@@ -286,7 +311,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895004,
+    "wof:lastmodified":1690938495,
     "wof:name":"Borikhamxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0627\u0646\u063a \u0628\u0631\u0627\u0628\u0627\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u062c \u0628\u0631\u0627\u0628\u0627\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Luang Prabang"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433"
     ],
@@ -40,8 +46,14 @@
     "name:cat_x_preferred":[
         "Luang Prabang"
     ],
+    "name:cdo_x_preferred":[
+        "Luang Prabang"
+    ],
     "name:ceb_x_preferred":[
         "Louangphabang"
+    ],
+    "name:ceb_x_variant":[
+        "L\u016bang Phab\u0101ng"
     ],
     "name:ces_x_preferred":[
         "Luang Prabang"
@@ -85,6 +97,9 @@
     "name:fra_x_preferred":[
         "Luang Prabang"
     ],
+    "name:fra_x_variant":[
+        "Louang-Phabang"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0a86\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0aac\u0abe\u0a82\u0a97"
     ],
@@ -121,8 +136,17 @@
     "name:kat_x_preferred":[
         "\u10da\u10e3\u10d0\u10dc\u10d2\u10de\u10e0\u10d0\u10d1\u10d0\u10dc\u10d2\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17d2\u179b\u17bd\u1784\u1796\u17d2\u179a\u17c7\u1794\u17b6\u17c6\u1784"
+    ],
     "name:kor_x_preferred":[
         "\ub8e8\uc559\ud504\ub77c\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc559\ud30c\ubc29"
+    ],
+    "name:krj_x_preferred":[
+        "L\u016bang Phab\u0101ng"
     ],
     "name:lao_x_preferred":[
         "\u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87"
@@ -148,6 +172,9 @@
     "name:msa_x_preferred":[
         "Luang Prabang"
     ],
+    "name:mya_x_preferred":[
+        "\u101c\u103d\u1019\u103a\u1015\u101b\u102c\u1018\u103d\u1019\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:nan_x_preferred":[
         "Luang Prabang"
     ],
@@ -159,6 +186,9 @@
     ],
     "name:oci_x_preferred":[
         "Luang Prabang"
+    ],
+    "name:oss_x_preferred":[
+        "\u041b\u0443\u0430\u043d\u0433\u043f\u0445\u0430\u0431\u0430\u043d\u0433"
     ],
     "name:pan_x_preferred":[
         "\u0a32\u0a41\u0a06\u0a02\u0a17 \u0a2a\u0a30\u0a3e\u0a2c\u0a3e\u0a02\u0a17"
@@ -184,6 +214,9 @@
     "name:spa_x_preferred":[
         "Luang Prabang"
     ],
+    "name:spa_x_variant":[
+        "L\u016bang Phab\u0101ng"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433 \u041f\u0440\u0430\u0431\u0430\u043d\u0433"
     ],
@@ -196,6 +229,9 @@
     "name:tel_x_preferred":[
         "\u0c32\u0c41\u0c06\u0c02\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c2d\u0c3e\u0c02\u0c17\u0c4d"
     ],
+    "name:tgl_x_preferred":[
+        "L\u016bang Phab\u0101ng"
+    ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e25\u0e27\u0e07\u0e1e\u0e23\u0e30\u0e1a\u0e32\u0e07"
     ],
@@ -204,6 +240,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0430\u043d\u0433-\u041f\u0440\u0430\u0431\u0430\u043d\u0433"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u0430\u043d\u0491\u043f\u0445\u0430\u0431\u0430\u043d\u0491"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0627\u0646\u06af \u067e\u0631\u0627\u0628\u0627\u0646\u06af"
@@ -216,6 +255,12 @@
     ],
     "name:war_x_preferred":[
         "Luang Prabang"
+    ],
+    "name:war_x_variant":[
+        "L\u016bang Phab\u0101ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7405\u52c3\u62c9\u90a6"
     ],
     "name:yue_x_preferred":[
         "\u9f8d\u5e15\u90a6"
@@ -350,7 +395,7 @@
         }
     ],
     "wof:id":890443897,
-    "wof:lastmodified":1566593358,
+    "wof:lastmodified":1690938505,
     "wof:name":"Louangphabang",
     "wof:parent_id":1092027403,
     "wof:placetype":"locality",

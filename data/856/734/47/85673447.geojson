@@ -36,14 +36,29 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0647\u0648\u0627 \u0641\u0627\u0646"
     ],
+    "name:bcl_x_preferred":[
+        "H\u016baphan"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09be\u0989\u09aa\u09be\u09a8\u09b9 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09b9\u09c1\u09af\u09bc\u09be\u09ab\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u0443\u0430\u043f\u0445\u0430\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Houaphan"
+    ],
     "name:ceb_x_preferred":[
         "Houaphan"
+    ],
+    "name:ceb_x_variant":[
+        "H\u016baphan"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Houaphanh"
     ],
     "name:dan_x_preferred":[
         "Houaphanh Province"
@@ -58,7 +73,8 @@
         "Houaphan"
     ],
     "name:eng_x_variant":[
-        "Houaphanh Province"
+        "Houaphanh Province",
+        "H\u016baphan"
     ],
     "name:epo_x_preferred":[
         "Provinco Huaphanh"
@@ -78,6 +94,12 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0acc\u0a86\u0aab\u0a82\u0ab9 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d7\u05d5\u05d0\u05d5\u05e4\u05df"
+    ],
+    "name:hil_x_preferred":[
+        "H\u016baphan"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u0941\u0906\u092b\u093e\u0928\u094d\u0939 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -86,6 +108,9 @@
     ],
     "name:hun_x_preferred":[
         "Huaphan tartom\u00e1ny"
+    ],
+    "name:ilo_x_preferred":[
+        "H\u016baphan"
     ],
     "name:ind_x_preferred":[
         "Provinsi Houaphan"
@@ -107,6 +132,9 @@
     ],
     "name:kor_x_variant":[
         "\ud6c4\uc544\ud310\uc8fc"
+    ],
+    "name:krj_x_preferred":[
+        "H\u016baphan"
     ],
     "name:lao_x_preferred":[
         "\u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99"
@@ -135,6 +163,12 @@
     "name:nob_x_preferred":[
         "Hua Phan"
     ],
+    "name:pag_x_preferred":[
+        "H\u016baphan"
+    ],
+    "name:pam_x_preferred":[
+        "H\u016baphan"
+    ],
     "name:pol_x_preferred":[
         "Prowincja Houaphan"
     ],
@@ -147,8 +181,14 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0ddc\u0dc0\u0dcf\u0db4\u0db1\u0dca\u0dc4\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Houaphanh Province"
+    ],
     "name:spa_x_preferred":[
         "Houaphan"
+    ],
+    "name:spa_x_variant":[
+        "H\u016baphan"
     ],
     "name:swe_x_preferred":[
         "Hua Phan"
@@ -161,6 +201,9 @@
     ],
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u04b2\u043e\u0443\u0430\u043f\u0430\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "H\u016baphan"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e02\u0e27\u0e07\u0e2b\u0e31\u0e27\u0e1e\u0e31\u0e19"
@@ -182,6 +225,15 @@
     ],
     "name:war_x_preferred":[
         "Hua Phan"
+    ],
+    "name:war_x_variant":[
+        "H\u016baphan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u534e\u6f58\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ef\u6f58\u7701"
     ],
     "name:zho_x_preferred":[
         "\u534e\u6f58\u7701"
@@ -309,7 +361,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895004,
+    "wof:lastmodified":1690938496,
     "wof:name":"Houaphan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

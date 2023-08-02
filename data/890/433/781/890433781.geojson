@@ -22,20 +22,38 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u063a\u0633\u0627\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0646\u062c\u0633\u0627\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u0982\u09b8\u09be\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
         "Ph\u00f4ngsali"
     ],
+    "name:ceb_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:ces_x_preferred":[
         "Phongsali"
+    ],
+    "name:ces_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:dan_x_preferred":[
         "Phongsali"
     ],
+    "name:dan_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:deu_x_preferred":[
         "Phongsali"
+    ],
+    "name:deu_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03bd\u03b3\u03ba\u03c3\u03ac\u03bb\u03b9"
@@ -43,8 +61,14 @@
     "name:eng_x_preferred":[
         "Phongsali"
     ],
+    "name:eng_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:epo_x_preferred":[
         "Phongsali"
+    ],
+    "name:epo_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0648\u0646\u06af\u0633\u0627\u0644\u06cc"
@@ -52,11 +76,20 @@
     "name:fin_x_preferred":[
         "Ph\u00f4ngsali"
     ],
+    "name:fin_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:fra_x_preferred":[
         "Phongsali"
     ],
+    "name:fra_x_variant":[
+        "Ph\u00f4ngsali"
+    ],
     "name:guj_x_preferred":[
         "\u0aab\u0acb\u0a82\u0a97\u0acd\u0ab8\u0ab2\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d2\u05e1\u05d0\u05dc\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092b\u094b\u0902\u0917\u094d\u0938\u0932\u093f"
@@ -64,8 +97,14 @@
     "name:ind_x_preferred":[
         "Phongsali"
     ],
+    "name:ind_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:ita_x_preferred":[
         "Phongsali"
+    ],
+    "name:ita_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30f3\u30b5\u30fc\u30ea\u30fc\u90e1"
@@ -79,6 +118,9 @@
     "name:kor_x_preferred":[
         "\ud401\uc0b4\ub9ac"
     ],
+    "name:krj_x_preferred":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:lav_x_preferred":[
         "Fongsali"
     ],
@@ -91,17 +133,32 @@
     "name:msa_x_preferred":[
         "Phongsali"
     ],
+    "name:msa_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:nld_x_preferred":[
         "Phongsali"
+    ],
+    "name:nld_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:nob_x_preferred":[
         "Phongsali"
     ],
+    "name:nob_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:pol_x_preferred":[
         "Ph\u00f4ngsali"
     ],
+    "name:pol_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:por_x_preferred":[
         "Phongsali"
+    ],
+    "name:por_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0445\u043e\u043d\u0433\u0441\u0430\u043b\u0438"
@@ -112,8 +169,14 @@
     "name:spa_x_preferred":[
         "Phongsali"
     ],
+    "name:spa_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:swe_x_preferred":[
         "Phongsali"
+    ],
+    "name:swe_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b99\u0bcd\u0b9a\u0bbe\u0bb2\u0bbf"
@@ -127,6 +190,9 @@
     "name:tur_x_preferred":[
         "Phongsali"
     ],
+    "name:tur_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0445\u043e\u043d\u0433\u0441\u0430\u043b\u0456"
     ],
@@ -139,8 +205,14 @@
     "name:vie_x_preferred":[
         "Phongsaly"
     ],
+    "name:vie_x_variant":[
+        "Phongs\u0101l\u012b"
+    ],
     "name:war_x_preferred":[
         "Phongsali"
+    ],
+    "name:war_x_variant":[
+        "Phongs\u0101l\u012b"
     ],
     "name:zho_x_preferred":[
         "\u8c50\u6c99\u91cc"
@@ -272,7 +344,7 @@
         }
     ],
     "wof:id":890433781,
-    "wof:lastmodified":1566593359,
+    "wof:lastmodified":1690938506,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",

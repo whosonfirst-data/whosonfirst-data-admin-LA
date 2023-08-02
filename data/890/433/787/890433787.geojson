@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u0630\u064a\u0628\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u064a\u0630\u064a\u0628\u0648\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Sainyabuli"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a8\u09be\u09af\u09bc\u09be\u09ac\u09c1\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
         "Sainyabuli"
+    ],
+    "name:ceb_x_variant":[
+        "Sainyab\u016bl\u012b"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0627\u06cc\u0646\u0627\u0628\u0648\u0644\u06cc"
     ],
     "name:dan_x_preferred":[
         "Sainyabuli"
@@ -51,7 +63,8 @@
     "name:eng_x_variant":[
         "Sainyabuli",
         "Xayaburi",
-        "Xayaboury"
+        "Xayaboury",
+        "Sainyab\u016bl\u012b"
     ],
     "name:epo_x_preferred":[
         "Sainjabuli"
@@ -65,14 +78,23 @@
     "name:fra_x_preferred":[
         "Sainyabuli"
     ],
+    "name:fra_x_variant":[
+        "Xaignabouli"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac8\u0aa8\u0acd\u0aaf\u0abe\u0aac\u0ac1\u0ab2\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d9\u05e0\u05d1\u05d5\u05dc\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928\u094d\u092f\u0905\u092c\u0932\u0940"
     ],
     "name:ind_x_preferred":[
         "Xaignabouli"
+    ],
+    "name:ind_x_variant":[
+        "Sainyab\u016bl\u012b"
     ],
     "name:ita_x_preferred":[
         "Sainyabuli"
@@ -86,8 +108,14 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d8\u10dc\u10d8\u10d0\u10d1\u10e3\u10da\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u1787\u17d0\u1799\u1794\u17bb\u179a\u17b8"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc778\ubd88\ub9ac"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5"
     ],
     "name:lav_x_preferred":[
         "Sai\u0146ab\u016bl\u012b"
@@ -125,6 +153,9 @@
     "name:spa_x_preferred":[
         "Sainyabuli"
     ],
+    "name:spa_x_variant":[
+        "Sainyab\u016bl\u012b"
+    ],
     "name:swe_x_preferred":[
         "Sainyabuli"
     ],
@@ -133,6 +164,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c48\u0c28\u0c4d\u0c2f \u0c05\u0c2c\u0c32\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Sainyab\u016bl\u012b"
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e0a\u0e22\u0e1a\u0e38\u0e23\u0e35"
@@ -154,6 +188,9 @@
     ],
     "name:war_x_preferred":[
         "Sainyabuli"
+    ],
+    "name:war_x_variant":[
+        "Sainyab\u016bl\u012b"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u8036\u6b66\u91cc"
@@ -285,7 +322,7 @@
         }
     ],
     "wof:id":890433787,
-    "wof:lastmodified":1566593359,
+    "wof:lastmodified":1690938506,
     "wof:name":"Xaignabouli",
     "wof:parent_id":1092030249,
     "wof:placetype":"locality",

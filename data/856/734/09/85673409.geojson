@@ -39,8 +39,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09c7\u0993 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09cb\u0995\u09c7\u0993 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Khou\u00e8ng Bok\u00e8o"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Bokeo"
     ],
     "name:dan_x_preferred":[
         "Bokeo Province"
@@ -70,7 +76,8 @@
         "Bokeo"
     ],
     "name:fra_x_variant":[
-        "Province de Bokeo"
+        "Province de Bokeo",
+        "Bok\u00e8o"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a95\u0ac0\u0a93 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -98,6 +105,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cca\u0c95\u0cc6\u0caf\u0ccb \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d9\u10d4\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:khm_x_preferred":[
         "\u1781\u17c1\u178f\u17d2\u178f \u1794 \u1780\u17c2\u179c"
@@ -144,6 +154,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0ddd\u0d9a\u0dd2\u0dba\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Bok\u00e8o"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Bokeo"
     ],
@@ -179,6 +192,12 @@
     ],
     "name:war_x_preferred":[
         "Bokeo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u535a\u80f6\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u535a\u81a0\u7701"
     ],
     "name:zho_x_preferred":[
         "\u535a\u80f6\u7701"
@@ -304,7 +323,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1636495631,
+    "wof:lastmodified":1690938494,
     "wof:name":"Bokeo",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -25,14 +25,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0633\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0643\u0633\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Pakse"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0995\u09b8\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043a\u0441\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Pakse"
+    ],
     "name:ceb_x_preferred":[
         "Pakx\u00e9"
+    ],
+    "name:ceb_x_variant":[
+        "P\u0101ks\u0113"
     ],
     "name:ces_x_preferred":[
         "Pakse"
@@ -55,6 +67,9 @@
     "name:eng_x_preferred":[
         "Pakse"
     ],
+    "name:eng_x_variant":[
+        "P\u0101ks\u0113"
+    ],
     "name:epo_x_preferred":[
         "Pakse"
     ],
@@ -67,8 +82,17 @@
     "name:fra_x_preferred":[
         "Paks\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Pakx\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "Pakse"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a95\u0ab8\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e7\u05e1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u0915\u094d\u0938\u0947"
@@ -78,6 +102,9 @@
     ],
     "name:hun_x_preferred":[
         "Pakx\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056f\u057d\u0565"
     ],
     "name:ido_x_preferred":[
         "Pakxe"
@@ -99,6 +126,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10e5\u10e1\u10d4"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17c9\u17b6\u1780\u179f\u17c1"
     ],
     "name:kor_x_preferred":[
         "\ud30d\uc138"
@@ -158,6 +188,12 @@
     "name:spa_x_preferred":[
         "Pakse"
     ],
+    "name:spa_x_variant":[
+        "P\u0101ks\u0113"
+    ],
+    "name:sqi_x_preferred":[
+        "P\u0101ks\u0113"
+    ],
     "name:swe_x_preferred":[
         "Pakx\u00e9"
     ],
@@ -179,11 +215,17 @@
     "name:urd_x_preferred":[
         "\u067e\u0627\u06a9\u0633\u06d2"
     ],
+    "name:vec_x_preferred":[
+        "P\u0101ks\u0113"
+    ],
     "name:vie_x_preferred":[
         "Pakxe"
     ],
     "name:war_x_preferred":[
         "Pakse"
+    ],
+    "name:war_x_variant":[
+        "P\u0101ks\u0113"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u8272"
@@ -313,7 +355,7 @@
         }
     ],
     "wof:id":890440015,
-    "wof:lastmodified":1566593357,
+    "wof:lastmodified":1690938503,
     "wof:name":"Pakx\u00e9",
     "wof:parent_id":1092028367,
     "wof:placetype":"locality",

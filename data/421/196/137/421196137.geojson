@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u0633\u0627\u0641\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0648\u0646\u0633\u0627\u0641\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Phonsavan"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cb\u0982\u09b8\u09be\u09ad\u09be\u09a8"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Phonsavan"
+    ],
+    "name:ceb_x_variant":[
+        "Ph\u014dnsavan"
     ],
     "name:ces_x_preferred":[
         "Phonsavan"
@@ -47,6 +56,9 @@
     "name:eng_x_preferred":[
         "Phonsavan"
     ],
+    "name:eng_x_variant":[
+        "Ph\u014dnsavan"
+    ],
     "name:epo_x_preferred":[
         "Phonsavan"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:fra_x_preferred":[
         "Phonsavan"
+    ],
+    "name:fra_x_variant":[
+        "Ph\u00f4nsavan"
     ],
     "name:fur_x_preferred":[
         "Phonsavan"
@@ -80,8 +95,14 @@
     "name:kan_x_preferred":[
         "\u0cab\u0ccb\u0ca8\u0ccd\u0cb8\u0cbe\u0cb5\u0ca8\u0ccd"
     ],
+    "name:khm_x_preferred":[
+        "\u1796\u17c4\u1793\u179f\u17bd\u1782\u17cc"
+    ],
     "name:kor_x_preferred":[
         "\ud3f0\uc0ac\ubc18"
+    ],
+    "name:krj_x_preferred":[
+        "Ph\u014dnsavan"
     ],
     "name:lao_x_preferred":[
         "\u0ec2\u0e9e\u0e99\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99"
@@ -119,6 +140,9 @@
     "name:spa_x_preferred":[
         "Phonsavan"
     ],
+    "name:spa_x_variant":[
+        "Ph\u014dnsavan"
+    ],
     "name:swe_x_preferred":[
         "Phonsavan"
     ],
@@ -137,6 +161,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0445\u043e\u043d\u0441\u0430\u0432\u0430\u043d\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0445\u043e\u043d\u0441\u0430\u0432\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Phong Savan"
     ],
@@ -151,6 +178,9 @@
     ],
     "name:war_x_preferred":[
         "Phonsavan"
+    ],
+    "name:war_x_variant":[
+        "Ph\u014dnsavan"
     ],
     "name:zho_x_preferred":[
         "\u8c50\u6c99\u7063"
@@ -201,7 +231,7 @@
         }
     ],
     "wof:id":421196137,
-    "wof:lastmodified":1566593356,
+    "wof:lastmodified":1690938503,
     "wof:name":"Muang Ph\u00f4nsavan",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",

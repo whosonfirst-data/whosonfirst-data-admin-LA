@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646 \u0647\u0648\u0643\u0633\u0649"
     ],
+    "name:ast_x_preferred":[
+        "Ban Houayxay"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8 \u09b9\u09cc\u09df\u09be\u0995\u09cd\u09b8\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u016bais\u0101i"
     ],
     "name:ces_x_preferred":[
         "Huay Xai"
@@ -37,6 +43,9 @@
     "name:eng_x_preferred":[
         "Ban Houayxay"
     ],
+    "name:eng_x_variant":[
+        "H\u016bais\u0101i"
+    ],
     "name:epo_x_preferred":[
         "Ban Huajsai"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:fra_x_preferred":[
         "Houei Sai"
+    ],
+    "name:fra_x_variant":[
+        "Houayxay"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05df \u05d4\u05d5\u05d0\u05e7\u05e1\u05d0\u05d9"
@@ -67,6 +79,12 @@
     "name:kat_x_preferred":[
         "\u10f0\u10e3\u10d0\u10d8\u10e1\u10d0\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u17a0\u17bd\u1799\u179f\u17b6\u1799"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc18\ud6c4\uc548\uc0ac\uc774"
+    ],
     "name:lao_x_preferred":[
         "\u0eab\u0ec9\u0ea7\u0e8d\u0e8a\u0eb2\u0e8d"
     ],
@@ -88,6 +106,9 @@
     "name:spa_x_preferred":[
         "Ban Houayxay"
     ],
+    "name:spa_x_variant":[
+        "H\u016bais\u0101i"
+    ],
     "name:swe_x_preferred":[
         "Ban Houayxay"
     ],
@@ -96,6 +117,9 @@
     ],
     "name:tur_x_preferred":[
         "Ban Houayxay"
+    ],
+    "name:tur_x_variant":[
+        "Houayxay"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d \u0425\u0443\u0430\u0439\u0441\u0430\u0439"
@@ -111,6 +135,9 @@
     ],
     "name:war_x_preferred":[
         "Ban Houayxay"
+    ],
+    "name:war_x_variant":[
+        "H\u016bais\u0101i"
     ],
     "name:zho_x_preferred":[
         "\u6703\u6652"
@@ -251,7 +278,7 @@
         }
     ],
     "wof:id":890433789,
-    "wof:lastmodified":1636495635,
+    "wof:lastmodified":1690938506,
     "wof:name":"Ban Houayxay",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",

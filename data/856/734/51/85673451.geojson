@@ -42,6 +42,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c1\u09af\u09bc\u09be\u0982 \u09aa\u09cd\u09b0\u09be\u09ac\u09be\u0982 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:cat_x_preferred":[
+        "L\u016bang Phab\u0101ng"
+    ],
     "name:dan_x_preferred":[
         "Luang Prabang Province"
     ],
@@ -63,6 +66,9 @@
     "name:fin_x_preferred":[
         "Louangphabang"
     ],
+    "name:fin_x_variant":[
+        "L\u016bang Phab\u0101ng"
+    ],
     "name:fra_x_preferred":[
         "Luang Prabang"
     ],
@@ -81,6 +87,9 @@
     "name:hun_x_preferred":[
         "Luangprabang tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0582\u0561\u0576\u0563 \u0553\u0580\u0561\u0562\u0561\u0576\u0563"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Louangphabang"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\uc559\ud504\ub77c\ubc29 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc559\ud504\ub77c\ubc29\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0ec1\u0e82\u0ea7\u0e87\u0eab\u0ebc\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87"
@@ -171,6 +183,15 @@
     ],
     "name:war_x_preferred":[
         "Luang Prabang"
+    ],
+    "name:war_x_variant":[
+        "L\u016bang Phab\u0101ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7405\u52c3\u62c9\u90a6\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u9f8d\u5e15\u90a6\u7701"
     ],
     "name:zho_x_preferred":[
         "\u7405\u52c3\u62c9\u90a6\u7701"
@@ -296,7 +317,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895002,
+    "wof:lastmodified":1690938491,
     "wof:name":"Luangphrabang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

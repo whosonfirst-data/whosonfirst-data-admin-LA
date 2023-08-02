@@ -44,6 +44,9 @@
     "name:lao_x_preferred":[
         "\u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0eaa\u0eb5\u0e87"
     ],
+    "name:lao_x_variant":[
+        "\u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0eaa\u0eb4\u0e87"
+    ],
     "name:spa_x_preferred":[
         "Sing"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421187451,
-    "wof:lastmodified":1566593355,
+    "wof:lastmodified":1690938502,
     "wof:name":"Muang Sing",
     "wof:parent_id":1092030925,
     "wof:placetype":"locality",
