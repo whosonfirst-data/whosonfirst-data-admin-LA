@@ -39,11 +39,20 @@
     "name:ben_x_preferred":[
         "\u0996\u09be\u09ae\u09ae\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u0996\u09be\u09ae\u09cd\u09ae\u09c1\u09af\u09bc\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0445\u0430\u043c\u043e\u0443\u0430\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Khammouan"
+    ],
     "name:ceb_x_preferred":[
         "Khammouan"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Khammouane"
     ],
     "name:dan_x_preferred":[
         "Khammouane Province"
@@ -73,7 +82,8 @@
         "Khammouane"
     ],
     "name:fra_x_variant":[
-        "Province de Khammouane"
+        "Province de Khammouane",
+        "Khammouan"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0aae\u0abe\u0a89\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -107,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce84\ubb34\uc548 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce84\ubb34\uc548\uc8fc"
     ],
     "name:lao_x_preferred":[
         "\u0ec1\u0e82\u0ea7\u0e87\u0e84\u0eb3\u0ea1\u0ec8\u0ea7\u0e99"
@@ -144,6 +157,9 @@
     "name:sin_x_preferred":[
         "\u0d9b\u0d82\u0db8\u0dde\u0db1\u0dd9 \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Khammouan"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Khammouan"
     ],
@@ -180,6 +196,12 @@
     ],
     "name:war_x_preferred":[
         "Khammuan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7518\u8499\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u7518\u8499\u7701"
     ],
     "name:zho_x_preferred":[
         "\u7518\u8499\u7701"
@@ -308,7 +330,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1636495630,
+    "wof:lastmodified":1690938492,
     "wof:name":"Khammouan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

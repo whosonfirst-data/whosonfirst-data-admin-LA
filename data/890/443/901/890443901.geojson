@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u0628\u0627\u0633\u0627\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Champasak"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09cd\u09af\u09be\u09ae\u09aa\u09be\u09b8\u09be\u0995"
+    ],
+    "name:ceb_x_preferred":[
+        "Champasak"
     ],
     "name:ces_x_preferred":[
         "\u010campasak"
@@ -42,6 +48,12 @@
     ],
     "name:fra_x_preferred":[
         "Champassak"
+    ],
+    "name:fra_x_variant":[
+        "Bassac"
+    ],
+    "name:gle_x_preferred":[
+        "Camp\u0101sak"
     ],
     "name:heb_x_preferred":[
         "\u05e6'\u05de\u05e4\u05e1\u05d0\u05e7"
@@ -67,8 +79,14 @@
     "name:kat_x_preferred":[
         "\u10e2\u10d8\u10d0\u10db\u10de\u10d0\u10e2\u10e1\u10d0\u10d9\u10d8"
     ],
+    "name:khm_x_preferred":[
+        "\u1785\u17c6\u1794\u17c9\u17b6\u179f\u17b6\u1780\u17cb"
+    ],
     "name:kor_x_preferred":[
         "\ucc38\ube60\uc0ad"
+    ],
+    "name:krj_x_preferred":[
+        "Camp\u0101sak"
     ],
     "name:lao_x_preferred":[
         "\u0e88\u0eb3\u0e9b\u0eb2\u0eaa\u0eb1\u0e81"
@@ -91,11 +109,17 @@
     "name:spa_x_preferred":[
         "Champasak"
     ],
+    "name:spa_x_variant":[
+        "Camp\u0101sak"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u043c\u043f\u0430\u0441\u0430\u043a"
     ],
     "name:swe_x_preferred":[
         "Champassak"
+    ],
+    "name:swe_x_variant":[
+        "Champasak"
     ],
     "name:tur_x_preferred":[
         "Champasak"
@@ -249,7 +273,7 @@
         }
     ],
     "wof:id":890443901,
-    "wof:lastmodified":1636495635,
+    "wof:lastmodified":1690938505,
     "wof:name":"Champasak",
     "wof:parent_id":1092027043,
     "wof:placetype":"locality",

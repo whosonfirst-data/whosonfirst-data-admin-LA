@@ -42,8 +42,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09ad\u09be\u09a8\u09cd\u09a8\u09be\u0996\u09c7\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09ac\u09a8\u09cd\u09a8\u09be\u0996\u09c7\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Khou\u00e8ng Savannakh\u00e9t"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Savannakhet"
     ],
     "name:dan_x_preferred":[
         "Savannakhet Province"
@@ -73,7 +79,8 @@
         "Savannakhet"
     ],
     "name:fra_x_variant":[
-        "Province de Savannakhet"
+        "Province de Savannakhet",
+        "Savannakh\u00e9t"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab5\u0abe\u0aa8\u0acd\u0aa8\u0abe\u0a96\u0ac7\u0aa4 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -99,8 +106,17 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cb5\u0ca8\u0ccd\u0ca8\u0cbe\u0c96\u0cc6\u0ca4\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:khm_x_preferred":[
+        "\u1781\u17c1\u178f\u17d2\u178f\u200b\u179f\u17bd\u1782\u17cc\u1781\u17c1\u178f\u17d2\u178f"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc644\ub098\ucf13 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0ac\uc644\ub098\ucf13\uc8fc"
+    ],
+    "name:krj_x_preferred":[
+        "Savannakh\u0113t"
     ],
     "name:lao_x_preferred":[
         "\u0ec1\u0e82\u0ea7\u0e87\u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94"
@@ -144,6 +160,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dc0\u0db1\u0dca\u0db1\u0d9b\u0dd9\u0dad\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Savannakh\u0113t"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Savannakhet"
     ],
@@ -180,6 +199,12 @@
     ],
     "name:war_x_preferred":[
         "Savannakhet"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6c99\u6e7e\u62ff\u5409\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c99\u7063\u62ff\u5409\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u6e7e\u62ff\u5409\u7701"
@@ -307,7 +332,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895003,
+    "wof:lastmodified":1690938492,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

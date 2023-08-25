@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0622\u062a\u0627\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0622\u062a\u0627\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Attapeu"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0442\u0430\u043f\u044b"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Attapeu"
+    ],
+    "name:ceb_x_preferred":[
+        "Attap\u01b0\u0304"
     ],
     "name:dan_x_preferred":[
         "Attapeu"
@@ -47,6 +56,9 @@
     "name:eng_x_preferred":[
         "Attapeu"
     ],
+    "name:eng_x_variant":[
+        "Attap\u01b0\u0304"
+    ],
     "name:epo_x_preferred":[
         "Attapeu"
     ],
@@ -59,8 +71,14 @@
     "name:fra_x_preferred":[
         "Attapeu"
     ],
+    "name:fra_x_variant":[
+        "Attapu"
+    ],
     "name:guj_x_preferred":[
         "\u0a85\u0a9f\u0abe\u0aaa\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d5\u05e4\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0905\u091f\u094d\u0920\u093e\u092a\u0947\u0909"
@@ -85,6 +103,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e2\u10d0\u10de\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u17a2\u17b6\u1785\u1798\u17cd\u1780\u17d2\u179a\u1796\u17be"
     ],
     "name:kor_x_preferred":[
         "\uc557\ud398\uc720"
@@ -122,8 +143,14 @@
     "name:spa_x_preferred":[
         "Attapeu"
     ],
+    "name:spa_x_variant":[
+        "Attap\u01b0\u0304"
+    ],
     "name:swe_x_preferred":[
         "Attapeu"
+    ],
+    "name:swe_x_variant":[
+        "Attap\u01b0\u0304"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0b9f\u0bbe\u0baa\u0bc2"
@@ -140,6 +167,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0442\u0430\u043f\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u0442\u0442\u0430\u043f\u0438"
+    ],
     "name:und_x_variant":[
         "Muong Attopeu"
     ],
@@ -151,6 +181,9 @@
     ],
     "name:war_x_preferred":[
         "Attapeu"
+    ],
+    "name:war_x_variant":[
+        "Attap\u01b0\u0304"
     ],
     "name:zho_x_preferred":[
         "\u963f\u901f\u5761"
@@ -208,7 +241,7 @@
         }
     ],
     "wof:id":421174031,
-    "wof:lastmodified":1636495634,
+    "wof:lastmodified":1690938502,
     "wof:name":"Attapu",
     "wof:parent_id":1092028773,
     "wof:placetype":"locality",

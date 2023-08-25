@@ -42,8 +42,14 @@
     "name:ben_x_preferred":[
         "\u0989\u09af\u09bc\u09be\u09a1\u09cb\u09ae\u09af\u09be\u09af\u09bc \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
+    "name:ben_x_variant":[
+        "\u0989\u09a6\u09cb\u09ae\u09b8\u09be\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
     "name:ceb_x_preferred":[
         "Khou\u00e8ng Oud\u00f4mxai"
+    ],
+    "name:ceb_x_variant":[
+        "Udomsai"
     ],
     "name:cym_x_preferred":[
         "Talaith Oudomxay"
@@ -61,7 +67,8 @@
         "Oudomxai"
     ],
     "name:eng_x_variant":[
-        "Oudomxay Province"
+        "Oudomxay Province",
+        "Udomsai"
     ],
     "name:epo_x_preferred":[
         "Provinco Udomsai"
@@ -76,10 +83,14 @@
         "Oudomxay"
     ],
     "name:fra_x_variant":[
-        "Province d'Oudomxay"
+        "Province d'Oudomxay",
+        "Oud\u00f4mxai"
     ],
     "name:guj_x_preferred":[
         "\u0a91\u0aa1\u0acb\u0aae\u0acd\u0a95\u0acd\u0ab8\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05d3\u05d5\u05de\u05e9\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0921\u094b\u092e\u0938\u093e\u090f \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -144,8 +155,14 @@
     "name:sin_x_preferred":[
         "\u0d94\u0d8b\u0da9\u0ddc\u0db8\u0dca\u0d9a\u0dca\u0dc3\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:som_x_preferred":[
+        "Udomsai"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Oudomxay"
+    ],
+    "name:spa_x_variant":[
+        "Udomsai"
     ],
     "name:swe_x_preferred":[
         "Udomxai"
@@ -179,6 +196,12 @@
     ],
     "name:war_x_preferred":[
         "Udomxai"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u591a\u59c6\u585e\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5967\u51ac\u585e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u591a\u59c6\u585e\u7701"
@@ -304,7 +327,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895004,
+    "wof:lastmodified":1690938494,
     "wof:name":"Oud\u00f4mxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

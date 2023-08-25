@@ -22,14 +22,29 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0641\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u0641\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "S\u0101lavan"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09b2\u09be\u09ad\u09be\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0101lavan"
     ],
     "name:dan_x_preferred":[
         "Salavan"
     ],
+    "name:dan_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:deu_x_preferred":[
         "Salavan"
+    ],
+    "name:deu_x_variant":[
+        "S\u0101lavan"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bb\u03b1\u03b2\u03ac\u03bd"
@@ -37,14 +52,23 @@
     "name:eng_x_preferred":[
         "Salavan"
     ],
+    "name:eng_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:epo_x_preferred":[
         "Salavan"
+    ],
+    "name:epo_x_variant":[
+        "S\u0101lavan"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0648\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Salavan"
+    ],
+    "name:fin_x_variant":[
+        "S\u0101lavan"
     ],
     "name:fra_x_preferred":[
         "Salavan"
@@ -61,8 +85,14 @@
     "name:ind_x_preferred":[
         "Salavan"
     ],
+    "name:ind_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:ita_x_preferred":[
         "Salavan"
+    ],
+    "name:ita_x_variant":[
+        "S\u0101lavan"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30fc\u30e9\u30ef\u30f3"
@@ -72,6 +102,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e0\u10d0\u10d5\u10d0\u10dc\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17b6\u17a1\u17b6\u179c\u17c9\u17b6\u1793\u17cb"
     ],
     "name:kor_x_preferred":[
         "\uc0ac\ub77c\ubc18"
@@ -91,17 +124,29 @@
     "name:msa_x_preferred":[
         "Salavan"
     ],
+    "name:msa_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:nld_x_preferred":[
         "Salavan"
     ],
+    "name:nld_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:nob_x_preferred":[
         "Salavan"
+    ],
+    "name:nob_x_variant":[
+        "S\u0101lavan"
     ],
     "name:pol_x_preferred":[
         "Saravane"
     ],
     "name:por_x_preferred":[
         "Salavan"
+    ],
+    "name:por_x_variant":[
+        "S\u0101lavan"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0432\u0430\u043d"
@@ -112,8 +157,14 @@
     "name:spa_x_preferred":[
         "Salavan"
     ],
+    "name:spa_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:swe_x_preferred":[
         "Salavan"
+    ],
+    "name:swe_x_variant":[
+        "S\u0101lavan"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bbe\u0bb2\u0bcd\u0bb5\u0ba9\u0bcd"
@@ -127,8 +178,14 @@
     "name:tur_x_preferred":[
         "Salavan"
     ],
+    "name:tur_x_variant":[
+        "S\u0101lavan"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u0430\u0432\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u0440\u0430\u0432\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Muang Saravane"
@@ -141,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Salavan"
+    ],
+    "name:war_x_variant":[
+        "S\u0101lavan"
     ],
     "name:zho_x_preferred":[
         "\u6c99\u62c9\u7063"
@@ -270,7 +330,7 @@
         }
     ],
     "wof:id":890435715,
-    "wof:lastmodified":1566593359,
+    "wof:lastmodified":1690938507,
     "wof:name":"Salavan",
     "wof:parent_id":1092028911,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ceb_x_preferred":[
+        "Sam Neua Airport"
+    ],
     "name:eng_x_preferred":[
         "Sam Neua"
     ],
@@ -23,8 +26,14 @@
     "name:fra_x_preferred":[
         "Sam Neua"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30bd\u30f3\u7a7a\u6e2f"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Sam Neua"
+    ],
+    "name:swe_x_preferred":[
+        "Sam Neua Airport"
     ],
     "oa:elevation_ft":"3281",
     "oa:type":"medium_airport",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":102542635,
-    "wof:lastmodified":1631745170,
+    "wof:lastmodified":1690938488,
     "wof:name":"Sam Neua Airport",
     "wof:parent_id":85673447,
     "wof:placetype":"campus",

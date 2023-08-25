@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0641\u0648\u0646\u063a \u0633\u0627\u0644\u064a"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0445\u0430\u043d\u0433\u0441\u0430\u043b\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u0982\u09b8\u09be\u09b2\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09ab\u09cb\u0982\u09b8\u09be\u09b2\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Phongsali"
@@ -112,6 +118,9 @@
     "name:kor_x_preferred":[
         "\ud401\uc0b4\ub9ac \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud401\uc0b4\ub9ac\uc8fc"
+    ],
     "name:lao_x_preferred":[
         "\u0ec1\u0e82\u0ea7\u0e87\u0e9c\u0ebb\u0ec9\u0e87\u0eaa\u0eb2\u0ea5\u0eb5"
     ],
@@ -147,6 +156,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0ddc\u0db1\u0dca\u0d9c\u0dca\u0dc3\u0dca\u0dbd\u0dda \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:som_x_preferred":[
+        "Phongs\u0101l\u012b"
     ],
     "name:spa_x_preferred":[
         "Provincia de Phongsali"
@@ -184,6 +196,12 @@
     ],
     "name:war_x_preferred":[
         "Phongsali"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e30\u6c99\u91cc\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c50\u6c99\u5229\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e30\u6c99\u91cc\u7701"
@@ -310,7 +328,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1614895002,
+    "wof:lastmodified":1690938490,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

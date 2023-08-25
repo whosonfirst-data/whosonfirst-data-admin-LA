@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0641\u0627\u0646\u062e\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0641\u0627\u0646\u062e\u062a"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0432\u0430\u043d\u0430\u043a\u0445\u0435\u0442"
     ],
@@ -73,16 +76,31 @@
     "name:fra_x_preferred":[
         "Savannakhet"
     ],
+    "name:fra_x_variant":[
+        "Kaison Ph\u00f4mvihan-Ville"
+    ],
     "name:fur_x_preferred":[
+        "Savannakhet"
+    ],
+    "name:gle_x_preferred":[
         "Savannakhet"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ab5\u0abe\u0aa8\u0acd\u0aa8\u0abe\u0a96\u0ac7\u0aa4"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d5\u05d0\u05e0\u05e7\u05d8"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0935\u093e\u0928\u0928\u093e\u0916\u0947\u0924"
     ],
+    "name:hin_x_variant":[
+        "\u0938\u0935\u0928\u094d\u0928\u093e\u0916\u0947\u0924"
+    ],
     "name:hrv_x_preferred":[
+        "Savannakhet"
+    ],
+    "name:ido_x_preferred":[
         "Savannakhet"
     ],
     "name:ind_x_preferred":[
@@ -105,6 +123,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d5\u10d0\u10dc\u10d0\u10e5\u10d4\u10e2\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u179f\u17bb\u179c\u178e\u17d2\u178e\u1781\u17c1\u178f\u17d2\u178f"
     ],
     "name:kor_x_preferred":[
         "\uce74\uc774\uc190\ud3fc\ube44\ud55c"
@@ -196,6 +217,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u51ef\u5c71\u4e30\u5a01\u6c49\u5e02"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05f2\u05b7\u05e1\u05d0\u05b8\u05df\u05be\u05e4\u05bc\u05d0\u05b8\u05de\u05f0\u05d9\u05d4\u05d0\u05b8\u05df\u05be\u05e9\u05d8\u05d0\u05b8\u05d8"
     ],
     "name:yue_x_preferred":[
         "\u6c99\u7063\u90a3\u5409"
@@ -328,7 +352,7 @@
         }
     ],
     "wof:id":890455947,
-    "wof:lastmodified":1566593357,
+    "wof:lastmodified":1690938504,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":1092026527,
     "wof:placetype":"locality",

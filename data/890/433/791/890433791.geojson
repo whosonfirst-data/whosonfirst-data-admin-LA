@@ -22,11 +22,23 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0633\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0643\u0633\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Pakxan"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u043a\u0441\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0995\u09cd\u09b8\u09be\u09a8"
     ],
     "name:ceb_x_preferred":[
         "Muang Pakxan"
+    ],
+    "name:ceb_x_variant":[
+        "P\u0101ksan"
     ],
     "name:dan_x_preferred":[
         "Pakxan"
@@ -52,8 +64,14 @@
     "name:fra_x_preferred":[
         "Paksane"
     ],
+    "name:fra_x_variant":[
+        "Pakxan"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0a95\u0acd\u0ab8\u0abe\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e7\u05e1\u05df"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0915\u094d\u0938\u093e\u0928"
@@ -72,6 +90,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10e5\u10e1\u10d0\u10dc\u10d8"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u17c9\u17b6\u1780\u179f\u17b6\u1793\u17cb"
     ],
     "name:kor_x_preferred":[
         "\ud30d\uc0b0"
@@ -109,6 +130,9 @@
     "name:spa_x_preferred":[
         "Pakxan"
     ],
+    "name:spa_x_variant":[
+        "P\u0101ksan"
+    ],
     "name:swe_x_preferred":[
         "Pakxan"
     ],
@@ -135,6 +159,9 @@
     ],
     "name:war_x_preferred":[
         "Paksan"
+    ],
+    "name:war_x_variant":[
+        "P\u0101ksan"
     ],
     "name:zho_x_preferred":[
         "\u5317\u6c55"
@@ -170,7 +197,7 @@
         }
     ],
     "wof:id":890433791,
-    "wof:lastmodified":1566593358,
+    "wof:lastmodified":1690938505,
     "wof:name":"Muang Pakxan",
     "wof:parent_id":1092028315,
     "wof:placetype":"locality",

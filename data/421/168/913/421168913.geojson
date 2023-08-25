@@ -31,6 +31,18 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u064a\u0646\u062a\u064a\u0627\u0646"
     ],
+    "name:arg_x_preferred":[
+        "Vientiane"
+    ],
+    "name:ary_x_preferred":[
+        "\u06a4\u064a\u064a\u0646\u062a\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0641\u064a\u064a\u0646\u062a\u064a\u0627\u0646"
+    ],
+    "name:asm_x_preferred":[
+        "\u09ad\u09bf\u09af\u09bc\u09c7\u09a8\u099f\u09bf\u09af\u09bc\u09c7\u09a8"
+    ],
     "name:ast_x_preferred":[
         "Vienti\u00e1n"
     ],
@@ -40,8 +52,14 @@
     "name:bak_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
     ],
+    "name:ban_x_preferred":[
+        "Vientiane"
+    ],
     "name:bcl_x_preferred":[
         "Vientiane"
+    ],
+    "name:bcl_x_variant":[
+        "Biyentiyan"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0412\u0435\u043d\u0446\u044c\u044f\u043d"
@@ -54,6 +72,9 @@
     ],
     "name:bjn_x_preferred":[
         "Wiangcan"
+    ],
+    "name:blk_x_preferred":[
+        "\u101d\u1031\u1004\u103a\uaa7b\u1017\u102e\u101a\u1014\u103a\u1011\u103b\u1014\u103a\u1038"
     ],
     "name:bod_x_preferred":[
         "\u0f5d\u0f72\u0f53\u0f0b\u0f46\u0f72\u0f60\u0f44\u0f0b"
@@ -78,6 +99,9 @@
     ],
     "name:ceb_x_preferred":[
         "Vientiane"
+    ],
+    "name:ceb_x_variant":[
+        "Biyentiyan"
     ],
     "name:ces_x_preferred":[
         "Vientiane"
@@ -133,6 +157,9 @@
     "name:fra_x_preferred":[
         "Vientiane"
     ],
+    "name:frp_x_preferred":[
+        "Vientiane"
+    ],
     "name:frr_x_preferred":[
         "Vientiane"
     ],
@@ -159,6 +186,9 @@
     ],
     "name:hat_x_preferred":[
         "Vyanty\u00e0n"
+    ],
+    "name:hau_x_preferred":[
+        "Vientiane"
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05d9\u05d0\u05e0\u05d8\u05d9\u05d0\u05df"
@@ -193,6 +223,9 @@
     "name:ilo_x_preferred":[
         "Vientiane"
     ],
+    "name:ilo_x_variant":[
+        "Bientian"
+    ],
     "name:ind_x_preferred":[
         "Vientiane"
     ],
@@ -219,6 +252,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
+    ],
+    "name:khm_x_preferred":[
+        "\u179c\u17b6\u17c6\u1784\u1785\u1793\u17d2\u1791\u1793\u17cd"
     ],
     "name:kir_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
@@ -265,10 +301,19 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0906\u0902\u0924\u093f\u092f\u093e\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0412\u0438\u0435\u043d\u0442\u044c\u044f\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Vientiane"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0438\u0435\u043d\u0442\u0438\u0458\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
+        "Vientiane"
+    ],
+    "name:mlt_x_preferred":[
         "Vientiane"
     ],
     "name:mon_x_preferred":[
@@ -283,11 +328,20 @@
     "name:mya_x_preferred":[
         "\u1017\u102e\u101a\u1004\u103a\u1000\u103b\u1014\u103a\u1038\u1019\u103c\u102d\u102f\u1037"
     ],
+    "name:mzn_x_preferred":[
+        "\u0648\u06cc\u0646\u062a\u06cc\u0627\u0646"
+    ],
     "name:nah_x_preferred":[
         "Vianchan"
     ],
     "name:nan_x_preferred":[
         "Vieng Chan"
+    ],
+    "name:nan_x_variant":[
+        "Vientiane"
+    ],
+    "name:nav_x_preferred":[
+        "Tsin\u0142\u00e1n\u00ed Bin\u00e1\u02bc\u00e1t\u0142\u02bcinii"
     ],
     "name:nep_x_preferred":[
         "\u092d\u093f\u092f\u0928\u091f\u093f\u092f\u093e\u0928"
@@ -346,6 +400,9 @@
     "name:rus_x_preferred":[
         "\u0412\u044c\u0435\u043d\u0442\u044c\u044f\u043d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c75\u1c77\u1c64\u1c6d\u1c6e\u1c71\u1c5b\u1c64\u1c6d\u1c6e\u1c71"
+    ],
     "name:scn_x_preferred":[
         "Vientiane"
     ],
@@ -361,6 +418,9 @@
     "name:slv_x_preferred":[
         "Vientiane"
     ],
+    "name:smn_x_preferred":[
+        "Vientiane"
+    ],
     "name:sna_x_preferred":[
         "Vientiane"
     ],
@@ -373,6 +433,9 @@
     "name:sqi_x_preferred":[
         "Vientiane"
     ],
+    "name:srd_x_preferred":[
+        "Vientiane"
+    ],
     "name:srp_x_preferred":[
         "\u0412\u0438\u0458\u0435\u043d\u0442\u0438\u0458\u0430\u043d"
     ],
@@ -381,6 +444,9 @@
     ],
     "name:swe_x_preferred":[
         "Vientiane"
+    ],
+    "name:szl_x_preferred":[
+        "Wjentjan"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0baf\u0b9e\u0bcd\u0b9a\u0bbe\u0ba9\u0bcd"
@@ -396,6 +462,9 @@
     ],
     "name:tgl_x_preferred":[
         "Vientiane"
+    ],
+    "name:tgl_x_variant":[
+        "Biyentiyan"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e27\u0e35\u0e22\u0e07\u0e08\u0e31\u0e19\u0e17\u0e19\u0e4c"
@@ -424,6 +493,9 @@
     "name:uzb_x_preferred":[
         "Ventyan"
     ],
+    "name:vec_x_preferred":[
+        "Vientiane"
+    ],
     "name:vep_x_preferred":[
         "Vjentjan"
     ],
@@ -438,6 +510,9 @@
     ],
     "name:war_x_preferred":[
         "Vientiane"
+    ],
+    "name:war_x_variant":[
+        "Biyentiyan"
     ],
     "name:wuu_x_preferred":[
         "\u4e07\u8c61"
@@ -609,7 +684,7 @@
         }
     ],
     "wof:id":421168913,
-    "wof:lastmodified":1636495634,
+    "wof:lastmodified":1690938502,
     "wof:name":"Vientiane",
     "wof:parent_id":1092027747,
     "wof:placetype":"locality",
