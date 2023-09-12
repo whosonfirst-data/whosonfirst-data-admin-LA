@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219151,
-    "geom:area_square_m":2560061098.877028,
+    "geom:area_square_m":2560060428.255221,
     "geom:bbox":"101.789395,18.786929,102.53827,19.412253",
     "geom:latitude":19.138899,
     "geom:longitude":102.155399,
@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Kasi"
     ],
+    "name:eng_x_preferred":[
+        "Kasi"
+    ],
     "name:eng_x_variant":[
         "Kasy"
     ],
@@ -63,7 +66,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897604,
-    "wof:geomhash":"453f333302c585c0062cf2ccfc4d71fe",
+    "wof:geomhash":"c636d8bdb1f5061035ccee828c388294",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1092027063,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1694492704,
     "wof:name":"Kasi",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

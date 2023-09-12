@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.635421,
-    "geom:area_square_m":19153051962.555946,
+    "geom:area_square_m":19153051877.257416,
     "geom:bbox":"101.387746,17.808259,103.515575,19.412253",
     "geom:latitude":18.712135,
     "geom:longitude":102.420414,
     "gn:population":698254,
     "iso:country":"LA",
     "label:eng_x_preferred_longname":[
-        "Vientiane Province"
+        "Viangchan Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "VI"
@@ -241,7 +244,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e925ef8c47d6356199d75d56a946c83",
+    "wof:geomhash":"a822845d1b0936a4fed04e19f0a62df0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -256,7 +259,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938494,
+    "wof:lastmodified":1694493256,
     "wof:name":"Vientiane",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

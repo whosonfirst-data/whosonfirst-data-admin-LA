@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125017,
-    "geom:area_square_m":1462134219.10776,
+    "geom:area_square_m":1462134042.433864,
     "geom:bbox":"102.237913,18.628184,102.642598,19.212538",
     "geom:latitude":18.943523,
     "geom:longitude":102.463027,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Vangvieng"
+    ],
     "name:eng_x_variant":[
         "Vangvieng"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897702,
-    "wof:geomhash":"b61f3a905131ab52184722a9afc4de7a",
+    "wof:geomhash":"9e654034a619c4361ec07bd5f8f9eb57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092029367,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1694492704,
     "wof:name":"Vangvieng",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

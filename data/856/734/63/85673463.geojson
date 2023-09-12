@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.335102,
-    "geom:area_square_m":15656201867.561224,
+    "geom:area_square_m":15656201115.940865,
     "geom:bbox":"102.810962,17.886698,105.259205,19.120128",
     "geom:latitude":18.49293,
     "geom:longitude":104.25635,
     "gn:population":214900,
     "iso:country":"LA",
     "label:eng_x_preferred_longname":[
-        "Borikhamxai Province"
+        "Bolikhamxai Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "BL"
@@ -296,7 +299,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"190776af4c0d14101ea9560c3996a3ac",
+    "wof:geomhash":"657e17f11a60e8b0b0df51b248a3846e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -311,7 +314,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938495,
+    "wof:lastmodified":1694493174,
     "wof:name":"Borikhamxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

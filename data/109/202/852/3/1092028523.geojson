@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101795,
-    "geom:area_square_m":1186383702.657969,
+    "geom:area_square_m":1186383764.684902,
     "geom:bbox":"103.007998,19.342622,103.515842,19.689275",
     "geom:latitude":19.517375,
     "geom:longitude":103.262256,
@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Pek"
     ],
+    "name:eng_x_preferred":[
+        "Pek"
+    ],
     "name:eng_x_variant":[
         "Pek"
     ],
@@ -63,7 +66,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897667,
-    "wof:geomhash":"5c3ddc157b85a5d7e513ec69c08f3c56",
+    "wof:geomhash":"a22d906f6de93154a8615c73243e2e00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1092028523,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1694492704,
     "wof:name":"Pek",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

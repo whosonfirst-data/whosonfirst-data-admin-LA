@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":814749.794032,
+    "geom:area_square_m":814786.230744,
     "geom:bbox":"106.511232,14.588795,106.543946,14.597005",
     "geom:latitude":14.593346,
     "geom:longitude":106.528153,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sanamxai"
+    ],
     "name:eng_x_variant":[
         "Sanamxay"
     ],
@@ -64,7 +67,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897785,
-    "wof:geomhash":"4baa8f5e6dafbd9c48c220af688820b2",
+    "wof:geomhash":"aa333cf43d2c9d446656dba54d4938bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1175612899,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1694492704,
     "wof:name":"Sanamxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

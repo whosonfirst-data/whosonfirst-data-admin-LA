@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.151618,
-    "geom:area_square_m":1769629047.785831,
+    "geom:area_square_m":1769629408.320638,
     "geom:bbox":"103.209081,19.048788,103.758233,19.502374",
     "geom:latitude":19.280638,
     "geom:longitude":103.500118,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Khoun"
+    ],
     "name:eng_x_variant":[
         "Khoune"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897611,
-    "wof:geomhash":"2b114c0dde5faeb9323f0d41726ac9c0",
+    "wof:geomhash":"d307813250d0d30b0b78fb2ba9e55bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092027229,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1694492704,
     "wof:name":"Khoun",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

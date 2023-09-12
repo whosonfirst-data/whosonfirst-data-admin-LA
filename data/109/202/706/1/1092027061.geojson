@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101586,
-    "geom:area_square_m":1190272771.03387,
+    "geom:area_square_m":1190272372.541617,
     "geom:bbox":"102.040193,18.390015,102.487018,18.900866",
     "geom:latitude":18.63492,
     "geom:longitude":102.280003,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Hinheup"
+    ],
     "name:eng_x_variant":[
         "Hinhurp"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897602,
-    "wof:geomhash":"142777c7956a2a3d37f29bd2bc0ef679",
+    "wof:geomhash":"da7b6d3bcc9ad8978d3190d103f49429",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092027061,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1694492704,
     "wof:name":"Hinheup",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

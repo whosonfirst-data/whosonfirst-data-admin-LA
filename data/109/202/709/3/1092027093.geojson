@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074318,
-    "geom:area_square_m":870754822.407186,
+    "geom:area_square_m":870755146.493105,
     "geom:bbox":"101.90111,18.40766,102.249349,18.898461",
     "geom:latitude":18.639196,
     "geom:longitude":102.083135,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Fuang"
+    ],
     "name:eng_x_variant":[
         "Feuang"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897605,
-    "wof:geomhash":"86595312cc15237579924c405a60a636",
+    "wof:geomhash":"01491da83292d3eab5f07d93006aa339",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092027093,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1694492704,
     "wof:name":"Fuang",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

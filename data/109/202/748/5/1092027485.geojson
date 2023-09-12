@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091973,
-    "geom:area_square_m":1080076083.798563,
+    "geom:area_square_m":1080076006.851638,
     "geom:bbox":"101.73374,18.027095,102.049061,18.459331",
     "geom:latitude":18.24614,
     "geom:longitude":101.897984,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Meun"
+    ],
     "name:eng_x_variant":[
         "Xanakharm"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897622,
-    "wof:geomhash":"8cf765391ab39ec6980e3aa4a86c716d",
+    "wof:geomhash":"afbf1a0771d320c70a44d8c275c2b2d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092027485,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1694492704,
     "wof:name":"Meun",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

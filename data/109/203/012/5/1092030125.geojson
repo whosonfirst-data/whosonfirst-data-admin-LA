@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162048,
-    "geom:area_square_m":1904362700.194863,
+    "geom:area_square_m":1904362307.306849,
     "geom:bbox":"101.387746,17.808259,101.796408,18.392805",
     "geom:latitude":18.121561,
     "geom:longitude":101.59187,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Xanakham"
+    ],
     "name:eng_x_variant":[
         "Xanakharm"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897730,
-    "wof:geomhash":"b338ee2c99949826ffae3d2acf0f593f",
+    "wof:geomhash":"a575a7bdc782347862ff0195bb9e3d70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092030125,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1694492704,
     "wof:name":"Xanakham",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

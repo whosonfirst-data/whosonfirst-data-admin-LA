@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013091,
-    "geom:area_square_m":153577054.988474,
+    "geom:area_square_m":153576965.437162,
     "geom:bbox":"102.445565,18.308407,102.606283,18.50054",
     "geom:latitude":18.418072,
     "geom:longitude":102.522425,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Viangkham"
+    ],
     "name:eng_x_variant":[
         "Viengkham"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897707,
-    "wof:geomhash":"e4121b2c34e3697ca7458cd261cb791f",
+    "wof:geomhash":"efd20d93cf5c26aa3a13e595668071a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092029489,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1694492704,
     "wof:name":"Viangkham",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

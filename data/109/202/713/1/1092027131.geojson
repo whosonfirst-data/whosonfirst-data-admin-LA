@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043842,
-    "geom:area_square_m":513909372.240227,
+    "geom:area_square_m":513909629.050526,
     "geom:bbox":"102.430511,18.444952,102.714062,18.702138",
     "geom:latitude":18.564583,
     "geom:longitude":102.564328,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Keo-Oudom"
+    ],
     "name:eng_x_variant":[
         "Keo Oudom"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897607,
-    "wof:geomhash":"0b603307d4c259b25d5bf74a5131294c",
+    "wof:geomhash":"b94dfa5f1fd9507133d4672c2415bcf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092027131,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1694492704,
     "wof:name":"Keo-Oudom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

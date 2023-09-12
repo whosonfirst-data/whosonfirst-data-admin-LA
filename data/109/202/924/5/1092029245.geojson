@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069375,
-    "geom:area_square_m":814165412.703931,
+    "geom:area_square_m":814165746.262111,
     "geom:bbox":"102.486774,18.205952,102.899408,18.505207",
     "geom:latitude":18.360992,
     "geom:longitude":102.695757,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Thoulakhom"
+    ],
     "name:eng_x_variant":[
         "Thoulakhom"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897698,
-    "wof:geomhash":"fbb9fe336059d2211989f93616c479bb",
+    "wof:geomhash":"85bd8636341fe7845663c3f9d2979cee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092029245,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1694492704,
     "wof:name":"Thoulakhom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",
