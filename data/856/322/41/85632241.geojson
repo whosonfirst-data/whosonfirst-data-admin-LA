@@ -1144,7 +1144,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"856",
     "statoids:ds":"LAO",
     "statoids:fifa":"LAO",
@@ -1216,7 +1216,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1694492056,
+    "wof:lastmodified":1694639510,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
