@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.217664,
-    "geom:area_square_m":2535037407.378689,
+    "geom:area_square_m":2535037227.058863,
     "geom:bbox":"102.654483,19.249483,103.415252,19.937864",
     "geom:latitude":19.628895,
     "geom:longitude":103.012968,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Phoukout"
+    ],
     "name:eng_x_variant":[
         "Phookood"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897724,
-    "wof:geomhash":"7f6447e6bb65e6725a2e060dce945417",
+    "wof:geomhash":"96d0f262a574d052d7eef58df000437e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092029955,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1694492704,
     "wof:name":"Phoukout",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

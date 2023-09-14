@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.691497,
-    "geom:area_square_m":230759070533.675842,
+    "geom:area_square_m":230759070533.486603,
     "geom:bbox":"100.083872,13.90972,107.69483,22.502872",
     "geom:latitude":18.495567,
     "geom:longitude":103.770039,
@@ -14,6 +14,9 @@
     "iso:country":"LA",
     "itu:country_code":[
         "856"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "LA"
@@ -1140,7 +1143,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"856",
     "statoids:ds":"LAO",
     "statoids:fifa":"LAO",
@@ -1198,7 +1202,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"1437f6cd0582f8214ae9609878cec03f",
+    "wof:geomhash":"f22a62491055065a75a8f4c303c4666a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1212,12 +1216,12 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938489,
+    "wof:lastmodified":1694639510,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":6769727,
-    "wof:population_rank":13,
+    "wof:population":7169455,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:shortcode":"LA",
     "wof:superseded_by":[],

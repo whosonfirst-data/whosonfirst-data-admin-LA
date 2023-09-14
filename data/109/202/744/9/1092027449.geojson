@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129924,
-    "geom:area_square_m":1521953968.607856,
+    "geom:area_square_m":1521954328.714671,
     "geom:bbox":"101.571588,18.361817,102.111987,19.004952",
     "geom:latitude":18.67362,
     "geom:longitude":101.884503,
@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "Met"
     ],
+    "name:eng_x_preferred":[
+        "Met"
+    ],
     "name:eng_x_variant":[
         "Mad"
     ],
@@ -81,7 +84,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897620,
-    "wof:geomhash":"a5dc6eb30e8fd288223500f0a0c3213b",
+    "wof:geomhash":"8ee3edb0b0021e47eddd058b189dcf4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1092027449,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1694492704,
     "wof:name":"Met",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

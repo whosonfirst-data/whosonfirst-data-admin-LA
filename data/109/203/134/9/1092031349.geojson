@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085088,
-    "geom:area_square_m":993240413.734279,
+    "geom:area_square_m":993240002.396125,
     "geom:bbox":"102.828458,19.119402,103.344877,19.441273",
     "geom:latitude":19.25963,
     "geom:longitude":103.082508,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Phaxai"
+    ],
     "name:eng_x_variant":[
         "Phaxay"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897783,
-    "wof:geomhash":"00bef867752c7139516057e276eb564d",
+    "wof:geomhash":"b0ae15682342ff51883d25a1771c5ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092031349,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1694492704,
     "wof:name":"Phaxai",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

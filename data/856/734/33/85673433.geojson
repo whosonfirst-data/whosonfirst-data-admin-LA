@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312058,
-    "geom:area_square_m":3666784254.933658,
+    "geom:area_square_m":3666783970.894184,
     "geom:bbox":"102.01308,17.803142,103.153606,18.436352",
     "geom:latitude":18.144253,
     "geom:longitude":102.582598,
@@ -13,7 +13,10 @@
     "gn:population":698254,
     "iso:country":"LA",
     "label:eng_x_preferred_longname":[
-        "Vientiane (prefecture) Municipality"
+        "Viangchan Prefecture"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "prefecture"
     ],
     "label:eng_x_preferred_shortcode":[
         "VT"
@@ -251,7 +254,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ceb6c5a37c26226fa63d397c06b0e699",
+    "wof:geomhash":"9318de94ca01d155e68edab845d83288",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -266,7 +269,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938492,
+    "wof:lastmodified":1694493174,
     "wof:name":"Vientiane (prefecture)",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

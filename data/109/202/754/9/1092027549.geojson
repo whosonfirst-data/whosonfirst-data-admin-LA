@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178222,
-    "geom:area_square_m":2082789359.155589,
+    "geom:area_square_m":2082789495.247745,
     "geom:bbox":"103.691779,18.797273,104.278701,19.312816",
     "geom:latitude":19.071039,
     "geom:longitude":103.996972,
@@ -35,6 +35,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mokmai"
+    ],
     "name:eng_x_variant":[
         "Morkmay"
     ],
@@ -57,7 +60,7 @@
     },
     "wof:country":"LA",
     "wof:created":1473897625,
-    "wof:geomhash":"7ff1605e1452518547199060f89ea823",
+    "wof:geomhash":"8d380572a5cc7c2d924f3ed8083cb749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1092027549,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1694492704,
     "wof:name":"Mokmai",
     "wof:parent_id":85673441,
     "wof:placetype":"county",
