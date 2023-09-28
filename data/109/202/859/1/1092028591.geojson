@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084792,
-    "geom:area_square_m":1004252650.401409,
+    "geom:area_square_m":1004252717.669585,
     "geom:bbox":"105.407271,16.510359,105.7564,16.959945",
     "geom:latitude":16.698827,
     "geom:longitude":105.606264,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.TX"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897670,
-    "wof:geomhash":"58879b481fbe567d56f2c06fa70917f5",
+    "wof:geomhash":"483122e8106bd8b9ca07377450c58682",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028591,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Phalanxai",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

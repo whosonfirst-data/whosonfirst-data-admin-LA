@@ -64,6 +64,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897604,
     "wof:geomhash":"c636d8bdb1f5061035ccee828c388294",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092027063,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886779,
     "wof:name":"Kasi",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010359,
-    "geom:area_square_m":123649068.06854,
+    "geom:area_square_m":123649132.461765,
     "geom:bbox":"105.728834,15.049357,105.88341,15.181551",
     "geom:latitude":15.135397,
     "geom:longitude":105.819892,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.CH.PE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897661,
-    "wof:geomhash":"562fce009df2198673d7e75fa8e81bf5",
+    "wof:geomhash":"9ebc5e2e4baa35a21761046f7cc7b45d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028367,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pakxe",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

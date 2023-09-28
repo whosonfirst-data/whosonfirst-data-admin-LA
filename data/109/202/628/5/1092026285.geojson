@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01948,
-    "geom:area_square_m":229193348.228387,
+    "geom:area_square_m":229193520.973633,
     "geom:bbox":"102.588521,17.803142,102.907648,18.016258",
     "geom:latitude":17.915524,
     "geom:longitude":102.728933,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897572,
-    "wof:geomhash":"14ab67d874f91be10ab21b9997b0b166",
+    "wof:geomhash":"b96b3371a29e0f8253568d4f36b68d11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026285,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Hatxayfong",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

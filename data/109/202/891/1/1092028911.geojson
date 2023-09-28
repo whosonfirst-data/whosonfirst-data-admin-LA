@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196265,
-    "geom:area_square_m":2336072582.332452,
+    "geom:area_square_m":2336072292.171053,
     "geom:bbox":"106.000731,15.482111,106.711213,15.975813",
     "geom:latitude":15.720911,
     "geom:longitude":106.368565,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SL.SV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897684,
-    "wof:geomhash":"adb43a23c8177c350831f229009a085a",
+    "wof:geomhash":"3108378bfe1f5d460d045d5057fba242",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092028911,
-    "wof:lastmodified":1636495634,
+    "wof:lastmodified":1695886659,
     "wof:name":"Saravan",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

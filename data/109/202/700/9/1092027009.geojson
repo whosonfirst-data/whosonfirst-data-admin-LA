@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074266,
-    "geom:area_square_m":885988627.269778,
+    "geom:area_square_m":885988394.61276,
     "geom:bbox":"105.818115,15.033934,106.132088,15.470085",
     "geom:latitude":15.246386,
     "geom:longitude":105.967188,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.CH.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897597,
-    "wof:geomhash":"9d419b574ab833939877ed844e913e77",
+    "wof:geomhash":"eacbc88f2970ae2471b39c4e261218a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027009,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886777,
     "wof:name":"Bachiangchareunsouk",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

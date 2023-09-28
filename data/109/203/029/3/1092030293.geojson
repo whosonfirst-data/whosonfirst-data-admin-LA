@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083122,
-    "geom:area_square_m":980738939.312353,
+    "geom:area_square_m":980738962.884483,
     "geom:bbox":"104.654439,17.172563,105.013312,17.598609",
     "geom:latitude":17.409067,
     "geom:longitude":104.868244,
@@ -137,9 +137,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897735,
-    "wof:geomhash":"bd4634b6f41cca04e66458b32b00e132",
+    "wof:geomhash":"7efe59ab5c425b545312b163dcb472b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1092030293,
-    "wof:lastmodified":1636495633,
+    "wof:lastmodified":1695886659,
     "wof:name":"Thakhek",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

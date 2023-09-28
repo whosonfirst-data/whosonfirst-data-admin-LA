@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.206564,
-    "geom:area_square_m":2398877057.679494,
+    "geom:area_square_m":2398876281.840118,
     "geom:bbox":"103.497034,19.793698,104.166158,20.344844",
     "geom:latitude":20.083929,
     "geom:longitude":103.823431,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.HU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897747,
-    "wof:geomhash":"cf748c87b8c129ba30d5d734220f9867",
+    "wof:geomhash":"22d47c953b465f5fc84c7f1370cd0447",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030635,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Houamuang",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

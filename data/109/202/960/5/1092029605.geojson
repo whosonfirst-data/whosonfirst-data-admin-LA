@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361768,
-    "geom:area_square_m":4237802978.304883,
+    "geom:area_square_m":4237803050.887316,
     "geom:bbox":"104.052583,18.22,104.762777,19.120128",
     "geom:latitude":18.674683,
     "geom:longitude":104.412987,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BL.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897711,
-    "wof:geomhash":"e1325718f834b2ad39b004618ae56a8c",
+    "wof:geomhash":"69b5b14a381736b936f0107a42d3d6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029605,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Viangthong",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

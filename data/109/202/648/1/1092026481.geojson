@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251944,
-    "geom:area_square_m":2900870345.579368,
+    "geom:area_square_m":2900870345.578979,
     "geom:bbox":"102.464475758,21.0070297115,102.993228,21.845964",
     "geom:latitude":21.383102,
     "geom:longitude":102.721442,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897579,
-    "wof:geomhash":"6e61af76690e7b12a0145187ad3c6206",
+    "wof:geomhash":"cae8d433ac7067724dbb4b1dcc10083b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092026481,
-    "wof:lastmodified":1566593297,
+    "wof:lastmodified":1695886702,
     "wof:name":"Mai",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070298,
-    "geom:area_square_m":812482236.725238,
+    "geom:area_square_m":812482452.010991,
     "geom:bbox":"104.004613,20.667243,104.385198,20.978451",
     "geom:latitude":20.82023,
     "geom:longitude":104.18623,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.XI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897596,
-    "wof:geomhash":"c6bf094a0305955e2a5a8148c2efe865",
+    "wof:geomhash":"cebdb4ae37cbfca37ce49b968b2eb455",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026965,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886780,
     "wof:name":"Xiangkho",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

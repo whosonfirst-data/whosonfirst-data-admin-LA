@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285518,
-    "geom:area_square_m":3386134295.967686,
+    "geom:area_square_m":3386134295.96678,
     "geom:bbox":"105.674966348,16.0515815341,106.40885629,16.8194359109",
     "geom:latitude":16.439911,
     "geom:longitude":106.02978,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897690,
-    "wof:geomhash":"3a945406380bceb8e681b421087946e4",
+    "wof:geomhash":"778f65e28577986cbb5b93f67d1d944d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1092029057,
-    "wof:lastmodified":1566593293,
+    "wof:lastmodified":1695886702,
     "wof:name":"Phin",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191936,
-    "geom:area_square_m":2272427797.500528,
+    "geom:area_square_m":2272427719.789223,
     "geom:bbox":"106.014335,16.541143,106.652518,17.02027",
     "geom:latitude":16.7662,
     "geom:longitude":106.334723,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897594,
-    "wof:geomhash":"83d0a6f75691de2885fb01dc27893e8d",
+    "wof:geomhash":"d2fbb6f64e2e40e0f91614fce56ba31b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026919,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xepon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

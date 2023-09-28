@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102195,
-    "geom:area_square_m":1194828045.220399,
+    "geom:area_square_m":1194828166.576072,
     "geom:bbox":"103.274155,18.820768,103.898134,19.15594",
     "geom:latitude":18.99878,
     "geom:longitude":103.608734,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XS.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897696,
-    "wof:geomhash":"a09de80d86fdda99bdf159560650abeb",
+    "wof:geomhash":"89632195f4362c3468cc0a23047ea262",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029205,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886784,
     "wof:name":"Thathom",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

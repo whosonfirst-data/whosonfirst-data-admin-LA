@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222537,
-    "geom:area_square_m":2569001516.710433,
+    "geom:area_square_m":2569001516.710216,
     "geom:bbox":"100.509212,20.6617167217,101.160780972,21.315766",
     "geom:latitude":20.996661,
     "geom:longitude":100.833841,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LM.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897577,
-    "wof:geomhash":"234b84504ec92bf339241beb1217881d",
+    "wof:geomhash":"d72a75b9ec3da29984bf43bd172d5d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092026435,
-    "wof:lastmodified":1566593286,
+    "wof:lastmodified":1695886702,
     "wof:name":"Long",
     "wof:parent_id":85673413,
     "wof:placetype":"county",

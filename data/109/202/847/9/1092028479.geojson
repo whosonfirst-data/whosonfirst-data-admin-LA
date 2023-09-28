@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.290676,
-    "geom:area_square_m":3470087728.022227,
+    "geom:area_square_m":3470087665.394678,
     "geom:bbox":"106.016805,14.764124,106.827767,15.412053",
     "geom:latitude":15.104219,
     "geom:longitude":106.436506,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.CH.PG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897666,
-    "wof:geomhash":"c2b845458a03a734909152a98bf3117b",
+    "wof:geomhash":"ea922423d4a89ca7c458f26971ec26fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028479,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pakxong",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

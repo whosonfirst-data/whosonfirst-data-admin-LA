@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090168,
-    "geom:area_square_m":1069067384.747686,
+    "geom:area_square_m":1069067449.33556,
     "geom:bbox":"104.995707,16.309673,105.463006,16.665519",
     "geom:latitude":16.492748,
     "geom:longitude":105.209741,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897651,
-    "wof:geomhash":"e515fc8929dc13d5d583b119fa1c309b",
+    "wof:geomhash":"ee28e61e97a0f77382b39ed8dc681f95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028085,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Champhon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

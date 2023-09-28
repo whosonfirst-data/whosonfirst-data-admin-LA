@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040869,
-    "geom:area_square_m":488295313.616737,
+    "geom:area_square_m":488295946.185682,
     "geom:bbox":"106.680605,14.708152,106.876503,15.238708",
     "geom:latitude":14.928939,
     "geom:longitude":106.790718,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.AT.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897678,
-    "wof:geomhash":"240f5f3b924035433633353e2de83946",
+    "wof:geomhash":"45d369d6e3409175a77ac7e801363bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028773,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1695886783,
     "wof:name":"Samakkhixai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

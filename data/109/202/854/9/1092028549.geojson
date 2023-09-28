@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.161198,
-    "geom:area_square_m":1870672939.521341,
+    "geom:area_square_m":1870672357.187843,
     "geom:bbox":"100.647602,19.989624,101.254457,20.4027",
     "geom:latitude":20.198049,
     "geom:longitude":100.93172,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BK.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897669,
-    "wof:geomhash":"4caf91c1588037693915200bbd4d525f",
+    "wof:geomhash":"4fade9b2dac87067604e840fee62507d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028549,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pha-Oudom",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

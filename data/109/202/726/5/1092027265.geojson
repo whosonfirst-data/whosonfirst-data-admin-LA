@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106301,
-    "geom:area_square_m":1224315203.852087,
+    "geom:area_square_m":1224315101.83103,
     "geom:bbox":"101.726497,21.141318,102.202591,21.552065",
     "geom:latitude":21.338883,
     "geom:longitude":101.979161,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897613,
-    "wof:geomhash":"b436289ca8d2e7395d6ebbae3a79030d",
+    "wof:geomhash":"f2fbcf6a4e9d5cd409e8af02f3a93c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027265,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886781,
     "wof:name":"Boun-Tai",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

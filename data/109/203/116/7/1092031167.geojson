@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.148728,
-    "geom:area_square_m":1723817758.286255,
+    "geom:area_square_m":1723817758.286511,
     "geom:bbox":"100.296906683,20.142834,101.009301554,20.5738439994",
     "geom:latitude":20.389773,
     "geom:longitude":100.630044,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BK.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897775,
-    "wof:geomhash":"bc27762efe0f787616683ff5759af8e0",
+    "wof:geomhash":"5e9d5ccc2c2e9b85b0cb4a499f958904",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092031167,
-    "wof:lastmodified":1566593277,
+    "wof:lastmodified":1695886702,
     "wof:name":"Houayxay",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

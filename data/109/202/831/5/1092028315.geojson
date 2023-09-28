@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063051,
-    "geom:area_square_m":739648774.843342,
+    "geom:area_square_m":739648774.843478,
     "geom:bbox":"103.470818304,18.283761,103.929218229,18.5431996512",
     "geom:latitude":18.431088,
     "geom:longitude":103.728246,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BL.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897659,
-    "wof:geomhash":"71e828839dd3f388a5f91e56f675c6dc",
+    "wof:geomhash":"a60197f0c939c6bd29a86ffc5a9aa25b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1092028315,
-    "wof:lastmodified":1566593298,
+    "wof:lastmodified":1695886703,
     "wof:name":"Pakxan",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

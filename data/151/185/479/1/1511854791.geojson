@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144088,
-    "geom:area_square_m":1577233259.227368,
+    "geom:area_square_m":1709264778.600264,
     "geom:bbox":"106.223063,16.143052,106.799749,16.585699",
     "geom:latitude":16.390201,
     "geom:longitude":106.503564,
@@ -49,8 +49,9 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
-    "wof:geomhash":"fa4d045113384d6c1dbec112fdc9656b",
+    "wof:geomhash":"e49298087801966cd5eaa60ac56fd341",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1511854791,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886782,
     "wof:name":"Nong",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

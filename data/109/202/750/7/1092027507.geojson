@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214136,
-    "geom:area_square_m":2508199690.26378,
+    "geom:area_square_m":2508199703.688928,
     "geom:bbox":"103.466933,18.461596,104.104253,18.954501",
     "geom:latitude":18.689866,
     "geom:longitude":103.765689,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BL.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897623,
-    "wof:geomhash":"2b0c244d466cf8d5d42ae31cad82aaf9",
+    "wof:geomhash":"7f4041a45e71a485a4384c4603acebf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027507,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Borikhan",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070837,
-    "geom:area_square_m":832349260.378328,
+    "geom:area_square_m":832349243.360028,
     "geom:bbox":"102.564387,17.988112,102.893563,18.310961",
     "geom:latitude":18.145381,
     "geom:longitude":102.744742,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.XT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897727,
-    "wof:geomhash":"ee801d087a8119aa79fadeb1063082ed",
+    "wof:geomhash":"54de31ecb7ba0650c5f522d2647f1a35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030043,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Xaithani",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190509,
-    "geom:area_square_m":2282777852.012643,
+    "geom:area_square_m":2282777725.098383,
     "geom:bbox":"105.205587,14.086921,105.874939,14.514676",
     "geom:latitude":14.291716,
     "geom:longitude":105.566639,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.CH.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897582,
-    "wof:geomhash":"fc32b602466d0c02edf94382f8581fa3",
+    "wof:geomhash":"c96b3f471de66dca705a8a98bdb83cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026577,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886780,
     "wof:name":"Mounlapamok",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

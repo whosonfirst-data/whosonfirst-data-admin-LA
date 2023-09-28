@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.XI.PK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897724,
     "wof:geomhash":"96d0f262a574d052d7eef58df000437e",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092029955,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886783,
     "wof:name":"Phoukout",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

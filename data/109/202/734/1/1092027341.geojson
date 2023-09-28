@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185861,
-    "geom:area_square_m":2145264619.379956,
+    "geom:area_square_m":2145264790.371342,
     "geom:bbox":"101.158739,20.767114,101.773536,21.256354",
     "geom:latitude":21.020038,
     "geom:longitude":101.44606,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LM.NT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897616,
-    "wof:geomhash":"cc1281055a58158111e9445947a9cefb",
+    "wof:geomhash":"7d942df19575a0923e46fba83c8fa187",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027341,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Luangnamtha",
     "wof:parent_id":85673413,
     "wof:placetype":"county",

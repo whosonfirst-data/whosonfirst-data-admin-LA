@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.255339,
-    "geom:area_square_m":3004663441.417367,
+    "geom:area_square_m":3004663557.304511,
     "geom:bbox":"104.264122,17.5534,104.87331,18.229287",
     "geom:latitude":17.888538,
     "geom:longitude":104.583715,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897710,
-    "wof:geomhash":"b5d917faf2bbe359a1d3662671b1f036",
+    "wof:geomhash":"f3a1fb39de29b3308e31f83cfdcc2d86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029559,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Hinboun",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

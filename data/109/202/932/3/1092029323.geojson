@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147255,
-    "geom:area_square_m":1716295221.213625,
+    "geom:area_square_m":1716295775.651599,
     "geom:bbox":"102.337096,19.211681,102.869895,19.774816",
     "geom:latitude":19.508863,
     "geom:longitude":102.590872,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.PK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897701,
-    "wof:geomhash":"b8ddf33d79bb2b3cb1a3848363fe09c0",
+    "wof:geomhash":"789bfea9e6d83b70e0083c8521387b08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029323,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1695886783,
     "wof:name":"Phoukhoun",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

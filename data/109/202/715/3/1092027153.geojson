@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200835,
-    "geom:area_square_m":2352822060.712757,
+    "geom:area_square_m":2352821983.238543,
     "geom:bbox":"102.645635,18.490412,103.515575,18.940536",
     "geom:latitude":18.660053,
     "geom:longitude":103.110298,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XS.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897608,
-    "wof:geomhash":"50d60daa0ef2fdf206ac4a62e080f63d",
+    "wof:geomhash":"4928eb6ed5d11d14199743623127466c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027153,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Hom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

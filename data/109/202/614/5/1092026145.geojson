@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.233995,
-    "geom:area_square_m":2789654406.707381,
+    "geom:area_square_m":2789654838.179465,
     "geom:bbox":"106.983806,15.028438,107.69483,15.730089",
     "geom:latitude":15.388174,
     "geom:longitude":107.323194,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XE.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897567,
-    "wof:geomhash":"2e115e1ecd515116f42c751d114d1d46",
+    "wof:geomhash":"9fba2b92db2515c4670ed40883c8b951",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026145,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Dakchung",
     "wof:parent_id":85673473,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077644,
-    "geom:area_square_m":901208231.469102,
+    "geom:area_square_m":901208391.601514,
     "geom:bbox":"102.143309,19.954163,102.519901,20.321928",
     "geom:latitude":20.169268,
     "geom:longitude":102.322362,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897655,
-    "wof:geomhash":"249f83234275886f34831290ea217a31",
+    "wof:geomhash":"1d31cd7320f5d55be0e1461ab027c07e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028205,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pak-Ou",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

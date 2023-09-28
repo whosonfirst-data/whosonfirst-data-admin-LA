@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029365,
-    "geom:area_square_m":347115847.096516,
+    "geom:area_square_m":347115860.442812,
     "geom:bbox":"104.729331,16.903298,104.945133,17.199852",
     "geom:latitude":17.063712,
     "geom:longitude":104.821207,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897652,
-    "wof:geomhash":"40eb9db71de550d0989ded0e72cce545",
+    "wof:geomhash":"243347c6a93214219f66d410af3ac70f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028125,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886782,
     "wof:name":"Nongbok",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

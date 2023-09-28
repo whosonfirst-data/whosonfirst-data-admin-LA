@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149183,
-    "geom:area_square_m":1778359403.532654,
+    "geom:area_square_m":1778359011.557425,
     "geom:bbox":"106.549232,15.13218,107.043268,15.64116",
     "geom:latitude":15.410144,
     "geom:longitude":106.805678,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XE.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897683,
-    "wof:geomhash":"272889ebcf466e02bfd616f571200c1d",
+    "wof:geomhash":"cc7dad45d414007d29f4d77c2c76f09b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028877,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Laman",
     "wof:parent_id":85673473,
     "wof:placetype":"county",

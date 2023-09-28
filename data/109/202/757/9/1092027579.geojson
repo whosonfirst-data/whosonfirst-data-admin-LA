@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.143706,
-    "geom:area_square_m":1664246405.977446,
+    "geom:area_square_m":1664246768.233759,
     "geom:bbox":"101.018157,20.304753,101.573099,20.788644",
     "geom:latitude":20.516006,
     "geom:longitude":101.335029,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LM.NL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897626,
-    "wof:geomhash":"8c406329289090ca51330ddf936ed550",
+    "wof:geomhash":"3cb1a0cbf425c991df65cfa1aebcfd37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027579,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886781,
     "wof:name":"Nale",
     "wof:parent_id":85673413,
     "wof:placetype":"county",

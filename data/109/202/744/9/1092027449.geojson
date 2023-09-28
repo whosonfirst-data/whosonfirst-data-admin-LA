@@ -82,6 +82,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897620,
     "wof:geomhash":"8ee3edb0b0021e47eddd058b189dcf4c",
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092027449,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886781,
     "wof:name":"Met",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113945,
-    "geom:area_square_m":1351706539.742541,
+    "geom:area_square_m":1351706091.736322,
     "geom:bbox":"105.283494,16.230326,105.810304,16.57156",
     "geom:latitude":16.387974,
     "geom:longitude":105.545251,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.XO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897746,
-    "wof:geomhash":"4a06338c0a9cdaabc817dd3093361503",
+    "wof:geomhash":"e0340bd907bfd0863ca766da6bc50962",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030585,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Xonbouri",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

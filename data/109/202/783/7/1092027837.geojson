@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13778,
-    "geom:area_square_m":1603874650.92853,
+    "geom:area_square_m":1603874859.921305,
     "geom:bbox":"101.241199,19.484689,101.773223,19.936088",
     "geom:latitude":19.708245,
     "geom:longitude":101.493538,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897637,
-    "wof:geomhash":"eea661f092bd45eac7c87bcb09dfb5c3",
+    "wof:geomhash":"56dc4eefa2816cdfaafcb77f29412cca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092027837,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Hongsa",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

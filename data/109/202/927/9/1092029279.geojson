@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0566,
-    "geom:area_square_m":672677809.374254,
+    "geom:area_square_m":672677828.591258,
     "geom:bbox":"106.102416,15.868794,106.372059,16.179442",
     "geom:latitude":16.025192,
     "geom:longitude":106.242718,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SL.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897700,
-    "wof:geomhash":"7b783b0f551eed4678c3cd65782fa4d2",
+    "wof:geomhash":"fce8c43a9ef9fed0ed16f914c055c115",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029279,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886784,
     "wof:name":"Toumlan",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

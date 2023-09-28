@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118806,
-    "geom:area_square_m":1368975075.452548,
+    "geom:area_square_m":1368974940.261431,
     "geom:bbox":"100.846495,20.983156,101.28853,21.564628",
     "geom:latitude":21.271724,
     "geom:longitude":101.103627,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LM.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897758,
-    "wof:geomhash":"dadedd0b81d1200b54f65d80417ef12b",
+    "wof:geomhash":"402ececf45b64694548956a273e2ba81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030925,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sing",
     "wof:parent_id":85673413,
     "wof:placetype":"county",

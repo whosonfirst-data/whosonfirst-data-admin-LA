@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059771,
-    "geom:area_square_m":695932363.777475,
+    "geom:area_square_m":695932457.55271,
     "geom:bbox":"100.403787,19.498852,100.701193,19.830758",
     "geom:latitude":19.675357,
     "geom:longitude":100.561719,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897576,
-    "wof:geomhash":"5af258a5157bab26d97cd6af281d3cbc",
+    "wof:geomhash":"6b6f4f31a112fa6a5d45e502c96546d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026391,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Khop",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

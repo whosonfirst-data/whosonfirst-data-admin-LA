@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062536,
-    "geom:area_square_m":727888985.516005,
+    "geom:area_square_m":727888651.29004,
     "geom:bbox":"100.963013,19.572127,101.285704,19.88826",
     "geom:latitude":19.726583,
     "geom:longitude":101.134397,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897732,
-    "wof:geomhash":"fff5c3a9e9e4b6e8e2b4c2a3245b4b66",
+    "wof:geomhash":"f99da435c49424c2428369f5dfb81b9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030215,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886781,
     "wof:name":"Ngeun",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

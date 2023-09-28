@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141152,
-    "geom:area_square_m":1656045514.7202,
+    "geom:area_square_m":1656045327.642423,
     "geom:bbox":"102.810962,18.187214,103.492633,18.643847",
     "geom:latitude":18.409225,
     "geom:longitude":103.132026,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BL.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897788,
-    "wof:geomhash":"1d1abbe36a513c7fb0a42941f6411f47",
+    "wof:geomhash":"cdd861916d493d62f1c76c96025c172f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031501,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886785,
     "wof:name":"Thaphabat",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

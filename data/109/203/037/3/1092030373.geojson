@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077921,
-    "geom:area_square_m":920518495.176558,
+    "geom:area_square_m":920518108.104357,
     "geom:bbox":"105.339244,17.03732,105.781017,17.307731",
     "geom:latitude":17.180074,
     "geom:longitude":105.545656,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.XA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897738,
-    "wof:geomhash":"918ca2d3797c9a97fb8e072b64b404de",
+    "wof:geomhash":"49e3a06052e556059bd70bf7d7d1232c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030373,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Xaibouathong",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277625,
-    "geom:area_square_m":3302074984.260542,
+    "geom:area_square_m":3302074590.028031,
     "geom:bbox":"106.65323,15.569931,107.466643,16.183214",
     "geom:latitude":15.867263,
     "geom:longitude":107.034324,
@@ -74,9 +74,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XE.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897574,
-    "wof:geomhash":"c568d0ba2e063bd958b0613afd068a8b",
+    "wof:geomhash":"bfc918d6f34a4af7dacd59655a063e98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":1092026315,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Karum",
     "wof:parent_id":85673473,
     "wof:placetype":"county",
