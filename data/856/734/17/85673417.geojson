@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.327195,
-    "geom:area_square_m":15520498754.321367,
+    "geom:area_square_m":15520498399.103348,
     "geom:bbox":"100.403787,17.466021,101.893994,19.936088",
     "geom:latitude":18.949895,
     "geom:longitude":101.343015,
@@ -312,16 +312,18 @@
         "gn:id":1652210,
         "gp:id":2346010,
         "hasc:id":"LA.XA",
+        "iso:code":"LA-XA",
         "iso:id":"LA-XA",
         "qs_pg:id":1046867,
         "wd:id":"Q465929",
         "wk:page":"Sainyabuli Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"303bdd070faabf57b38d710f8f87a347",
+    "wof:geomhash":"8981b281371026b3038e39c4600a2c18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938493,
+    "wof:lastmodified":1695884803,
     "wof:name":"Xaignabouri",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

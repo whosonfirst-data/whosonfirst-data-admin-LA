@@ -308,10 +308,12 @@
         "gn:id":1652077,
         "gp:id":2346011,
         "hasc:id":"LA.XI",
+        "iso:code":"LA-XI",
         "qs_pg:id":1046868,
         "wd:id":"Q465947",
         "wk:page":"Xiangkhouang Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1695884520,
     "wof:name":"Xiangkhoang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

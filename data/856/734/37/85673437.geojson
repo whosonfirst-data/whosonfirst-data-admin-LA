@@ -236,10 +236,12 @@
         "gn:id":1904618,
         "gp:id":20070164,
         "hasc:id":"LA.VI",
+        "iso:code":"LA-VI",
         "qs_pg:id":348940,
         "wd:id":"Q390377",
         "wk:page":"Vientiane Prefecture"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -259,7 +261,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1694493256,
+    "wof:lastmodified":1695884804,
     "wof:name":"Vientiane",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

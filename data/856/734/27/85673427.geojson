@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855756,
-    "geom:area_square_m":10179219979.793169,
+    "geom:area_square_m":10179220812.806177,
     "geom:bbox":"105.342227,15.283702,107.156925,16.55023",
     "geom:latitude":15.849126,
     "geom:longitude":106.271634,
@@ -306,16 +306,18 @@
         "gn:id":1653333,
         "gp:id":20070157,
         "hasc:id":"LA.SL",
+        "iso:code":"LA-SL",
         "iso:id":"LA-SL",
         "qs_pg:id":1287640,
         "wd:id":"Q302656",
         "wk:page":"Salavan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"37fb316a96338e99ac319b4bc4be1667",
+    "wof:geomhash":"58eb7af2f0e27bb397b7cb5c85cff9db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938492,
+    "wof:lastmodified":1695884803,
     "wof:name":"Saravan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.018591,
-    "geom:area_square_m":11802908856.490669,
+    "geom:area_square_m":11802909578.349791,
     "geom:bbox":"100.731161,19.81696,102.363799,21.220436",
     "geom:latitude":20.426002,
     "geom:longitude":101.724243,
@@ -303,16 +303,18 @@
         "gn:id":1654491,
         "gp:id":2346005,
         "hasc:id":"LA.OU",
+        "iso:code":"LA-OU",
         "iso:id":"LA-OU",
         "qs_pg:id":894914,
         "wd:id":"Q465961",
         "wk:page":"Oudomxay Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8a250aa663899aa96833e09e2b28fcf5",
+    "wof:geomhash":"6d374d2c0caa827c758c7f2c6e0cb408",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938494,
+    "wof:lastmodified":1695884520,
     "wof:name":"Oud\u00f4mxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

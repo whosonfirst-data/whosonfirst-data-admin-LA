@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.600184,
-    "geom:area_square_m":6957642663.069195,
+    "geom:area_square_m":6957642062.666597,
     "geom:bbox":"100.083872,19.770885,101.254457,20.8466",
     "geom:latitude":20.360714,
     "geom:longitude":100.638385,
@@ -299,16 +299,18 @@
         "gn:id":1904616,
         "gp:id":20070156,
         "hasc:id":"LA.BK",
+        "iso:code":"LA-BK",
         "iso:id":"LA-BK",
         "qs_pg:id":890355,
         "wd:id":"Q334884",
         "wk:page":"Bokeo Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1ac5224cfa5fc7facbafb898af6cd305",
+    "wof:geomhash":"b0d3ab4ebafb1fc26040b638ce7c950f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -323,7 +325,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938494,
+    "wof:lastmodified":1695884803,
     "wof:name":"Bokeo",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

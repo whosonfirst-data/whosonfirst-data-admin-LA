@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.354139,
-    "geom:area_square_m":15563066108.027884,
+    "geom:area_square_m":15563066117.784985,
     "geom:bbox":"101.537844,20.830312,102.993228,22.502872",
     "geom:latitude":21.645739,
     "geom:longitude":102.240636,
@@ -304,16 +304,18 @@
         "gn:id":1653893,
         "gp:id":2346006,
         "hasc:id":"LA.PH",
+        "iso:code":"LA-PH",
         "iso:id":"LA-PH",
         "qs_pg:id":1030864,
         "wd:id":"Q334868",
         "wk:page":"Phongsaly Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a08fec95d84e03c98ebb59a8fd7d49c",
+    "wof:geomhash":"83f739560fb21e5b65805290fe5015ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,7 +330,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938490,
+    "wof:lastmodified":1695884519,
     "wof:name":"Ph\u00f4ngsali",
     "wof:parent_id":85632241,
     "wof:placetype":"region",
