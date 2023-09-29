@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002076,
-    "geom:area_square_m":24428474.183747,
+    "geom:area_square_m":24428546.015482,
     "geom:bbox":"102.605147,17.906648,102.659938,17.968258",
     "geom:latitude":17.934105,
     "geom:longitude":102.631513,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897687,
-    "wof:geomhash":"bf245e25f1fe74e84a6676817fc22ad1",
+    "wof:geomhash":"cf49fb76dafe225fd722a8b13249c803",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028993,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sisattanak",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

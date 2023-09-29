@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.229366,
-    "geom:area_square_m":2743416226.872561,
+    "geom:area_square_m":2743416519.186723,
     "geom:bbox":"105.84502,14.336964,106.355691,15.080221",
     "geom:latitude":14.691286,
     "geom:longitude":106.066316,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.CH.PT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897781,
-    "wof:geomhash":"31ea29421e249bea8ed4a79664b5f3a1",
+    "wof:geomhash":"414649ce3fc7970807a1d9bd237681dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031293,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pathoumphon",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

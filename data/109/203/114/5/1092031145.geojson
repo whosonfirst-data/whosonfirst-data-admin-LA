@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117124,
-    "geom:area_square_m":1382278251.995744,
+    "geom:area_square_m":1382278266.253187,
     "geom:bbox":"104.988071,17.183614,105.679794,17.498857",
     "geom:latitude":17.362385,
     "geom:longitude":105.303403,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897774,
-    "wof:geomhash":"9bb9320dadb70ee0294be22ace5bbb0c",
+    "wof:geomhash":"13c0f9620a26efa94083cb28cabafbf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031145,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886781,
     "wof:name":"Mahaxai",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

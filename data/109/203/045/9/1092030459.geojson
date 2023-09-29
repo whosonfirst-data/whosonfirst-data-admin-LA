@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076347,
-    "geom:area_square_m":887325314.420676,
+    "geom:area_square_m":887325384.822472,
     "geom:bbox":"100.439036,19.770885,100.773109,20.222394",
     "geom:latitude":19.962395,
     "geom:longitude":100.619222,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BK.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897741,
-    "wof:geomhash":"47584b7e7cc3e4a5cb559e158f93baef",
+    "wof:geomhash":"b1a112c436477abd4994f8433b859bca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030459,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Paktha",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

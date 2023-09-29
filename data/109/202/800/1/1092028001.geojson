@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123148,
-    "geom:area_square_m":1456627874.408949,
+    "geom:area_square_m":1456628132.048573,
     "geom:bbox":"105.119326,16.778272,105.678501,17.103018",
     "geom:latitude":16.945874,
     "geom:longitude":105.394453,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.AP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897648,
-    "wof:geomhash":"475f5226f04d3b2431edfac31f3b9c8e",
+    "wof:geomhash":"56184b0eff6f436f99a952955f264fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028001,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886777,
     "wof:name":"Atsaphon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

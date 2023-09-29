@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145839,
-    "geom:area_square_m":1690638861.522909,
+    "geom:area_square_m":1690638861.523032,
     "geom:bbox":"101.453296915,20.1280666897,102.000472893,20.5635513338",
     "geom:latitude":20.362589,
     "geom:longitude":101.71637,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"LA.OU.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897628,
-    "wof:geomhash":"66d6754a5f52919eca0779c5ef20ea0f",
+    "wof:geomhash":"6d2ab5031b052dfe2910e4c64a3b3b3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092027619,
-    "wof:lastmodified":1566593294,
+    "wof:lastmodified":1695886702,
     "wof:name":"Beng",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

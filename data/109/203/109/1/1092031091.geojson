@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086996,
-    "geom:area_square_m":1006119464.051192,
+    "geom:area_square_m":1006119659.230713,
     "geom:bbox":"103.657649,20.54895,104.097277,20.913256",
     "geom:latitude":20.724207,
     "geom:longitude":103.883473,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.MU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897765,
-    "wof:geomhash":"27b389f566809e2cf126446cc2803171",
+    "wof:geomhash":"adf0a443772f23564ac57ca560099134",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031091,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886779,
     "wof:name":"Et",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

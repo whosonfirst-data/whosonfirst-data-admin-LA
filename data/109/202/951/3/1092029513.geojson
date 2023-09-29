@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.159303,
-    "geom:area_square_m":1843092823.245744,
+    "geom:area_square_m":1843092923.022988,
     "geom:bbox":"100.810235,20.354935,101.327462,20.974885",
     "geom:latitude":20.663475,
     "geom:longitude":101.067844,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LM.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897708,
-    "wof:geomhash":"2909a5270dea54b016710b13df753305",
+    "wof:geomhash":"b0a621a57e718672f9352b25fed8f949",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029513,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886784,
     "wof:name":"Viangphoukha",
     "wof:parent_id":85673413,
     "wof:placetype":"county",

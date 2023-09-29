@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139538,
-    "geom:area_square_m":1617728761.949651,
+    "geom:area_square_m":1617728846.544385,
     "geom:bbox":"104.125755,20.143634,104.713545,20.634306",
     "geom:latitude":20.34925,
     "geom:longitude":104.400271,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.VX"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897793,
-    "wof:geomhash":"6563cb95344e1eef33b28326d3f60c88",
+    "wof:geomhash":"a00e711c6440b142c470cfad473e1454",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031621,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886785,
     "wof:name":"Viangxai",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

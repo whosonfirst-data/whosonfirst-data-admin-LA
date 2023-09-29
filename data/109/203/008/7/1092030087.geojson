@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.265601,
-    "geom:area_square_m":3078496195.217364,
+    "geom:area_square_m":3078495746.069237,
     "geom:bbox":"103.498222,20.065785,104.388642,20.681222",
     "geom:latitude":20.386231,
     "geom:longitude":103.93591,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.XN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897728,
-    "wof:geomhash":"f83a23f3a55e86018f4c5dcffff89ea3",
+    "wof:geomhash":"0dc4ecde6c87f0f0558a3abca7585fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030087,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1695886783,
     "wof:name":"Xam-Nua",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

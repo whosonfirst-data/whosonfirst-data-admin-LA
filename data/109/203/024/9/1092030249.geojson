@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.270424,
-    "geom:area_square_m":3155337830.975642,
+    "geom:area_square_m":3155337700.106596,
     "geom:bbox":"101.186834,18.850843,101.893994,19.659433",
     "geom:latitude":19.32996,
     "geom:longitude":101.590582,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.XA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897734,
-    "wof:geomhash":"19c51ce1418a529d20e6e4e15b0718ab",
+    "wof:geomhash":"9184c7b8a83007721e2648a1642207a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030249,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Xayabury",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

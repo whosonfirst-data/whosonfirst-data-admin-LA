@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076633,
-    "geom:area_square_m":906450739.652569,
+    "geom:area_square_m":906450847.708039,
     "geom:bbox":"104.735697,16.720719,105.185644,17.109862",
     "geom:latitude":16.943718,
     "geom:longitude":104.923381,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.XB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897601,
-    "wof:geomhash":"46b14372b0799c221488a2d33b57e8a3",
+    "wof:geomhash":"58d1b142be6651abf19a65ea90c9637a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027059,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xaibouri",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

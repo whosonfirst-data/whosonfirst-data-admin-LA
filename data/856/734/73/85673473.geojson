@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.706452,
-    "geom:area_square_m":8414189705.196557,
+    "geom:area_square_m":8414189664.389752,
     "geom:bbox":"106.301509,15.028438,107.69483,16.183214",
     "geom:latitude":15.584178,
     "geom:longitude":107.046117,
@@ -302,16 +302,18 @@
         "gn:id":1904615,
         "gp:id":20070158,
         "hasc:id":"LA.XE",
+        "iso:code":"LA-XE",
         "iso:id":"LA-XE",
         "qs_pg:id":1287641,
         "wd:id":"Q585707",
         "wk:page":"Sekong Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd9319570d88d36eadf86589fcb26419",
+    "wof:geomhash":"957486aa9d93537e708074f7ddda4ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -326,7 +328,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938493,
+    "wof:lastmodified":1695884520,
     "wof:name":"X\u00e9kong",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

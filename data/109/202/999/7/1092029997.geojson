@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.35442,
-    "geom:area_square_m":4144273872.847675,
+    "geom:area_square_m":4144274544.116287,
     "geom:bbox":"102.529214,18.666735,103.444707,19.311546",
     "geom:latitude":18.976657,
     "geom:longitude":102.929457,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XS.XA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897725,
-    "wof:geomhash":"f72038aca5c4df893767bd44824f8b7c",
+    "wof:geomhash":"3fe5c17f141fea0f65130297b7f31da8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029997,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Xaisomboun",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374963,
-    "geom:area_square_m":4400493963.764515,
+    "geom:area_square_m":4400493677.860537,
     "geom:bbox":"104.543806,17.939884,105.259205,18.801476",
     "geom:latitude":18.35831,
     "geom:longitude":104.92151,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BL.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897752,
-    "wof:geomhash":"bfab835876022001a02e217cfd5b5bfa",
+    "wof:geomhash":"c847604b93fd24559560630b24b379aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030753,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Khamkeut",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

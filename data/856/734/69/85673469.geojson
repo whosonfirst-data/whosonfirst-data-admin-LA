@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.800841,
-    "geom:area_square_m":9573936181.344082,
+    "geom:area_square_m":9573935670.394714,
     "geom:bbox":"106.174621,14.292068,107.599227,15.291166",
     "geom:latitude":14.800395,
     "geom:longitude":106.947563,
@@ -312,16 +312,18 @@
         "gn:id":1665045,
         "gp:id":20070159,
         "hasc:id":"LA.AT",
+        "iso:code":"LA-AT",
         "iso:id":"LA-AT",
         "qs_pg:id":348938,
         "wd:id":"Q503004",
         "wk:page":"Attapeu Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d011f060db8e7247aa57dce92187437",
+    "wof:geomhash":"bbfdbbdc87a89f27ab7d690e53410339",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938491,
+    "wof:lastmodified":1695884519,
     "wof:name":"Attapeu",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

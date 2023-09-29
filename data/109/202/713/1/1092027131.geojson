@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897607,
     "wof:geomhash":"b94dfa5f1fd9507133d4672c2415bcf9",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092027131,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886780,
     "wof:name":"Keo-Oudom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

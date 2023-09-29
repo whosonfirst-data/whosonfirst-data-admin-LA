@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129676,
-    "geom:area_square_m":1554814179.289492,
+    "geom:area_square_m":1554814118.222735,
     "geom:bbox":"105.774864,13.90972,106.187886,14.492897",
     "geom:latitude":14.149167,
     "geom:longitude":105.957214,
@@ -99,9 +99,10 @@
         "hasc:id":"LA.CH.KH",
         "qs_pg:id":1210503
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1459008883,
-    "wof:geomhash":"8ab7fdc4fd91b1b123a07e974e5ba0c9",
+    "wof:geomhash":"f01a08100c3c1bffa940a47884fb0bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108411849,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Khong",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

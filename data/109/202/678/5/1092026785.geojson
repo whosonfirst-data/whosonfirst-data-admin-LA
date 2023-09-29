@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075874,
-    "geom:area_square_m":878929849.01251,
+    "geom:area_square_m":878929682.222541,
     "geom:bbox":"100.083872,20.24412,100.54804,20.667886",
     "geom:latitude":20.474577,
     "geom:longitude":100.249114,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BK.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897590,
-    "wof:geomhash":"46d2c603e754d68f6222338f76a03631",
+    "wof:geomhash":"f7e5cb88f3747806a39f6a7269305df3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026785,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886784,
     "wof:name":"Tonpheung",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

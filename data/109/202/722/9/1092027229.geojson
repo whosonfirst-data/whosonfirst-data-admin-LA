@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.XI.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897611,
     "wof:geomhash":"d307813250d0d30b0b78fb2ba9e55bc9",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092027229,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886780,
     "wof:name":"Khoun",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

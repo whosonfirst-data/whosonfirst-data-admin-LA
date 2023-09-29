@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.514192,
-    "geom:area_square_m":17562102477.817406,
+    "geom:area_square_m":17562101736.169487,
     "geom:bbox":"103.111778,19.609125,104.993292,20.978451",
     "geom:latitude":20.282405,
     "geom:longitude":104.015959,
@@ -336,17 +336,19 @@
         "gn:id":1657114,
         "gp:id":2346001,
         "hasc:id":"LA.HO",
+        "iso:code":"LA-HO",
         "iso:id":"LA-HO",
         "qs_pg:id":423790,
         "unlc:id":"LA-HO",
         "wd:id":"Q502997",
         "wk:page":"Houaphanh Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4b44770cf94b6397098a71023f73d64",
+    "wof:geomhash":"2266f708caa19d1c3b8eff495b822ad3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -361,7 +363,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938496,
+    "wof:lastmodified":1695884520,
     "wof:name":"Houaphan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

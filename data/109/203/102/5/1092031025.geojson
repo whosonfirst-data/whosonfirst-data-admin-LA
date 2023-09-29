@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061114,
-    "geom:area_square_m":723788837.061721,
+    "geom:area_square_m":723789062.16452,
     "geom:bbox":"105.169546,16.556085,105.515135,16.841963",
     "geom:latitude":16.705781,
     "geom:longitude":105.331457,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.AT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897762,
-    "wof:geomhash":"1e798876e4650c8d5dbff301a242c7ed",
+    "wof:geomhash":"50808fbaea5eabadaa05d673db6b6f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031025,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886777,
     "wof:name":"Atsaphangthong",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

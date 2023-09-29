@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076392,
-    "geom:area_square_m":910940835.206646,
+    "geom:area_square_m":910941166.800408,
     "geom:bbox":"105.467445,15.159047,105.990488,15.457894",
     "geom:latitude":15.342497,
     "geom:longitude":105.738187,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.CH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897761,
-    "wof:geomhash":"926956214f5117916f824021e608b0ca",
+    "wof:geomhash":"76ed29423e9b87c2c459ba9112935a18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030991,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xanasomboun",
     "wof:parent_id":85673423,
     "wof:placetype":"county",

@@ -291,10 +291,12 @@
         "gn:id":1904617,
         "gp:id":20070163,
         "hasc:id":"LA.BL",
+        "iso:code":"LA-BL",
         "qs_pg:id":202012,
         "wd:id":"Q2403514",
         "wk:page":"Bolikhamsai Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
@@ -314,7 +316,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1695884520,
     "wof:name":"Borikhamxai",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

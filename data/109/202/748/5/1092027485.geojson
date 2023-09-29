@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.XA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897622,
     "wof:geomhash":"afbf1a0771d320c70a44d8c275c2b2d9",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092027485,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886781,
     "wof:name":"Meun",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

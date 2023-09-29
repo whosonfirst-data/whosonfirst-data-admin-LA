@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10386,
-    "geom:area_square_m":1193337673.470018,
+    "geom:area_square_m":1193337104.064553,
     "geom:bbox":"101.725728,21.426769,102.028582,21.944534",
     "geom:latitude":21.687946,
     "geom:longitude":101.87515,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897764,
-    "wof:geomhash":"08fd38bd8ad8e091281678a65766e41e",
+    "wof:geomhash":"868c20f7ff815e668e724f4f8e05003f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031055,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Boun-Nua",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

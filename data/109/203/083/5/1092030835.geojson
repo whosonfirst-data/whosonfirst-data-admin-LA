@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180032,
-    "geom:area_square_m":2114010945.663102,
+    "geom:area_square_m":2114010621.628034,
     "geom:bbox":"103.888169,17.886698,104.543205,18.560061",
     "geom:latitude":18.26113,
     "geom:longitude":104.206296,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BL.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897755,
-    "wof:geomhash":"abbb4a3655773e7279f43adc4e963d94",
+    "wof:geomhash":"27a67fe0569e00d36b448b0366621c70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030835,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pakkading",
     "wof:parent_id":85673463,
     "wof:placetype":"county",

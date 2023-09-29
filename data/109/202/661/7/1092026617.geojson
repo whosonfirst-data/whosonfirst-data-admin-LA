@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248111,
-    "geom:area_square_m":2847468636.089633,
+    "geom:area_square_m":2847469071.045241,
     "geom:bbox":"101.937942,21.45157,102.450113,22.217216",
     "geom:latitude":21.852821,
     "geom:longitude":102.182637,
@@ -119,9 +119,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897584,
-    "wof:geomhash":"971df67d8b26d78116cbfa41061f3108",
+    "wof:geomhash":"895024cdde28a03b4121f01f4827501a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092026617,
-    "wof:lastmodified":1636495633,
+    "wof:lastmodified":1695886659,
     "wof:name":"Phongsali",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

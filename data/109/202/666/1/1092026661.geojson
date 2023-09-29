@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.279308,
-    "geom:area_square_m":3335745568.777898,
+    "geom:area_square_m":3335745049.796749,
     "geom:bbox":"106.776995,14.690737,107.599227,15.291166",
     "geom:latitude":15.016646,
     "geom:longitude":107.215998,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.AT.SX"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897585,
-    "wof:geomhash":"3d240327de6243a4dc159a598baa3cb6",
+    "wof:geomhash":"321683c468b37462ff3cd585642d063d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026661,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sanxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

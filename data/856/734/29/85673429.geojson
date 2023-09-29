@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.811217,
-    "geom:area_square_m":21467572096.662025,
+    "geom:area_square_m":21467571679.46508,
     "geom:bbox":"104.733283,15.876764,106.799749,17.121918",
     "geom:latitude":16.553256,
     "geom:longitude":105.706101,
@@ -307,17 +307,19 @@
         "gn:id":1653315,
         "gp:id":2346008,
         "hasc:id":"LA.SV",
+        "iso:code":"LA-SV",
         "iso:id":"LA-SV",
         "qs_pg:id":894915,
         "unlc:id":"LA-SV",
         "wd:id":"Q465940",
         "wk:page":"Savannakhet Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0edd4395a553d24c160793345e6a7fdf",
+    "wof:geomhash":"6d7e7984fc0ffb8cf19e440fe7555608",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938492,
+    "wof:lastmodified":1695884519,
     "wof:name":"Savannakh\u00e9t",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

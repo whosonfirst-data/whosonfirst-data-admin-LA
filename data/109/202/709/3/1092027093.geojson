@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.FE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897605,
     "wof:geomhash":"01491da83292d3eab5f07d93006aa339",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092027093,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886778,
     "wof:name":"Fuang",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

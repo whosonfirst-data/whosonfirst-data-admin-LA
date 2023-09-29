@@ -65,6 +65,7 @@
     "wof:concordances":{
         "hasc:id":"LA.AT.SN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897785,
     "wof:geomhash":"aa333cf43d2c9d446656dba54d4938bf",
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1175612899,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886783,
     "wof:name":"Sanamxai",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

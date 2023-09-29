@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171319,
-    "geom:area_square_m":1988244494.848839,
+    "geom:area_square_m":1988244954.330964,
     "geom:bbox":"101.588374,19.862269,102.203469,20.525867",
     "geom:latitude":20.187742,
     "geom:longitude":101.945142,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.OU.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897639,
-    "wof:geomhash":"c4e15e2d8f28200d828b10e2f18215ee",
+    "wof:geomhash":"fc65e34a10a681fff071f46967cab759",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027867,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886781,
     "wof:name":"Nga",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

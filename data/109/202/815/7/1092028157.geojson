@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05615,
-    "geom:area_square_m":659823114.176771,
+    "geom:area_square_m":659823127.219752,
     "geom:bbox":"102.849504,17.971238,103.153606,18.303179",
     "geom:latitude":18.131894,
     "geom:longitude":102.973404,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897654,
-    "wof:geomhash":"c4a57d6fbd9f02a7ea49b5e3b1ee4573",
+    "wof:geomhash":"26362d54078585e5540c2220e03f7713",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028157,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pak-Ngum",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

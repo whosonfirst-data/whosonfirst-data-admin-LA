@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372163,
-    "geom:area_square_m":4379775750.206015,
+    "geom:area_square_m":4379776204.681519,
     "geom:bbox":"104.778975,17.598179,105.762168,18.264766",
     "geom:latitude":17.872332,
     "geom:longitude":105.285302,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897753,
-    "wof:geomhash":"ee42e2fc25f58db986662ad2269a0381",
+    "wof:geomhash":"982f3b0c3f933333d2261a1cbfa8265f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030791,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886781,
     "wof:name":"Nakay",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

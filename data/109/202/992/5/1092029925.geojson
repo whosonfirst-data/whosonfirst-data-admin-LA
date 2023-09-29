@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011273,
-    "geom:area_square_m":132587644.991592,
+    "geom:area_square_m":132587384.844922,
     "geom:bbox":"102.620074,17.917319,102.780959,18.030417",
     "geom:latitude":17.97749,
     "geom:longitude":102.692645,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.XS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897722,
-    "wof:geomhash":"01e8edff72fb4732babf951f03d8b914",
+    "wof:geomhash":"b0ae0dae7a87cf1b54a8c4b2c5ddfe8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029925,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Xaisettha",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

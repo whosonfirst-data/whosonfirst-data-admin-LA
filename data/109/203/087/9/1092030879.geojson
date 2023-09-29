@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226791,
-    "geom:area_square_m":2607703288.604061,
+    "geom:area_square_m":2607702998.263845,
     "geom:bbox":"102.103848,21.194386,102.675289,22.110943",
     "geom:latitude":21.581554,
     "geom:longitude":102.405029,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897756,
-    "wof:geomhash":"2c1e27215ea6919ead8734f31fd49186",
+    "wof:geomhash":"c05bea543500c1303afe99e862db0e33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030879,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1695886783,
     "wof:name":"Samphan",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.253841,
-    "geom:area_square_m":2969959860.470575,
+    "geom:area_square_m":2969959963.088153,
     "geom:bbox":"101.223803,18.524465,101.729726,19.231927",
     "geom:latitude":18.876897,
     "geom:longitude":101.467779,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897784,
-    "wof:geomhash":"3adc807b359584f9aa97534e721e1ffa",
+    "wof:geomhash":"8d4b8ed59b24a8dd1708b9c6bd36d19b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031375,
-    "wof:lastmodified":1627522320,
+    "wof:lastmodified":1695886783,
     "wof:name":"Phiang",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

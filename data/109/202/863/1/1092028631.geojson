@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897672,
     "wof:geomhash":"b6a80bfa32701f004b798ce5e9965b34",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092028631,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886782,
     "wof:name":"Phonhong",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

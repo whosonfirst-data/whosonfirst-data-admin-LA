@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.XA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897730,
     "wof:geomhash":"a575a7bdc782347862ff0195bb9e3d70",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092030125,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xanakham",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

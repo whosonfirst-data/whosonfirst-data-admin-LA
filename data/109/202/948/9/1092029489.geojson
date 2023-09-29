@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897707,
     "wof:geomhash":"efd20d93cf5c26aa3a13e595668071a8",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092029489,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886785,
     "wof:name":"Viangkham",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

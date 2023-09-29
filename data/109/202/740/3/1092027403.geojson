@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072152,
-    "geom:area_square_m":839281217.884234,
+    "geom:area_square_m":839281732.782381,
     "geom:bbox":"101.807013,19.631599,102.460191,20.008221",
     "geom:latitude":19.827681,
     "geom:longitude":102.15601,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897619,
-    "wof:geomhash":"10b389cdb0759716d4143f77b67e9c71",
+    "wof:geomhash":"f71de29b06446451566f4d5dded488c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027403,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Luangprabang",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

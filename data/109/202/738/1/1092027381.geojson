@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108596,
-    "geom:area_square_m":1262687622.184303,
+    "geom:area_square_m":1262687138.262302,
     "geom:bbox":"101.724884,19.638491,102.242909,20.090854",
     "geom:latitude":19.892508,
     "geom:longitude":101.959673,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897617,
-    "wof:geomhash":"6072d719d9342daa7ea207a9621012d1",
+    "wof:geomhash":"8fc6ee1c6f4a7431a80c27d351538cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027381,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Chomphet",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

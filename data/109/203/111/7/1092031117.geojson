@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13379,
-    "geom:area_square_m":1577233259.227368,
+    "geom:area_square_m":1577233114.51937,
     "geom:bbox":"104.845796,17.389128,105.68493,17.695531",
     "geom:latitude":17.562124,
     "geom:longitude":105.261365,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897767,
-    "wof:geomhash":"ca61c28513ecc995fc9588210aebb9f7",
+    "wof:geomhash":"ce28efe60a90d4c93a0336a0fec301d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031117,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886779,
     "wof:name":"Gnommalat",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002089,
-    "geom:area_square_m":24568679.217288,
+    "geom:area_square_m":24568692.80407,
     "geom:bbox":"102.58645,17.953374,102.626439,18.040053",
     "geom:latitude":18.000474,
     "geom:longitude":102.609187,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897634,
-    "wof:geomhash":"dfaafb5ae13c8cebe636a03014cb780f",
+    "wof:geomhash":"98ad4c84a8ca41c9ab2f3f09ed8c54c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027747,
-    "wof:lastmodified":1627522315,
+    "wof:lastmodified":1695886778,
     "wof:name":"Chanthabouri",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

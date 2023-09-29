@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.XI.PX"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897783,
     "wof:geomhash":"b0ae15682342ff51883d25a1771c5ac5",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092031349,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886783,
     "wof:name":"Phaxai",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

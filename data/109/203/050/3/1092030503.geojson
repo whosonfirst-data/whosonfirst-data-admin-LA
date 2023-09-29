@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101999,
-    "geom:area_square_m":1187334602.148913,
+    "geom:area_square_m":1187334130.388912,
     "geom:bbox":"100.659465,19.487276,101.049042,19.90473",
     "geom:latitude":19.711393,
     "geom:longitude":100.831595,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.XI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897743,
-    "wof:geomhash":"22446d5e42d28e86f38f87a64c872bd4",
+    "wof:geomhash":"7e433a43124ce8f7a9db087ffa02305d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030503,
-    "wof:lastmodified":1627522314,
+    "wof:lastmodified":1695886777,
     "wof:name":"Xianghon",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

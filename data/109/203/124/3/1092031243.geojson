@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.XI.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897778,
     "wof:geomhash":"8d512920de7459f7fcfb7855d12fb05e",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092031243,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886782,
     "wof:name":"Nonghet",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

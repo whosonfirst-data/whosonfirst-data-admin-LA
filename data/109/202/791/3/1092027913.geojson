@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153357,
-    "geom:area_square_m":1769616081.600058,
+    "geom:area_square_m":1769616081.599958,
     "geom:bbox":"102.015503584,20.8303120354,102.746053869,21.2731120598",
     "geom:latitude":21.060835,
     "geom:longitude":102.368396,
@@ -113,9 +113,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897640,
-    "wof:geomhash":"48f0e249d01463628354de6033ab7c59",
+    "wof:geomhash":"fff3b2c5e1004c79ae67b4da0c3e89fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092027913,
-    "wof:lastmodified":1566593284,
+    "wof:lastmodified":1695886702,
     "wof:name":"Khoa",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053131,
-    "geom:area_square_m":630482597.256028,
+    "geom:area_square_m":630482766.426342,
     "geom:bbox":"106.732574,16.167595,107.071105,16.55023",
     "geom:latitude":16.32638,
     "geom:longitude":106.893418,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SL.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897676,
-    "wof:geomhash":"294a93f4abd643be75dbeb0f6c401ee8",
+    "wof:geomhash":"85bebe7028718508b3a15ad9af8fc9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028745,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1695886783,
     "wof:name":"Samouay",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

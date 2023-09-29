@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138801,
-    "geom:area_square_m":1616667736.576107,
+    "geom:area_square_m":1616667673.002789,
     "geom:bbox":"102.022089,19.369907,102.572875,19.852877",
     "geom:latitude":19.618216,
     "geom:longitude":102.247612,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.XI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897740,
-    "wof:geomhash":"f74ca4c385601778ef061ab9850159de",
+    "wof:geomhash":"dff76374f3cbd2a2e64bc37dd61dbde3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030413,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xiang-Ngeun",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

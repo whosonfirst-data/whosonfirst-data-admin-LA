@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259665,
-    "geom:area_square_m":3107527323.549831,
+    "geom:area_square_m":3107527176.194718,
     "geom:bbox":"106.557061,14.292068,107.541447,14.805081",
     "geom:latitude":14.571767,
     "geom:longitude":107.005349,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.AT.PH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897719,
-    "wof:geomhash":"91387a0ec6c680ac0fbb75326fb08852",
+    "wof:geomhash":"a2e056f8aa7e6e1f28b2412aefa717f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029819,
-    "wof:lastmodified":1627522321,
+    "wof:lastmodified":1695886783,
     "wof:name":"Phouvong",
     "wof:parent_id":85673469,
     "wof:placetype":"county",

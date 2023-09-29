@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107542,
-    "geom:area_square_m":1265739051.189907,
+    "geom:area_square_m":1265739424.351475,
     "geom:bbox":"101.109841,17.607697,101.573988,18.093495",
     "geom:latitude":17.85418,
     "geom:longitude":101.312893,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897749,
-    "wof:geomhash":"a2db56987ac4bb99671137d3c42ad4e2",
+    "wof:geomhash":"b4e2466faa9825f28cbc3a572da786fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030663,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Kenthao",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169485,
-    "geom:area_square_m":1961817850.62368,
+    "geom:area_square_m":1961817602.982648,
     "geom:bbox":"102.139237,20.24035,102.654837,20.948111",
     "geom:latitude":20.591025,
     "geom:longitude":102.390844,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.NM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897631,
-    "wof:geomhash":"318ebb782c9a342eca736190a32ac6f0",
+    "wof:geomhash":"bf339514d7ef4f64225d71b36f53af95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027683,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886781,
     "wof:name":"Nambak",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

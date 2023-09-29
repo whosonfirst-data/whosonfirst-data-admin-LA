@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185065,
-    "geom:area_square_m":2141031434.207533,
+    "geom:area_square_m":2141031207.344411,
     "geom:bbox":"101.549769,20.479937,102.346068,20.993395",
     "geom:latitude":20.672247,
     "geom:longitude":101.953154,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.OU.XA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897716,
-    "wof:geomhash":"a1cd3c9a929e5f0f27c8e407b7b31bce",
+    "wof:geomhash":"ec57c8263b9f59cfcab7119e7d7970f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029739,
-    "wof:lastmodified":1627522316,
+    "wof:lastmodified":1695886779,
     "wof:name":"Xai",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

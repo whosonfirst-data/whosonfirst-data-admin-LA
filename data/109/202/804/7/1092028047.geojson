@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089688,
-    "geom:area_square_m":1061860690.597603,
+    "geom:area_square_m":1061860344.855135,
     "geom:bbox":"104.869364,16.548463,105.191469,16.961255",
     "geom:latitude":16.766449,
     "geom:longitude":105.041044,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897650,
-    "wof:geomhash":"d0208b60038d03f8b4b2d1790c58be18",
+    "wof:geomhash":"289d6f1077be39a77b60456c181ef25f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028047,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886781,
     "wof:name":"Outhoumphon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

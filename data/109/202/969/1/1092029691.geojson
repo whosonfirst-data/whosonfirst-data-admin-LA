@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.149889,
-    "geom:area_square_m":1772988478.336271,
+    "geom:area_square_m":1772988439.765875,
     "geom:bbox":"105.637392,16.716985,106.333113,17.121918",
     "geom:latitude":16.940322,
     "geom:longitude":105.931556,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897715,
-    "wof:geomhash":"afa4aa34cf025b5e379d10ba8aa8f676",
+    "wof:geomhash":"daec5894ff1c5049438ed1f4a80d32ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029691,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Vilabouri",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

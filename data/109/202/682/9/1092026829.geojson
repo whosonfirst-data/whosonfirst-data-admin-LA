@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.340773,
-    "geom:area_square_m":3961180659.303534,
+    "geom:area_square_m":3961180722.453322,
     "geom:bbox":"104.13235,19.609125,104.993292,20.23121",
     "geom:latitude":19.93672,
     "geom:longitude":104.534208,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.XT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897591,
-    "wof:geomhash":"e9316d5721a1c2aa6152a6c95a839d05",
+    "wof:geomhash":"20fb361dd3c45a916a0305788301b54e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026829,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xam-Tai",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

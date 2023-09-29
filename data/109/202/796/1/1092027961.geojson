@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245863,
-    "geom:area_square_m":2843440916.586454,
+    "geom:area_square_m":2843441001.737818,
     "geom:bbox":"102.409311,20.299045,103.070423,21.134255",
     "geom:latitude":20.722487,
     "geom:longitude":102.748287,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897641,
-    "wof:geomhash":"c982b90c3c87a780d681d3c30cea5fe7",
+    "wof:geomhash":"2aecbe3f5931b7a5545b6f264b487049",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027961,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886781,
     "wof:name":"Ngoy",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

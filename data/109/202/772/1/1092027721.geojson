@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120206,
-    "geom:area_square_m":1401973287.92061,
+    "geom:area_square_m":1401973691.747234,
     "geom:bbox":"101.797081,19.04826,102.147609,19.656697",
     "geom:latitude":19.399376,
     "geom:longitude":101.938064,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.NN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897632,
-    "wof:geomhash":"c2f09e9d6a24918190e78a7cc2459b3f",
+    "wof:geomhash":"f767385ca1bd7deb2dcac29baa255ace",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092027721,
-    "wof:lastmodified":1636495634,
+    "wof:lastmodified":1695886659,
     "wof:name":"Nan",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

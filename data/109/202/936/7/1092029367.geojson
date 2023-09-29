@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897702,
     "wof:geomhash":"9e654034a619c4361ec07bd5f8f9eb57",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092029367,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886784,
     "wof:name":"Vangvieng",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

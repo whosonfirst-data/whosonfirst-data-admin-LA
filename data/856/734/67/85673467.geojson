@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.426769,
-    "geom:area_square_m":16818745437.993938,
+    "geom:area_square_m":16818745786.707184,
     "geom:bbox":"104.264122,16.903298,106.431929,18.264766",
     "geom:latitude":17.572553,
     "geom:longitude":105.257733,
@@ -305,17 +305,19 @@
         "gn:id":1656538,
         "gp:id":20070161,
         "hasc:id":"LA.KH",
+        "iso:code":"LA-KH",
         "iso:id":"LA-KH",
         "qs_pg:id":1149779,
         "unlc:id":"LA-KH",
         "wd:id":"Q506641",
         "wk:page":"Khammouane Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"355da8e3773fdc690c25f898cc225f0a",
+    "wof:geomhash":"95e1c4f3d40d5383e648b9ef00c54c69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938492,
+    "wof:lastmodified":1695884803,
     "wof:name":"Khammouan",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

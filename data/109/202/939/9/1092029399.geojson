@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06698,
-    "geom:area_square_m":797912462.804706,
+    "geom:area_square_m":797912435.479224,
     "geom:bbox":"105.592637,15.431168,105.953315,15.688761",
     "geom:latitude":15.547247,
     "geom:longitude":105.769312,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SL.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897704,
-    "wof:geomhash":"6542f13acad6aa277cf65e617526b769",
+    "wof:geomhash":"8fb3b2a4f0ba708b07f13d9cab583214",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029399,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Khongxedon",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

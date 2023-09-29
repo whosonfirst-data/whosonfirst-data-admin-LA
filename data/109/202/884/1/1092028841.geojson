@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060389,
-    "geom:area_square_m":709076642.759234,
+    "geom:area_square_m":709076532.863676,
     "geom:bbox":"102.01308,18.045421,102.345645,18.436352",
     "geom:latitude":18.269835,
     "geom:longitude":102.16917,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897681,
-    "wof:geomhash":"b7809f94a1d889e1c0094da059f3fdd3",
+    "wof:geomhash":"fec1b35ffc8afc40b41cb052a3c338ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028841,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sangthong",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

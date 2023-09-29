@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178933,
-    "geom:area_square_m":2125863896.39816,
+    "geom:area_square_m":2125864443.108352,
     "geom:bbox":"105.510956,15.876764,106.142643,16.319563",
     "geom:latitude":16.090682,
     "geom:longitude":105.805281,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.TT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897695,
-    "wof:geomhash":"1c925baff08f37c6efbf7409956b945f",
+    "wof:geomhash":"74730aec6eee021db2cb9dda1128e1c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029171,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886784,
     "wof:name":"Thapangthong",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

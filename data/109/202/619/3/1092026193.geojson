@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263775,
-    "geom:area_square_m":3019754878.82998,
+    "geom:area_square_m":3019754910.484845,
     "geom:bbox":"101.537844,21.882173,102.279429,22.502872",
     "geom:latitude":22.2041,
     "geom:longitude":101.869609,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.PH.NH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897569,
-    "wof:geomhash":"a94dd45e4aab7291957a5b10a40f6a9e",
+    "wof:geomhash":"66574723fc5f22987f47a10db74ceb2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026193,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886785,
     "wof:name":"Gnot-Ou",
     "wof:parent_id":85673459,
     "wof:placetype":"county",

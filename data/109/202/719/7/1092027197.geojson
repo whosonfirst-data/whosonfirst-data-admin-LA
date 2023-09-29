@@ -130,6 +130,7 @@
     "wof:concordances":{
         "hasc:id":"LA.XI.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897610,
     "wof:geomhash":"6ebb5badeec16a55e6333d1b3e48848a",
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1092027197,
-    "wof:lastmodified":1694492373,
+    "wof:lastmodified":1695886703,
     "wof:name":"Kham",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

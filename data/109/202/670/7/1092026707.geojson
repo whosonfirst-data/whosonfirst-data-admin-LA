@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116284,
-    "geom:area_square_m":1381104334.254001,
+    "geom:area_square_m":1381104179.423715,
     "geom:bbox":"105.021296,15.968883,105.572423,16.335469",
     "geom:latitude":16.153301,
     "geom:longitude":105.311877,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897587,
-    "wof:geomhash":"5c43eddd0d7da52b4061b5e470d4dcc8",
+    "wof:geomhash":"92e11b1d878a8397a5abda8903c44d6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026707,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Songkhon",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

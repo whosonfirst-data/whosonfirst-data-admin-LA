@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098768,
-    "geom:area_square_m":1148001817.123334,
+    "geom:area_square_m":1148002417.708666,
     "geom:bbox":"100.731161,19.81696,101.430654,20.137787",
     "geom:latitude":19.948674,
     "geom:longitude":101.067701,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"LA.OU.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897657,
-    "wof:geomhash":"740dcd96dcc6050653207b57f50d6cee",
+    "wof:geomhash":"61f3e07f29759e09340517773f944e26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1092028245,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886782,
     "wof:name":"Pakbeng",
     "wof:parent_id":85673453,
     "wof:placetype":"county",

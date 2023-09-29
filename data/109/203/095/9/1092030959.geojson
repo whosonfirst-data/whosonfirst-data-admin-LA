@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049848,
-    "geom:area_square_m":591457309.678695,
+    "geom:area_square_m":591457255.695724,
     "geom:bbox":"104.861404,16.171386,105.164563,16.503879",
     "geom:latitude":16.349301,
     "geom:longitude":105.017834,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SV.XP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897759,
-    "wof:geomhash":"2abde01a8a348129363ea2e8db2b060d",
+    "wof:geomhash":"fe1e142f50d7cb256036cfa395983db1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030959,
-    "wof:lastmodified":1627522324,
+    "wof:lastmodified":1695886785,
     "wof:name":"Xaiphouthong",
     "wof:parent_id":85673429,
     "wof:placetype":"county",

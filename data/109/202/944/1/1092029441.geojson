@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081486,
-    "geom:area_square_m":969738257.843622,
+    "geom:area_square_m":969738257.843847,
     "geom:bbox":"105.787529733,15.5492617842,106.120930211,15.9662300737",
     "geom:latitude":15.754948,
     "geom:longitude":105.96359,
@@ -134,9 +134,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SL.VA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897705,
-    "wof:geomhash":"d7672ad2ab577940a75bc84afddf8761",
+    "wof:geomhash":"096f0f919c091ba617f9fd14e94562d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1092029441,
-    "wof:lastmodified":1566593302,
+    "wof:lastmodified":1695886703,
     "wof:name":"Vapi",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

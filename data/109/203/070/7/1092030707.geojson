@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138036,
-    "geom:area_square_m":1596896801.827988,
+    "geom:area_square_m":1596896967.793046,
     "geom:bbox":"100.197372,20.478847,100.841797,20.8466",
     "geom:latitude":20.677087,
     "geom:longitude":100.529386,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.BK.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897750,
-    "wof:geomhash":"e095d461bb0b9e9b5ac4094b9ff86c98",
+    "wof:geomhash":"3416e7450bec614b1ac85008315cd5c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030707,
-    "wof:lastmodified":1627522318,
+    "wof:lastmodified":1695886781,
     "wof:name":"Meung",
     "wof:parent_id":85673409,
     "wof:placetype":"county",

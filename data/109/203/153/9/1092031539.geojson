@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045649,
-    "geom:area_square_m":544100910.697216,
+    "geom:area_square_m":544101224.62211,
     "geom:bbox":"106.301509,15.314354,106.630943,15.548836",
     "geom:latitude":15.435986,
     "geom:longitude":106.483321,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XE.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897790,
-    "wof:geomhash":"493b90739f7166f5a3fe6765e193c60c",
+    "wof:geomhash":"3557ec7ecbbec9650ae61e223c96c6ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031539,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886785,
     "wof:name":"Thateng",
     "wof:parent_id":85673473,
     "wof:placetype":"county",

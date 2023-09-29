@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107811,
-    "geom:area_square_m":1282538648.379086,
+    "geom:area_square_m":1282538567.668317,
     "geom:bbox":"105.342227,15.643511,105.85897,16.000862",
     "geom:latitude":15.830902,
     "geom:longitude":105.600823,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.SL.LK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897693,
-    "wof:geomhash":"39c97cdad76e2ff9d37647a1060dfa3c",
+    "wof:geomhash":"5de98d58216be51df0787a8257d45a53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092029135,
-    "wof:lastmodified":1627522317,
+    "wof:lastmodified":1695886780,
     "wof:name":"Lakhonpheng",
     "wof:parent_id":85673427,
     "wof:placetype":"county",

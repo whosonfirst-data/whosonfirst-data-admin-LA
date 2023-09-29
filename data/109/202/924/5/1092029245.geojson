@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.VI.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897698,
     "wof:geomhash":"85bd8636341fe7845663c3f9d2979cee",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092029245,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886784,
     "wof:name":"Thoulakhom",
     "wof:parent_id":85673437,
     "wof:placetype":"county",

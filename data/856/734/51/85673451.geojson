@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.712723,
-    "geom:area_square_m":19884688161.114811,
+    "geom:area_square_m":19884689066.50037,
     "geom:bbox":"101.724884,19.04826,103.38776,21.134255",
     "geom:latitude":20.122969,
     "geom:longitude":102.546712,
@@ -293,16 +293,18 @@
         "gn:id":1655558,
         "gp:id":2346004,
         "hasc:id":"LA.LP",
+        "iso:code":"LA-LP",
         "iso:id":"LA-LP",
         "qs_pg:id":894913,
         "wd:id":"Q747881",
         "wk:page":"Luang Prabang Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0640a19b48c91d8d54d174cc4ff4d7dc",
+    "wof:geomhash":"2fd69efa5f039603954ccfdf8bb1cb4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938491,
+    "wof:lastmodified":1695884519,
     "wof:name":"Luangphrabang",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

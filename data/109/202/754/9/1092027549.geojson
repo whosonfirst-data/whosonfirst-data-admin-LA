@@ -58,6 +58,7 @@
     "wof:concordances":{
         "hasc:id":"LA.XI.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897625,
     "wof:geomhash":"8d380572a5cc7c2d924f3ed8083cb749",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1092027549,
-    "wof:lastmodified":1694492704,
+    "wof:lastmodified":1695886781,
     "wof:name":"Mokmai",
     "wof:parent_id":85673441,
     "wof:placetype":"county",

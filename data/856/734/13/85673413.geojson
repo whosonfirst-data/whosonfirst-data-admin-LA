@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.830214,
-    "geom:area_square_m":9590580440.765633,
+    "geom:area_square_m":9590581242.94059,
     "geom:bbox":"100.509212,20.304753,101.773536,21.564628",
     "geom:latitude":20.894125,
     "geom:longitude":101.14116,
@@ -314,16 +314,18 @@
         "gn:id":1655561,
         "gp:id":2346003,
         "hasc:id":"LA.LM",
+        "iso:code":"LA-LM",
         "iso:id":"LA-LM",
         "qs_pg:id":1135128,
         "unlc:id":"LA-LM",
         "wd:id":"Q948691"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e62f3611564804983bff06cea8630cc",
+    "wof:geomhash":"b2034e84036b3fe319e1af5f5c5aa5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938496,
+    "wof:lastmodified":1695884803,
     "wof:name":"Louang Namtha",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

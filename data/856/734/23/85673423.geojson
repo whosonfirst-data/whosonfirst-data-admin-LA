@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.255918,
-    "geom:area_square_m":15015744953.468338,
+    "geom:area_square_m":15015744812.498365,
     "geom:bbox":"105.205587,13.90972,106.827767,15.470085",
     "geom:latitude":14.775882,
     "geom:longitude":105.9608,
@@ -321,16 +321,18 @@
         "gn:id":1657818,
         "gp:id":20070160,
         "hasc:id":"LA.CH",
+        "iso:code":"LA-CH",
         "iso:id":"LA-CH",
         "qs_pg:id":348939,
         "wd:id":"Q334888",
         "wk:page":"Champasak Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e09f1571913bd63e97327f67f03d296b",
+    "wof:geomhash":"e1324fe630fbb643fd8454f6be9745be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +347,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1690938495,
+    "wof:lastmodified":1695884803,
     "wof:name":"Champasak",
     "wof:parent_id":85632241,
     "wof:placetype":"region",

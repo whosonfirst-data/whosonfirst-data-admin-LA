@@ -1182,6 +1182,7 @@
         "hasc:id":"LA",
         "icao:code":"RDPL",
         "ioc:id":"LAO",
+        "iso:code":"LA",
         "itu:id":"LAO",
         "m49:code":"418",
         "marc:id":"ls",
@@ -1195,6 +1196,7 @@
         "wk:page":"Laos",
         "wmo:id":"LA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LA",
     "wof:country_alpha3":"LAO",
     "wof:geom_alt":[
@@ -1216,7 +1218,7 @@
     "wof:lang_x_spoken":[
         "lao"
     ],
-    "wof:lastmodified":1694639510,
+    "wof:lastmodified":1695881165,
     "wof:name":"Laos",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

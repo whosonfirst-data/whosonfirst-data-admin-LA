@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077217,
-    "geom:area_square_m":907200241.770779,
+    "geom:area_square_m":907199748.553502,
     "geom:bbox":"102.258326,18.026125,102.620262,18.336492",
     "geom:latitude":18.168597,
     "geom:longitude":102.431699,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897636,
-    "wof:geomhash":"47ac017769d94fa717113c0a508d3f8e",
+    "wof:geomhash":"7eda816d1e4dc61bcf9d35add87d82fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092027795,
-    "wof:lastmodified":1627522319,
+    "wof:lastmodified":1695886781,
     "wof:name":"Naxaythong",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

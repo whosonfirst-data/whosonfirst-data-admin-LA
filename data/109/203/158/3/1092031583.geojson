@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285261,
-    "geom:area_square_m":3304187526.710698,
+    "geom:area_square_m":3304188363.826039,
     "geom:bbox":"102.770976,20.022568,103.38776,20.984808",
     "geom:latitude":20.487066,
     "geom:longitude":103.038271,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.LP.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897791,
-    "wof:geomhash":"eafb6c07d74568afb9471e4c299ceaa6",
+    "wof:geomhash":"d68dd524f971e117e5a24ab936d22dc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092031583,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886785,
     "wof:name":"Viangkham",
     "wof:parent_id":85673451,
     "wof:placetype":"county",

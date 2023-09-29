@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012548,
-    "geom:area_square_m":147556849.227235,
+    "geom:area_square_m":147557174.258422,
     "geom:bbox":"102.367242,17.960092,102.608302,18.039376",
     "geom:latitude":18.002616,
     "geom:longitude":102.498187,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.VT.SK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897686,
-    "wof:geomhash":"777dfbc7ef671fb6db87608ee9630ef6",
+    "wof:geomhash":"2f656854865094429771daf63d417391",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092028953,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sikhottabong",
     "wof:parent_id":85673433,
     "wof:placetype":"county",

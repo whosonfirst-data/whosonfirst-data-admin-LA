@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085063,
-    "geom:area_square_m":1002090658.879427,
+    "geom:area_square_m":1002090658.879053,
     "geom:bbox":"100.965009,17.466021,101.273987324,17.9489354574",
     "geom:latitude":17.687921,
     "geom:longitude":101.111334,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897571,
-    "wof:geomhash":"ed516c4c7828572358daa7a2b16a4f34",
+    "wof:geomhash":"9cdce3ea4d3d93908ee04f8fa45195ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092026237,
-    "wof:lastmodified":1566593296,
+    "wof:lastmodified":1695886702,
     "wof:name":"Boten",
     "wof:parent_id":85673417,
     "wof:placetype":"county",

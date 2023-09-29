@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079868,
-    "geom:area_square_m":943541314.983206,
+    "geom:area_square_m":943541395.371084,
     "geom:bbox":"104.881979,17.047542,105.360722,17.379673",
     "geom:latitude":17.176496,
     "geom:longitude":105.116522,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.KH.XE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897737,
-    "wof:geomhash":"08c9abcb18ff337d9f77915d066f6568",
+    "wof:geomhash":"06151a44cc99c46369765650b8c48c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030339,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Xebangfai",
     "wof:parent_id":85673467,
     "wof:placetype":"county",

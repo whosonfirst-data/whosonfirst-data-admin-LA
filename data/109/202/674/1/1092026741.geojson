@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088769,
-    "geom:area_square_m":1027232537.926426,
+    "geom:area_square_m":1027232422.7807,
     "geom:bbox":"104.13291,20.469147,104.640016,20.822343",
     "geom:latitude":20.634044,
     "geom:longitude":104.393915,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.HO.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897588,
-    "wof:geomhash":"b2dca063b0534df6f04cc9a56fcde2a1",
+    "wof:geomhash":"6d80191f9f1cfedf1f0fd236a22d47b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092026741,
-    "wof:lastmodified":1627522322,
+    "wof:lastmodified":1695886784,
     "wof:name":"Sopbao",
     "wof:parent_id":85673447,
     "wof:placetype":"county",

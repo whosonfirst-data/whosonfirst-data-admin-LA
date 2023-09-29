@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074583,
-    "geom:area_square_m":874806843.184084,
+    "geom:area_square_m":874806878.244872,
     "geom:bbox":"101.052418,18.21657,101.403195,18.632233",
     "geom:latitude":18.453633,
     "geom:longitude":101.228121,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"LA.XA.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LA",
     "wof:created":1473897744,
-    "wof:geomhash":"c2106d911e65e0e9cdca04c0025b76e8",
+    "wof:geomhash":"bdbb7484b159de5a16059aca9a8e3093",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092030537,
-    "wof:lastmodified":1627522323,
+    "wof:lastmodified":1695886785,
     "wof:name":"Thongmixai",
     "wof:parent_id":85673417,
     "wof:placetype":"county",
