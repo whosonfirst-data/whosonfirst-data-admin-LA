@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1663608
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1956616
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"ee1529cb11c095409781a1556973aa5d",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1243526083,
-    "wof:lastmodified":1566593372,
+    "wof:lastmodified":1706240337,
     "wof:name":"Ban Houaysaou",
     "wof:parent_id":1092028407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327197675
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1660792
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1952791
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"2d06bbb8f91ad30633ba4e8ac9c76592",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1242885757,
-    "wof:lastmodified":1566593384,
+    "wof:lastmodified":1706240337,
     "wof:name":"Ban Nongkham",
     "wof:parent_id":1092026829,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343269263
+    ],
     "wof:tags":[]
 },
   "bbox": [

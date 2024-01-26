@@ -29,6 +29,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:lao_x_preferred":[
+        "Ban Ng\u00f4y"
+    ],
+    "name:und_x_variant":[
+        "Ban Ngoi",
+        "Ban Nangoy"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632241
@@ -36,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1952154
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1661336
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"aecad514bbe5195c0b7311970efcfa18",
@@ -46,13 +58,15 @@
         }
     ],
     "wof:id":1209486271,
-    "wof:lastmodified":1566592947,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Ngoy",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292984455
+    ],
     "wof:tags":[]
 },
   "bbox": [

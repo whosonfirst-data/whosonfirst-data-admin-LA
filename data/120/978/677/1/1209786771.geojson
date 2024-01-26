@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1660288
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1952398
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"ee9b326200a44701fa9e82a3acecf4ea",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1209786771,
-    "wof:lastmodified":1566592962,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Phai",
     "wof:parent_id":1092027197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326913675
+    ],
     "wof:tags":[]
 },
   "bbox": [

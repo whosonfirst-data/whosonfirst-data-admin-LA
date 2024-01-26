@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1663767
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1952317
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"b4e642e186e6a0f930420304ed8d5f94",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1276531449,
-    "wof:lastmodified":1566592906,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Houaychalot",
     "wof:parent_id":1092030635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326813837
+    ],
     "wof:tags":[]
 },
   "bbox": [

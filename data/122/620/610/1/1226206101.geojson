@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1663858
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1956761
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"6f1226d0a4fd5ebd132d3e6efacadda2",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226206101,
-    "wof:lastmodified":1566593631,
+    "wof:lastmodified":1706240335,
     "wof:name":"Ban Siphonhom",
     "wof:parent_id":1092028205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326706571
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:lao_x_preferred":[
+        "Ban Khounsouklouang"
+    ],
+    "name:und_x_variant":[
+        "Khun Suc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1954078
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1656253
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"81befebf7b5cf9d4907716895512684d",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1293759589,
-    "wof:lastmodified":1566592777,
+    "wof:lastmodified":1706240340,
     "wof:name":"Ban Khounsouklouang",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327100667
+    ],
     "wof:tags":[]
 },
   "bbox": [

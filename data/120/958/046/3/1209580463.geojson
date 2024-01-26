@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":11259467
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11259463
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"0bdd38a565b055f521d81369707b3495",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209580463,
-    "wof:lastmodified":1566592990,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Phon",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242642221
+    ],
     "wof:tags":[]
 },
   "bbox": [

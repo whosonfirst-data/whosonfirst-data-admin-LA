@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:lao_x_preferred":[
+        "Ban V\u00e8k"
+    ],
+    "name:und_x_variant":[
+        "Ban Houei V\u00eark"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1954181
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1663496
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"a71ff81295ef36fac4db3fbffb459992",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1276764445,
-    "wof:lastmodified":1566592864,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Vek",
     "wof:parent_id":1092030635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326732289
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1655226
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1955389
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"4bce2c0ea5fa7f075fe1ca4a177daa3e",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1259891659,
-    "wof:lastmodified":1566593586,
+    "wof:lastmodified":1706240338,
     "wof:name":"Ban Muangdung",
     "wof:parent_id":1092026741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344159047
+    ],
     "wof:tags":[]
 },
   "bbox": [

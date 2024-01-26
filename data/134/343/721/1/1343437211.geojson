@@ -29,6 +29,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ban S\u00f4mch\u00e8k",
+        "Ban Sop Ti\u00e8k"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1956602
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1659059
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"3672c21ca5cbf59dc30d4f629b983ef6",
@@ -52,13 +61,15 @@
         }
     ],
     "wof:id":1343437211,
-    "wof:lastmodified":1566592622,
+    "wof:lastmodified":1706240341,
     "wof:name":"Ban Somchek",
     "wof:parent_id":1092028407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360256597
+    ],
     "wof:tags":[]
 },
   "bbox": [

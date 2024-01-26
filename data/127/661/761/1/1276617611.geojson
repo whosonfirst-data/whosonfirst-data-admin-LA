@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1654969
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1954536
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"a67cb436dd80311933ad7e57acbc9f2e",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1276617611,
-    "wof:lastmodified":1566592839,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Douan-Nua",
     "wof:parent_id":1092027683,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310664289
+    ],
     "wof:tags":[]
 },
   "bbox": [

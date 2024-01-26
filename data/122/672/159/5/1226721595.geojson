@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1662529
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1956736
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"de890391466ddc45905ba54718725ede",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226721595,
-    "wof:lastmodified":1566593607,
+    "wof:lastmodified":1706240336,
     "wof:name":"Ban Kok",
     "wof:parent_id":1092028205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260258983
+    ],
     "wof:tags":[]
 },
   "bbox": [

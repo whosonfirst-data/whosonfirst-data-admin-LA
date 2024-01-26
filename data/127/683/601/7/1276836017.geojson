@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1655600
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1955277
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"2cc9862cc4d2710e3fbba905af5aa8d3",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1276836017,
-    "wof:lastmodified":1566592884,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Lophagna",
     "wof:parent_id":1092026617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276836073
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1662287
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1906972
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"16817c73bbe2b98f8037c8fe877eec77",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1260149405,
-    "wof:lastmodified":1566593092,
+    "wof:lastmodified":1706240338,
     "wof:name":"Ban Mai-Muangkhon",
     "wof:parent_id":1092030707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292957291
+    ],
     "wof:tags":[]
 },
   "bbox": [

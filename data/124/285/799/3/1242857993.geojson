@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1663072
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953216
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"6de8f0eed90bd6493184e2e4f04e746b",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242857993,
-    "wof:lastmodified":1566593471,
+    "wof:lastmodified":1706240336,
     "wof:name":"Ban Nongkang",
     "wof:parent_id":1092029955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360059159
+    ],
     "wof:tags":[]
 },
   "bbox": [

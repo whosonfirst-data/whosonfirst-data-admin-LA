@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Ban Muoi",
+        "Ban Muay",
+        "Ban Nameui"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1952097
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1662158
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"bc14781a984595e1f467d5ef2d0f47ec",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1243428185,
-    "wof:lastmodified":1566593494,
+    "wof:lastmodified":1706240337,
     "wof:name":"Ban Nameui",
     "wof:parent_id":1092029955,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293767089
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1655038
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1956017
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"5c10d04628d89e1683219c638b9eb64c",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259790971,
-    "wof:lastmodified":1566593540,
+    "wof:lastmodified":1706240338,
     "wof:name":"Ban Nakhang",
     "wof:parent_id":1092026965,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327243003
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1664241
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953149
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"9e64c43704a9e994fde051d19e75b23a",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259559939,
-    "wof:lastmodified":1566593531,
+    "wof:lastmodified":1706240338,
     "wof:name":"Ban Hai",
     "wof:parent_id":1092030503,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310580503
+    ],
     "wof:tags":[]
 },
   "bbox": [

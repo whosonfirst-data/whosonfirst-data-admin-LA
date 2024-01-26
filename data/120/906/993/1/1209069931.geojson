@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1665035
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1954477
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"882126b4a5a48eb7baa82b9183a02180",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209069931,
-    "wof:lastmodified":1566592932,
+    "wof:lastmodified":1706240333,
     "wof:name":"Ban Phagnom",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242837951
+    ],
     "wof:tags":[]
 },
   "bbox": [

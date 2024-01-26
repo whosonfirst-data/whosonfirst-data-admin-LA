@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1660122
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953086
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"88ca1f78af9e972fc2081d9144f8fa05",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1276612237,
-    "wof:lastmodified":1566592839,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Phang",
     "wof:parent_id":1092028549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326686369
+    ],
     "wof:tags":[]
 },
   "bbox": [
