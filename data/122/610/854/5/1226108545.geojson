@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1652659
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1955110
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"7ea72a00fe224ae35d2a66e616149297",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226108545,
-    "wof:lastmodified":1566593620,
+    "wof:lastmodified":1706240335,
     "wof:name":"Ban Tanha",
     "wof:parent_id":1092027913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259446143
+    ],
     "wof:tags":[]
 },
   "bbox": [

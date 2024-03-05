@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1658573
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1954268
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"2cb8b3654296e97d5fb6823384a045cd",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226221241,
-    "wof:lastmodified":1566593686,
+    "wof:lastmodified":1706240335,
     "wof:name":"Ban That",
     "wof:parent_id":1092027197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344130575
+    ],
     "wof:tags":[]
 },
   "bbox": [

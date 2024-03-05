@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1658978
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953071
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"54edacdb08f14ec6398aa199683c13c0",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209272923,
-    "wof:lastmodified":1566593003,
+    "wof:lastmodified":1706240333,
     "wof:name":"Ban Takon",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360243441
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -42,6 +42,11 @@
     "wof:concordances":{
         "gn:id":1659714
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1954754
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"5d1bd2d487ec508c1b489005de083df2",
     "wof:hierarchy":[
@@ -51,13 +56,15 @@
         }
     ],
     "wof:id":1209682003,
-    "wof:lastmodified":1566592978,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Phagnalat",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310071835
+    ],
     "wof:tags":[]
 },
   "bbox": [

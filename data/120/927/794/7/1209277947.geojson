@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:lao_x_preferred":[
+        "Ban Houana"
+    ],
+    "name:und_x_variant":[
+        "Ban Hua Na"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632241
@@ -36,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1955562
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1663481
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"7f250f6c13959da8d661fd4a1e43f918",
@@ -46,13 +57,15 @@
         }
     ],
     "wof:id":1209277947,
-    "wof:lastmodified":1566593004,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Houana",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226518589
+    ],
     "wof:tags":[]
 },
   "bbox": [

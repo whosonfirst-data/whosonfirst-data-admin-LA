@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":11214347
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11226054
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"1166720f5d1fc2f4efc7db5c62bda9a4",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209489817,
-    "wof:lastmodified":1566592949,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Vanghin",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293352287
+    ],
     "wof:tags":[]
 },
   "bbox": [

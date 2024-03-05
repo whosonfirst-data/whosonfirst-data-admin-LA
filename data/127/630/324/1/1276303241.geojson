@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1664328
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953150
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"7babae161be3a19e852ac084816dc3c3",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1276303241,
-    "wof:lastmodified":1566592895,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Fay",
     "wof:parent_id":1092027197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343736079
+    ],
     "wof:tags":[]
 },
   "bbox": [

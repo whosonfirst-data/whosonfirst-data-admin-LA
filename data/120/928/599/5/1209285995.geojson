@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1663697
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1957152
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"025f88413d0e02879e863c5abb9394b0",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209285995,
-    "wof:lastmodified":1566593030,
+    "wof:lastmodified":1706240334,
     "wof:name":"Ban Houaynok",
     "wof:parent_id":85632241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277038569
+    ],
     "wof:tags":[]
 },
   "bbox": [

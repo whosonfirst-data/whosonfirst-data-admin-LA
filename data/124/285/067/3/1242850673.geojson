@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1658787
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1956612
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"a719f4aa2568f009e1fd5fb0d8901aac",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1242850673,
-    "wof:lastmodified":1566593473,
+    "wof:lastmodified":1706240336,
     "wof:name":"Ban Houaython",
     "wof:parent_id":1092028407,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260361065
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1656172
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1955239
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"92b7bd81fc336332fba8c146f5469010",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1226621921,
-    "wof:lastmodified":1566593724,
+    "wof:lastmodified":1706240336,
     "wof:name":"Ban Kokngiou",
     "wof:parent_id":1092026481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259458655
+    ],
     "wof:tags":[]
 },
   "bbox": [

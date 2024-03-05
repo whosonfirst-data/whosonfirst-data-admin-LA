@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1660231
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1941759
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"6b935d6ae04e8910a078a4f58ed7bb00",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1260056467,
-    "wof:lastmodified":1566593132,
+    "wof:lastmodified":1706240338,
     "wof:name":"Ban Phalan",
     "wof:parent_id":1092027837,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293665595
+    ],
     "wof:tags":[]
 },
   "bbox": [

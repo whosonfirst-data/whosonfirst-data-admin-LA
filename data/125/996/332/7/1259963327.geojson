@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1658144
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1952182
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"1cdc3b3a9298b7ef2c2d4fb125f88280",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1259963327,
-    "wof:lastmodified":1566593520,
+    "wof:lastmodified":1706240338,
     "wof:name":"Ban Xa",
     "wof:parent_id":1092028523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310388877
+    ],
     "wof:tags":[]
 },
   "bbox": [

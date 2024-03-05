@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1659436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1954584
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"7964e7b649eda7788c40a01c897b1b2e",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226314437,
-    "wof:lastmodified":1566593736,
+    "wof:lastmodified":1706240335,
     "wof:name":"Ban Xang",
     "wof:parent_id":1092027961,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344233339
+    ],
     "wof:tags":[]
 },
   "bbox": [

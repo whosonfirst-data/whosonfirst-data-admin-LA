@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Houei Cha Num",
+        "Pia Cha Num",
+        "Ban Houaychanum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1955105
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1653815
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"a0cc2178b762631e3a1e9b83d29d50c6",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1226105393,
-    "wof:lastmodified":1566593619,
+    "wof:lastmodified":1706240335,
     "wof:name":"Ban Houaychanum",
     "wof:parent_id":1092027913,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259842659
+    ],
     "wof:tags":[]
 },
   "bbox": [

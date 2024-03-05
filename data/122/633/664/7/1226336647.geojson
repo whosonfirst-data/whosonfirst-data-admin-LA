@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:lao_x_preferred":[
+        "Ban Naxiangdi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1953884
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953622
+        ]
     },
     "wof:country":"LA",
     "wof:geomhash":"a9b76800f62659e298b94f3654310460",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1226336647,
-    "wof:lastmodified":1566593640,
+    "wof:lastmodified":1706240335,
     "wof:name":"Ban Naxiangdi",
     "wof:parent_id":1092027657,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259480083
+    ],
     "wof:tags":[]
 },
   "bbox": [

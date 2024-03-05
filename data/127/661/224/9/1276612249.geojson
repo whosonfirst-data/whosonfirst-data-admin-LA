@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1655172
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1906954
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"aaff727a16d92d9f706038ff7a094966",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1276612249,
-    "wof:lastmodified":1566592839,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Meung",
     "wof:parent_id":1092030707,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327402759
+    ],
     "wof:tags":[]
 },
   "bbox": [

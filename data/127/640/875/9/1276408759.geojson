@@ -11,6 +11,7 @@
     "geom:longitude":100.56457,
     "gn:admin1_code":"22.0",
     "gn:asciiname":"Ban Namnge",
+    "gn:cc2":"LA",
     "gn:country_code":"LA",
     "gn:dem":429,
     "gn:feature_class":"P",
@@ -47,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1661363
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1907016
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"cbb6e2d36d98ca8303cebccb6bc3169e",
     "wof:hierarchy":[
@@ -59,13 +65,15 @@
         }
     ],
     "wof:id":1276408759,
-    "wof:lastmodified":1566592867,
+    "wof:lastmodified":1706240339,
     "wof:name":"Ban Namnge",
     "wof:parent_id":1092031167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276933193
+    ],
     "wof:tags":[]
 },
   "bbox": [

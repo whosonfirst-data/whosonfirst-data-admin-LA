@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1658132
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1953117
+        ]
+    },
     "wof:country":"LA",
     "wof:geomhash":"30e15fc6dfd4973bd10c8f6a71cb3bc4",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243155567,
-    "wof:lastmodified":1566593420,
+    "wof:lastmodified":1706240337,
     "wof:name":"Ban San",
     "wof:parent_id":1092027197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-la",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344228025
+    ],
     "wof:tags":[]
 },
   "bbox": [
